@@ -1,0 +1,454 @@
+**TNPSC Group 4 - Aptitude and Mental Ability**
+**Overall Topic: Percentage**
+
+---
+
+1. Convert 3/5 into a percentage.
+   3/5 ஐ சதவீதமாக மாற்றவும்.
+   a) 40%
+   b) 50%
+   c) 60%
+   d) 70%
+   Answer: c
+   விடை: இ
+
+2. Express 0.45 as a percentage.
+   0.45 ஐ சதவீதமாக வெளிப்படுத்தவும்.
+   a) 4.5%
+   b) 0.45%
+   c) 45%
+   d) 450%
+   Answer: c
+   விடை: இ
+
+3. What is 25% expressed as a fraction?
+   25% இன் பின்னம் என்ன?
+   a) 1/2
+   b) 1/3
+   c) 1/4
+   d) 1/5
+   Answer: c
+   விடை: இ
+
+4. What is 20% of 150?
+   150 இன் 20% என்ன?
+   a) 20
+   b) 30
+   c) 40
+   d) 50
+   Answer: b
+   விடை: ஆ
+
+5. 40 is what percent of 200?
+   40 என்பது 200 இல் எத்தனை சதவீதம்?
+   a) 10%
+   b) 20%
+   c) 25%
+   d) 30%
+   Answer: b
+   விடை: ஆ
+
+6. If a number is increased from 80 to 100, what is the percentage increase?
+   ஒரு எண் 80 லிருந்து 100 ஆக உயர்ந்தால், அதிகரிப்பு சதவீதம் என்ன?
+   a) 20%
+   b) 25%
+   c) 30%
+   d) 15%
+   Answer: b
+   விடை: ஆ
+
+7. A price of an item is decreased from Rs. 120 to Rs. 96. Find the percentage decrease.
+   ஒரு பொருளின் விலை ரூ. 120 லிருந்து ரூ. 96 ஆகக் குறைந்தது. குறைவின் சதவீதத்தைக் கண்டறியவும்.
+   a) 15%
+   b) 20%
+   c) 24%
+   d) 25%
+   Answer: b
+   விடை: ஆ
+
+8. In an exam, Ram scored 450 marks out of 500. What is his score in percentage?
+   ஒரு தேர்வில், ராம் 500 க்கு 450 மதிப்பெண்கள் பெற்றார். அவரது மதிப்பெண்ணை சதவீதத்தில் கூறுக.
+   a) 80%
+   b) 85%
+   c) 90%
+   d) 95%
+   Answer: c
+   விடை: இ
+
+9. Kumar's salary is Rs. 30,000. If it is increased by 10%, what is his new salary?
+   குமாரின் சம்பளம் ரூ. 30,000. அது 10% அதிகரித்தால், அவரது புதிய சம்பளம் என்ன?
+   a) Rs. 31,000
+   b) Rs. 32,000
+   c) Rs. 33,000
+   d) Rs. 35,000
+   Answer: c
+   விடை: இ
+
+10. The price of a machine is Rs. 10,000. Its value depreciates by 10% every year. What will be its value after 2 years?
+    ஒரு இயந்திரத்தின் விலை ரூ. 10,000. அதன் மதிப்பு ஒவ்வொரு ஆண்டும் 10% குறைகிறது. 2 ஆண்டுகளுக்குப் பிறகு அதன் மதிப்பு என்னவாக இருக்கும்?
+    a) Rs. 8000
+    b) Rs. 8100
+    c) Rs. 9000
+    d) Rs. 8200
+    Answer: b
+    விடை: ஆ
+
+11. What is 12.5% as a fraction?
+    12.5% இன் பின்னம் என்ன?
+    a) 1/8
+    b) 1/6
+    c) 1/4
+    d) 1/12
+    Answer: a
+    விடை: அ
+
+12. Convert 1/8 to percentage.
+    1/8 ஐ சதவீதமாக மாற்றவும்.
+    a) 12%
+    b) 12.5%
+    c) 8%
+    d) 16%
+    Answer: b
+    விடை: ஆ
+
+13. Express 75% as a decimal.
+    75% ஐ தசமமாக வெளிப்படுத்தவும்.
+    a) 7.5
+    b) 0.075
+    c) 0.75
+    d) 750
+    Answer: c
+    விடை: இ
+
+14. Find 5% of Rs. 1000.
+    ரூ. 1000 இல் 5% ஐக் கண்டறியவும்.
+    a) Rs. 5
+    b) Rs. 50
+    c) Rs. 500
+    d) Rs. 0.5
+    Answer: b
+    விடை: ஆ
+
+15. What is 150% of 60?
+    60 இன் 150% என்ன?
+    a) 30
+    b) 40
+    c) 90
+    d) 120
+    Answer: c
+    விடை: இ
+
+16. 30% of a number is 90. Find the number.
+    ஒரு எண்ணின் 30% என்பது 90 ஆகும். அந்த எண்ணைக் கண்டறியவும்.
+    a) 270
+    b) 30
+    c) 27
+    d) 300
+    Answer: d
+    விடை: ஈ
+
+17. If 15% of x is 45, then find x.
+    x இன் 15% என்பது 45 எனில், x ஐக் கண்டறியவும்.
+    a) 300
+    b) 200
+    c) 150
+    d) 450
+    Answer: a
+    விடை: அ
+
+18. 500 grams is what percentage of 2 kilograms?
+    500 கிராம் என்பது 2 கிலோகிராமில் எத்தனை சதவீதம்?
+    a) 20%
+    b) 25%
+    c) 30%
+    d) 50%
+    Answer: b
+    விடை: ஆ
+
+19. What percentage of 1 day is 6 hours?
+    1 நாளின் எத்தனை சதவீதம் 6 மணி நேரம்?
+    a) 20%
+    b) 25%
+    c) 30%
+    d) 10%
+    Answer: b
+    விடை: ஆ
+
+20. What percent is 1 minute 12 seconds of an hour?
+    ஒரு மணி நேரத்தில் 1 நிமிடம் 12 வினாடிகள் என்பது எத்தனை சதவீதம்?
+    a) 1%
+    b) 2%
+    c) 1.2%
+    d) 2.4%
+    Answer: b
+    விடை: ஆ
+
+21. 60 is 75% of which number?
+    60 என்பது எந்த எண்ணின் 75% ஆகும்?
+    a) 45
+    b) 75
+    c) 80
+    d) 100
+    Answer: c
+    விடை: இ
+
+22. A man's salary is increased by 20% to Rs. 24,000. What was his original salary?
+    ஒரு மனிதரின் சம்பளம் 20% அதிகரிக்கப்பட்டு ரூ. 24,000 ஆனது. அவரது அசல் சம்பளம் என்ன?
+    a) Rs. 20,000
+    b) Rs. 18,000
+    c) Rs. 22,000
+    d) Rs. 19,200
+    Answer: a
+    விடை: அ
+
+23. After a 15% discount, a shirt is sold for Rs. 510. What was the original price?
+    15% தள்ளுபடிக்குப் பிறகு, ஒரு சட்டை ரூ. 510 க்கு விற்கப்படுகிறது. அதன் அசல் விலை என்ன?
+    a) Rs. 550
+    b) Rs. 580
+    c) Rs. 600
+    d) Rs. 620
+    Answer: c
+    விடை: இ
+
+24. The population of a town increased from 50,000 to 55,000. Find the percentage increase.
+    ஒரு நகரத்தின் மக்கள் தொகை 50,000 லிருந்து 55,000 ஆக அதிகரித்துள்ளது. சதவீத அதிகரிப்பைக் கண்டறியவும்.
+    a) 5%
+    b) 10%
+    c) 11%
+    d) 15%
+    Answer: b
+    விடை: ஆ
+
+25. By what percent is 2000 less than 2500?
+    2000 என்பது 2500 ஐ விட எத்தனை சதவீதம் குறைவு?
+    a) 20%
+    b) 25%
+    c) 15%
+    d) 50%
+    Answer: a
+    விடை: அ
+
+26. If A's income is 25% more than B's income, then by what percent is B's income less than A's?
+    A இன் வருமானம் B இன் வருமானத்தை விட 25% அதிகம் எனில், B இன் வருமானம் A இன் வருமானத்தை விட எத்தனை சதவீதம் குறைவு?
+    a) 25%
+    b) 20%
+    c) 30%
+    d) 15%
+    Answer: b
+    விடை: ஆ
+
+27. The price of sugar is increased by 25%. By what percent must a household reduce its consumption so as not to increase its expenditure?
+    சர்க்கரையின் விலை 25% அதிகரிக்கிறது. ஒரு குடும்பம் தனது செலவை அதிகரிக்காமல் இருக்க, அதன் நுகர்வை எத்தனை சதவீதம் குறைக்க வேண்டும்?
+    a) 25%
+    b) 20%
+    c) 15%
+    d) 30%
+    Answer: b
+    விடை: ஆ
+
+28. In a class of 50 students, 40 are boys. What is the percentage of girls?
+    50 மாணவர்கள் உள்ள ஒரு வகுப்பில், 40 பேர் சிறுவர்கள். சிறுமிகளின் சதவீதம் என்ன?
+    a) 10%
+    b) 20%
+    c) 40%
+    d) 80%
+    Answer: b
+    விடை: ஆ
+
+29. A number is first increased by 20% and then decreased by 10%. Find the net percentage change.
+    ஒரு எண் முதலில் 20% அதிகரிக்கப்பட்டு பின்னர் 10% குறைக்கப்படுகிறது. நிகர சதவீத மாற்றத்தைக் கண்டறியவும்.
+    a) 10% increase
+    b) 10% decrease
+    c) 8% increase
+    d) 8% decrease
+    Answer: c
+    விடை: இ
+
+30. The price of a TV is first increased by 30% and then decreased by 20%. What is the net percentage change in the price?
+    ஒரு டிவியின் விலை முதலில் 30% அதிகரிக்கப்பட்டு பின்னர் 20% குறைக்கப்படுகிறது. விலையில் ஏற்படும் நிகர சதவீத மாற்றம் என்ன?
+    a) 10% increase
+    b) 4% increase
+    c) 10% decrease
+    d) 4% decrease
+    Answer: b
+    விடை: ஆ
+
+31. The length of a rectangle is increased by 10% and its breadth is decreased by 10%. What is the change in its area?
+    ஒரு செவ்வகத்தின் நீளம் 10% அதிகரிக்கப்பட்டு அதன் அகலம் 10% குறைக்கப்படுகிறது. அதன் பரப்பளவில் ஏற்படும் மாற்றம் என்ன?
+    a) 1% increase
+    b) 1% decrease
+    c) No change
+    d) 2% decrease
+    Answer: b
+    விடை: ஆ
+
+32. In an examination, 35% of the students passed and 390 students failed. The total number of students who appeared for the examination was:
+    ஒரு தேர்வில், 35% மாணவர்கள் தேர்ச்சி பெற்றனர் மற்றும் 390 மாணவர்கள் தேர்ச்சி பெறவில்லை. தேர்வெழுதிய மொத்த மாணவர்களின் எண்ணிக்கை:
+    a) 500
+    b) 550
+    c) 600
+    d) 650
+    Answer: c
+    விடை: இ
+
+33. A fruit seller had some apples. He sells 40% of the apples and still has 420 apples. Originally, he had:
+    ஒரு பழ வியாபாரியிடம் சில ஆப்பிள்கள் இருந்தன. அவர் 40% ஆப்பிள்களை விற்றுவிட்டார், இன்னும் அவரிடம் 420 ஆப்பிள்கள் உள்ளன. முதலில், அவரிடம் இருந்தது:
+    a) 588 apples
+    b) 600 apples
+    c) 672 apples
+    d) 700 apples
+    Answer: d
+    விடை: ஈ
+
+34. A student has to score 40% marks to pass. He gets 178 marks and fails by 22 marks. The maximum marks are:
+    ஒரு மாணவர் தேர்ச்சி பெற 40% மதிப்பெண்கள் பெற வேண்டும். அவர் 178 மதிப்பெண்கள் பெற்று 22 மதிப்பெண்களில் தேர்ச்சி பெறவில்லை. அதிகபட்ச மதிப்பெண்கள்:
+    a) 400
+    b) 450
+    c) 500
+    d) 550
+    Answer: c
+    விடை: இ
+
+35. If the price of petrol increases by 25% and a person wants to spend only 15% more on petrol, by what percentage should he reduce the quantity of petrol purchased?
+    பெட்ரோல் விலை 25% அதிகரித்தால், ஒரு நபர் பெட்ரோலுக்காக 15% மட்டுமே அதிகமாக செலவழிக்க விரும்பினால், அவர் வாங்கும் பெட்ரோலின் அளவை எத்தனை சதவீதம் குறைக்க வேண்டும்?
+    a) 8%
+    b) 10%
+    c) 12%
+    d) 15%
+    Answer: a
+    விடை: அ
+
+36. The population of a village decreases at the rate of 5% per annum. If its present population is 18050, what was it 2 years ago?
+    ஒரு கிராமத்தின் மக்கள் தொகை ஆண்டுக்கு 5% என்ற விகிதத்தில் குறைகிறது. அதன் தற்போதைய மக்கள் தொகை 18050 எனில், 2 ஆண்டுகளுக்கு முன்பு என்னவாக இருந்தது?
+    a) 20000
+    b) 19000
+    c) 21000
+    d) 19500
+    Answer: a
+    விடை: அ
+
+37. What is 0.05% of 200?
+    200 இன் 0.05% என்ன?
+    a) 0.1
+    b) 1
+    c) 10
+    d) 0.01
+    Answer: a
+    விடை: அ
+
+38. If 20% of (P+Q) = 50% of (P-Q), then find P:Q.
+    (P+Q) இன் 20% = (P-Q) இன் 50% எனில், P:Q ஐக் கண்டறியவும்.
+    a) 5:2
+    b) 2:5
+    c) 7:3
+    d) 3:7
+    Answer: c
+    விடை: இ
+
+39. A number exceeds 20% of itself by 40. The number is:
+    ஒரு எண் அதன் 20% ஐ விட 40 அதிகம். அந்த எண்:
+    a) 50
+    b) 60
+    c) 80
+    d) 48
+    Answer: a
+    விடை: அ
+
+40. In an election between two candidates, the one who gets 60% of the total votes polled is elected by a majority of 1400 votes. Find the total votes polled.
+    இரு வேட்பாளர்களுக்கு இடையேயான தேர்தலில், மொத்த வாக்குகளில் 60% பெற்றவர் 1400 வாக்குகள் வித்தியாசத்தில் வெற்றி பெறுகிறார். பதிவான மொத்த வாக்குகளைக் கண்டறியவும்.
+    a) 5000
+    b) 6000
+    c) 7000
+    d) 8000
+    Answer: c
+    விடை: இ
+
+41. A person saves 15% of his income. If his expenditure is Rs. 3400, what is his income?
+    ஒருவர் தனது வருமானத்தில் 15% சேமிக்கிறார். அவரது செலவு ரூ. 3400 எனில், அவரது வருமானம் என்ன?
+    a) Rs. 3800
+    b) Rs. 4000
+    c) Rs. 4200
+    d) Rs. 4400
+    Answer: b
+    விடை: ஆ
+
+42. In a school, 70% of the students are boys. If the number of girls is 240, find the number of boys.
+    ஒரு பள்ளியில், 70% மாணவர்கள் சிறுவர்கள். சிறுமிகளின் எண்ணிக்கை 240 எனில், சிறுவர்களின் எண்ணிக்கையைக் கண்டறியவும்.
+    a) 560
+    b) 520
+    c) 600
+    d) 480
+    Answer: a
+    விடை: அ
+
+43. A's salary is 50% higher than B's. By what percent is B's salary lower than A's?
+    A இன் சம்பளம் B ஐ விட 50% அதிகம். B இன் சம்பளம் A ஐ விட எத்தனை சதவீதம் குறைவு?
+    a) 50%
+    b) 40%
+    c) 33.33%
+    d) 25%
+    Answer: c
+    விடை: இ
+
+44. Two numbers are respectively 20% and 50% more than a third number. What percentage is the first number of the second?
+    இரண்டு எண்கள் மூன்றாவது எண்ணை விட முறையே 20% மற்றும் 50% அதிகம். முதல் எண் இரண்டாவது எண்ணில் எத்தனை சதவீதம்?
+    a) 60%
+    b) 70%
+    c) 80%
+    d) 90%
+    Answer: c
+    விடை: இ
+
+45. In an examination, 93% of students passed and 259 students failed. The total number of students appearing at the examination was:
+    ஒரு தேர்வில், 93% மாணவர்கள் தேர்ச்சி பெற்றனர் மற்றும் 259 மாணவர்கள் தோல்வியுற்றனர். தேர்வில் கலந்து கொண்ட மொத்த மாணவர்களின் எண்ணிக்கை:
+    a) 3700
+    b) 3800
+    c) 3950
+    d) 4200
+    Answer: a
+    விடை: அ
+
+46. In an election between two candidates, one candidate got 55% of the total valid votes. 20% of the votes were invalid. If the total number of votes was 7500, what is the number of valid votes the other candidate got?
+    இரு வேட்பாளர்களுக்கு இடையேயான தேர்தலில், ஒரு வேட்பாளர் மொத்த செல்லுபடியாகும் வாக்குகளில் 55% பெற்றார். 20% வாக்குகள் செல்லாதவை. மொத்த வாக்குகளின் எண்ணிக்கை 7500 எனில், மற்றொரு வேட்பாளர் பெற்ற செல்லுபடியாகும் வாக்குகளின் எண்ணிக்கை என்ன?
+    a) 2500
+    b) 2700
+    c) 2900
+    d) 3000
+    Answer: b
+    விடை: ஆ
+
+47. A man spends 75% of his income. His income is increased by 20% and he increased his expenditure by 10%. Find the percentage increase in his savings.
+    ஒரு மனிதர் தனது வருமானத்தில் 75% செலவு செய்கிறார். அவரது வருமானம் 20% அதிகரிக்கிறது மற்றும் அவர் தனது செலவை 10% அதிகரிக்கிறார். அவரது சேமிப்பில் ஏற்படும் சதவீத அதிகரிப்பைக் கண்டறியவும்.
+    a) 40%
+    b) 45%
+    c) 50%
+    d) 60%
+    Answer: c
+    விடை: இ
+
+48. If the radius of a circle is increased by 50%, find the percentage increase in its area.
+    ஒரு வட்டத்தின் ஆரம் 50% அதிகரிக்கப்பட்டால், அதன் பரப்பளவில் ஏற்படும் சதவீத அதிகரிப்பைக் கண்டறியவும்.
+    a) 100%
+    b) 125%
+    c) 150%
+    d) 75%
+    Answer: b
+    விடை: ஆ
+
+49. 65% of a number is 21 less than 4/5th of that number. Find the number.
+    ஒரு எண்ணின் 65% என்பது அந்த எண்ணின் 4/5 பங்கை விட 21 குறைவு. அந்த எண்ணைக் கண்டறியவும்.
+    a) 100
+    b) 120
+    c) 140
+    d) 150
+    Answer: c
+    விடை: இ
+
+50. In a mixture of 60 litres, the milk and water are in the ratio 2:1. What percentage of the mixture is milk?
+    60 லிட்டர் கலவையில், பால் மற்றும் தண்ணீர் 2:1 என்ற விகிதத்தில் உள்ளன. கலவையில் பாலின் சதவீதம் என்ன?
+    a) 33.33%
+    b) 50%
+    c) 66.66%
+    d) 75%
+    Answer: c
+    விடை: இ

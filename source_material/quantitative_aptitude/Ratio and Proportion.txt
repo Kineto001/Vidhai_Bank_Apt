@@ -1,0 +1,454 @@
+TNPSC Group 4 - Ratio and Proportion MCQs (Aptitude and Mental Ability)
+டி.என்.பி.எஸ்.சி குரூப் 4 - விகிதம் மற்றும் விகிதாசாரம் MCQs (திறனாய்வு மற்றும் மனக்கணக்கு)
+
+---
+
+1. If A:B = 5:9 and B:C = 4:7, find A:B:C.
+A:B = 5:9 மற்றும் B:C = 4:7 எனில், A:B:C ஐக் காண்க.
+a) 20:36:63
+b) 20:35:60
+c) 15:30:63
+d) 20:36:60
+Answer: a
+விடை: அ
+
+2. The ratio of 4^3.5 : 2^5 is the same as:
+4^3.5 : 2^5 என்ற விகிதம் பின்வருவனவற்றுள் எதற்கு சமம்?
+a) 4:1
+b) 2:1
+c) 7:5
+d) 7:10
+Answer: a
+விடை: அ
+
+3. If x:y = 3:4, find the value of (4x + 5y) : (5x - 2y).
+x:y = 3:4 எனில், (4x + 5y) : (5x - 2y) இன் மதிப்பைக் காண்க.
+a) 32:7
+b) 30:7
+c) 22:7
+d) 7:32
+Answer: a
+விடை: அ
+
+4. A sum of ₹1200 is divided among A, B, and C in the ratio 2:3:5. What is B's share?
+₹1200 தொகையானது A, B, மற்றும் C க்கு 2:3:5 என்ற விகிதத்தில் பிரிக்கப்படுகிறது. B-இன் பங்கு என்ன?
+a) ₹240
+b) ₹400
+c) ₹360
+d) ₹600
+Answer: c
+விடை: இ
+
+5. Find the fourth proportional to 5, 8, 15.
+5, 8, 15 ஆகியவற்றின் நான்காவது விகித எண்ணைக் கண்டறியவும்.
+a) 18
+b) 24
+c) 19
+d) 20
+Answer: b
+விடை: ஆ
+
+6. What is the third proportional to 16 and 36?
+16 மற்றும் 36 இன் மூன்றாவது விகித எண் என்ன?
+a) 64
+b) 72
+c) 81
+d) 100
+Answer: c
+விடை: இ
+
+7. The ratio of two numbers is 3:8 and their difference is 115. The smaller of the two numbers is:
+இரண்டு எண்களின் விகிதம் 3:8 மற்றும் அவற்றின் வேறுபாடு 115. அந்த இரண்டு எண்களில் சிறிய எண் எது?
+a) 69
+b) 184
+c) 115
+d) 59
+Answer: a
+விடை: அ
+
+8. The salaries of A, B, and C are in the ratio 2:3:5. If the increments of 15%, 10% and 20% are allowed respectively in their salaries, then what will be the new ratio of their salaries?
+A, B, மற்றும் C ஆகியோரின் சம்பள விகிதம் 2:3:5. அவர்களின் சம்பளத்தில் முறையே 15%, 10% மற்றும் 20% உயர்வு அளிக்கப்பட்டால், அவர்களின் புதிய சம்பள விகிதம் என்னவாக இருக்கும்?
+a) 3:3:10
+b) 10:11:20
+c) 23:33:60
+d) 21:33:55
+Answer: c
+விடை: இ
+
+9. Two numbers are in the ratio 1:2. If 7 is added to both, their ratio changes to 3:5. The greatest number is:
+இரண்டு எண்கள் 1:2 என்ற விகிதத்தில் உள்ளன. இரண்டிலும் 7ஐக் கூட்டினால், அவற்றின் விகிதம் 3:5 ஆக மாறுகிறது. பெரிய எண் எது?
+a) 24
+b) 26
+c) 28
+d) 30
+Answer: c
+விடை: இ
+
+10. The mean proportional between 25 and 81 is:
+25 மற்றும் 81 இன் சராசரி விகித எண்:
+a) 40
+b) 50
+c) 45
+d) 55
+Answer: c
+விடை: இ
+
+11. If 15% of A is equal to 20% of B, then what is the ratio of A to B?
+A-இன் 15% மதிப்பானது B-இன் 20% மதிப்பிற்கு சமம் எனில், A மற்றும் B-இன் விகிதம் என்ன?
+a) 3:4
+b) 4:3
+c) 15:20
+d) 20:15
+Answer: b
+விடை: ஆ
+
+12. The ratio of boys to girls in a school is 4:5. If the number of boys is 200, then the number of girls is:
+ஒரு பள்ளியில் சிறுவர்கள் மற்றும் சிறுமிகளின் விகிதம் 4:5. சிறுவர்களின் எண்ணிக்கை 200 எனில், சிறுமிகளின் எண்ணிக்கை என்ன?
+a) 250
+b) 220
+c) 300
+d) 160
+Answer: a
+விடை: அ
+
+13. The angles of a triangle are in the ratio 1:2:3. What is the measure of the largest angle?
+ஒரு முக்கோணத்தின் கோணங்கள் 1:2:3 என்ற விகிதத்தில் உள்ளன. மிகப்பெரிய கோணத்தின் அளவு என்ன?
+a) 60°
+b) 90°
+c) 30°
+d) 120°
+Answer: b
+விடை: ஆ
+
+14. A bag contains 50p, 25p and 10p coins in the ratio 5:9:4, amounting to ₹206. Find the number of 50p coins.
+ஒரு பையில் 50 பைசா, 25 பைசா மற்றும் 10 பைசா நாணயங்கள் 5:9:4 என்ற விகிதத்தில் உள்ளன, அதன் மொத்த மதிப்பு ₹206. 50 பைசா நாணயங்களின் எண்ணிக்கையைக் கண்டறியவும்.
+a) 200
+b) 180
+c) 80
+d) 150
+Answer: a
+விடை: அ
+
+15. If a:b = 2:3, b:c = 4:1, and c:d = 2:5, then a:d is equal to:
+a:b = 2:3, b:c = 4:1, மற்றும் c:d = 2:5 எனில், a:d என்பதற்கு சமமானது:
+a) 8:15
+b) 16:15
+c) 4:15
+d) 16:25
+Answer: b
+விடை: ஆ
+
+16. The ratio of the present ages of a father and his son is 7:2. After 10 years, their ages will be in the ratio 9:4. The present age of the father is:
+ஒரு தந்தை மற்றும் அவரது மகனின் தற்போதைய வயது விகிதம் 7:2. 10 ஆண்டுகளுக்குப் பிறகு, அவர்களின் வயது விகிதம் 9:4 ஆக இருக்கும். தந்தையின் தற்போதைய வயது:
+a) 35 years
+b) 40 years
+c) 30 years
+d) 25 years
+Answer: a
+விடை: அ
+
+17. In a mixture of 60 litres, the ratio of milk and water is 2:1. If this ratio is to be 1:2, then the quantity of water to be further added is:
+60 லிட்டர் கலவையில், பால் மற்றும் நீரின் விகிதம் 2:1. இந்த விகிதத்தை 1:2 ஆக மாற்ற, மேலும் சேர்க்கப்பட வேண்டிய நீரின் அளவு:
+a) 20 litres
+b) 30 litres
+c) 40 litres
+d) 60 litres
+Answer: d
+விடை: ஈ
+
+18. If 2A = 3B = 4C, then A:B:C is:
+2A = 3B = 4C எனில், A:B:C என்பது:
+a) 2:3:4
+b) 4:3:2
+c) 6:4:3
+d) 3:4:6
+Answer: c
+விடை: இ
+
+19. The ratio of two numbers is 3:4. Their HCF is 4. Their LCM is:
+இரண்டு எண்களின் விகிதம் 3:4. அவற்றின் மீ.பொ.வ 4. அவற்றின் மீ.சி.ம:
+a) 12
+b) 16
+c) 24
+d) 48
+Answer: d
+விடை: ஈ
+
+20. If ₹782 be divided into three parts, proportional to 1/2 : 2/3 : 3/4, then the first part is:
+₹782 ஐ 1/2 : 2/3 : 3/4 என்ற விகிதத்தில் மூன்று பகுதிகளாகப் பிரித்தால், முதல் பகுதி:
+a) ₹182
+b) ₹190
+c) ₹196
+d) ₹204
+Answer: d
+விடை: ஈ
+
+21. The incomes of A and B are in the ratio 3:2 and their expenditures are in the ratio 5:3. If each saves ₹1000, then A's income is:
+A மற்றும் B இன் வருமான விகிதம் 3:2 மற்றும் அவர்களின் செலவுகள் 5:3 என்ற விகிதத்தில் உள்ளன. ஒவ்வொருவரும் ₹1000 சேமித்தால், A-இன் வருமானம்:
+a) ₹3000
+b) ₹4000
+c) ₹6000
+d) ₹9000
+Answer: c
+விடை: இ
+
+22. The ratio of 3 km to 300 m is:
+3 கி.மீ க்கும் 300 மீ க்கும் உள்ள விகிதம்:
+a) 10:1
+b) 1:10
+c) 1:100
+d) 100:1
+Answer: a
+விடை: அ
+
+23. If P:Q = 8:15 and Q:R = 5:8, then P:R is:
+P:Q = 8:15 மற்றும் Q:R = 5:8 எனில், P:R என்பது:
+a) 1:2
+b) 2:3
+c) 3:1
+d) 1:3
+Answer: d
+விடை: ஈ
+
+24. A and B together have ₹1210. If 4/15 of A's amount is equal to 2/5 of B's amount, how much amount does B have?
+A மற்றும் Bயிடம் சேர்ந்து ₹1210 உள்ளது. A-இன் தொகையில் 4/15 பங்கு, B-இன் தொகையில் 2/5 பங்கிற்கு சமம் எனில், Bயிடம் எவ்வளவு தொகை உள்ளது?
+a) ₹460
+b) ₹484
+c) ₹550
+d) ₹664
+Answer: b
+விடை: ஆ
+
+25. The ratio of copper and zinc in brass is 13:7. How much zinc will be there in 100 kg of brass?
+பித்தளையில் தாமிரம் மற்றும் துத்தநாகத்தின் விகிதம் 13:7. 100 கிலோ பித்தளையில் எவ்வளவு துத்தநாகம் இருக்கும்?
+a) 20 kg
+b) 35 kg
+c) 55 kg
+d) 65 kg
+Answer: b
+விடை: ஆ
+
+26. The ratio of marks obtained by Vinod and Basu is 6:5. If the combined average of their percentage is 68.75 and their sum of the marks is 275, find the total marks for which the exam was conducted.
+வினோத் மற்றும் பாசு பெற்ற மதிப்பெண்களின் விகிதம் 6:5. அவர்களின் சதவீதங்களின் கூட்டு சராசரி 68.75 மற்றும் அவர்களின் மதிப்பெண்களின் கூட்டுத்தொகை 275 எனில், தேர்வு நடத்தப்பட்ட மொத்த மதிப்பெண்களைக் கண்டறியவும்.
+a) 150
+b) 200
+c) 400
+d) 250
+Answer: b
+விடை: ஆ
+
+27. If (a+b):(a-b) = 5:3, then (a² + b²):(a² - b²) is:
+(a+b):(a-b) = 5:3 எனில், (a² + b²):(a² - b²) என்பது:
+a) 17:15
+b) 25:9
+c) 4:1
+d) 15:17
+Answer: a
+விடை: அ
+
+28. The sum of three numbers is 98. If the ratio of the first to the second is 2:3 and that of the second to the third is 5:8, then the second number is:
+மூன்று எண்களின் கூட்டுத்தொகை 98. முதல் எண்ணிற்கும் இரண்டாம் எண்ணிற்கும் உள்ள விகிதம் 2:3 மற்றும் இரண்டாம் எண்ணிற்கும் மூன்றாம் எண்ணிற்கும் உள்ள விகிதம் 5:8 எனில், இரண்டாம் எண்:
+a) 20
+b) 30
+c) 48
+d) 58
+Answer: b
+விடை: ஆ
+
+29. An amount is to be divided between P, Q and R in the ratio of 3:5:7 respectively. If the difference between P's and Q's share is ₹3200, what is R's share?
+ஒரு தொகையை P, Q மற்றும் R இடையே முறையே 3:5:7 என்ற விகிதத்தில் பிரிக்க வேண்டும். P மற்றும் Q-இன் பங்குக்கு இடையிலான வேறுபாடு ₹3200 எனில், R-இன் பங்கு என்ன?
+a) ₹11200
+b) ₹10800
+c) ₹12200
+d) ₹12800
+Answer: a
+விடை: அ
+
+30. The speeds of three cars are in the ratio 2:3:4. The ratio of the times taken by these cars to travel the same distance is:
+மூன்று கார்களின் வேக விகிதம் 2:3:4. இந்த கார்கள் ஒரே தூரத்தை கடக்க எடுத்துக்கொள்ளும் நேரங்களின் விகிதம்:
+a) 2:3:4
+b) 4:3:2
+c) 4:3:6
+d) 6:4:3
+Answer: d
+விடை: ஈ
+
+31. If A is 1/3 of B and B is 1/2 of C, then A:B:C is:
+A என்பது B-இன் 1/3 பங்காகவும், B என்பது C-இன் 1/2 பங்காகவும் இருந்தால், A:B:C என்பது:
+a) 1:3:6
+b) 2:3:6
+c) 3:2:6
+d) 3:1:2
+Answer: a
+விடை: அ
+
+32. The duplicate ratio of 3:4 is:
+3:4 இன் இருபடி விகிதம் (duplicate ratio):
+a) 4:3
+b) 6:8
+c) 9:16
+d) 27:64
+Answer: c
+விடை: இ
+
+33. The triplicate ratio of 2:3 is:
+2:3 இன் முப்படி விகிதம் (triplicate ratio):
+a) 4:9
+b) 8:27
+c) 6:9
+d) 3:2
+Answer: b
+விடை: ஆ
+
+34. The sub-duplicate ratio of 49:64 is:
+49:64 இன் இருபடி மூல விகிதம் (sub-duplicate ratio):
+a) 7:8
+b) 8:7
+c) 24.5:32
+d) 98:128
+Answer: a
+விடை: அ
+
+35. The sub-triplicate ratio of 125:216 is:
+125:216 இன் முப்படி மூல விகிதம் (sub-triplicate ratio):
+a) 25:36
+b) 6:5
+c) 5:6
+d) 15:16
+Answer: c
+விடை: இ
+
+36. In a school of 1500 students, 40% are girls. The ratio of boys to girls is:
+1500 மாணவர்கள் உள்ள ஒரு பள்ளியில், 40% பேர் சிறுமிகள். சிறுவர்களுக்கும் சிறுமிகளுக்கும் உள்ள விகிதம்:
+a) 2:3
+b) 3:2
+c) 3:5
+d) 5:3
+Answer: b
+விடை: ஆ
+
+37. If 30% of (x-y) = 20% of (x+y), then what is the ratio of x to y?
+(x-y)-இன் 30% = (x+y)-இன் 20% எனில், x மற்றும் y-இன் விகிதம் என்ன?
+a) 1:5
+b) 5:1
+c) 2:3
+d) 3:2
+Answer: b
+விடை: ஆ
+
+38. The ratio of the number of men to the number of women in a committee of 20 members is 3:2. How many women are there in the committee?
+20 உறுப்பினர்கள் கொண்ட ஒரு குழுவில் ஆண்கள் மற்றும் பெண்களின் எண்ணிக்கை விகிதம் 3:2. குழுவில் எத்தனை பெண்கள் உள்ளனர்?
+a) 8
+b) 12
+c) 10
+d) 6
+Answer: a
+விடை: அ
+
+39. The prices of a scooter and a television are in the ratio 3:2. If the scooter costs ₹6000 more than the television, the price of the television is:
+ஒரு ஸ்கூட்டர் மற்றும் ஒரு தொலைக்காட்சியின் விலை விகிதம் 3:2. ஸ்கூட்டரின் விலை தொலைக்காட்சியின் விலையை விட ₹6000 அதிகம் எனில், தொலைக்காட்சியின் விலை:
+a) ₹18000
+b) ₹12000
+c) ₹10000
+d) ₹6000
+Answer: b
+விடை: ஆ
+
+40. If A:B = 1/2 : 1/3 and B:C = 1/5 : 1/3, then (A+B) : (B+C) is equal to:
+A:B = 1/2 : 1/3 மற்றும் B:C = 1/5 : 1/3 எனில், (A+B) : (B+C) க்கு சமமானது:
+a) 15:16
+b) 5:8
+c) 9:10
+d) 6:5
+Answer: a
+விடை: அ
+
+41. In what ratio must a grocer mix two varieties of tea worth ₹60 a kg and ₹65 a kg so that by selling the mixture at ₹68.20 a kg he may gain 10%?
+ஒரு கிலோ ₹60 மற்றும் ₹65 மதிப்புள்ள இரண்டு வகை தேயிலைகளை ஒரு மளிகைக்காரர் எந்த விகிதத்தில் கலக்க வேண்டும், அதனால் கலவையை ஒரு கிலோ ₹68.20க்கு விற்கும் போது அவருக்கு 10% லாபம் கிடைக்கும்?
+a) 3:2
+b) 3:4
+c) 3:5
+d) 4:5
+Answer: a
+விடை: அ
+
+42. The ratio of land to water for the whole earth is 1:2. In the northern hemisphere, the ratio is 2:3. What is the ratio of land to water in the southern hemisphere?
+முழு பூமிக்கும் நிலம் மற்றும் நீரின் விகிதம் 1:2. வடக்கு அரைக்கோளத்தில், இந்த விகிதம் 2:3. தெற்கு அரைக்கோளத்தில் நிலம் மற்றும் நீரின் விகிதம் என்ன?
+a) 4:11
+b) 1:4
+c) 4:7
+d) 11:4
+Answer: a
+விடை: அ
+
+43. If 40% of a number is equal to two-third of another number, what is the ratio of the first number to the second number?
+ஒரு எண்ணின் 40% மற்றொரு எண்ணின் மூன்றில் இரண்டு பங்கிற்கு சமம் எனில், முதல் எண்ணிற்கும் இரண்டாம் எண்ணிற்கும் உள்ள விகிதம் என்ன?
+a) 2:5
+b) 3:7
+c) 5:3
+d) 7:3
+Answer: c
+விடை: இ
+
+44. The ratio of milk and water in a 45-litre mixture is 4:1. How much water must be added to make the mixture ratio 3:2?
+45 லிட்டர் கலவையில் பால் மற்றும் நீரின் விகிதம் 4:1. இந்த கலவையின் விகிதத்தை 3:2 ஆக மாற்ற எவ்வளவு தண்ணீர் சேர்க்க வேண்டும்?
+a) 5 litres
+b) 10 litres
+c) 15 litres
+d) 20 litres
+Answer: c
+விடை: இ
+
+45. Two numbers are in the ratio 5:7. If 9 is subtracted from each of them, their ratio becomes 7:11. The difference of the numbers is:
+இரண்டு எண்கள் 5:7 என்ற விகிதத்தில் உள்ளன. ஒவ்வொன்றிலிருந்தும் 9 ஐக் கழித்தால், அவற்றின் விகிதம் 7:11 ஆகிறது. எண்களின் வேறுபாடு:
+a) 6
+b) 12
+c) 15
+d) 18
+Answer: b
+விடை: ஆ
+
+46. The sides of a triangle are in the ratio 1/2 : 1/3 : 1/4 and its perimeter is 104 cm. The length of the longest side is:
+ஒரு முக்கோணத்தின் பக்கங்கள் 1/2 : 1/3 : 1/4 என்ற விகிதத்தில் உள்ளன மற்றும் அதன் சுற்றளவு 104 செ.மீ. நீளமான பக்கத்தின் நீளம்:
+a) 52 cm
+b) 48 cm
+c) 32 cm
+d) 26 cm
+Answer: b
+விடை: ஆ
+
+47. A sum of money is to be distributed among A, B, C, D in the proportion of 5:2:4:3. If C gets ₹1000 more than D, what is B's share?
+ஒரு தொகை A, B, C, D ஆகியோருக்கு 5:2:4:3 என்ற விகிதத்தில் விநியோகிக்கப்பட வேண்டும். C-க்கு D-ஐ விட ₹1000 அதிகம் கிடைத்தால், B-இன் பங்கு என்ன?
+a) ₹500
+b) ₹1500
+c) ₹2000
+d) None of these / இவற்றுள் ஏதுமில்லை
+Answer: c
+விடை: இ
+
+48. If x:y = 5:2, then (8x + 9y) : (8x + 2y) is:
+x:y = 5:2 எனில், (8x + 9y) : (8x + 2y) என்பது:
+a) 22:29
+b) 26:61
+c) 29:22
+d) 61:26
+Answer: c
+விடை: இ
+
+49. What must be added to each term of the ratio 7:13 so that the ratio becomes 2:3?
+7:13 என்ற விகிதத்தின் ஒவ்வொரு உறுப்புடனும் எதைச் சேர்த்தால், விகிதம் 2:3 ஆக மாறும்?
+a) 1
+b) 2
+c) 3
+d) 5
+Answer: d
+விடை: ஈ
+
+50. The ratio of the ages of two boys is 5:6. After two years, the ratio will be 7:8. The ratio of their ages after 12 years will be:
+இரண்டு சிறுவர்களின் வயது விகிதம் 5:6. இரண்டு ஆண்டுகளுக்குப் பிறகு, விகிதம் 7:8 ஆக இருக்கும். 12 ஆண்டுகளுக்குப் பிறகு அவர்களின் வயது விகிதம் என்னவாக இருக்கும்?
+a) 15:16
+b) 17:18
+c) 11:12
+d) 22:24
+Answer: b
+விடை: ஆ

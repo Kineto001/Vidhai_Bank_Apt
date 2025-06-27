@@ -1,0 +1,352 @@
+Permutation and Combination MCQs for SBI PO/Clerk - Difficult Level
+
+1. In how many different ways can the letters of the word 'JUDGEMENT' be arranged so that the vowels never come together?
+a) 30240
+b) 272160
+c) 241920
+d) 4320
+Answer: c
+---
+2. A committee of 5 is to be formed from 8 men and 6 women. What is the number of ways of forming the committee if it must have a majority of women?
+a) 640
+b) 460
+c) 456
+d) 524
+Answer: c
+---
+3. How many 5-digit numbers can be formed using the digits 0, 1, 2, 3, 4, and 5, which are divisible by 3, without repeating any digit?
+a) 216
+b) 240
+c) 96
+d) 120
+Answer: a
+---
+4. There are 6 gentlemen and 5 ladies to dine at a round table. In how many ways can they seat themselves so that no two ladies are together?
+a) 5! * 5!
+b) 5! * 6P5
+c) 6! * 5!
+d) 11! / 2
+Answer: b
+---
+5. A box contains 5 different red balls, 4 different blue balls, and 3 different green balls. In how many ways can 3 balls be drawn from the box such that at least one of them is blue?
+a) 164
+b) 160
+c) 154
+d) 156
+Answer: c
+---
+6. How many words can be formed by rearranging the letters of the word 'CALCULATOR' such that the vowels always appear together?
+a) 7! / 2!
+b) (8! * 4!) / (2! * 2! * 2!)
+c) 8! / (2! * 2!)
+d) (7! * 4!) / (2! * 2!)
+Answer: c
+---
+7. Find the number of ways in which 5 distinct books on Chemistry and 3 distinct books on Physics can be arranged on a shelf, such that no two Physics books are together.
+a) 14400
+b) 7200
+c) 2880
+d) 36000
+Answer: a
+---
+8. In a group of 6 boys and 4 girls, a committee of 4 members is to be formed. In how many ways can this be done if the committee has at least one girl?
+a) 195
+b) 210
+c) 205
+d) 199
+Answer: d
+---
+9. How many 6-digit numbers can be formed from the digits 1, 2, 3, 4, 5, 6, 7 (no digit being repeated) such that the number is divisible by 4?
+a) 540
+b) 600
+c) 720
+d) 480
+Answer: b
+---
+10. From a group of 7 men and 6 women, five persons are to be selected to form a committee so that at least 3 men are there on the committee. In how many ways can it be done?
+a) 756
+b) 567
+c) 657
+d) 735
+Answer: a
+---
+11. What is the rank of the word 'MOTHER' if all letters are arranged as in a dictionary?
+a) 309
+b) 307
+c) 308
+d) 310
+Answer: a
+---
+12. There are 12 points in a plane, of which 5 are collinear. Find the number of triangles that can be formed with vertices from these points.
+a) 210
+b) 220
+c) 200
+d) 215
+Answer: a
+---
+13. A student has to answer 10 questions, choosing at least 4 from each of Part A and Part B. If there are 6 questions in Part A and 7 in Part B, in how many ways can the student choose 10 questions?
+a) 266
+b) 252
+c) 276
+d) 302
+Answer: a
+---
+14. In an examination, there are three multiple-choice questions, and each question has 4 choices. The number of ways in which a student can fail to get all answers correct is:
+a) 11
+b) 27
+c) 15
+d) 63
+Answer: d
+---
+15. A team of 11 is to be selected from two groups of 8 and 10 players respectively. In how many ways can the selection be made so that at least 4 players are taken from the first group?
+a) 5488
+b) 6024
+c) 5848
+d) 5600
+Answer: a
+---
+16. In how many ways can 5 boys and 3 girls be seated in a row so that no two girls are together?
+a) 14400
+b) 7200
+c) 2880
+d) 3600
+Answer: a
+---
+17. How many three-digit odd numbers can be formed by using the digits 1, 2, 3, 4, 5, 6 when the repetition of digits is not allowed?
+a) 60
+b) 120
+c) 40
+d) 80
+Answer: a
+---
+18. A committee of 5 members is to be selected from 6 men and 5 women. In how many ways can the committee be formed if it includes at least 2 women and a particular man Mr. A must be on the committee?
+a) 150
+b) 155
+c) 161
+d) 175
+Answer: c
+---
+19. How many different words can be formed with the letters of the word 'HARYANA' such that 'H' and 'N' are never together?
+a) 600
+b) 720
+c) 660
+d) 840
+Answer: c
+---
+20. There are 8 students in a class. They have to be divided into two groups of 3 and 5. In how many ways can this be done?
+a) 56
+b) 112
+c) 28
+d) 60
+Answer: a
+---
+21. How many numbers between 3000 and 4000 can be formed from the digits 3, 4, 5, 6, 7, 8 if no digit is repeated?
+a) 60
+b) 120
+c) 20
+d) 24
+Answer: a
+---
+22. Out of 7 consonants and 4 vowels, how many words of 3 consonants and 2 vowels can be formed, if all the letters are distinct?
+a) 210
+b) 25200
+c) 120
+d) 24400
+Answer: b
+---
+23. In how many ways can a cricket team of 11 players be chosen out of a batch of 15 players, if a particular player is never chosen?
+a) 364
+b) 480
+c) 320
+d) 502
+Answer: a
+---
+24. A bag contains 2 white, 3 black, and 4 red balls. In how many ways can 3 balls be drawn from the bag if at least one black ball is to be included in the draw?
+a) 64
+b) 84
+c) 128
+d) 32
+Answer: a
+---
+25. 10 different letters of an alphabet are given. Words with 5 letters are formed from these given letters. Determine the number of words which have at least one letter repeated.
+a) 100000 - 30240
+b) 69760
+c) 30240
+d) 99999
+Answer: b
+---
+26. In how many ways can 7 Indians and 5 Pakistanis be seated in a row so that no two Pakistanis sit together?
+a) 7! * 8P5
+b) 7! * 5!
+c) 12! / 5!
+d) 8! * 7P5
+Answer: a
+---
+27. A question paper has two parts, Part A and Part B, each containing 10 questions. If a student has to choose 8 from Part A and 5 from Part B, in how many ways can he choose the questions?
+a) 45 * 252
+b) 11340
+c) 11430
+d) 45 * 250
+Answer: b
+---
+28. Find the number of ways of arranging the letters of the word 'ARRANGEMENT' such that the two R's and the two A's are together.
+a) 7!
+b) 7! * 4
+c) 7! / (2! * 2!)
+d) 8! / (2! * 2!)
+Answer: a
+---
+29. A committee of 5 is to be formed from 6 gentlemen and 4 ladies. In how many ways can this be done if a particular gentleman G1 refuses to be on the committee with a particular lady L1?
+a) 126
+b) 210
+c) 84
+d) 189
+Answer: d
+---
+30. How many different 4-letter words can be formed from the letters of the word 'NUMBERS' such that the word begins with a vowel?
+a) 240
+b) 120
+c) 360
+d) 720
+Answer: a
+---
+31. There are 5 doors to a lecture hall. In how many ways can a student enter the hall through one door and leave through a different door?
+a) 25
+b) 20
+c) 10
+d) 9
+Answer: b
+---
+32. In how many ways can 5 prizes be distributed among 4 boys when every boy is eligible for one or more prizes?
+a) 4^5
+b) 5^4
+c) 5P4
+d) 4P5
+Answer: a
+---
+33. From a set of 10 points in a plane, 4 of which are collinear, find the number of straight lines that can be formed.
+a) 45
+b) 40
+c) 39
+d) 38
+Answer: b
+---
+34. How many numbers greater than a million can be formed with the digits 2, 3, 0, 3, 4, 2, 3?
+a) 360
+b) 420
+c) 380
+d) 400
+Answer: a
+---
+35. The principal wants to arrange 5 students on the platform such that the boy 'RAM' always occupies the second position from the left and the girl 'SITA' is always adjacent to the boy 'RAM'. In how many ways can he arrange them?
+a) 8
+b) 12
+c) 6
+d) 10
+Answer: c
+---
+36. In a party, every person shakes hands with every other person. If there were a total of 210 handshakes, how many people were present in the party?
+a) 20
+b) 21
+c) 22
+d) 19
+Answer: b
+---
+37. A team for a project can be selected in 715 ways. If the team must have 3 members, how many people are available for selection?
+a) 12
+b) 13
+c) 14
+d) 15
+Answer: b
+---
+38. How many diagonals can be drawn in a polygon of 15 sides?
+a) 105
+b) 90
+c) 120
+d) 135
+Answer: b
+---
+39. In how many ways can 6 red balls and 6 green balls of the same size be arranged in a row so that no two green balls are together?
+a) 1
+b) 7
+c) 6
+d) 12
+Answer: b
+---
+40. How many words can be formed using the letters of the word 'EQUATION' if the word must start with a consonant and end with a vowel?
+a) 4320
+b) 2160
+c) 7200
+d) 5040
+Answer: a
+---
+41. There are 4 letters and 4 addressed envelopes. The number of ways in which all the letters can be put in the wrong envelopes is:
+a) 8
+b) 9
+c) 10
+d) 11
+Answer: b
+---
+42. A group consists of 4 couples. In how many ways can they be arranged in a straight line such that the men and women occupy alternate positions?
+a) 1152
+b) 576
+c) 288
+d) 24
+Answer: a
+---
+43. How many numbers consisting of 5 digits can be formed from the digits 1, 2, 3, 4, 5, 6, 7, 8, 9 in which the digit 5 occurs exactly once?
+a) 1 * 8^4
+b) 5 * 8^4
+c) 5 * 9^4
+d) 9^5 - 8^5
+Answer: b
+---
+44. In how many ways can a president, a treasurer, and a secretary be chosen from among 7 candidates?
+a) 35
+b) 210
+c) 240
+d) 180
+Answer: b
+---
+45. A debate team of 4 is to be selected from 5 girls and 3 boys. In how many ways can the team be selected so that it contains at least one boy?
+a) 65
+b) 70
+c) 60
+d) 5
+Answer: a
+---
+46. Find the number of integers greater than 6000 that can be formed using the digits 3, 5, 6, 7, and 8, without repetition.
+a) 120
+b) 72
+c) 192
+d) 216
+Answer: c
+---
+47. In an election, a voter may vote for any number of candidates, not greater than the number to be elected. There are 10 candidates and 4 are to be elected. If a voter votes for at least one candidate, then the number of ways in which he can vote is:
+a) 385
+b) 10C1 + 10C2 + 10C3 + 10C4
+c) 1024
+d) 386
+Answer: a
+---
+48. There are 10 lamps in a hall. Each one of them can be switched on independently. What is the number of ways in which the hall can be illuminated?
+a) 10!
+b) 1024
+c) 1023
+d) 100
+Answer: c
+---
+49. A password is to be formed with 5 characters. The first character must be a vowel, the second must be one of the next 5 consonants in the alphabet, the third must be a digit from 0-9, the fourth a special character from {*, #, @}, and the fifth must be a consonant. Repetition is allowed. How many such passwords can be formed? (Assume 21 consonants).
+a) 5 * 5 * 10 * 3 * 21
+b) 31500
+c) 15750
+d) 7875
+Answer: c
+---
+50. How many ways are there to arrange the letters of the word 'GARDEN' with the vowels in alphabetical order?
+a) 720
+b) 120
+c) 360
+d) 480
+Answer: c
+---

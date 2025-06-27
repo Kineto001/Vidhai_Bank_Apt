@@ -1,0 +1,359 @@
+### Mensuration MCQs: Cylinder, Cone, Sphere (SBI PO/Clerk - Difficult Level)
+
+**--- Cylinder Questions ---**
+
+1.  The sum of the radius and the height of a solid right circular cylinder is 37 cm. If the total surface area of the cylinder is 1628 cm², what is the volume of the cylinder?
+    (a) 4620 cm³
+    (b) 4520 cm³
+    (c) 4400 cm³
+    (d) 4840 cm³
+    **Answer: a**
+
+2.  A hollow cylindrical pipe is 21 cm long. Its outer and inner diameters are 10 cm and 6 cm, respectively. The pipe is melted and cast into a solid cylinder of radius 8 cm. Find the height of the new solid cylinder.
+    (a) 4.50 cm
+    (b) 5.25 cm
+    (c) 6.00 cm
+    (d) 7.50 cm
+    **Answer: b**
+
+3.  The radius of a cylinder is increased by 20% and its height is decreased by 30%. What is the percentage change in its volume?
+    (a) 5.2% decrease
+    (b) 0.8% increase
+    (c) 2.5% decrease
+    (d) 0.8% decrease
+    **Answer: b**
+
+4.  A well with a 6-meter inner diameter is dug 21 meters deep. The earth taken out of it has been spread evenly all around it in the shape of a circular ring of width 4 meters to form an embankment. Find the height of the embankment.
+    (a) 4.725 m
+    (b) 5.250 m
+    (c) 3.850 m
+    (d) 4.500 m
+    **Answer: a**
+
+5.  Water flows through a cylindrical pipe of internal diameter 14 cm into a cylindrical tank of base radius 2.1 m. If the water flows at a rate of 15 km/hr, in what time will the water level in the tank rise by 49 cm?
+    (a) 7.56 minutes
+    (b) 6.48 minutes
+    (c) 8.12 minutes
+    (d) 5.94 minutes
+    **Answer: d**
+
+6.  The ratio of the curved surface area to the total surface area of a cylinder is 3:5. If the curved surface area is 1848 cm², what is the volume?
+    (a) 12936 cm³
+    (b) 10780 cm³
+    (c) 14324 cm³
+    (d) 11550 cm³
+    **Answer: a**
+
+7.  A rectangular sheet of metal measuring 44 cm by 20 cm is rolled to form a cylinder. What is the difference in the volumes of the two cylinders that can be formed (one by rolling along the length and the other along the breadth)?
+    (a) 2440 cm³
+    (b) 1540 cm³
+    (c) 840 cm³
+    (d) 1680 cm³
+    **Answer: d**
+
+8.  The total cost of painting the curved surface of 12 identical cylindrical pillars of a building at ₹25 per m² is ₹1320. If the height of each pillar is 3.5 m, find the radius of each pillar.
+    (a) 0.3 m
+    (b) 0.25 m
+    (c) 0.2 m
+    (d) 0.35 m
+    **Answer: c**
+
+9.  The curved surface area of a right circular cylinder is 1760 cm² and its volume is 12320 cm³. What is its height?
+    (a) 20 cm
+    (b) 28 cm
+    (c) 35 cm
+    (d) 21 cm
+    **Answer: a**
+
+10. A solid cylinder has a total surface area of 462 cm². Its curved surface area is one-third of its total surface area. What is the volume of the cylinder?
+    (a) 539 cm³
+    (b) 545 cm³
+    (c) 521 cm³
+    (d) 530 cm³
+    **Answer: a**
+
+11. The difference between the outer and inner curved surface areas of a hollow cylinder 14 cm long is 88 cm². If the volume of metal used to make the cylinder is 176 cm³, find the outer radius of the cylinder.
+    (a) 2 cm
+    (b) 3 cm
+    (c) 2.5 cm
+    (d) 3.5 cm
+    **Answer: c**
+
+12. A solid object is formed by a cylinder surmounted by a hemisphere of the same radius. The total height of the object is 19 cm and the radius of the base is 7 cm. Find the total surface area of the solid (area of base circle + CSA of cylinder + CSA of hemisphere).
+    (a) 836 cm²
+    (b) 990 cm²
+    (c) 1078 cm²
+    (d) 891 cm²
+    **Answer: b**
+
+13. The ratio of the total surface area to the curved surface area of a cylinder is 5:3. If the total surface area is 770 cm², what is the height of the cylinder?
+    (a) 7 cm
+    (b) 14 cm
+    (c) 17.5 cm
+    (d) 10.5 cm
+    **Answer: d**
+
+**--- Cone Questions ---**
+
+14. A right circular cone is cut by a plane parallel to its base at one-third of its height from the base. The ratio of the volume of the resulting smaller cone to that of the frustum is:
+    (a) 8:19
+    (b) 1:26
+    (c) 8:27
+    (d) 19:8
+    **Answer: a**
+
+15. The radius and slant height of a cone are in the ratio 4:7. If its curved surface area is 792 cm², find its radius.
+    (a) 12 cm
+    (b) 10.5 cm
+    (c) 14 cm
+    (d) 8 cm
+    **Answer: a**
+
+16. A sector of a circle with a radius of 21 cm and a central angle of 120° is bent to form a cone. What is the approximate volume of the cone? (Take √2 ≈ 1.414)
+    (a) 1018.2 cm³
+    (b) 1024.5 cm³
+    (c) 1032.8 cm³
+    (d) 1045.6 cm³
+    **Answer: a**
+
+17. An ice-cream cone has a radius of 3 cm and a height of 7 cm. A hemisphere of ice cream is placed on top, completely covering the cone's opening. Find the total volume of the ice cream (cone + hemisphere). (Use π = 3.14)
+    (a) 122.46 cm³
+    (b) 131.88 cm³
+    (c) 118.54 cm³
+    (d) 142.16 cm³
+    **Answer: a**
+
+18. A solid cone of height 24 cm and radius of base 6 cm is made up of modeling clay. A child reshapes it in the form of a sphere. Find the radius of the sphere.
+    (a) 4 cm
+    (b) 8 cm
+    (c) 6 cm
+    (d) 5 cm
+    **Answer: c**
+
+19. A toy is in the form of a cone of radius 7 cm mounted on a hemisphere of the same radius. The total height of the toy is 31 cm. Find the total surface area of the toy.
+    (a) 858 cm²
+    (b) 724 cm²
+    (c) 912 cm²
+    (d) 814 cm²
+    **Answer: a**
+
+20. The radius of a cone is increased by 50% and its height is decreased by 20%. Find the percentage change in its volume.
+    (a) 80% increase
+    (b) 60% increase
+    (c) 85% increase
+    (d) 70% increase
+    **Answer: a**
+
+21. A conical vessel, whose internal radius is 10 cm and height is 48 cm, is full of water. If this water is poured into a cylindrical vessel with an internal radius of 20 cm, find the height to which the water rises.
+    (a) 4 cm
+    (b) 5 cm
+    (c) 3 cm
+    (d) 6 cm
+    **Answer: a**
+
+22. A cone of maximum volume is carved out from a solid wooden cube of side 21 cm. What is the volume of the remaining wood?
+    (a) 6835.5 cm³
+    (b) 6752.5 cm³
+    (c) 6912.0 cm³
+    (d) 6544.5 cm³
+    **Answer: a**
+
+23. The height of a cone is 30 cm. A small cone is cut off at the top by a plane parallel to the base. If its volume is 1/27 of the volume of the given cone, at what height above the base is the section made?
+    (a) 10 cm
+    (b) 15 cm
+    (c) 20 cm
+    (d) 25 cm
+    **Answer: c**
+
+24. The diameter of the base of a conical tent is 19.2 m and the height of its vertex is 2.8 m. The area of the canvas required to put up such a tent is approximately:
+    (a) 301.7 m²
+    (b) 310.4 m²
+    (c) 298.5 m²
+    (d) 325.1 m²
+    **Answer: a**
+
+25. If the height, curved surface area, and volume of a cone are h, c, and v respectively, then find the value of 3πvh³ - c²h² + 9v².
+    (a) 1
+    (b) 0
+    (c) 2π
+    (d) h²r²
+    **Answer: b**
+
+26. A right-angled triangle with sides 9 cm, 12 cm, and 15 cm is revolved about the side of 12 cm. What is the volume of the cone so formed?
+    (a) 324π cm³
+    (b) 480π cm³
+    (c) 360π cm³
+    (d) 243π cm³
+    **Answer: a**
+
+27. A drinking glass is in the shape of a frustum of a cone of height 14 cm. The diameters of its two circular ends are 16 cm and 12 cm. Find the capacity of the glass.
+    (a) 2170.67 cm³
+    (b) 2240.33 cm³
+    (c) 1980.50 cm³
+    (d) 2012.87 cm³
+    **Answer: a**
+
+28. The radii of the bases of a cylinder and a cone are in the ratio 3:4 and their heights are in the ratio 2:3. What is the ratio of their volumes (cylinder to cone)?
+    (a) 3:4
+    (b) 9:8
+    (c) 8:9
+    (d) 4:3
+    **Answer: b**
+
+29. The slant height of a conical mountain is 2.5 km and the area of its base is 1.54 km². Find the height of the mountain.
+    (a) 2.2 km
+    (b) 2.4 km
+    (c) 2.5 km
+    (d) 2.1 km
+    **Answer: b**
+
+30. A solid metallic cone of radius 12 cm and height 24 cm is melted and recast into solid spherical balls of diameter 6 cm each. Find the number of balls formed.
+    (a) 28
+    (b) 32
+    (c) 36
+    (d) 40
+    **Answer: b**
+
+**--- Sphere Questions ---**
+
+31. A solid sphere of radius 'r' is melted and cast into the shape of a solid cone of height 'r'. What is the radius of the base of the cone?
+    (a) r
+    (b) 3r
+    (c) r/2
+    (d) 2r
+    **Answer: d**
+
+32. If the radius of a sphere is increased by 2 cm, its surface area increases by 352 cm². What was the original radius of the sphere?
+    (a) 5 cm
+    (b) 6 cm
+    (c) 7 cm
+    (d) 8 cm
+    **Answer: b**
+
+33. The surface area of a sphere is 1386 cm². It is melted and recast into a cylinder of radius 10.5 cm. Find the height of the cylinder.
+    (a) 12 cm
+    (b) 14 cm
+    (c) 15 cm
+    (d) 10.5 cm
+    **Answer: b**
+
+34. A hemispherical bowl of internal radius 9 cm is full of a liquid. This liquid is to be filled into cylindrical-shaped small bottles of diameter 3 cm and height 4 cm. How many bottles will be needed?
+    (a) 48
+    (b) 52
+    (c) 54
+    (d) 60
+    **Answer: c**
+
+35. The volumes of two spheres are in the ratio 64:27. Find the ratio of their surface areas.
+    (a) 4:3
+    (b) 9:16
+    (c) 16:9
+    (d) 3:4
+    **Answer: c**
+
+36. A hollow spherical shell has internal and external radii of 3 cm and 6 cm respectively. If it is made of metal of density 4.5 g/cm³, find the mass of the shell.
+    (a) 3.124 kg
+    (b) 3.564 kg
+    (c) 4.158 kg
+    (d) 2.986 kg
+    **Answer: b**
+
+37. A sphere of radius 10.5 cm is melted and recast into smaller cones, each of radius 3.5 cm and height 3 cm. The number of cones so formed is:
+    (a) 112
+    (b) 120
+    (c) 126
+    (d) 130
+    **Answer: c**
+
+38. A solid is in the shape of a cone standing on a hemisphere with both their radii being equal to 7 cm and the height of the cone is equal to its radius. Find the volume of the solid.
+    (a) 1078 cm³
+    (b) 1155 cm³
+    (c) 980 cm³
+    (d) 1232 cm³
+    **Answer: a**
+
+39. The total surface area of a hemisphere is 1848 cm². Find its diameter.
+    (a) 21 cm
+    (b) 14 cm
+    (c) 35 cm
+    (d) 28 cm
+    **Answer: d**
+
+40. A spherical cannonball, 28 cm in diameter, is melted and cast into a right circular conical mould, the base of which is 35 cm in diameter. Find the approximate height of the cone.
+    (a) 32.5 cm
+    (b) 35.8 cm
+    (c) 36.6 cm
+    (d) 34.2 cm
+    **Answer: b**
+
+41. If the ratio of the volume of a sphere to that of a hemisphere is 8:1, what is the ratio of the radius of the sphere to the radius of the hemisphere?
+    (a) 2:1
+    (b) ³√2:1
+    (c) ³√4:1
+    (d) 4:1
+    **Answer: c**
+
+42. A sphere and a cube have the same surface area. What is the ratio of the volume of the sphere to the volume of the cube?
+    (a) √π : √6
+    (b) √6 : √π
+    (c) π:6
+    (d) 6:π
+    **Answer: b**
+
+43. A sphere of maximum volume is cut out from a solid hemisphere of radius 14 cm. What is the volume of the sphere?
+    (a) 1437.33 cm³
+    (b) 1521.67 cm³
+    (c) 1398.11 cm³
+    (d) 1605.50 cm³
+    **Answer: a**
+
+44. A hemisphere, a cylinder and a cone have equal bases and the same height, where the height is equal to the radius of the base. The ratio of their volumes is:
+    (a) 1:2:3
+    (b) 3:2:1
+    (c) 2:3:1
+    (d) 1:3:2
+    **Answer: c**
+
+45. The surface area of a sphere is the same as the curved surface area of a cone having the radius of the base as 40 cm and height as 30 cm. Find the radius of the sphere.
+    (a) 20 cm
+    (b) 10√5 cm
+    (c) 10√2 cm
+    (d) 25 cm
+    **Answer: b**
+
+46. A hemispherical tank of radius 2.1 m is full of water. It is connected with a pipe which empties it at the rate of 7 litres per second. How much time will it take to empty the tank completely?
+    (a) 42.5 min
+    (b) 46.2 min
+    (c) 48.4 min
+    (d) 44.8 min
+    **Answer: b**
+
+**--- Mixed Concept Questions ---**
+
+47. A solid iron rectangular block of dimensions 4.4 m, 2.6 m, and 1 m is cast into a hollow cylindrical pipe of internal radius 30 cm and thickness 5 cm. Find the length of the pipe.
+    (a) 108 m
+    (b) 110 m
+    (c) 112 m
+    (d) 115 m
+    **Answer: c**
+
+48. The barrel of a fountain pen, cylindrical in shape, is 7 cm long and 5 mm in diameter. A full barrel of ink is used up when writing 330 words on average. How many words would use up a bottle of ink containing one-fifth of a litre?
+    (a) 40,000
+    (b) 45,000
+    (c) 48,000
+    (d) 50,000
+    **Answer: c**
+
+49. A copper rod of diameter 1 cm and length 8 cm is drawn into a wire of length 18 m of uniform thickness. Find the thickness (diameter) of the wire.
+    (a) 0.50 mm
+    (b) 0.67 mm
+    (c) 0.75 mm
+    (d) 1.00 mm
+    **Answer: b**
+
+50. A solid toy is in the form of a hemisphere surmounted by a right circular cone. The height of the cone is 4 cm and the diameter of the base is 6 cm. If a right circular cylinder circumscribes the toy, find by how much the volume of the cylinder exceeds the volume of the toy. (Use π = 3.14)
+    (a) 98.42 cm³
+    (b) 100.56 cm³
+    (c) 103.62 cm³
+    (d) 105.88 cm³
+    **Answer: c**

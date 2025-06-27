@@ -1,0 +1,349 @@
+1. A certain amount is distributed among Ram, Suresh, and Tina. Ram gets 3/8th of the total amount. Suresh gets 1/3rd of the remaining amount. If Tina's share is ₹2,500, what was the initial total amount?
+a) ₹5,000
+b) ₹6,000
+c) ₹7,500
+d) ₹8,000
+Answer: b
+
+2. The sum of the present ages of a father and his son is 60 years. Six years ago, the father's age was five times the age of the son. What will be the son's age after 6 years?
+a) 20 years
+b) 18 years
+c) 22 years
+d) 24 years
+Answer: a
+
+3. A two-digit number is such that the product of its digits is 14. When 45 is added to the number, the digits interchange their places. What is the sum of the digits of the number?
+a) 9
+b) 8
+c) 7
+d) 6
+Answer: a
+
+4. A fraction becomes 1/3 when 1 is subtracted from the numerator. It becomes 1/4 when 8 is added to its denominator. What is the value of the fraction?
+a) 4/15
+b) 5/12
+c) 3/10
+d) 4/12
+Answer: d
+
+5. The monthly incomes of two persons, A and B, are in the ratio 8:7 and their monthly expenditures are in the ratio 19:16. If each of them saves ₹5,000 per month, what is the monthly income of A?
+a) ₹20,000
+b) ₹22,000
+c) ₹24,000
+d) ₹28,000
+Answer: c
+
+6. In a test consisting of 150 questions, a candidate gets 3 marks for each correct answer and loses 1 mark for each wrong answer. If the candidate scores 210 marks, how many questions did the candidate attempt correctly?
+a) 80
+b) 90
+c) 100
+d) 110
+Answer: b
+
+7. A man has some hens and cows. If the number of heads is 48 and the number of feet is 140, how many hens does the man have?
+a) 22
+b) 23
+c) 24
+d) 26
+Answer: d
+
+8. The cost of 5 chairs and 3 tables is ₹3110. The cost of 1 chair and 2 tables is ₹1440. What is the cost of 2 chairs and 1 table?
+a) ₹1350
+b) ₹1190
+c) ₹1270
+d) ₹1050
+Answer: d
+
+9. A boat travels 24 km upstream and 36 km downstream in 6 hours. It travels 36 km upstream and 24 km downstream in 6.5 hours. What is the speed of the current?
+a) 1 km/h
+b) 1.5 km/h
+c) 2 km/h
+d) 2.5 km/h
+Answer: c
+
+10. A sum of ₹1360 has been divided among A, B, and C such that A gets 2/3 of what B gets and B gets 1/4 of what C gets. What is B's share?
+a) ₹120
+b) ₹160
+c) ₹240
+d) ₹300
+Answer: c
+
+11. The sum of the digits of a two-digit number is 15. If the number formed by reversing the digits is less than the original number by 27, what is the original number?
+a) 69
+b) 78
+c) 96
+d) 87
+Answer: c
+
+12. A library has an average of 510 visitors on Sundays and 240 on other days. What is the average number of visitors per day in a month of 30 days beginning with a Sunday?
+a) 285
+b) 290
+c) 295
+d) 300
+Answer: a
+
+13. If the numerator of a fraction is increased by 20% and the denominator is decreased by 5%, the value of the new fraction becomes 5/2. What is the original fraction?
+a) 95/48
+b) 48/95
+c) 47/24
+d) 24/47
+Answer: a
+
+14. The cost of 3 cricket balls and 5 tennis balls is ₹1050, while the cost of 2 cricket balls and 3 tennis balls is ₹660. What is the cost of one cricket ball?
+a) ₹120
+b) ₹150
+c) ₹180
+d) ₹90
+Answer: b
+
+15. Eight years ago, Priya's age was equal to the sum of the present ages of her one son and one daughter. Five years hence, the respective ratio between the ages of her daughter and her son will be 7:6. If Priya's husband is 7 years older than her and his present age is three times the present age of their son, what is the present age of the daughter?
+a) 15 years
+b) 18 years
+c) 23 years
+d) 27 years
+Answer: c
+
+16. A person invested a certain amount of money in two schemes, A and B, in the ratio 2:3. Scheme A offers simple interest at 10% p.a. and Scheme B offers simple interest at 12% p.a. If the total interest earned after 2 years is ₹4960, what was the amount invested in Scheme B?
+a) ₹9000
+b) ₹12000
+c) ₹15000
+d) ₹18000
+Answer: c
+
+17. A train covers a certain distance at a uniform speed. If the train were 6 km/h faster, it would have taken 4 hours less than the scheduled time. If the train were 6 km/h slower, it would have taken 6 hours more. What is the length of the journey?
+a) 600 km
+b) 700 km
+c) 720 km
+d) 840 km
+Answer: c
+
+18. A shopkeeper sells two items, a pen and a book. He sells the pen at a 10% profit and the book at a 15% loss, and gets a total profit of ₹20. If he had sold the pen at a 15% profit and the book at a 10% loss, he would have earned a profit of ₹30. Find the cost price of the book.
+a) ₹400
+b) ₹200
+c) ₹300
+d) ₹500
+Answer: b
+
+19. In a group of buffalos and ducks, the number of legs are 24 more than twice the number of heads. What is the number of buffalos in the group?
+a) 6
+b) 8
+c) 10
+d) 12
+Answer: d
+
+20. The sum of three consecutive odd numbers is 20 more than the first of these numbers. What is the middle number?
+a) 7
+b) 9
+c) 11
+d) 5
+Answer: b
+
+21. A man's age is 150% of what it was 10 years ago, but 75% of what it will be after 10 years. What is his present age?
+a) 25 years
+b) 30 years
+c) 35 years
+d) 40 years
+Answer: b
+
+22. The cost of 2 kg of apples and 3 kg of grapes on a certain day was found to be ₹340. After a month, the cost of 4 kg of apples and 2 kg of grapes was ₹440. If the prices have not changed, what is the cost of 1 kg of grapes?
+a) ₹60
+b) ₹70
+c) ₹80
+d) ₹90
+Answer: c
+
+23. A part of a journey is covered in 31.5 minutes at 80 km/h and the remaining part in 16 minutes at 75 km/h. The total distance of the journey is:
+a) 45 km
+b) 38 km
+c) 62 km
+d) 54 km
+Answer: c
+
+24. A student was asked to find the arithmetic mean of the numbers 3, 11, 7, 9, 15, 13, 8, 19, 17, 21, 14, and x. He found the mean to be 12. What is the value of x?
+a) 3
+b) 7
+c) 17
+d) 31
+Answer: b
+
+25. The cost of 4 pens, 6 notebooks and 9 files is ₹305. The cost of 3 pens, 4 notebooks and 2 files is ₹145. What is the cost of 5 pens, 8 notebooks and 16 files?
+a) ₹415
+b) ₹465
+c) ₹445
+d) Cannot be determined
+Answer: b
+
+26. The sum of the salaries of A, B, and C is ₹72000. They spend 80%, 85%, and 75% of their salaries respectively. If their savings are in the ratio 8:9:20, what is the salary of C?
+a) ₹16000
+b) ₹24000
+c) ₹30000
+d) ₹32000
+Answer: d
+
+27. A person has ₹100 in the form of ₹1 coins, ₹5 coins, and ₹10 coins. The total number of coins is 19. If the number of ₹1 coins is one more than the number of ₹5 coins, find the number of ₹10 coins.
+a) 4
+b) 5
+c) 6
+d) 7
+Answer: b
+
+28. The cost of 5 kg of sugar, 3 kg of rice and 2 kg of flour is ₹430. The cost of 2 kg of sugar, 5 kg of rice and 4 kg of flour is ₹490. The cost of 4 kg of sugar, 2 kg of rice and 3 kg of flour is ₹460. Find the cost of 1 kg of rice.
+a) ₹30
+b) ₹40
+c) ₹50
+d) ₹60
+Answer: c
+
+29. Three friends, P, Q, and R, have a total of 180 chocolates. P has 20 more chocolates than Q. The total number of chocolates with P and R is twice the number of chocolates with Q. How many chocolates does R have?
+a) 50
+b) 60
+c) 70
+d) 80
+Answer: c
+
+30. A, B, and C can complete a piece of work together in 8 days. A and C together can do it in 12 days. A and B together can do it in 15 days. In how many days can B alone complete the work?
+a) 30 days
+b) 35 days
+c) 40 days
+d) 45 days
+Answer: c
+
+31. If (3x + 2y) : (3x - 2y) = 5 : 1, then what is the value of (x² + y²) / (x² - y²)?
+a) 5/3
+b) 13/12
+c) 10/9
+d) 5/4
+Answer: d
+
+32. A father said to his son, "I was as old as you are at the present at the time of your birth". If the father's age is 38 years now, the son's age five years back was:
+a) 14 years
+b) 19 years
+c) 33 years
+d) 38 years
+Answer: a
+
+33. A taxi charges a fixed amount plus a charge per kilometer. For a journey of 10 km, the charge paid is ₹315 and for a journey of 15 km, the charge paid is ₹465. What would be the charge for a journey of 25 km?
+a) ₹765
+b) ₹750
+c) ₹780
+d) ₹800
+Answer: a
+
+34. A vessel is full of a mixture of milk and water, with milk constituting 80%. 10 litres of this mixture is drawn out and replaced with pure water. The percentage of milk in the new mixture is 72%. What is the capacity of the vessel?
+a) 40 litres
+b) 50 litres
+c) 60 litres
+d) 75 litres
+Answer: b
+
+35. A person travels 360 km in 4 hours, partly by air and partly by train. If he had travelled all the way by air, he would have saved 4/5 of the time he was in the train and would have arrived at his destination 2 hours early. Find the distance he travelled by train.
+a) 75 km
+b) 90 km
+c) 100 km
+d) 120 km
+Answer: b
+
+36. A person invests a total sum of ₹15,500 in three different schemes of simple interest at 4%, 6% and 10% per annum. The amount invested at 6% is 150% of the amount invested at 4%. If the total interest earned after one year is ₹1100, find the amount invested at 10%.
+a) ₹5,000
+b) ₹5,500
+c) ₹6,000
+d) ₹4,500
+Answer: a
+
+37. The denominator of a fraction is 4 more than twice its numerator. When both the numerator and denominator are decreased by 6, the denominator becomes 12 times the numerator. Find the fraction.
+a) 5/14
+b) 7/18
+c) 3/10
+d) 9/22
+Answer: b
+
+38. The sum of the present ages of a father and his son is 52 years. Four years hence, the son's age will be 1/4 of the father's age. What will be the ratio of their ages 10 years from now?
+a) 2:1
+b) 3:1
+c) 7:3
+d) 5:2
+Answer: c
+
+39. The salary of A is 75% of the salary of B. The salary of B is 80% of the salary of C. If the sum of their salaries is ₹14100, find the salary of A.
+a) ₹3600
+b) ₹4500
+c) ₹6000
+d) ₹4800
+Answer: a
+
+40. Two places A and B are 180 km apart. A car starts from A towards B at a certain speed. At the same time, another car starts from B towards A at a speed which is 10 km/h more than the first car. If they meet after 2 hours, what is the speed of the faster car?
+a) 40 km/h
+b) 45 km/h
+c) 50 km/h
+d) 55 km/h
+Answer: c
+
+41. A person spends 1/3 of his income on food, 1/4 of the remaining on rent and 1/5 of the rest on clothes. He still has ₹1760 left with him. Find his income.
+a) ₹4400
+b) ₹4200
+c) ₹3800
+d) ₹3300
+Answer: d
+
+42. In an examination, a student scores 4 marks for every correct answer and loses 1 mark for every wrong answer. A student attempted all 200 questions and scored 200 marks. The number of questions he answered correctly was:
+a) 80
+b) 82
+c) 60
+d) 68
+Answer: a
+
+43. The price of 10 chairs is equal to that of 4 tables. The price of 15 chairs and 2 tables together is ₹4000. The total price of 12 chairs and 3 tables is:
+a) ₹3900
+b) ₹3750
+c) ₹3840
+d) ₹3500
+Answer: a
+
+44. A and B have some money with them. If A gives ₹30 to B, then B will have twice the money left with A. But, if B gives ₹10 to A, then A will have thrice as much as is left with B. How much money does A have initially?
+a) ₹62
+b) ₹34
+c) ₹58
+d) ₹46
+Answer: a
+
+45. A number consists of two digits. The sum of the digits is 9. If 63 is subtracted from the number, its digits are interchanged. Find the number.
+a) 27
+b) 81
+c) 72
+d) 18
+Answer: b
+
+46. The total cost of flooring a room at ₹8.50 per square meter is ₹510. If the length of the room is 8 meters, what is its breadth?
+a) 7.5 meters
+b) 8.5 meters
+c) 10 meters
+d) 12.5 meters
+Answer: a
+
+47. A sum of money is divided among A, B, and C in such a way that for every rupee A gets, B gets 65 paise and C gets 35 paise. If C's share is ₹28, what is the total sum?
+a) ₹160
+b) ₹120
+c) ₹180
+d) ₹200
+Answer: a
+
+48. A bus started its journey from Ramgarh and reached Devgarh in 44 minutes with its average speed of 50 km/h. If the average speed of the bus is increased by 5 km/h, how much time will it take to cover the same distance?
+a) 40 min
+b) 38 min
+c) 36 min
+d) 31 min
+Answer: a
+
+49. A company has 80 employees. The number of male employees is 10 more than twice the number of female employees. How many male employees are there in the company?
+a) 50
+b) 55
+c) 60
+d) 57
+Answer: d
+
+50. Three numbers are such that the second number is twice the first number and the third number is 15 more than the second number. If the sum of the three numbers is 140, what is the value of the third number?
+a) 25
+b) 50
+c) 65
+d) 75
+Answer: c

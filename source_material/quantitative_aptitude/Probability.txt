@@ -1,0 +1,349 @@
+1. A committee of 5 members is to be formed from a group of 6 men and 4 women. What is the probability that the committee has at least 3 men?
+a) 31/42
+b) 25/42
+c) 17/42
+d) 29/42
+Answer: a
+
+2. A bag contains 5 red and 3 black balls. Another bag contains 4 red and 6 black balls. A ball is drawn from one of the bags at random, and it is found to be red. What is the probability that it was drawn from the first bag?
+a) 25/41
+b) 16/41
+c) 20/41
+d) 15/41
+Answer: a
+
+3. A speaks the truth in 75% of cases, and B in 80% of cases. In what percentage of cases are they likely to contradict each other in stating the same fact?
+a) 30%
+b) 35%
+c) 40%
+d) 45%
+Answer: b
+
+4. Three distinct fair dice are thrown. What is the probability that the sum of the numbers appearing on the top faces is a prime number greater than 10 but less than 16?
+a) 1/9
+b) 5/24
+c) 2/9
+d) 7/36
+Answer: c
+
+5. From a standard deck of 52 cards, two cards are drawn at random. What is the probability that both cards are of the same suit, but one is a face card and the other is an ace?
+a) 2/221
+b) 3/221
+c) 4/221
+d) 1/221
+Answer: a
+
+6. A point is chosen at random inside a circle of radius R. What is the probability that the point is closer to the center than to the circumference?
+a) 1/2
+b) 1/3
+c) 1/4
+d) 2/3
+Answer: c
+
+7. A three-digit number is formed using the digits {1, 2, 3, 4, 5} without repetition. What is the probability that the number formed is divisible by 4?
+a) 1/4
+b) 1/5
+c) 2/5
+d) 3/10
+Answer: b
+
+8. A box contains 10 light bulbs, of which 3 are defective. A person takes out 3 bulbs at random. What is the probability that exactly one of the bulbs is defective?
+a) 21/40
+b) 19/40
+c) 9/40
+d) 23/40
+Answer: a
+
+9. A bag contains 4 white, 5 red, and 6 blue balls. Three balls are drawn in succession without replacement. What is the probability that the first is red, the second is white, and the third is blue?
+a) 4/91
+b) 5/91
+c) 6/91
+d) 2/91
+Answer: a
+
+10. In a class of 120 students, 60% passed in Physics, 55% passed in Chemistry and 30% failed in both. A student is selected at random. What is the probability that the student passed in exactly one subject?
+a) 1/5
+b) 1/3
+c) 1/4
+d) 2/5
+Answer: c
+
+11. A husband and a wife appear in an interview for two vacancies in the same post. The probability of the husband's selection is 1/7 and that of the wife's selection is 1/5. What is the probability that at least one of them will be selected?
+a) 11/35
+b) 12/35
+c) 13/35
+d) 1/35
+Answer: a
+
+12. Three individuals A, B, and C shoot at a target. The probabilities of them hitting the target are 4/5, 3/4, and 2/3 respectively. They shoot simultaneously. What is the probability that at least two of them hit the target?
+a) 4/5
+b) 5/6
+c) 3/4
+d) 2/3
+Answer: b
+
+13. The letters of the word 'MATHEMATICS' are arranged at random. What is the probability that the vowels always come together?
+a) 12/55
+b) 1/165
+c) 4/165
+d) 8/165
+Answer: c
+
+14. There are two bags. Bag A contains 4 red and 6 green balls. Bag B contains 5 red and 3 green balls. Two balls are transferred from Bag A to Bag B. Then, one ball is drawn from Bag B. What is the probability that the ball drawn is red?
+a) 29/50
+b) 27/50
+c) 23/50
+d) 31/50
+Answer: a
+
+15. Two dice are thrown simultaneously. What is the probability of getting a sum which is a multiple of 3, but not a multiple of 6?
+a) 1/4
+b) 1/6
+c) 1/3
+d) 5/18
+Answer: b
+
+16. From a group of 5 men and 3 women, a committee of 4 is to be formed. Find the probability that the committee includes exactly 2 women.
+a) 3/7
+b) 2/7
+c) 4/7
+d) 1/7
+Answer: a
+
+17. A number is selected at random from the first 100 positive integers. What is the probability that the number is either a multiple of 7 or a multiple of 11?
+a) 11/50
+b) 23/100
+c) 6/25
+d) 21/100
+Answer: b
+
+18. In a box, there are 8 red, 7 blue and 6 green balls. One ball is picked up randomly. What is the probability that it is neither blue nor green?
+a) 1/3
+b) 8/21
+c) 7/21
+d) 13/21
+Answer: b
+
+19. Four cards are drawn from a pack of 52 cards. What is the probability that exactly three of them are kings?
+a) 1/5525
+b) 48/270725
+c) 1/54145
+d) 192/270725
+Answer: d
+
+20. A couple has two children. Find the probability that both children are boys, given that at least one of them is a boy.
+a) 1/2
+b) 1/4
+c) 1/3
+d) 2/3
+Answer: c
+
+21. A machine produces parts, with 5% being defective. A quality check involves inspecting a random sample of 3 parts. What is the probability that at most one part in the sample is defective? (approx.)
+a) 0.992
+b) 0.993
+c) 0.994
+d) 0.995
+Answer: b
+
+22. Two friends, A and B, have an equal chance of winning a game. They play a series of 5 games. What is the probability that B wins exactly 3 games?
+a) 3/16
+b) 5/16
+c) 7/16
+d) 9/16
+Answer: b
+
+23. A four-digit security code is formed using the digits 0 to 9, with repetition allowed. What is the probability that the code contains the sequence '47'?
+a) 199/10000
+b) 200/10000
+c) 189/10000
+d) 190/10000
+Answer: a
+
+24. A bag contains 10 tickets numbered 1 to 10. Two tickets are drawn one after another without replacement. What is the probability that the number on the first ticket is a prime and the number on the second ticket is a multiple of 4?
+a) 1/15
+b) 2/45
+c) 1/30
+d) 1/45
+Answer: d
+
+25. A student takes a multiple-choice test with 5 questions, each having 4 options. The student guesses randomly on all questions. What is the probability of getting at least one question correct?
+a) 781/1024
+b) 243/1024
+c) 1/4
+d) 3/4
+Answer: a
+
+26. An urn contains 6 red, 4 blue, and 5 white marbles. If three marbles are drawn from the urn, what is the probability that all three are of different colors?
+a) 24/91
+b) 12/91
+c) 23/91
+d) 17/91
+Answer: a
+
+27. The probability that a contractor will get a plumbing contract is 2/3, and the probability that he will not get an electrical contract is 5/9. If the probability of getting at least one contract is 4/5, what is the probability that he will get both?
+a) 14/45
+b) 16/45
+c) 17/45
+d) 19/45
+Answer: a
+
+28. From a set of 30 cards numbered 1 to 30, one card is drawn at random. What is the probability that the number on the card is a prime number greater than 15?
+a) 1/10
+b) 1/6
+c) 1/5
+d) 2/15
+Answer: b
+
+29. Three unbiased coins are tossed. What is the probability of getting at most two heads?
+a) 3/8
+b) 7/8
+c) 1/2
+d) 1/4
+Answer: b
+
+30. Two numbers are chosen at random from the set {1, 2, 3, ..., 20} without replacement. What is the probability that the product of the two numbers is odd?
+a) 9/19
+b) 10/19
+c) 1/2
+d) 9/38
+Answer: a
+
+31. An anti-aircraft gun can take a maximum of 4 shots at an enemy plane moving away from it. The probabilities of hitting the plane at the first, second, third, and fourth shot are 0.4, 0.3, 0.2, and 0.1, respectively. What is the probability that the gun hits the plane?
+a) 0.6976
+b) 0.3024
+c) 0.7250
+d) 0.6542
+Answer: a
+
+32. There are 15 students in a class, including 3 siblings. If 4 students are chosen at random for a project, what is the probability that the group contains exactly two of the three siblings?
+a) 12/91
+b) 11/91
+c) 13/91
+d) 10/91
+Answer: a
+
+33. A die is rolled twice. What is the probability that the sum of the outcomes is a perfect square?
+a) 1/9
+b) 2/9
+c) 7/36
+d) 1/6
+Answer: c
+
+34. A box of 20 mobile phones contains 4 defective ones. If 2 phones are selected randomly from the box, what is the probability that at least one is defective?
+a) 7/19
+b) 12/19
+c) 6/19
+d) 13/19
+Answer: c
+
+35. The probability of person A passing an exam is 0.6, and for person B, it is 0.7. What is the probability that exactly one of them passes?
+a) 0.42
+b) 0.18
+c) 0.46
+d) 0.28
+Answer: c
+
+36. In a lottery of 50 tickets numbered 1 to 50, two tickets are drawn simultaneously. What is the probability that both tickets have prime numbers on them?
+a) 21/245
+b) 22/245
+c) 3/49
+d) 4/49
+Answer: c
+
+37. A speaks the truth 3 out of 4 times, and B speaks the truth 5 out of 6 times. What is the probability that they will agree in stating a fact?
+a) 17/24
+b) 19/24
+c) 21/24
+d) 1/2
+Answer: b
+
+38. A bag contains 3 white balls and 2 black balls. Another bag contains 2 white and 4 black balls. A ball is transferred from the first bag to the second, and then a ball is drawn from the second bag. What is the probability that the drawn ball is white?
+a) 16/35
+b) 13/35
+c) 11/35
+d) 12/35
+Answer: b
+
+39. The odds against a certain event are 5:2, and the odds in favour of another independent event are 6:5. Find the probability that at least one of the events will occur.
+a) 25/77
+b) 52/77
+c) 12/77
+d) 65/77
+Answer: b
+
+40. Two cards are drawn from a pack of 52 cards. What is the probability that either both are red or both are kings?
+a) 55/221
+b) 52/221
+c) 58/221
+d) 53/221
+Answer: a
+
+41. A password is created using 4 distinct digits from {1, 2, 3, 4, 5, 6}. What is the probability that the password starts with an even digit and ends with an odd digit?
+a) 1/5
+b) 1/4
+c) 3/10
+d) 2/5
+Answer: b
+
+42. In a single throw of three dice, what is the probability of getting a total of 17 or 18?
+a) 1/54
+b) 1/36
+c) 1/108
+d) 1/27
+Answer: a
+
+43. A factory has two machines, A and B. Past records show that machine A produces 60% of the items and machine B produces 40%. Further, 2% of items produced by machine A are defective and 1% of items produced by machine B are defective. If an item is drawn at random, what is the probability that it is defective?
+a) 0.016
+b) 0.024
+c) 0.030
+d) 0.012
+Answer: a
+
+44. Out of 8 boys and 4 girls, a team of 5 is to be formed. What is the probability that the team has at least one girl?
+a) 92/99
+b) 93/99
+c) 94/99
+d) 95/99
+Answer: c
+
+45. A problem in mathematics is given to three students whose chances of solving it are 1/2, 1/3, and 1/4 respectively. What is the probability that the problem is solved?
+a) 1/4
+b) 1/2
+c) 3/4
+d) 7/12
+Answer: c
+
+46. An integer is chosen at random from the first 200 integers. What is the probability that the integer is divisible by 6 or 8?
+a) 1/4
+b) 1/5
+c) 1/8
+d) 1/3
+Answer: a
+
+47. A box contains 5 green, 4 yellow and 3 white balls. Three balls are drawn at random. What is the probability that they are not of the same colour?
+a) 3/44
+b) 5/44
+c) 41/44
+d) 39/44
+Answer: c
+
+48. Two persons A and B toss a coin alternately on the understanding that the first one to throw a head wins. If A starts the game, what is the probability that A wins?
+a) 1/2
+b) 1/3
+c) 2/3
+d) 1/4
+Answer: c
+
+49. From a group of 7 men and 6 women, five persons are to be selected to form a committee so that at least 3 men are there in the committee. In how many ways can it be done?
+a) 564
+b) 645
+c) 735
+d) 756
+Answer: d
+
+50. Three houses are available in a locality. Three persons apply for the houses. Each applies for one house without consulting others. The probability that all the three apply for the same house is:
+a) 1/9
+b) 2/9
+c) 7/9
+d) 8/9
+Answer: a

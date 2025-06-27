@@ -1,0 +1,349 @@
+1. The lengths of the two sides of a parallelogram are 12 cm and 8 cm. If one of its diagonals is 10 cm long, what is the area of the parallelogram?
+a) 24√15 sq. cm
+b) 12√55 sq. cm
+c) 24√55 sq. cm
+d) 48√15 sq. cm
+Answer: c
+
+2. In a triangle ABC, the medians AD, BE, and CF intersect at the centroid G. If the area of the triangle GBC is 28 sq. cm, what is the area of the quadrilateral AFGE?
+a) 28 sq. cm
+b) 56 sq. cm
+c) 42 sq. cm
+d) 84 sq. cm
+Answer: a
+
+3. The perimeter of a rhombus is 148 cm and one of its diagonals is 24 cm. What is the area of the rhombus?
+a) 840 sq. cm
+b) 420 sq. cm
+c) 720 sq. cm
+d) 960 sq. cm
+Answer: a
+
+4. A ladder is placed against a wall such that it reaches the top of the wall of height 6 m. The base of the ladder is 2.5 m away from the wall. If the top of the ladder slips by 1.6 m, by how much distance will the base of the ladder slide away from the wall?
+a) 3.2 m
+b) 3.9 m
+c) 2.4 m
+d) 2.8 m
+Answer: b
+
+5. The area of a trapezium is 384 cm². If its parallel sides are in the ratio 3:5 and the perpendicular distance between them is 12 cm, the length of the smaller of the parallel sides is:
+a) 20 cm
+b) 24 cm
+c) 30 cm
+d) 36 cm
+Answer: b
+
+6. In an isosceles triangle, the measure of the unequal angle is 30 degrees more than the measure of either of the equal angles. What is the measure of the unequal angle?
+a) 50°
+b) 80°
+c) 70°
+d) 65°
+Answer: b
+
+7. A rectangular park 60 m long and 40 m wide has two concrete crossroads running in the middle of the park and the rest of the park has been used as a lawn. If the area of the lawn is 2109 sq. m, what is the width of the road?
+a) 2.5 m
+b) 3 m
+c) 3.5 m
+d) 4 m
+Answer: b
+
+8. The altitude drawn to the base of an isosceles triangle is 8 cm and the perimeter is 32 cm. The area of the triangle is:
+a) 60 sq. cm
+b) 48 sq. cm
+c) 56 sq. cm
+d) 72 sq. cm
+Answer: a
+
+9. The lengths of the sides of a triangular field are 96 m, 110 m, and 146 m. The cost of leveling the field at the rate of ₹5.60 per m² is:
+a) ₹29,568
+b) ₹31,424
+c) ₹28,336
+d) ₹27,842
+Answer: a
+
+10. A square and a rhombus have the same base. If the rhombus is inclined at 60°, what is the ratio of the area of the square to the area of the rhombus?
+a) 2 : √3
+b) 1 : 1
+c) √3 : 2
+d) 4 : 3
+Answer: a
+
+11. A wire, when bent in the form of a square, encloses an area of 484 sq. cm. What will be the area enclosed by the same wire when it is bent into the form of a circle? (Use π = 22/7)
+a) 616 sq. cm
+b) 588 sq. cm
+c) 644 sq. cm
+d) 602 sq. cm
+Answer: a
+
+12. The radius of a circular wheel is 1.75 m. How many revolutions will it make in travelling 11 km?
+a) 100
+b) 1000
+c) 500
+d) 2000
+Answer: b
+
+13. Four equal circles are drawn at the four corners of a square so that each touches two of the others. The area of the square is 196 sq. cm. What is the area of the region enclosed between the circles?
+a) 42 sq. cm
+b) 154 sq. cm
+c) 14 sq. cm
+d) 21 sq. cm
+Answer: a
+
+14. The circumference of a circle is 20% more than the perimeter of a square. If the radius of the circle is 14 cm, what is the area of the square?
+a) 484 sq. cm
+b) 441 sq. cm
+c) 400 sq. cm
+d) 529 sq. cm
+Answer: b
+
+15. A circular park, 42 m in diameter, has a path 3.5 m wide running around it on the outside. Find the cost of gravelling the path at ₹4 per sq. m.
+a) ₹2002
+b) ₹2000
+c) ₹1980
+d) ₹2024
+Answer: d
+
+16. A horse is tied to a peg at one corner of a square-shaped grass field of side 25 m by means of a 14 m long rope. Find the area of that part of the field in which the horse can graze. (Use π = 22/7)
+a) 154 sq. m
+b) 308 sq. m
+c) 164 sq. m
+d) 144 sq. m
+Answer: a
+
+17. The area of a sector of a circle of radius 5 cm, formed by an arc of length 3.5 cm, is:
+a) 7.5 sq. cm
+b) 8.75 sq. cm
+c) 9.5 sq. cm
+d) 10.25 sq. cm
+Answer: b
+
+18. Three concentric circles have radii in the ratio 2:3:4. What is the ratio of the area of the region between the inner two circles to that between the outer two circles?
+a) 5:7
+b) 3:5
+c) 4:9
+d) 9:16
+Answer: a
+
+19. From a circular sheet of paper with a radius of 20 cm, four circles of radius 5 cm each are cut out. What is the ratio of the area of the remaining portion to the area of the cut-out portion?
+a) 1:3
+b) 4:1
+c) 3:1
+d) 2:1
+Answer: c
+
+20. A square is inscribed in a circle whose radius is 10√2 cm. What is the area of the square?
+a) 200 sq. cm
+b) 400 sq. cm
+c) 800 sq. cm
+d) 100 sq. cm
+Answer: b
+
+21. The length of a cuboid is 20% more than its breadth and 40% less than its height. If the breadth of the cuboid is 25 cm, what is the total surface area of the cuboid?
+a) 4750 sq. cm
+b) 4250 sq. cm
+c) 3750 sq. cm
+d) 4550 sq. cm
+Answer: a
+
+22. A solid cube of side 12 cm is cut into eight cubes of equal volume. What will be the ratio of the total surface area of the original cube to the sum of the total surface areas of the smaller cubes?
+a) 1:2
+b) 1:4
+c) 2:3
+d) 1:3
+Answer: a
+
+23. The dimensions of an open box are 50 cm, 40 cm and 23 cm. Its thickness is 3 cm. If 1 cubic cm of metal used in the box weighs 0.5 g, then the weight of the empty box is:
+a) 8.04 kg
+b) 9.12 kg
+c) 9.96 kg
+d) 10.2 kg
+Answer: c
+
+24. A right circular cylinder of height 16 cm is covered by a rectangular tin foil of size 16 cm × 22 cm. The volume of the cylinder is:
+a) 176 cm³
+b) 154 cm³
+c) 308 cm³
+d) 616 cm³
+Answer: d
+
+25. The ratio of the curved surface area to the total surface area of a right circular cylinder is 3:5. If the curved surface area is 1848 sq. cm, what is the height of the cylinder?
+a) 28 cm
+b) 21 cm
+c) 35 cm
+d) 14 cm
+Answer: b
+
+26. The sum of the radius of the base and the height of a solid cylinder is 37 cm. If the total surface area of the cylinder is 1628 sq. cm, its volume is:
+a) 4620 cm³
+b) 3840 cm³
+c) 4410 cm³
+d) 4850 cm³
+Answer: a
+
+27. A rectangular sheet of paper 44 cm long and 18 cm wide is rolled along its length to form a cylinder. The volume of the cylinder so formed is:
+a) 2772 cm³
+b) 2542 cm³
+c) 2684 cm³
+d) 2472 cm³
+Answer: a
+
+28. The diagonal of a cube is 8√3 cm. What is its volume?
+a) 216 cm³
+b) 512 cm³
+c) 729 cm³
+d) 1000 cm³
+Answer: b
+
+29. A swimming pool is 24 m long and 15 m broad. When a certain number of men dive into the pool, the height of the water rises by 1 cm. If the average amount of water displaced by one of the men is 0.1 cu. m, the number of men in the pool is:
+a) 32
+b) 36
+c) 42
+d) 46
+Answer: b
+
+30. Water flows at a rate of 10 meters per minute through a cylindrical pipe 5 mm in diameter. How long would it take to fill a conical vessel whose diameter at the base is 40 cm and depth is 24 cm?
+a) 51 min 12 sec
+b) 52 min 1 sec
+c) 55 min
+d) 48 min 15 sec
+Answer: a
+
+31. A solid metallic sphere of radius 10.5 cm is melted and recast into a number of smaller cones, each of radius 3.5 cm and height 3 cm. The number of cones so formed is:
+a) 126
+b) 130
+c) 112
+d) 140
+Answer: a
+
+32. The curved surface area of a cone is 4070 cm² and its diameter is 70 cm. What is its slant height?
+a) 37 cm
+b) 41 cm
+c) 33 cm
+d) 29 cm
+Answer: a
+
+33. A conical tent is to accommodate 11 persons. Each person must have 4 sq. m of the space on the ground and 20 cu. m of air to breathe. The height of the cone is:
+a) 15 m
+b) 18 m
+c) 20 m
+d) 22.5 m
+Answer: a
+
+34. The radius of a sphere is increased by 50%. The percentage increase in its surface area is:
+a) 100%
+b) 125%
+c) 150%
+d) 225%
+Answer: b
+
+35. The radii of the bases of a cylinder and a cone are in the ratio 3:4. Their heights are in the ratio 2:3. The ratio of their volumes is:
+a) 9:8
+b) 8:9
+c) 3:4
+d) 4:3
+Answer: a
+
+36. A toy is in the form of a cone of radius 3.5 cm mounted on a hemisphere of the same radius. The total height of the toy is 15.5 cm. The total surface area of the toy is:
+a) 214.5 cm²
+b) 204.5 cm²
+c) 198.5 cm²
+d) 220.5 cm²
+Answer: a
+
+3d) 37. A metallic sheet is of rectangular shape with dimensions 48 m × 36 m. From each of its corners, a square is cut off so as to make an open box. If the length of the square is 8 m, the volume of the box (in m³) is:
+a) 5120
+b) 4860
+c) 5240
+d) 4096
+Answer: a
+
+38. The slant height of a frustum of a cone is 4 cm and the perimeters of its circular ends are 18 cm and 6 cm. Find the curved surface area of the frustum.
+a) 48 cm²
+b) 54 cm²
+c) 60 cm²
+d) 44 cm²
+Answer: a
+
+39. If the volume and surface area of a sphere are numerically equal, then its radius is:
+a) 1 unit
+b) 2 units
+c) 3 units
+d) 4 units
+Answer: c
+
+40. A solid is in the shape of a cone standing on a hemisphere with both their radii being equal to 7 cm. The height of the cone is equal to its diameter. The volume of the solid is:
+a) 1437.33 cm³
+b) 1540.33 cm³
+c) 1620.67 cm³
+d) 1711.33 cm³
+Answer: a
+
+41. The sum of the interior angles of a regular polygon is 1440°. The number of sides of the polygon is:
+a) 8
+b) 10
+c) 12
+d) 9
+Answer: b
+
+42. The difference between the interior and exterior angles of a regular polygon is 108°. The number of sides in the polygon is:
+a) 10
+b) 12
+c) 15
+d) 8
+Answer: a
+
+43. Find the area of a triangle whose vertices are A(2, 3), B(-1, 0), and C(2, -4).
+a) 10.5 sq. units
+b) 12 sq. units
+c) 9 sq. units
+d) 15 sq. units
+Answer: a
+
+44. The coordinates of the vertices of a parallelogram ABCD are A(1, 2), B(4, y), C(x, 6), and D(3, 5). What is the value of (x, y)?
+a) (6, 3)
+b) (3, 6)
+c) (5, 4)
+d) (4, 5)
+Answer: a
+
+45. The ratio of the sides of a triangle is 1/3 : 1/4 : 1/5. If the perimeter of the triangle is 94 cm, what is the length of the smallest side?
+a) 24 cm
+b) 18 cm
+c) 20 cm
+d) 30 cm
+Answer: a
+
+46. In a circle, two parallel chords of length 32 cm and 24 cm are on the opposite sides of the center. If the radius of the circle is 20 cm, the distance between the chords is:
+a) 20 cm
+b) 24 cm
+c) 28 cm
+d) 32 cm
+Answer: c
+
+47. A prism and a pyramid have the same base and the same height. The ratio of the volumes of the prism and the pyramid is:
+a) 1:3
+b) 3:1
+c) 2:3
+d) 3:2
+Answer: b
+
+48. A swimming pool is 60m long, 30m wide and 4m deep at the shallow end and 8m deep at the deep end. Find the volume of water in the pool when it is full.
+a) 7200 m³
+b) 9600 m³
+c) 10800 m³
+d) 5400 m³
+Answer: c
+
+49. A circle is inscribed in an equilateral triangle of side 12 cm. The area of the circle is:
+a) 12π cm²
+b) 16π cm²
+c) 9π cm²
+d) 18π cm²
+Answer: a
+
+50. The point P(x, y) is equidistant from the points A(5, 1) and B(-1, 5). The relation between x and y is:
+a) 3x = 2y
+b) 2x = 3y
+c) x = y
+d) 3x = -2y
+Answer: a

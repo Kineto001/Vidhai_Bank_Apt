@@ -1,0 +1,353 @@
+Overall Topic for Question Generation: Time & Distance
+Number of Questions: 50
+Difficulty: SBI PO/Clerk (Difficult)
+
+1. A train, 240 meters long, travelling at 72 km/hr, is approaching a tunnel AB of length 'L'. A cat is located at a point that is 3/8 of the distance AB from the entrance A. When the train is about to enter the tunnel, the cat runs. If the cat runs towards the entrance A, the train catches it exactly at the entrance. If the cat runs towards the exit B, the train catches it exactly at the exit. What is the length 'L' of the tunnel?
+a) 480 m
+b) 540 m
+c) 600 m
+d) 720 m
+Answer: c
+
+2. Two trains, P and Q, start at the same time from stations X and Y respectively, 650 km apart, and proceed towards each other. They meet after 5 hours. If train P had started 1 hour 40 minutes later than its scheduled time, they would have met 40 km closer to station Y. What is the speed of train Q?
+a) 60 km/hr
+b) 70 km/hr
+c) 50 km/hr
+d) 80 km/hr
+Answer: a
+
+3. Train A can cross a pole in 20 seconds and a platform 200 m long in 30 seconds. Train B, running in the opposite direction at a speed of 18 km/hr, crosses train A. Find the time taken by train B to cross a man standing on the platform.
+a) 24 seconds
+b) 32 seconds
+c) 28 seconds
+d) 30 seconds
+Answer: b
+
+4. The ratio of the speeds of train A and train B is 4:5. They are running in opposite directions on parallel tracks. The length of train A is 3/4th the length of train B. They take 8 seconds to cross each other. If train A increases its speed by 25% and crosses a tunnel in 12 seconds, what is the length of the tunnel?
+a) 160 m
+b) 120 m
+c) 100 m
+d) 140 m
+Answer: c
+
+5. A train travelling at a speed of ‘S’ km/hr crosses a man travelling in the same direction at a speed of 6 km/hr in 15 seconds. If the train had been 20% longer, it would have taken 17 seconds to cross him. At what speed should the train travel to cross a 450 m long platform in 20 seconds?
+a) 99 km/hr
+b) 108 km/hr
+c) 117 km/hr
+d) 90 km/hr
+Answer: b
+
+6. Two trains of equal length are running on parallel tracks. When running in the same direction, the faster train passes the slower train in 48 seconds. When running in opposite directions, they cross each other in 12 seconds. If the speed of the faster train is 75 km/hr, find the speed of the slower train.
+a) 45 km/hr
+b) 50 km/hr
+c) 30 km/hr
+d) 60 km/hr
+Answer: a
+
+7. A train meets with an accident after travelling 150 km. It then proceeds at 3/5 of its original speed and arrives at its destination 4 hours late. Had the accident occurred 120 km further, it would have been only 3 hours late. What is the length of the entire journey?
+a) 390 km
+b) 420 km
+c) 450 km
+d) 480 km
+Answer: c
+
+8. Two stations, P and Q, are 496 km apart. A superfast train starts from P at 7 am and travels towards Q at 80 km/hr. A passenger train starts from Q at 8:30 am and travels towards P at 52 km/hr. At what distance from station Q will they cross each other?
+a) 156 km
+b) 182 km
+c) 208 km
+d) 194 km
+Answer: a
+
+9. A train engine of length 15 m moving at 117 km/hr crosses a goods train of length 410 m running in the opposite direction in 10 seconds. In what time will the engine cross a bogey of the goods train of length 25 m, which got detached and is now stationary on the track?
+a) 1.23 seconds
+b) 2.46 seconds
+c) 3.69 seconds
+d) 4.92 seconds
+Answer: b
+
+10. The distance between two stations A and B is 840 km. Train T1 starts from A towards B at 60 km/hr. Train T2 starts from B towards A two hours later. They meet at a point which is 120 km closer to B than to A. Find the speed of train T2.
+a) 45 km/hr
+b) 50 km/hr
+c) 60 km/hr
+d) 75 km/hr
+Answer: b
+
+11. A 360-meter long train crosses a platform in 45 seconds. It crosses a man running in the same direction, whose speed is 12 km/hr, in 20 seconds. What is the length of the platform?
+a) 440 m
+b) 360 m
+c) 540 m
+d) 480 m
+Answer: c
+
+12. Two trains, an Express train and a Mail train, are running on parallel tracks in the same direction. The Express train is 150 m long and travels at 120 km/hr, while the Mail train is 250 m long and travels at 84 km/hr. How long will it take for the driver of the Express train to completely pass the Mail train?
+a) 25 seconds
+b) 40 seconds
+c) 15 seconds
+d) 30 seconds
+Answer: c
+
+13. A boat can travel 30 km upstream and 44 km downstream in 10 hours. It can also travel 40 km upstream and 55 km downstream in 13 hours. What is the speed of the stream plus the speed of the boat in still water?
+a) 16 km/hr
+b) 11 km/hr
+c) 8 km/hr
+d) 5 km/hr
+Answer: a
+
+14. The speed of a boat in still water is 250% more than the speed of the current. The boat takes a total of 18 hours to travel 210 km downstream and return to the starting point. How much time will it take the boat to travel 198 km in still water?
+a) 9.9 hours
+b) 8.8 hours
+c) 11 hours
+d) 9 hours
+Answer: a
+
+15. A man rows to a place 120 km away and comes back. The total time taken is 25 hours. He finds that he can row 5 km with the stream in the same time as he can row 3 km against the stream. Find the speed of the stream.
+a) 2 km/hr
+b) 3 km/hr
+c) 4 km/hr
+d) 5 km/hr
+Answer: c
+
+16. The ratio of the speed of a boat in still water to the speed of the stream is 8:3. The boat travels a total distance of 440 km, going downstream and then returning upstream. The difference between the time taken to go downstream and upstream is 5 hours. Find the total time taken for the entire journey.
+a) 11 hours
+b) 16 hours
+c) 21 hours
+d) 18 hours
+Answer: c
+
+17. A boat takes 90 minutes less to travel 36 km downstream than to travel the same distance upstream. If the speed of the boat in still water is 10 km/hr, the speed of the stream is:
+a) 4 km/hr
+b) 3 km/hr
+c) 2.5 km/hr
+d) 2 km/hr
+Answer: d
+
+18. A motorboat, whose speed in still water is 18 km/hr, goes 45 km downstream and comes back to the starting point in a total of 5 hours 20 minutes. The time taken by the boat to go 60 km upstream is:
+a) 3 hours
+b) 4 hours
+c) 5 hours
+d) 6 hours
+Answer: c
+
+19. A boat travels from point P to Q downstream and then returns from Q to P upstream. The time taken for the return journey is 150% more than the time taken for the onward journey. If the speed of the stream is 9 km/hr, what is the speed of the boat in still water?
+a) 21 km/hr
+b) 24 km/hr
+c) 30 km/hr
+d) 27 km/hr
+Answer: a
+
+20. The speed of a motorboat in still water and the speed of the stream are in the ratio 36:5. The boat goes along with the stream in 5 hours and 10 minutes. How much time will it take to come back?
+a) 6 hours 50 minutes
+b) 6 hours 30 minutes
+c) 7 hours 40 minutes
+d) 7 hours 20 minutes
+Answer: a
+
+21. A man can row 7.5 km/hr in still water. If in a river running at 2.5 km/hr, it takes him 75 minutes to row to a place and back, how far off is the place?
+a) 3 km
+b) 3.125 km
+c) 3.5 km
+d) 4 km
+Answer: b
+
+22. A boat covers a distance of 35 km upstream in 5 hours. It covers the same distance downstream in 2.5 hours. What is the speed of the boat in still water?
+a) 10.5 km/hr
+b) 12 km/hr
+c) 9.5 km/hr
+d) 11 km/hr
+Answer: a
+
+23. Two boats, A and B, start towards each other from two places, 150 km apart. The speed of boat A and B in still water is 16 km/hr and 14 km/hr respectively. If A proceeds down the stream and B proceeds up the stream, they will meet after:
+a) 4 hours
+b) 5 hours
+c) 6 hours
+d) 7 hours
+Answer: b
+
+24. A boat’s speed in still water is 12 km/hr. It travels 35 km upstream and then returns downstream to the starting point. If the speed of the stream is 2 km/hr, what is the total time taken for the whole journey?
+a) 5 hours
+b) 6 hours
+c) 6.5 hours
+d) 7 hours
+Answer: b
+
+25. Two cars start from the same point at the same time and travel in the same direction. The first car travels at a constant speed of 50 km/hr, while the second car travels at 40 km/hr in the first hour and increases its speed by 5 km/hr each subsequent hour. After how many hours will the second car overtake the first car?
+a) 3 hours
+b) 4 hours
+c) 5 hours
+d) 6 hours
+Answer: c
+
+26. A man cycles from P to Q, a distance of 30 km, in 2 hours 48 minutes. The road from P is level for 10 km, and then it is uphill to Q. The man's average speed on the level road is 15 km/hr. What is his average speed on the uphill part?
+a) 8 km/hr
+b) 10 km/hr
+c) 12 km/hr
+d) 7.5 km/hr
+Answer: b
+
+27. A person has to cover a distance of 300 km. He covers 1/3rd of the distance by train at 60 km/hr and 3/5th of the remaining distance by bus at 48 km/hr. At what speed must he travel the remaining distance to complete the journey in a total of 6 hours 10 minutes?
+a) 54 km/hr
+b) 60 km/hr
+c) 48 km/hr
+d) 72 km/hr
+Answer: a
+
+28. Ram and Shyam start from points A and B, 21 km apart, towards each other. Ram walks at 3 km/hr and Shyam at 4 km/hr. Ram starts at 9:00 AM and Shyam starts at 10:00 AM. At what time will they meet?
+a) 12:36 PM
+b) 12:00 PM
+c) 1:00 PM
+d) 12:45 PM
+Answer: a
+
+29. Without any stoppages, a person travels a certain distance at an average speed of 80 km/hr, and with stoppages, he covers the same distance at an average speed of 60 km/hr. For how many minutes per hour does the person stop?
+a) 12 minutes
+b) 15 minutes
+c) 18 minutes
+d) 20 minutes
+Answer: b
+
+30. A thief is spotted by a policeman from a distance of 200 meters. When the policeman starts the chase, the thief also starts running. If the speed of the thief is 10 km/hr and that of the policeman is 12 km/hr, how far will the thief have run before he is overtaken?
+a) 800 m
+b) 1000 m
+c) 1200 m
+d) 1500 m
+Answer: b
+
+31. A car travels the first 40% of a distance at a speed of V km/hr, the next 45% of the distance at 2V km/hr and the remaining distance at 3V km/hr. If the total time taken is 15.5 hours, what is the total distance? (Given V = 20 km/hr)
+a) 900 km
+b) 840 km
+c) 1200 km
+d) 1000 km
+Answer: c
+
+32. Two men, A and B, start from Delhi and Agra at the same time towards each other. After meeting on the way, they cover their remaining journeys in 7 1/9 hours and 6 1/4 hours respectively. Find the slower speed if the faster speed is 40 km/hr.
+a) 30 km/hr
+b) 25 km/hr
+c) 35 km/hr
+d) 37.5 km/hr
+Answer: d
+
+33. A man walks at a speed of 8 km/hr. After every kilometer, he takes a rest for 4 minutes. How much time will he take to cover a distance of 6 km?
+a) 65 minutes
+b) 70 minutes
+c) 60 minutes
+d) 69 minutes
+Answer: a
+
+34. A car driver leaves Bangalore at 8.30 A.M. and expects to reach a place 300 km from Bangalore at 12.30 P.M. At 10.30 A.M. he finds that he has covered only 40% of the distance. By how much does he have to increase the speed of the car in order to keep up his schedule?
+a) 45 km/hr
+b) 40 km/hr
+c) 35 km/hr
+d) 30 km/hr
+Answer: d
+
+35. A boy walking at 3/5 of his usual speed reaches his school 14 minutes late. What is his usual time to reach the school?
+a) 21 minutes
+b) 28 minutes
+c) 35 minutes
+d) 18 minutes
+Answer: a
+
+36. A person covers a total distance of 285 km in 6 hours. The first part of the journey he covers by bus at a speed of 40 km/hr and the second part by train at a speed of 55 km/hr. The distance covered by train is:
+a) 165 km
+b) 120 km
+c) 180 km
+d) 150 km
+Answer: a
+
+37. A car covers four successive 7 km distances at speeds of 10 km/hr, 20 km/hr, 30 km/hr and 60 km/hr respectively. Its average speed over this distance is:
+a) 20 km/hr
+b) 25 km/hr
+c) 30 km/hr
+d) 40 km/hr
+Answer: a
+
+38. If a man walks at 10 km/hr, he is 15 minutes late. If he walks at 12 km/hr, he is 5 minutes late. Find the distance to his office.
+a) 8 km
+b) 10 km
+c) 12 km
+d) 5 km
+Answer: b
+
+39. A journey of 900 km is completed in 11 hours. If two-fifths of the journey is covered at the speed of 60 km/hr, at what speed is the remaining journey covered?
+a) 90 km/hr
+b) 108 km/hr
+c) 120 km/hr
+d) 100 km/hr
+Answer: b
+
+40. A car travels from P to Q at a constant speed. If its speed were increased by 10 km/hr, it would have taken one hour less to cover the distance. It would have taken further 45 minutes less if the speed was further increased by 10 km/hr. The distance between the two cities is:
+a) 420 km
+b) 540 km
+c) 600 km
+d) 630 km
+Answer: a
+
+41. A travels from X to Y at a speed of 40 km/hr and returns by increasing his speed by 50%. What is his average speed for the whole journey?
+a) 45 km/hr
+b) 48 km/hr
+c) 50 km/hr
+d) 52 km/hr
+Answer: b
+
+42. A plane left 30 minutes later than its scheduled time and in order to reach the destination 1500 km away in time, it had to increase its speed by 250 km/hr from the usual speed. Find its usual speed.
+a) 750 km/hr
+b) 800 km/hr
+c) 900 km/hr
+d) 1000 km/hr
+Answer: a
+
+43. A man covers half of his journey at 6 km/hr and the remaining half at 3 km/hr. His average speed is:
+a) 3 km/hr
+b) 4 km/hr
+c) 4.5 km/hr
+d) 9 km/hr
+Answer: b
+
+44. A car covers a distance in 8 hours. It covers half the distance at 40 km/hr and the rest at 60 km/hr. The length of the journey is:
+a) 350 km
+b) 384 km
+c) 400 km
+d) 420 km
+Answer: b
+
+45. Two guns are fired from the same place at an interval of 6 minutes. A person approaching the place observes that 5 minutes 52 seconds have elapsed between the hearing of the sound of the two guns. If the velocity of the sound is 330 m/s, the man was approaching that place at what speed?
+a) 24 km/hr
+b) 27 km/hr
+c) 30 km/hr
+d) 36 km/hr
+Answer: b
+
+46. In a 1500 m race, Anil beats Bimal by 150 m. In a 1000 m race, Bimal beats Charu by 120 m. By how many meters does Anil beat Charu in a 2000 m race?
+a) 424 m
+b) 448 m
+c) 460 m
+d) 482 m
+Answer: b
+
+47. A, B, and C start from the same point and travel in the same direction around a circular stadium of circumference 1200 m. Their speeds are 2 m/s, 4 m/s, and 6 m/s respectively. When will they all meet again for the first time at the starting point?
+a) 10 minutes
+b) 12 minutes
+c) 15 minutes
+d) 20 minutes
+Answer: a
+
+48. In a race of 1 km, P gives Q a start of 100 m and still wins by 20 seconds. If P runs at 10 m/s, what is the speed of Q?
+a) 7.5 m/s
+b) 8 m/s
+c) 8.5 m/s
+d) 9 m/s
+Answer: a
+
+49. Two runners, X and Y, run on a circular track of length 1500 m. They start from the same point and at the same time with speeds of 18 km/hr and 27 km/hr. If they run in opposite directions, after how much time will they meet for the first time?
+a) 100 seconds
+b) 120 seconds
+c) 150 seconds
+d) 180 seconds
+Answer: b
+
+50. In a 500 m race, the ratio of the speeds of two contestants A and B is 3:4. A has a start of 140 m. Then, A wins by:
+a) 60 m
+b) 40 m
+c) 20 m
+d) 10 m
+Answer: c

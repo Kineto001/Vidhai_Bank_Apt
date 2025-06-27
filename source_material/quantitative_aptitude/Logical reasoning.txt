@@ -1,0 +1,665 @@
+**TNPSC Group 4 - Logical Reasoning & Mental Ability MCQs**
+
+**Topic: Logical reasoning - Puzzle like**
+
+1. Five friends P, Q, R, S, and T are sitting in a row facing North. R is to the immediate left of T and P is to the immediate left of Q. S is between T and Q. Who is sitting in the third position from the left end?
+(a) R
+(b) Q
+(c) S
+(d) T
+
+1. ஐந்து நண்பர்கள் P, Q, R, S, மற்றும் T வடக்கு நோக்கி ஒரு வரிசையில் அமர்ந்துள்ளனர். R என்பவர் T-க்கு உடனடியாக இடதுபுறத்திலும், P என்பவர் Q-க்கு உடனடியாக இடதுபுறத்திலும் உள்ளனர். S என்பவர் T மற்றும் Q-க்கு இடையில் அமர்ந்துள்ளார். இடது முனையிலிருந்து மூன்றாவது இடத்தில் அமர்ந்திருப்பவர் யார்?
+(a) R
+(b) Q
+(c) S
+(d) T
+Answer: c
+
+2. Six people A, B, C, D, E, and F are sitting around a circular table facing the center. B is sitting to the immediate right of A. C is sitting opposite to D. E is between A and C. Who is sitting opposite to B?
+(a) A
+(b) D
+(c) E
+(d) F
+
+2. A, B, C, D, E, மற்றும் F ஆகிய ஆறு பேர் ஒரு வட்ட மேசையைச் சுற்றி மையத்தை நோக்கி அமர்ந்துள்ளனர். B என்பவர் A-க்கு உடனடியாக வலதுபுறம் அமர்ந்துள்ளார். C என்பவர் D-க்கு எதிரே அமர்ந்துள்ளார். E என்பவர் A மற்றும் C-க்கு இடையில் அமர்ந்துள்ளார். B-க்கு எதிரே அமர்ந்திருப்பவர் யார்?
+(a) A
+(b) D
+(c) E
+(d) F
+Answer: d
+
+3. Five girls are sitting in a row. Rashi is not adjacent to Sulekha or Abha. Anuradha is not adjacent to Sulekha. Rashi is adjacent to Monika. Monika is at the middle of the row. Who is adjacent to Anuradha?
+(a) Rashi
+(b) Sulekha
+(c) Abha
+(d) Monika
+
+3. ஐந்து பெண்கள் ஒரு வரிசையில் அமர்ந்துள்ளனர். ராஷி, சுலேகா அல்லது அபாவின் அருகில் இல்லை. அனுராதா, சுலேகாவின் அருகில் இல்லை. ராஷி, மோனிகாவின் அருகில் உள்ளார். மோனிகா வரிசையின் நடுவில் உள்ளார். அனுராதாவின் அருகில் இருப்பவர் யார்?
+(a) ராஷி
+(b) சுலேகா
+(c) அபஹா
+(d) மோனிகா
+Answer: c
+
+4. A, B, C, D, E, and F are six members of a family sitting in a row. B is the son of C but C is not the mother of B. A and C are a married couple. F is the brother of C. D is the daughter of A. E is the brother of B. Who is sitting to the immediate right of D?
+(a) A
+(b) B
+(c) E
+(d) F
+
+4. A, B, C, D, E, மற்றும் F ஆகியோர் ஒரு குடும்பத்தைச் சேர்ந்த ஆறு உறுப்பினர்கள் ஒரு வரிசையில் அமர்ந்துள்ளனர். B என்பவர் C-யின் மகன், ஆனால் C என்பவர் B-யின் தாய் அல்ல. A மற்றும் C ஒரு திருமணமான தம்பதியினர். F என்பவர் C-யின் சகோதரர். D என்பவர் A-யின் மகள். E என்பவர் B-யின் சகோதரர். D-க்கு உடனடியாக வலதுபுறம் அமர்ந்திருப்பவர் யார்?
+(a) A
+(b) B
+(c) E
+(d) F
+Answer: a
+
+5. Eight people J, K, L, M, N, O, P, and Q are sitting around a circular table, facing the center. O is sitting third to the right of M. There is only one person sitting between M and J. There are three people sitting between J and K. P is an immediate neighbor of J. There are three people sitting between P and L. N is second to the right of P. Who is sitting opposite to N?
+(a) J
+(b) L
+(c) M
+(d) Q
+
+5. J, K, L, M, N, O, P, மற்றும் Q ஆகிய எட்டு பேர் ஒரு வட்ட மேசையைச் சுற்றி மையத்தை நோக்கி அமர்ந்துள்ளனர். O என்பவர் M-க்கு வலதுபுறம் மூன்றாவதாக அமர்ந்துள்ளார். M மற்றும் J-க்கு இடையில் ஒருவர் மட்டுமே அமர்ந்துள்ளார். J மற்றும் K-க்கு இடையில் மூன்று பேர் அமர்ந்துள்ளனர். P என்பவர் J-யின் உடனடி அண்டை வீட்டுக்காரர். P மற்றும் L-க்கு இடையில் மூன்று பேர் அமர்ந்துள்ளனர். N என்பவர் P-க்கு வலதுபுறம் இரண்டாவதாக அமர்ந்துள்ளார். N-க்கு எதிரே அமர்ந்திருப்பவர் யார்?
+(a) J
+(b) L
+(c) M
+(d) Q
+Answer: c
+
+6. Five buses M, N, O, P, Q are in a parking lot in a single row. M is at one end. O is second to the right of P. Q is to the immediate left of N and second to the right of M. Which bus is in the middle?
+(a) N
+(b) Q
+(c) O
+(d) P
+
+6. M, N, O, P, Q ஆகிய ஐந்து பேருந்துகள் ஒரே வரிசையில் ஒரு வாகன நிறுத்துமிடத்தில் உள்ளன. M ஒரு முனையில் உள்ளது. O என்பது P-க்கு வலதுபுறம் இரண்டாவதாக உள்ளது. Q என்பது N-க்கு உடனடியாக இடதுபுறத்திலும், M-க்கு வலதுபுறம் இரண்டாவதாகவும் உள்ளது. நடுவில் எந்தப் பேருந்து உள்ளது?
+(a) N
+(b) Q
+(c) O
+(d) P
+Answer: b
+
+7. Pointing to a photograph, a man said, "I have no brother or sister, but that man's father is my father's son." Whose photograph was it?
+(a) His own
+(b) His son's
+(c) His father's
+(d) His nephew's
+
+7. ஒரு புகைப்படத்தைச் சுட்டிக்காட்டி ஒரு மனிதர், "எனக்கு சகோதரன் அல்லது சகோதரி இல்லை, ஆனால் அந்த மனிதரின் தந்தை என் தந்தையின் மகன்" என்றார். அது யாருடைய புகைப்படம்?
+(a) அவருடையது
+(b) அவருடைய மகனுடையது
+(c) அவருடைய தந்தையுடையது
+(d) அவருடைய மருமகனுடையது
+Answer: b
+
+8. A is B's sister. C is B's mother. D is C's father. E is D's mother. Then, how is A related to D?
+(a) Grandfather
+(b) Grandmother
+(c) Daughter
+(d) Granddaughter
+
+8. A என்பவர் B-யின் சகோதரி. C என்பவர் B-யின் தாய். D என்பவர் C-யின் தந்தை. E என்பவர் D-யின் தாய். அப்படியானால், A என்பவர் D-க்கு என்ன உறவு?
+(a) தாத்தா
+(b) பாட்டி
+(c) மகள்
+(d) பேத்தி
+Answer: d
+
+9. Introducing a girl, Ram said, "Her mother is the only daughter of my mother-in-law." How is Ram related to the girl?
+(a) Uncle
+(b) Father
+(c) Brother
+(d) Husband
+
+9. ஒரு பெண்ணை அறிமுகப்படுத்தி, ராம், "அவளுடைய தாய் என் மாமியாரின் ஒரே மகள்" என்றார். ராம் அந்தப் பெண்ணுக்கு என்ன உறவு?
+(a) மாமா
+(b) தந்தை
+(c) சகோதரன்
+(d) கணவன்
+Answer: b
+
+10. If 'P + Q' means 'P is the father of Q', 'P - Q' means 'P is the sister of Q', and 'P * Q' means 'P is the brother of Q', then which of the following expressions shows that A is the aunt of C?
+(a) A - B + C
+(b) A * B - C
+(c) C - B + A
+(d) B + A - C
+
+10. 'P + Q' என்றால் 'P என்பவர் Q-வின் தந்தை', 'P - Q' என்றால் 'P என்பவர் Q-வின் சகோதரி', மற்றும் 'P * Q' என்றால் 'P என்பவர் Q-வின் சகோதரர்' எனில், பின்வரும் எந்த சமன்பாடு A என்பவர் C-யின் அத்தை என்பதைக் காட்டுகிறது?
+(a) A - B + C
+(b) A * B - C
+(c) C - B + A
+(d) B + A - C
+Answer: a
+
+11. Pointing to a boy, Meena said, "He is the son of my grandfather's only son." How is the boy related to Meena?
+(a) Uncle
+(b) Brother
+(c) Cousin
+(d) Father
+
+11. ஒரு பையனைச் சுட்டிக்காட்டி, மீனா, "அவன் என் தாத்தாவின் ஒரே மகனின் மகன்" என்றார். அந்தப் பையன் மீனாவுக்கு என்ன உறவு?
+(a) மாமா
+(b) சகோதரன்
+(c) ஒன்றுவிட்ட சகோதரன்
+(d) தந்தை
+Answer: b
+
+12. P is the mother of K. K is the sister of D. D is the father of J. How is P related to J?
+(a) Mother
+(b) Grandmother
+(c) Aunt
+(d) Data inadequate
+
+12. P என்பவர் K-யின் தாய். K என்பவர் D-யின் சகோதரி. D என்பவர் J-யின் தந்தை. P என்பவர் J-க்கு என்ன உறவு?
+(a) தாய்
+(b) பாட்டி
+(c) அத்தை
+(d) தகவல் போதுமானதாக இல்லை
+Answer: b
+
+13. A man walks 5 km towards South and then turns to the right. After walking 3 km, he turns to the left and walks 5 km. Now in which direction is he from the starting place?
+(a) West
+(b) South
+(c) North-East
+(d) South-West
+
+13. ஒருவர் தெற்கு நோக்கி 5 கி.மீ நடந்து, பின்னர் வலதுபுறம் திரும்புகிறார். 3 கி.மீ நடந்த பிறகு, அவர் இடதுபுறம் திரும்பி 5 கி.மீ நடக்கிறார். இப்போது அவர் புறப்பட்ட இடத்திலிருந்து எந்த திசையில் இருக்கிறார்?
+(a) மேற்கு
+(b) தெற்கு
+(c) வடகிழக்கு
+(d) தென்மேற்கு
+Answer: d
+
+14. Kumar starts from his house and walks 4 km towards North. Then he turns right and walks 3 km. Finally, he turns right and walks 4 km. How far is he from his starting point and in which direction?
+(a) 3 km, East
+(b) 5 km, North-East
+(c) 3 km, West
+(d) 5 km, East
+
+14. குமார் தன் வீட்டிலிருந்து புறப்பட்டு வடக்கு நோக்கி 4 கி.மீ நடக்கிறார். பிறகு வலதுபுறம் திரும்பி 3 கி.மீ நடக்கிறார். இறுதியாக, அவர் வலதுபுறம் திரும்பி 4 கி.மீ நடக்கிறார். அவர் தனது தொடக்கப் புள்ளியிலிருந்து எவ்வளவு தூரத்தில், எந்தத் திசையில் இருக்கிறார்?
+(a) 3 கி.மீ, கிழக்கு
+(b) 5 கி.மீ, வடகிழக்கு
+(c) 3 கி.மீ, மேற்கு
+(d) 5 கி.மீ, கிழக்கு
+Answer: a
+
+15. One morning after sunrise, Suresh was standing facing a pole. The shadow of the pole fell exactly to his right. To which direction was he facing?
+(a) East
+(b) West
+(c) South
+(d) North
+
+15. ஒரு நாள் காலை சூரிய உதயத்திற்குப் பிறகு, சுரேஷ் ஒரு கம்பத்தை நோக்கி நின்று கொண்டிருந்தார். கம்பத்தின் நிழல் சரியாக அவரது வலதுபுறத்தில் விழுந்தது. அவர் எந்தத் திசையை நோக்கி இருந்தார்?
+(a) கிழக்கு
+(b) மேற்கு
+(c) தெற்கு
+(d) வடக்கு
+Answer: c
+
+16. A river flows from west to east and on the way turns left and goes in a semi-circle round a hillock, and then turns left at right angles. In which direction is the river finally flowing?
+(a) West
+(b) East
+(c) North
+(d) South
+
+16. ஒரு நதி மேற்கிலிருந்து கிழக்காகப் பாய்கிறது, வழியில் இடதுபுறம் திரும்பி ஒரு குன்றை அரை வட்ட வடிவில் சுற்றி, பின்னர் செங்கோணத்தில் இடதுபுறம் திரும்புகிறது. நதி இறுதியாக எந்தத் திசையில் பாய்கிறது?
+(a) மேற்கு
+(b) கிழக்கு
+(c) வடக்கு
+(d) தெற்கு
+Answer: d
+
+17. Ravi is walking in the East direction. After walking for 1 km, he turns to his left and walks for 2 km. Again he turns to his left and walks for 1 km. How far is he from his starting point?
+(a) 1 km
+(b) 2 km
+(c) 3 km
+(d) 4 km
+
+17. ரவி கிழக்கு திசையில் நடந்து செல்கிறார். 1 கி.மீ நடந்த பிறகு, அவர் இடதுபுறம் திரும்பி 2 கி.மீ நடக்கிறார். மீண்டும் அவர் இடதுபுறம் திரும்பி 1 கி.மீ நடக்கிறார். அவர் தனது தொடக்கப் புள்ளியிலிருந்து எவ்வளவு தூரத்தில் இருக்கிறார்?
+(a) 1 கி.மீ
+(b) 2 கி.மீ
+(c) 3 கி.மீ
+(d) 4 கி.மீ
+Answer: b
+
+18. In a row of students, Priya is 15th from the left end and 10th from the right end. How many students are there in the row?
+(a) 24
+(b) 25
+(c) 23
+(d) 26
+
+18. ஒரு மாணவர் வரிசையில், பிரியா இடது முனையிலிருந்து 15 வதாகவும், வலது முனையிலிருந்து 10 வதாகவும் உள்ளார். அந்த வரிசையில் மொத்தம் எத்தனை மாணவர்கள் உள்ளனர்?
+(a) 24
+(b) 25
+(c) 23
+(d) 26
+Answer: a
+
+19. In a class of 40 students, Ram's rank is 12th from the top. What is his rank from the bottom?
+(a) 28
+(b) 29
+(c) 30
+(d) 27
+
+19. 40 மாணவர்கள் உள்ள ஒரு வகுப்பில், ராமின் தரம் மேலிருந்து 12 வது ஆகும். கீழிருந்து அவரது தரம் என்ன?
+(a) 28
+(b) 29
+(c) 30
+(d) 27
+Answer: b
+
+20. A, B, C, D and E are five books. C is above D, E is below A, D is above A and B is below E. Which book is at the bottom?
+(a) E
+(b) B
+(c) A
+(d) D
+
+20. A, B, C, D மற்றும் E ஆகிய ஐந்து புத்தகங்கள் உள்ளன. C, D-க்கு மேலே உள்ளது, E, A-க்குக் கீழே உள்ளது, D, A-க்கு மேலே உள்ளது மற்றும் B, E-க்குக் கீழே உள்ளது. எந்தப் புத்தகம் கீழே உள்ளது?
+(a) E
+(b) B
+(c) A
+(d) D
+Answer: b
+
+21. In a queue, Amar is 26th from the front and Akbar is 9th from the end, while Anthony is exactly in the middle of Amar and Akbar. If there are 50 persons in the queue, what position does Anthony occupy from the front?
+(a) 30th
+(b) 32nd
+(c) 34th
+(d) 35th
+
+21. ஒரு வரிசையில், அமர் முன்னால் இருந்து 26 வதாகவும், அக்பர் cuối இருந்து 9 வதாகவும் உள்ளனர், அதே நேரத்தில் அந்தோணி சரியாக அமர் மற்றும் அக்பருக்கு நடுவில் உள்ளார். வரிசையில் 50 பேர் இருந்தால், அந்தோணி முன்னால் இருந்து எந்த நிலையில் இருப்பார்?
+(a) 30வது
+(b) 32வது
+(c) 34வது
+(d) 35வது
+Answer: c
+
+22. Among five boys, Vasanth is taller than Manohar, but not as tall as Raju. Jayanth is taller than Dutta but shorter than Manohar. Who is the tallest?
+(a) Raju
+(b) Manohar
+(c) Vasanth
+(d) Jayanth
+
+22. ஐந்து சிறுவர்களில், வசந்த் மனோகரை விட உயரமானவர், ஆனால் ராஜுவைப் போல உயரமானவர் அல்ல. ஜெயந்த் தத்தாவை விட உயரமானவர், ஆனால் மனோகரை விடக் குட்டையானவர். யார் மிக உயரமானவர்?
+(a) ராஜு
+(b) மனோகர்
+(c) வசந்த்
+(d) ஜெயந்த்
+Answer: a
+
+23. If in a certain code, 'TEACHER' is written as 'VGCEJGT', how is 'CHILDREN' written in that code?
+(a) EJKNFGTO
+(b) EJKNFTGP
+(c) EJKNFTGO
+(d) EJKNHTGP
+
+23. ஒரு குறிப்பிட்ட குறியீட்டு மொழியில் 'TEACHER' என்பது 'VGCEJGT' என்று எழுதப்பட்டால், 'CHILDREN' என்பது அந்த குறியீட்டு மொழியில் எவ்வாறு எழுதப்படும்?
+(a) EJKNFGTO
+(b) EJKNFTGP
+(c) EJKNFTGO
+(d) EJKNHTGP
+Answer: b
+
+24. If 'ROSE' is coded as '6821', 'CHAIR' is coded as '73456' and 'PREACH' is coded as '961473', what will be the code for 'SEARCH'?
+(a) 246173
+(b) 214673
+(c) 214763
+(d) 216473
+
+24. 'ROSE' என்பது '6821' என்றும், 'CHAIR' என்பது '73456' என்றும், 'PREACH' என்பது '961473' என்றும் குறியிடப்பட்டால், 'SEARCH' என்பதற்கான குறியீடு என்னவாக இருக்கும்?
+(a) 246173
+(b) 214673
+(c) 214763
+(d) 216473
+Answer: b
+
+25. In a certain code language, 'pit na som' means 'bring me water', 'na jo tod' means 'water is life', 'tub od pit' means 'give me toy'. Which of the following stands for 'is' in that language?
+(a) jo
+(b) na
+(c) tod
+(d) som
+
+25. ஒரு குறிப்பிட்ட குறியீட்டு மொழியில், 'pit na som' என்றால் 'எனக்கு தண்ணீர் கொண்டு வா', 'na jo tod' என்றால் 'தண்ணீர் জীবন', 'tub od pit' என்றால் 'எனக்கு பொம்மை கொடு'. அந்த மொழியில் 'is' என்பதைக் குறிப்பது எது?
+(a) jo
+(b) na
+(c) tod
+(d) som
+Answer: a
+
+26. If 'CAT' is coded as '24' and 'DOG' is coded as '26', how will 'TIGER' be coded? (A=1, B=2, C=3, ...)
+(a) 55
+(b) 56
+(c) 57
+(d) 58
+
+26. 'CAT' என்பது '24' என்றும், 'DOG' என்பது '26' என்றும் குறியிடப்பட்டால், 'TIGER' எவ்வாறு குறியிடப்படும்? (A=1, B=2, C=3, ...)
+(a) 55
+(b) 56
+(c) 57
+(d) 58
+Answer: c
+
+27. If 'BLACK' is coded as 'CNBEM', then 'WHITE' is coded as:
+(a) XIJUF
+(b) XJHVG
+(c) XHJUH
+(d) XIJUF
+
+27. 'BLACK' என்பது 'CNBEM' என்று குறியிடப்பட்டால், 'WHITE' என்பது எவ்வாறு குறியிடப்படும்?
+(a) XIJUF
+(b) XJHVG
+(c) XHJUH
+(d) XIJUF
+Answer: b
+
+28. If 'air' is called 'green', 'green' is called 'blue', 'blue' is called 'sky', 'sky' is called 'yellow', and 'yellow' is called 'water', what is the color of the clear sky?
+(a) blue
+(b) sky
+(c) yellow
+(d) water
+
+28. 'காற்று' என்பது 'பச்சை' என்றும், 'பச்சை' என்பது 'நீலம்' என்றும், 'நீலம்' என்பது 'வானம்' என்றும், 'வானம்' என்பது 'மஞ்சள்' என்றும், 'மஞ்சள்' என்பது 'தண்ணீர்' என்றும் அழைக்கப்பட்டால், தெளிவான வானத்தின் நிறம் என்ன?
+(a) நீலம்
+(b) வானம்
+(c) மஞ்சள்
+(d) தண்ணீர்
+Answer: c
+
+29. A, B, C, D, and E are five friends living in a 5-storey building, with the ground floor as Floor 1. B lives on the floor just above A. D lives on the top floor. There is one floor between D and C. Who lives on the ground floor?
+(a) A
+(b) B
+(c) C
+(d) E
+
+29. A, B, C, D, மற்றும் E ஆகிய ஐந்து நண்பர்கள் 5 மாடி கட்டிடத்தில் வசிக்கின்றனர், தரை தளம் தளம் 1 ஆகும். B என்பவர் A-க்கு ஒரு தளம் மேலே வசிக்கிறார். D என்பவர் மேல் தளத்தில் வசிக்கிறார். D மற்றும் C-க்கு இடையில் ஒரு தளம் உள்ளது. தரை தளத்தில் வசிப்பவர் யார்?
+(a) A
+(b) B
+(c) C
+(d) E
+Answer: a
+
+30. Six lectures A, B, C, D, E and F are to be scheduled from Monday to Saturday, one lecture per day. Lecture A is not on Tuesday or Saturday. Lecture C is on the day immediately after Lecture F. Lecture B is on Thursday. There are two lectures between B and D. E is not on Monday. On which day is lecture F scheduled?
+(a) Monday
+(b) Wednesday
+(c) Friday
+(d) Saturday
+
+30. A, B, C, D, E மற்றும் F ஆகிய ஆறு விரிவுரைகள் திங்கள் முதல் சனி வரை, ஒரு நாளைக்கு ஒரு விரிவுரை என திட்டமிடப்பட வேண்டும். விரிவுரை A செவ்வாய் அல்லது சனிக்கிழமையில் இல்லை. விரிவுரை C, விரிவுரை F-க்கு அடுத்த நாள். விரிவுரை B வியாழக்கிழமை. B மற்றும் D-க்கு இடையில் இரண்டு விரிவுரைகள் உள்ளன. E திங்கட்கிழமையில் இல்லை. விரிவுரை F எந்த நாளில் திட்டமிடப்பட்டுள்ளது?
+(a) திங்கள்
+(b) புதன்
+(c) வெள்ளி
+(d) சனி
+Answer: c
+
+31. P, Q, R, S, T, and U are six family members. Q is the son of R, but R is not the mother of Q. P and R are a married couple. T is the brother of R. S is the daughter of P. U is the sister of Q. How many female members are there in the family?
+(a) 2
+(b) 3
+(c) 4
+(d) 1
+
+31. P, Q, R, S, T, மற்றும் U ஒரு குடும்பத்தின் ஆறு உறுப்பினர்கள். Q என்பவர் R-இன் மகன், ஆனால் R என்பவர் Q-இன் தாய் அல்ல. P மற்றும் R திருமணமான தம்பதியினர். T என்பவர் R-இன் சகோதரர். S என்பவர் P-இன் மகள். U என்பவர் Q-இன் சகோதரி. குடும்பத்தில் எத்தனை பெண் உறுப்பினர்கள் உள்ளனர்?
+(a) 2
+(b) 3
+(c) 4
+(d) 1
+Answer: b
+
+32. Five friends have different heights. B is taller than C but shorter than A. D is the shortest. E is taller than A. Who is the second tallest?
+(a) A
+(b) B
+(c) C
+(d) E
+
+32. ஐந்து நண்பர்கள் வெவ்வேறு உயரங்களைக் கொண்டுள்ளனர். B என்பவர் C-யை விட உயரமானவர் ஆனால் A-யை விட குட்டையானவர். D என்பவர் மிகக் குட்டையானவர். E என்பவர் A-யை விட உயரமானவர். இரண்டாவது உயரமானவர் யார்?
+(a) A
+(b) B
+(c) C
+(d) E
+Answer: a
+
+33. Ram is heavier than Shyam but lighter than Mohan. Sohan is lighter than Shyam. Who is the lightest?
+(a) Mohan
+(b) Ram
+(c) Shyam
+(d) Sohan
+
+33. ராம் ஷ்யாமை விட கனமானவர் ஆனால் மோகனை விட லேசானவர். சோஹன் ஷ்யாமை விட லேசானவர். யார் மிகவும் லேசானவர்?
+(a) மோகன்
+(b) ராம்
+(c) ஷ்யாம்
+(d) சோஹன்
+Answer: d
+
+34. In an exam, A scored more than B but less than C. D scored less than A but more than E. Who scored the highest?
+(a) A
+(b) B
+(c) C
+(d) D
+
+34. ஒரு தேர்வில், A என்பவர் B-யை விட அதிக மதிப்பெண்கள் பெற்றார் ஆனால் C-யை விட குறைவாக பெற்றார். D என்பவர் A-யை விட குறைவாக ஆனால் E-யை விட அதிகமாக பெற்றார். யார் அதிக மதிப்பெண்கள் பெற்றவர்?
+(a) A
+(b) B
+(c) C
+(d) D
+Answer: c
+
+35. There are five boxes. Box M is heavier than N and O. Box P is heavier than M but lighter than Q. Which box is the heaviest?
+(a) M
+(b) P
+(c) N
+(d) Q
+
+35. ஐந்து பெட்டிகள் உள்ளன. பெட்டி M, N மற்றும் O-வை விட கனமானது. பெட்டி P, M-ஐ விட கனமானது ஆனால் Q-வை விட லேசானது. எந்தப் பெட்டி மிகவும் கனமானது?
+(a) M
+(b) P
+(c) N
+(d) Q
+Answer: d
+
+36. 'Doctor' is related to 'Patient' in the same way as 'Lawyer' is related to?
+(a) Customer
+(b) Accused
+(c) Client
+(d) Magistrate
+
+36. 'மருத்துவர்' 'நோயாளி' உடன் தொடர்புடையது போல, 'வழக்கறிஞர்' யாருடன் தொடர்புடையவர்?
+(a) வாடிக்கையாளர்
+(b) குற்றம் சாட்டப்பட்டவர்
+(c) கட்சிக்காரர்
+(d) நீதிபதி
+Answer: c
+
+37. 'Book' is to 'Publisher' as 'Film' is to:
+(a) Director
+(b) Producer
+(c) Editor
+(d) Writer
+
+37. 'புத்தகம்' 'பதிப்பாளர்' என்பது போல, 'திரைப்படம்' என்பது:
+(a) இயக்குனர்
+(b) தயாரிப்பாளர்
+(c) தொகுப்பாளர்
+(d) எழுத்தாளர்
+Answer: b
+
+38. Find the related number: 8 : 512 :: 9 : ?
+(a) 729
+(b) 625
+(c) 81
+(d) 1000
+
+38. தொடர்புடைய எண்ணைக் கண்டறியவும்: 8 : 512 :: 9 : ?
+(a) 729
+(b) 625
+(c) 81
+(d) 1000
+Answer: a
+
+39. Find the related word pair: Ornithologist : Bird :: Anthropologist : ?
+(a) Plants
+(b) Animals
+(c) Mankind
+(d) Environment
+
+39. தொடர்புடைய வார்த்தை ஜோடியைக் கண்டறியவும்: பறவையியல் நிபுணர் : பறவை :: மானுடவியலாளர் : ?
+(a) தாவரங்கள்
+(b) விலங்குகள்
+(c) மனிதகுலம்
+(d) சுற்றுச்சூழல்
+Answer: c
+
+40. Find the odd one out:
+(a) Curd
+(b) Butter
+(c) Oil
+(d) Cheese
+
+40. பொருந்தாத ஒன்றைக் கண்டறியவும்:
+(a) தயிர்
+(b) வெண்ணெய்
+(c) எண்ணெய்
+(d) பாலாடைக்கட்டி
+Answer: c
+
+41. Find the odd one out:
+(a) January
+(b) May
+(c) July
+(d) November
+
+41. பொருந்தாத ஒன்றைக் கண்டறியவும்:
+(a) ஜனவரி
+(b) மே
+(c) ஜூலை
+(d) நவம்பர்
+Answer: d
+
+42. Find the odd number pair:
+(a) 5-25
+(b) 7-49
+(c) 9-81
+(d) 8-62
+
+42. பொருந்தாத எண் ஜோடியைக் கண்டறியவும்:
+(a) 5-25
+(b) 7-49
+(c) 9-81
+(d) 8-62
+Answer: d
+
+43. Find the odd one out:
+(a) Triangle
+(b) Circle
+(c) Square
+(d) Rectangle
+
+43. பொருந்தாத ஒன்றைக் கண்டறியவும்:
+(a) முக்கோணம்
+(b) வட்டம்
+(c) சதுரம்
+(d) செவ்வகம்
+Answer: b
+
+44. Complete the series: 3, 7, 15, 31, 63, ?
+(a) 127
+(b) 125
+(c) 131
+(d) 97
+
+44. தொடரை முடிக்கவும்: 3, 7, 15, 31, 63, ?
+(a) 127
+(b) 125
+(c) 131
+(d) 97
+Answer: a
+
+45. Find the next term in the series: B, E, I, N, ?
+(a) P
+(b) R
+(c) S
+(d) T
+
+45. தொடரில் அடுத்த உறுப்பைக் கண்டறியவும்: B, E, I, N, ?
+(a) P
+(b) R
+(c) S
+(d) T
+Answer: d
+
+46. Complete the series: 4, 9, 16, 25, 36, ?
+(a) 49
+(b) 64
+(c) 48
+(d) 50
+
+46. தொடரை முடிக்கவும்: 4, 9, 16, 25, 36, ?
+(a) 49
+(b) 64
+(c) 48
+(d) 50
+Answer: a
+
+47. What comes next in the series: AZ, CX, FU, ?
+(a) IR
+(b) JQ
+(c) KP
+(d) IV
+
+47. தொடரில் அடுத்து வருவது என்ன: AZ, CX, FU, ?
+(a) IR
+(b) JQ
+(c) KP
+(d) IV
+Answer: b
+
+48. Statement: All pens are pencils. All pencils are books.
+Conclusion I: All pens are books.
+Conclusion II: All books are pens.
+(a) Only conclusion I follows
+(b) Only conclusion II follows
+(c) Both I and II follow
+(d) Neither I nor II follows
+
+48. கூற்று: அனைத்து பேனாக்களும் பென்சில்கள். அனைத்து பென்சில்களும் புத்தகங்கள்.
+முடிவு I: அனைத்து பேனாக்களும் புத்தகங்கள்.
+முடிவு II: அனைத்து புத்தகங்களும் பேனாக்கள்.
+(a) முடிவு I மட்டும் சரி
+(b) முடிவு II மட்டும் சரி
+(c) I மற்றும் II இரண்டும் சரி
+(d) I மற்றும் II இரண்டும் தவறு
+Answer: a
+
+49. Statement: Some actors are singers. All singers are dancers.
+Conclusion I: Some actors are dancers.
+Conclusion II: No singer is an actor.
+(a) Only conclusion I follows
+(b) Only conclusion II follows
+(c) Either I or II follows
+(d) Neither I nor II follows
+
+49. கூற்று: சில நடிகர்கள் பாடகர்கள். அனைத்து பாடகர்களும் நடனக் கலைஞர்கள்.
+முடிவு I: சில நடிகர்கள் நடனக் கலைஞர்கள்.
+முடிவு II: எந்த பாடகரும் நடிகர் அல்ல.
+(a) முடிவு I மட்டும் சரி
+(b) முடிவு II மட்டும் சரி
+(c) I அல்லது II சரி
+(d) I மற்றும் II இரண்டும் தவறு
+Answer: a
+
+50. Statement: All cars are cats. All fans are cats.
+Conclusion I: All cars are fans.
+Conclusion II: Some fans are cars.
+(a) Only conclusion I follows
+(b) Only conclusion II follows
+(c) Both I and II follow
+(d) Neither I nor II follows
+
+50. கூற்று: அனைத்து கார்களும் பூனைகள். அனைத்து விசிறிகளும் பூனைகள்.
+முடிவு I: அனைத்து கார்களும் விசிறிகள்.
+முடிவு II: சில விசிறிகள் கார்கள்.
+(a) முடிவு I மட்டும் சரி
+(b) முடிவு II மட்டும் சரி
+(c) I மற்றும் II இரண்டும் சரி
+(d) I மற்றும் II இரண்டும் தவறு
+Answer: d

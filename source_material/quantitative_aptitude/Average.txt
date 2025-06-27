@@ -1,0 +1,402 @@
+SBI PO/Clerk Level Aptitude Questions - Average
+
+***
+
+1. The average weight of a class of 45 students is 52 kg. When 5 students, whose average weight is 48 kg, leave the class and are replaced by 5 new students, the average weight of the class increases by 1.2 kg. What is the average weight of the 5 new students?
+a) 58.8 kg
+b) 60 kg
+c) 61.2 kg
+d) 62.4 kg
+Answer: c
+
+---
+2. The average monthly income of P and Q is ₹6,000, that of Q and R is ₹5,250, and that of P and R is ₹5,500. What is the monthly income of Q?
+a) ₹5,500
+b) ₹5,750
+c) ₹6,000
+d) ₹6,250
+Answer: b
+
+---
+3. The average age of 11 players of a cricket team is increased by 2 months when two of them aged 18 years and 20 years are replaced by two new players. The average age of the new players is:
+a) 19 years 1 month
+b) 19 years 6 months
+c) 19 years 11 months
+d) 20 years 3 months
+Answer: c
+
+---
+4. In an examination, a student's average marks were 63 per paper. If he had obtained 20 more marks for his Geography paper and 2 more marks for his History paper, his average per paper would have been 65. How many papers were there in the examination?
+a) 8
+b) 9
+c) 10
+d) 11
+Answer: d
+
+---
+5. The average of 'n' numbers is 42. If 75% of the numbers are increased by 4 each and the remaining numbers are decreased by 8 each, what is the new average of the numbers?
+a) 42
+b) 43
+c) 44
+d) 41
+Answer: b
+
+---
+6. The average temperature for Monday, Tuesday, and Wednesday was 41°C. The average for Tuesday, Wednesday, and Thursday was 43°C. If the temperature on Thursday was 15% higher than that on Monday, what was the temperature on Thursday?
+a) 40°C
+b) 42°C
+c) 46°C
+d) 48°C
+Answer: c
+
+---
+7. The average age of 30 students in a class is 15 years. If the age of the teacher is included, the average age of the class becomes 16 years. Subsequently, a new student joins, and the age of the teacher is excluded. If the new average age of the 30 students is 15.5 years, what is the age of the new student?
+a) 30 years
+b) 31 years
+c) 32 years
+d) 33 years
+Answer: b
+
+---
+8. Out of three numbers, the first is twice the second and is half of the third. If the average of the three numbers is 56, what is the difference between the first and the third number?
+a) 12
+b) 24
+c) 36
+d) 48
+Answer: d
+
+---
+9. The average of 8 numbers is 20. The average of the first two numbers is 15.5 and that of the next three numbers is 21 1/3. If the 6th number is less than the 7th and 8th numbers by 4 and 7 respectively, then the 8th number is:
+a) 25
+b) 27
+c) 30
+d) 32
+Answer: b
+
+---
+10. The average salary of all the 65 employees in an office is ₹25,000. If the average salary of 25 officers is ₹32,000, then what is the average salary of the remaining 40 non-officer employees?
+a) ₹20,125
+b) ₹20,500
+c) ₹21,250
+d) ₹21,750
+Answer: a
+
+---
+11. The average of 7 consecutive even numbers is 36. What is the difference between the highest and lowest numbers?
+a) 10
+b) 12
+c) 14
+d) 16
+Answer: b
+
+---
+12. The average of five consecutive integers starting with 'm' is 'n'. What is the average of 9 consecutive integers starting with (m+2)?
+a) n + 2
+b) n + 3
+c) n + 4
+d) n + 5
+Answer: c
+
+---
+13. The sum of the average of three consecutive odd numbers and three consecutive even numbers is 21. If the highest even number is 16, what is the lowest odd number?
+a) 5
+b) 7
+c) 9
+d) 11
+Answer: a
+
+---
+14. The average of 9 consecutive numbers is N. If the next two numbers are also included, the new average will:
+a) remain the same
+b) increase by 1
+c) increase by 1.5
+d) increase by 2
+Answer: b
+
+---
+15. A, B, C, D, and E are five consecutive odd numbers. The average of A and C is 55. What is the value of E?
+a) 57
+b) 59
+c) 61
+d) 63
+Answer: c
+
+---
+16. The average of a non-zero number and its square is 5 times the number. The number is:
+a) 9
+b) 17
+c) 29
+d) 49
+Answer: a
+
+---
+17. The average of 4 consecutive multiples of 4 is 34. What is the largest of these multiples?
+a) 32
+b) 36
+c) 40
+d) 44
+Answer: c
+
+---
+18. There are three sets of numbers. The average of the first set of 5 numbers is 25. The average of the second set of 7 numbers is 35. The average of the third set of 3 numbers is 15. If the three sets are combined, what is the average of all the numbers?
+a) 27.67
+b) 28.33
+c) 29.17
+d) 30.00
+Answer: b
+
+---
+19. The average of x, y, and z is 45. x is greater than the average of y and z by 9. The average of y and z is greater than y by 2. What is the difference between x and z?
+a) 3
+b) 5
+c) 7
+d) 9
+Answer: c
+
+---
+20. The average of the first and the second of three numbers is 15 more than the average of the second and the third of these numbers. What is the difference between the first and the third of these three numbers?
+a) 15
+b) 30
+c) 45
+d) 60
+Answer: b
+
+---
+21. In a class of 60 students, 40% are girls. The average weight of the whole class is 59.2 kg and the average weight of the girls is 50 kg. What is the average weight of the boys?
+a) 65 kg
+b) 66 kg
+c) 67 kg
+d) 68 kg
+Answer: b
+
+---
+22. The average salary of all workers in a workshop is ₹12,000. The average salary of 7 technicians is ₹15,000 and the average salary of the rest is ₹9,000. The total number of workers in the workshop is:
+a) 12
+b) 13
+c) 14
+d) 15
+Answer: c
+
+---
+23. A grocer has a sale of ₹6435, ₹6927, ₹6855, ₹7230 and ₹6562 for 5 consecutive months. How much sale must he have in the sixth month so that he gets an average sale of ₹6500?
+a) ₹4991
+b) ₹5991
+c) ₹6001
+d) ₹6991
+Answer: a
+
+---
+24. In a company, the average salary of all employees is ₹60,000. The average salary of managers is ₹1,20,000 and that of non-managerial staff is ₹45,000. If there are a total of 150 employees, how many of them are managers?
+a) 20
+b) 25
+c) 30
+d) 40
+Answer: c
+
+---
+25. A student scores 78, 64, 85, and 73 in four subjects. He wants to have an average score of 80 in five subjects. How many marks must he score in the fifth subject to achieve this, assuming the maximum marks in the fifth subject are 100?
+a) 90
+b) 95
+c) 100
+d) The average is not achievable
+Answer: c
+
+---
+26. The average age of a group of men is increased by 5 years when a person aged 18 years is replaced by a new person of age 38 years. How many men are there in the group?
+a) 4
+b) 5
+c) 6
+d) 7
+Answer: a
+
+---
+27. The average price of 10 books is ₹12 while the average price of 8 of these books is ₹11.75. Of the remaining two books, if the price of one book is 60% more than the price of the other, what is the price of each of these two books?
+a) ₹10 and ₹16
+b) ₹12 and ₹19.2
+c) ₹8 and ₹12.8
+d) ₹14 and ₹22.4
+Answer: a
+
+---
+28. The average weight of a group of 20 boys was calculated to be 89.4 kg. It was later discovered that one weight was misread as 78 kg instead of the correct one of 87 kg. The correct average weight is:
+a) 88.95 kg
+b) 89.25 kg
+c) 89.55 kg
+d) 89.85 kg
+Answer: d
+
+---
+29. The average of 13 results is 68. The average of the first 7 is 63 and that of the last 7 is 70. What is the value of the 7th result?
+a) 47
+b) 49
+c) 51
+d) 53
+Answer: a
+
+---
+30. The average of marks in Mathematics for 5 students was found to be 50. Later, it was discovered that in the case of one student, the marks 48 were misread as 84. The correct average is:
+a) 40.8
+b) 42.8
+c) 44.8
+d) 46.8
+Answer: b
+
+---
+31. The average marks of 150 students in a class were 60. The average marks of boys were 70 and that of girls were 55. What is the number of boys in the class?
+a) 50
+b) 60
+c) 75
+d) 100
+Answer: a
+
+---
+32. The average monthly expenditure of a family was ₹10,000 for the first three months, ₹12,500 for the next three months, and ₹13,500 for the last six months of a year. If the total savings during the year were ₹32,500, find the average monthly income of the family.
+a) ₹15,250
+b) ₹14,750
+c) ₹15,000
+d) ₹14,500
+Answer: c
+
+---
+33. The average score of 42 students in a test is 69. The ratio of the number of boys to that of girls is 10:11. The average score of the girls is 20% more than that of the boys. What is the average score of the boys?
+a) 54
+b) 60
+c) 63
+d) 66
+Answer: c
+
+---
+34. The average marks of 40 students was calculated as 71. It was later found that the mark of one student had been wrongly entered as 86 instead of 46, and another student's mark was entered as 38 instead of 78. What is the correct average?
+a) 70
+b) 71
+c) 72
+d) 73
+Answer: b
+
+---
+35. The average of 50 numbers is 30. If two numbers, 35 and 40, are discarded, the average of the remaining numbers is nearly:
+a) 28.32
+b) 28.78
+c) 29.27
+d) 29.68
+Answer: d
+
+---
+36. A batsman has a certain average in 11 innings. In the 12th inning, he scores 90 runs and his average decreases by 5. What is his average after the 12th inning?
+a) 145
+b) 150
+c) 155
+d) 160
+Answer: a
+
+---
+37. A cricketer's batting average for a certain number of innings was 51.2 runs per inning. After playing two more innings in which he scored 60 and 72 runs, his batting average dropped to 51. How many innings did he play in total?
+a) 20
+b) 22
+c) 24
+d) 26
+Answer: c
+
+---
+38. The bowling average of a cricketer was 12.4 runs per wicket. He improves his bowling average by 0.2 points when he takes 5 wickets for 26 runs in his last match. The number of wickets taken by him before the last match was:
+a) 125
+b) 150
+c) 175
+d) 200
+Answer: c
+
+---
+39. In the first 10 overs of a cricket game, the run rate was only 3.2. What should be the run rate in the remaining 40 overs to reach the target of 282 runs?
+a) 6.25
+b) 6.5
+c) 6.75
+d) 7.0
+Answer: a
+
+---
+40. A batsman scores 87 runs in the 17th inning and thus increases his average by 3. Find his average after the 17th inning.
+a) 36
+b) 39
+c) 42
+d) 45
+Answer: b
+
+---
+41. The average age of a husband, wife, and their son 3 years ago was 27 years. The average age of the wife and the son 5 years ago was 20 years. What is the husband's present age?
+a) 35 years
+b) 40 years
+c) 45 years
+d) 50 years
+Answer: b
+
+---
+42. The average age of the family of five members is 24. If the present age of the youngest member is 8 years, what was the average age of the family at the time of the birth of the youngest member?
+a) 16 years
+b) 18 years
+c) 20 years
+d) 21 years
+Answer: c
+
+---
+43. Three years ago, the average age of a family of 5 members was 17 years. A baby having been born, the average age of the family is the same today. The present age of the baby is:
+a) 1 year
+b) 1.5 years
+c) 2 years
+d) 3 years
+Answer: c
+
+---
+44. The average age of a committee of 8 members is 40 years. A member, aged 55 years, retired and was replaced by another member aged 39 years. The average age of the present committee is:
+a) 36 years
+b) 38 years
+c) 39 years
+d) 40 years
+Answer: b
+
+---
+45. The average age of a class of 39 students is 15 years. If the age of the teacher is included, then the average increases by 3 months. Find the age of the teacher.
+a) 24 years
+b) 25 years
+c) 26 years
+d) 27 years
+Answer: b
+
+---
+46. A car owner buys petrol at ₹7.50, ₹8.00 and ₹8.50 per litre for three successive years. What approximately is the average cost per litre of petrol if he spends ₹4000 each year?
+a) ₹7.98
+b) ₹8.00
+c) ₹8.25
+d) ₹8.50
+Answer: a
+
+---
+47. A man travels from Town X to Town Y at an average speed of 30 km/hr and returns at an average speed of 50 km/hr. He then travels from X to Y again at 40 km/hr. What is his approximate average speed for the entire journey?
+a) 38.3 km/hr
+b) 39.1 km/hr
+c) 40.0 km/hr
+d) 41.5 km/hr
+Answer: a
+
+---
+48. The average of the areas of a square and a rectangle is 208 sq. cm. The length of the rectangle is 50% more than the side of the square, and the breadth of the rectangle is 10 cm less than the side of the square. Find the perimeter of the rectangle.
+a) 60 cm
+b) 68 cm
+c) 72 cm
+d) 80 cm
+Answer: b
+
+---
+49. The average weight of 3 men A, B, and C is 84 kg. Another man D joins the group and the average now becomes 80 kg. If another man E, whose weight is 3 kg more than that of D, replaces A, then the average weight of B, C, D, and E becomes 79 kg. The weight of A is:
+a) 70 kg
+b) 72 kg
+c) 75 kg
+d) 80 kg
+Answer: c
+
+---
+50. There are two sections A and B of a class, consisting of 36 and 44 students respectively. If the average weight of section A is 40 kg and that of section B is 35 kg, find the average weight of the whole class.
+a) 36.85 kg
+b) 37.25 kg
+c) 37.75 kg
+d) 38.15 kg
+Answer: b

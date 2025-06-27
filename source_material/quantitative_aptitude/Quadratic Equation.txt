@@ -1,0 +1,349 @@
+1. If the roots of the equation x² - px + q = 0 are α and β, then what is the value of (α² + β²)/αβ?
+a) (p² - 2q) / q
+b) (p² + 2q) / q
+c) (q² - 2p) / p
+d) (p² - 2q) / p
+Answer: a
+
+2. If one root of the quadratic equation 2x² - 8x - k = 0 is 5/2, what is the other root?
+a) 3/2
+b) -3/2
+c) -5/2
+d) 3/4
+Answer: a
+
+3. For what value of 'm' will the equation x² - (m+1)x + (m+4) = 0 have equal roots?
+a) 5 or -3
+b) -5 or 3
+c) 6 or -2
+d) -6 or 2
+Answer: a
+
+4. If the sum of the roots of the equation kx² + 2x + 3k = 0 is equal to their product, then what is the value of k?
+a) 2/3
+b) -2/3
+c) 1/3
+d) -1/3
+Answer: b
+
+5. Find the quadratic equation whose roots are the reciprocals of the roots of the equation 2x² - 3x - 5 = 0.
+a) 5x² + 3x - 2 = 0
+b) 5x² - 3x - 2 = 0
+c) 2x² + 3x - 5 = 0
+d) 5x² + 3x + 2 = 0
+Answer: a
+
+6. A motorboat, whose speed is 18 km/h in still water, takes 1 hour more to go 24 km upstream than to return downstream to the same spot. Find the speed of the stream.
+a) 4 km/h
+b) 5 km/h
+c) 6 km/h
+d) 8 km/h
+Answer: c
+
+7. If the roots of x² - 12x + k = 0 are in the ratio 1:2, what is the value of k?
+a) 24
+b) 28
+c) 32
+d) 36
+Answer: c
+
+8. If α and β are the roots of the equation 3x² + 5x - 2 = 0, find the value of (1/α + 1/β).
+a) 5/2
+b) -5/2
+c) 2/5
+d) -2/5
+Answer: a
+
+9. The sum of a number and its reciprocal is 10/3. Find the number.
+a) 2 or 1/2
+b) 3 or 1/3
+c) 4 or 1/4
+d) 5 or 1/5
+Answer: b
+
+10. If the equation x² + 2(k+2)x + 9k = 0 has equal roots, the values of k are:
+a) 1, 4
+b) -1, 4
+c) 1, -4
+d) -1, -4
+Answer: a
+
+11. The sum of the squares of two consecutive natural numbers is 313. Find the numbers.
+a) 11, 12
+b) 12, 13
+c) 13, 14
+d) 10, 11
+Answer: b
+
+12. If the roots of the equation (a² + b²)x² - 2b(a+c)x + (b² + c²) = 0 are equal, then which of the following is true?
+a) b² = ac
+b) a, b, c are in A.P.
+c) a, b, c are in G.P.
+d) a, b, c are in H.P.
+Answer: c
+
+13. If the difference between the roots of the equation x² - px + 8 = 0 is 2, then the value of p is:
+a) ±2
+b) ±4
+c) ±6
+d) ±8
+Answer: c
+
+14. Two pipes running together can fill a tank in 11 1/9 minutes. If one pipe takes 5 minutes more than the other to fill the tank, find the time in which each pipe would fill the tank separately.
+a) 15 min, 20 min
+b) 20 min, 25 min
+c) 25 min, 30 min
+d) 10 min, 15 min
+Answer: b
+
+15. If α, β are the roots of 2x² - 5x + 7 = 0, find the equation whose roots are (2α + 3β) and (3α + 2β).
+a) 2x² - 25x + 82 = 0
+b) 2x² + 25x - 82 = 0
+c) 2x² - 25x - 82 = 0
+d) 2x² + 25x + 82 = 0
+Answer: a
+
+16. If the roots of the equation x² - 8x + (a² - 6a) = 0 are real and distinct, then:
+a) a < 2 or a > 8
+b) 2 < a < 8
+c) a < -2 or a > 8
+d) -2 < a < 8
+Answer: c
+
+17. The denominator of a fraction is one more than twice the numerator. If the sum of the fraction and its reciprocal is 2 16/21, find the fraction.
+a) 2/5
+b) 4/9
+c) 5/11
+d) 3/7
+Answer: d
+
+18. If the equation x² + 5kx + 16 = 0 has no real roots, then:
+a) k > 8/5
+b) k < -8/5
+c) -8/5 < k < 8/5
+d) k = 8/5
+Answer: c
+
+19. If one root of the equation 3x² + px + 4 = 0 is 2/3, then the value of p and the other root are:
+a) p = -8, root = 2
+b) p = 8, root = -2
+c) p = -4, root = 1
+d) p = 4, root = -1
+Answer: a
+
+20. A trader bought a number of articles for Rs. 1200. Ten were damaged and he sold each of the rest at Rs. 2 more than what he paid for it, thus getting a profit of Rs. 60 on the whole transaction. Find the number of articles he bought.
+a) 120
+b) 100
+c) 80
+d) 150
+Answer: b
+
+21. If the equations x² + 2x + 3 = 0 and ax² + bx + c = 0 have a common root, and a, b, c are natural numbers, what is the minimum value of a + b + c?
+a) 3
+b) 5
+c) 6
+d) 9
+Answer: c
+
+22. What is the minimum value of the expression 4x² - 12x + 15?
+a) 15
+b) 6
+c) 9
+d) 4
+Answer: b
+
+23. If the roots of the equation (c² - ab)x² - 2(a² - bc)x + (b² - ac) = 0 are equal, what is the value of a³ + b³ + c³?
+a) abc
+b) 3abc
+c) 0
+d) a+b+c
+Answer: b
+
+24. The sum of the ages of a father and his son is 45 years. Five years ago, the product of their ages was 124. What are their present ages?
+a) 34, 11
+b) 35, 10
+c) 36, 9
+d) 39, 6
+Answer: c
+
+25. If the roots of the equation x² - (k+6)x + 2(2k-1) = 0 are such that their sum is half of their product, what is the value of k?
+a) 5
+b) 6
+c) 7
+d) 8
+Answer: c
+
+26. If the equation (1+m²)x² + 2mcx + (c² - a²) = 0 has equal roots, then c² is equal to:
+a) a²(1+m²)
+b) m²(1+a²)
+c) c²(1+a²)
+d) a²(1-m²)
+Answer: a
+
+27. If α and β are the roots of x² - x - 1 = 0, then what is the value of α⁸ + β⁸?
+a) 34
+b) 47
+c) 55
+d) 21
+Answer: b
+
+28. The speed of a boat in still water is 8 km/hr. It can go 15 km upstream and 22 km downstream in 5 hours. The speed of the stream is:
+a) 2 km/hr
+b) 3 km/hr
+c) 4 km/hr
+d) 1.5 km/hr
+Answer: b
+
+29. If the sum of the squares of the roots of x² - (p-2)x - (p+1) = 0 is a minimum, then the value of p is:
+a) 0
+b) 1
+c) -1
+d) 2
+Answer: b
+
+30. Find the value of √(6 + √(6 + √(6 + ...)))
+a) 2
+b) 2.5
+c) 3
+d) 3.5
+Answer: c
+
+31. If the roots of the equation px² + qx + r = 0 are in the ratio l:m, then:
+a) (l+m)²pr = lm q²
+b) (l+m)²pr = (lm)²q
+c) (l+m)²q² = lm pr
+d) (l+m)²pr = lm q²
+Answer: d
+
+32. A two-digit number is such that the product of the digits is 12. When 36 is added to the number, the digits interchange their places. Find the number.
+a) 26
+b) 62
+c) 34
+d) 43
+Answer: a
+
+33. If the equation x² - ax + 1 = 0 has two distinct roots, then the value of 'a' cannot be:
+a) 3
+b) 2.5
+c) -3
+d) 1.5
+Answer: d
+
+34. If α and β are the roots of x² - 2x + 3 = 0, then the equation whose roots are α+2 and β+2 is:
+a) x² - 6x + 11 = 0
+b) x² - 6x - 11 = 0
+c) x² + 6x + 11 = 0
+d) x² + 6x - 11 = 0
+Answer: a
+
+35. The hypotenuse of a right-angled triangle is 6 cm more than twice the shortest side. If the third side is 2 cm less than the hypotenuse, find the sides of the triangle.
+a) 8, 15, 17
+b) 7, 24, 25
+c) 10, 24, 26
+d) 9, 40, 41
+Answer: c
+
+36. For what value of k, does the equation kx(x-2) + 6 = 0 have equal roots?
+a) 3
+b) 4
+c) 5
+d) 6
+Answer: d
+
+37. If the product of the roots of the equation (a+1)x² + (2a+3)x + (3a+4) = 0 is 2, then the sum of roots is:
+a) -1
+b) 1
+c) 2
+d) -2
+Answer: a
+
+38. If the equations x² - px + q = 0 and x² - qx + p = 0 have a common root and p ≠ q, then p+q+1 is equal to:
+a) 0
+b) 1
+c) -1
+d) 2
+Answer: a
+
+39. The number of real solutions of the equation x² - 3|x| + 2 = 0 is:
+a) 1
+b) 2
+c) 3
+d) 4
+Answer: d
+
+40. Out of a group of swans, 7/2 times the square root of the number are playing on the shore, while the remaining two are playing in the water. What is the total number of swans?
+a) 9
+b) 16
+c) 25
+d) 36
+Answer: b
+
+41. If α and β are the roots of the equation ax² + bx + c = 0, then what is the value of (1 / (aα + b)) + (1 / (aβ + b))?
+a) b/ac
+b) a/bc
+c) c/ab
+d) -b/ac
+Answer: a
+
+42. The perimeter of a rectangular field is 82 m and its area is 400 m². Find the breadth of the rectangle.
+a) 12 m
+b) 16 m
+c) 20 m
+d) 25 m
+Answer: b
+
+43. If the ratio of the roots of the equation lx² + nx + n = 0 is p:q, then what is the value of √(p/q) + √(q/p) + √(n/l)?
+a) 1
+b) -1
+c) 0
+d) 2
+Answer: c
+
+44. A person on tour has Rs. 4200 for his expenses. If he extends his tour for 3 days, he has to cut down his daily expenses by Rs. 70. For how many days was the tour originally planned?
+a) 10 days
+b) 12 days
+c) 15 days
+d) 18 days
+Answer: b
+
+45. If one root of the equation ax² + bx + c = 0 is the square of the other, then:
+a) b³ + a²c + ac² = 3abc
+b) b³ - a²c - ac² = 3abc
+c) b³ + a²c + ac² = -3abc
+d) b³ + a²c + ac² = 0
+Answer: a
+
+46. If the equation (k-12)x² + 2(k-12)x + 2 = 0 has equal roots, then the value of k is:
+a) 12
+b) 14
+c) 13
+d) 15
+Answer: b
+
+47. The sum of a number and its positive square root is 6/25. The number is:
+a) 1/25
+b) 4/25
+c) 9/25
+d) 1/5
+Answer: a
+
+48. If the roots of the equation x² + x + 1 = 0 are α and β, then the equation whose roots are α¹⁹ and β⁷ is:
+a) x² - x + 1 = 0
+b) x² + x - 1 = 0
+c) x² + x + 1 = 0
+d) x² - x - 1 = 0
+Answer: c
+
+49. At a party, each person shakes hands with every other person. If there are a total of 105 handshakes, how many people are at the party?
+a) 12
+b) 13
+c) 14
+d) 15
+Answer: d
+
+50. If the roots of the equation x³ - 12x² + 39x - 28 = 0 are in A.P., then the common difference is:
+a) ±1
+b) ±2
+c) ±3
+d) ±4
+Answer: c

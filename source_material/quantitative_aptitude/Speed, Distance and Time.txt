@@ -1,0 +1,349 @@
+1. A man covers a certain distance at a certain speed. If he had moved 3 km/hr faster, he would have taken 40 minutes less. If he had moved 2 km/hr slower, he would have taken 40 minutes more. The distance (in km) is:
+a) 35
+b) 36.66
+c) 37.5
+d) 40
+Answer: d
+
+2. A person travels from P to Q at a speed of 40 km/hr and returns by increasing his speed by 50%. What is his average speed for both the trips?
+a) 48 km/hr
+b) 50 km/hr
+c) 45 km/hr
+d) 52 km/hr
+Answer: a
+
+3. A car travels from point A to point B, which are 150 km apart. It covers the first 50 km in 1/3rd of the total time, and the next 50 km at a speed which is double the speed of the first 50 km. What should be the speed of the car for the last 50 km so that the average speed for the entire journey is 60 km/hr?
+a) 90 km/hr
+b) 100 km/hr
+c) 75 km/hr
+d) 120 km/hr
+Answer: b
+
+4. If a man walks at 5/6th of his usual speed, he reaches his destination 24 minutes late. What is the usual time taken by him to cover the same distance?
+a) 2 hours
+b) 2 hours 24 minutes
+c) 1 hour 48 minutes
+d) 2 hours
+Answer: d
+
+5. A flight is scheduled to cover a distance of 1500 km in 2.5 hours. To arrive on time, the pilot has to increase the speed by 250 km/hr from the scheduled speed due to bad weather. What was the scheduled speed of the flight?
+a) 600 km/hr
+b) 750 km/hr
+c) 500 km/hr
+d) 800 km/hr
+Answer: b
+
+6. A journey of 900 km is completed in 11 hours. If two-fifths of the journey is completed at the speed of 60 km/hr, at what speed (in km/hr) is the remaining journey completed?
+a) 75
+b) 90
+c) 108
+d) 120
+Answer: c
+
+7. Excluding stoppages, the speed of a bus is 72 km/hr, and including stoppages, it is 60 km/hr. For how many minutes does the bus stop per hour?
+a) 8
+b) 10
+c) 12
+d) 15
+Answer: b
+
+8. A man travels for 14 hours. He covers the first half of the distance at 40 km/hr and the second half at 30 km/hr. Find the total distance travelled by him.
+a) 480 km
+b) 460 km
+c) 520 km
+d) 440 km
+Answer: a
+
+9. A thief is spotted by a policeman from a distance of 250 meters. When the policeman starts the chase, the thief also starts running. Assuming the speed of the thief is 10 km/hr and that of the policeman is 12 km/hr, how far will the thief have run before he is overtaken?
+a) 1 km
+b) 1.25 km
+c) 1.5 km
+d) 1.75 km
+Answer: b
+
+10. Two cities, A and B, are 360 km apart. A car starts from A towards B at 8 AM with a speed of 40 km/hr. Another car starts from B towards A at 9 AM with a speed of 50 km/hr. At what time will they meet?
+a) 12:00 PM
+b) 12:20 PM
+c) 12:40 PM
+d) 1:00 PM
+Answer: c
+
+11. A and B start from the same point and at the same time to walk around a circular path of 12 km. If A walks at 4 km/hr and B at 3 km/hr in the same direction, after how many hours will they meet at the starting point for the first time?
+a) 6
+b) 8
+c) 10
+d) 12
+Answer: d
+
+12. Two persons, P and Q, are 844 meters apart. They both start cycling simultaneously in the same direction. The speed of P and Q are 12 m/s and 8 m/s respectively. In how much time will P overtake Q?
+a) 200 seconds
+b) 211 seconds
+c) 221 seconds
+d) 231 seconds
+Answer: b
+
+13. A car moving in the morning fog passes a man walking at 4 km/hr in the same direction. The man could see the car for 3 minutes and up to a distance of 130m. The speed of the car is:
+a) 6.2 km/hr
+b) 6.6 km/hr
+c) 7.2 km/hr
+d) 5.8 km/hr
+Answer: b
+
+14. A train 180 m long moving at 54 km/hr takes 20 seconds to pass a tunnel. What is the length of the tunnel?
+a) 100 m
+b) 120 m
+c) 150 m
+d) 180 m
+Answer: b
+
+15. Two trains of equal length are running on parallel lines in the same direction at 46 km/hr and 36 km/hr. The faster train passes the slower train in 36 seconds. The length of each train is:
+a) 50 m
+b) 72 m
+c) 80 m
+d) 82 m
+Answer: a
+
+16. A train passes a station platform in 36 seconds and a man standing on the platform in 20 seconds. If the speed of the train is 54 km/hr, what is the length of the platform?
+a) 240 m
+b) 250 m
+c) 300 m
+d) 320 m
+Answer: a
+
+17. Two trains, A and B, start from stations X and Y towards each other. They take 4 hours 48 minutes and 3 hours 20 minutes to reach Y and X respectively after they meet. If train A is moving at 45 km/hr, then the speed of train B is:
+a) 54 km/hr
+b) 60 km/hr
+c) 64.8 km/hr
+d) 50 km/hr
+Answer: a
+
+18. A train of length 240m passes a pole in 24 seconds. How long will it take to pass a platform 650 m long?
+a) 89 seconds
+b) 90 seconds
+c) 65 seconds
+d) 100 seconds
+Answer: a
+
+19. A goods train and a passenger train are running on parallel tracks in the same direction. The driver of the goods train observes that the passenger train coming from behind overtakes and crosses his train completely in 60 seconds. Whereas a passenger on the passenger train observes that he crosses the goods train in 40 seconds. If the speeds of the trains are in the ratio 1:2, then the ratio of their lengths is:
+a) 2:1
+b) 1:2
+c) 3:2
+d) 2:3
+Answer: a
+
+20. Two trains are moving in opposite directions at 60 km/hr and 90 km/hr. Their lengths are 1.10 km and 0.9 km respectively. The time taken by the slower train to cross the faster train in seconds is:
+a) 48
+b) 56
+c) 42
+d) 36
+Answer: a
+
+21. A train, 150 m long, is running with a speed of 68 km/hr. In what time will it pass a man who is running at 8 km/hr in the same direction in which the train is going?
+a) 8 seconds
+b) 9 seconds
+c) 10 seconds
+d) 12 seconds
+Answer: b
+
+22. A train leaves a station A at 7 am and reaches another station B at 11 am. Another train leaves B at 8 am and reaches A at 11:30 am. The two trains cross one another at:
+a) 8:56 am
+b) 9:00 am
+c) 9:24 am
+d) 8:36 am
+Answer: c
+
+23. A train running at 7/11 of its own speed reached a place in 22 hours. How much time could be saved if the train would have run at its own speed?
+a) 7 hours
+b) 8 hours
+c) 14 hours
+d) 16 hours
+Answer: b
+
+24. A train with 90 km/h crosses a bridge in 36 seconds. Another train 100 metres shorter crosses the same bridge at 45 km/h. Find the time taken by the second train to cross the bridge.
+a) 61 seconds
+b) 62 seconds
+c) 63 seconds
+d) 64 seconds
+Answer: d
+
+25. The ratio between the speeds of two trains is 7:8. If the second train runs 400 km in 4 hours, then the speed of the first train is:
+a) 70 km/hr
+b) 75 km/hr
+c) 84 km/hr
+d) 87.5 km/hr
+Answer: d
+
+26. A boat can travel 20 km downstream in 24 min. The ratio of the speed of the boat in still water to the speed of the stream is 4:1. How much time will the boat take to cover 15 km upstream?
+a) 20 min
+b) 25 min
+c) 30 min
+d) 35 min
+Answer: c
+
+27. A man can row 40 km upstream and 55 km downstream in 13 hours. Also, he can row 30 km upstream and 44 km downstream in 10 hours. What is the speed of the man in still water?
+a) 5 km/hr
+b) 8 km/hr
+c) 11 km/hr
+d) 3 km/hr
+Answer: b
+
+28. A boat takes 90 minutes less to travel 36 km downstream than to travel the same distance upstream. If the speed of the boat in still water is 10 km/hr, the speed of the stream is:
+a) 2 km/hr
+b) 2.5 km/hr
+c) 3 km/hr
+d) 4 km/hr
+Answer: a
+
+29. The speed of a boat in still water is 15 km/hr and the rate of current is 3 km/hr. The distance travelled downstream in 12 minutes is:
+a) 3.6 km
+b) 2.4 km
+c) 1.2 km
+d) 1.8 km
+Answer: a
+
+30. A boat covers a certain distance downstream in 1 hour, while it comes back in 1.5 hours. If the speed of the stream be 3 km/hr, what is the speed of the boat in still water?
+a) 12 km/hr
+b) 13 km/hr
+c) 14 km/hr
+d) 15 km/hr
+Answer: d
+
+31. A man rows to a place 48 km distant and comes back in 14 hours. He finds that he can row 4 km with the stream in the same time as 3 km against the stream. The rate of the stream is:
+a) 1 km/hr
+b) 1.5 km/hr
+c) 2 km/hr
+d) 2.5 km/hr
+Answer: a
+
+32. A boat running downstream covers a distance of 16 km in 2 hours while for covering the same distance upstream, it takes 4 hours. What is the speed of the boat in still water?
+a) 4 km/hr
+b) 6 km/hr
+c) 8 km/hr
+d) Data inadequate
+Answer: b
+
+33. The ratio of speed of a boat in still water to the speed of the stream is 8:1. It takes 4 hours for the boat to travel 54 km downstream and 42 km upstream. Find the downstream speed of the boat.
+a) 18 km/hr
+b) 24 km/hr
+c) 27 km/hr
+d) 30 km/hr
+Answer: c
+
+34. A boat takes a total of 6 hours to row 8 km downstream and 8 km upstream. If the speed of the stream is 1.5 km/hr, how much time would the boat take to travel 21 km in still water?
+a) 3.5 hours
+b) 4 hours
+c) 4.2 hours
+d) 5 hours
+Answer: c
+
+35. A motorboat, whose speed is 15 km/hr in still water goes 30 km downstream and comes back in a total of 4 hours 30 minutes. The speed of the stream (in km/hr) is:
+a) 4
+b) 5
+c) 6
+d) 10
+Answer: b
+
+36. In a 100m race, A beats B by 10m and C by 13m. In a race of 180m, B will beat C by:
+a) 5.4 m
+b) 4.5 m
+c) 5 m
+d) 6 m
+Answer: d
+
+37. A, B and C start at the same time in the same direction to run around a circular stadium. A completes a round in 252 seconds, B in 308 seconds and C in 198 seconds, all starting at the same point. After what time will they meet again at the starting point?
+a) 26 minutes 18 seconds
+b) 42 minutes 36 seconds
+c) 45 minutes
+d) 46 minutes 12 seconds
+Answer: d
+
+38. In a 500 meter race, the ratio of the speeds of two contestants A and B is 3:4. A has a start of 140 m. Then, A wins by:
+a) 60 m
+b) 40 m
+c) 20 m
+d) 10 m
+Answer: c
+
+39. Two men A and B run a 4 km race on a circular course of 1/4 km. If their speeds are in the ratio of 5:4, how many times does the winner pass the other?
+a) 3
+b) 4
+c) 2
+d) 5
+Answer: a
+
+40. In a 1 km race, A gives B a start of 40 meters and still wins by 10 seconds. If A runs at 6 m/s, what is the speed of B?
+a) 5 m/s
+b) 4.8 m/s
+c) 5.2 m/s
+d) 4.5 m/s
+Answer: a
+
+41. Ram and Shyam run a 4 km race on a circular track of 400 m. Their speeds are 10 m/s and 16 m/s. They start from the same point in the opposite direction. When will they meet for the first time?
+a) 15.38 s
+b) 16 s
+c) 14.8 s
+d) 15 s
+Answer: a
+
+42. In a game of 80 points, A can give B 5 points and C 15 points. Then how many points B can give C in a game of 60?
+a) 10 points
+b) 8 points
+c) 12 points
+d) 16 points
+Answer: b
+
+43. A and B run a 1000 m race. A gives B a head start of 50 m and beats him by 15 seconds. If A's speed is 10 m/s, what is B's speed?
+a) 8 m/s
+b) 8.26 m/s
+c) 9 m/s
+d) 8.5 m/s
+Answer: b
+
+44. A person has to travel from point A to point B in a certain time. Traveling at a speed of 5 km/hr he reaches 48 minutes late and while traveling at a speed of 8 km/hr he reaches 15 minutes early. What is the distance between A and B?
+a) 15 km
+b) 18 km
+c) 21 km
+d) 24 km
+Answer: c
+
+45. An escalator is moving downwards. A man takes 50 seconds to walk down on it. He takes 125 seconds to walk up on it, against the motion of the escalator. If he stands still on the escalator, how long would it take for him to reach the bottom?
+a) 71.4 seconds
+b) 75 seconds
+c) 83.3 seconds
+d) 90 seconds
+Answer: a
+
+46. Two cars start from the same point at the same time, one travels north at 60 km/hr and the other travels east at 80 km/hr. What will be the distance between them after 3 hours?
+a) 250 km
+b) 300 km
+c) 350 km
+d) 420 km
+Answer: b
+
+47. A bus travels 2/5 of a total journey at its usual speed. The remaining distance was covered by the bus at 6/7 of its usual speed. Due to slow speed, it reached its destination 50 minutes late. If the total distance is 200 km, then what is the usual speed of the bus?
+a) 36.45 km/hr
+b) 49.14 km/hr
+c) 52.32 km/hr
+d) 56.54 km/hr
+Answer: b
+
+48. A car driver leaves Bangalore at 8.30 A.M. and expects to reach a place 300 km from Bangalore at 12.30 P.M. At 10.30 A.M. he finds that he has covered only 40% of the distance. By how much does he have to increase the speed of the car to reach the destination on time?
+a) 45 km/hr
+b) 40 km/hr
+c) 35 km/hr
+d) 30 km/hr
+Answer: d
+
+49. Robert is travelling on his cycle and has calculated to reach point A at 2 P.M. if he travels at 10 km/hr, he will reach there at 12 noon if he travels at 15 km/hr. At what speed must he travel to reach A at 1 P.M.?
+a) 8 km/hr
+b) 11 km/hr
+c) 12 km/hr
+d) 14 km/hr
+Answer: c
+
+50. A man takes 5 hours 45 min in walking to a certain place and riding back. He would have gained 2 hours by riding both ways. The time he would take to walk both ways is:
+a) 7 hours 45 min
+b) 8 hours
+c) 8 hours 15 min
+d) 7 hours 30 min
+Answer: a

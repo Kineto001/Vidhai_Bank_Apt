@@ -1,0 +1,803 @@
+TNPSC Group 4 - Aptitude and Mental Ability
+Topic: LCM and HCF (மீ.சி.ம மற்றும் மீ.பெ.வ)
+Total Questions: 50
+
+---
+
+1. Find the LCM of 24, 36 and 40.
+a) 120
+b) 240
+c) 360
+d) 480
+
+1. 24, 36 மற்றும் 40 ஆகியவற்றின் மீ.சி.ம-வைக் கண்டறியவும்.
+அ) 120
+ஆ) 240
+இ) 360
+ஈ) 480
+
+Answer: c
+
+---
+
+2. Find the HCF of 48, 96 and 72.
+a) 12
+b) 24
+c) 36
+d) 48
+
+2. 48, 96 மற்றும் 72 ஆகியவற்றின் மீ.பெ.வ-ஐக் கண்டறியவும்.
+அ) 12
+ஆ) 24
+இ) 36
+ஈ) 48
+
+Answer: b
+
+---
+
+3. The LCM of two numbers is 144 and their HCF is 12. If one of the numbers is 36, find the other number.
+a) 48
+b) 60
+c) 72
+d) 24
+
+3. இரு எண்களின் மீ.சி.ம 144 மற்றும் அவற்றின் மீ.பெ.வ 12 ஆகும். ஓர் எண் 36 எனில், மற்றோர் எண்ணைக் கண்டறியவும்.
+அ) 48
+ஆ) 60
+இ) 72
+ஈ) 24
+
+Answer: a
+
+---
+
+4. Find the HCF of 2/3, 8/9, 16/81 and 10/27.
+a) 2/81
+b) 16/3
+c) 80/3
+d) 2/3
+
+4. 2/3, 8/9, 16/81 மற்றும் 10/27 ஆகியவற்றின் மீ.பெ.வ-ஐக் கண்டறியவும்.
+அ) 2/81
+ஆ) 16/3
+இ) 80/3
+ஈ) 2/3
+
+Answer: a
+
+---
+
+5. Find the LCM of 1/3, 5/6, 2/9, 4/27.
+a) 1/54
+b) 10/27
+c) 20/3
+d) 20/54
+
+5. 1/3, 5/6, 2/9, 4/27 ஆகியவற்றின் மீ.சி.ம-வைக் கண்டறியவும்.
+அ) 1/54
+ஆ) 10/27
+இ) 20/3
+ஈ) 20/54
+
+Answer: c
+
+---
+
+6. The product of two numbers is 4107. If the HCF of these numbers is 37, then the greater number is:
+a) 101
+b) 107
+c) 111
+d) 185
+
+6. இரு எண்களின் பெருக்கற்பலன் 4107 ஆகும். அந்த எண்களின் மீ.பெ.வ 37 எனில், பெரிய எண் எது?
+அ) 101
+ஆ) 107
+இ) 111
+ஈ) 185
+
+Answer: c
+
+---
+
+7. Three bells ring at intervals of 9, 12, 15 minutes respectively. If they start ringing together, after what time will they next ring together?
+a) 60 minutes
+b) 90 minutes
+c) 120 minutes
+d) 180 minutes
+
+7. மூன்று மணிகள் முறையே 9, 12, 15 நிமிட இடைவெளியில் ஒலிக்கின்றன. அவை ஒன்றாக ஒலிக்கத் தொடங்கினால், அடுத்ததாக எப்போது மீண்டும் ஒன்றாக ஒலிக்கும்?
+அ) 60 நிமிடங்கள்
+ஆ) 90 நிமிடங்கள்
+இ) 120 நிமிடங்கள்
+ஈ) 180 நிமிடங்கள்
+
+Answer: d
+
+---
+
+8. What is the greatest number that will divide 99, 123 and 183 leaving the same remainder in each case?
+a) 12
+b) 24
+c) 6
+d) 18
+
+8. 99, 123 மற்றும் 183 ஆகிய எண்களை வகுக்கும் போது ஒவ்வொரு முறையும் ஒரே மீதியைத் தரும் மிகப்பெரிய எண் எது?
+அ) 12
+ஆ) 24
+இ) 6
+ஈ) 18
+
+Answer: a
+
+---
+
+9. Find the least number which when divided by 6, 7, 8, 9, and 12 leaves the same remainder 1 in each case.
+a) 504
+b) 505
+c) 252
+d) 253
+
+9. 6, 7, 8, 9, மற்றும் 12 ஆகிய எண்களால் வகுபடும்போது ஒவ்வொரு முறையும் மீதி 1 ஐத் தரும் மிகச்சிறிய எண் எது?
+அ) 504
+ஆ) 505
+இ) 252
+ஈ) 253
+
+Answer: b
+
+---
+
+10. The HCF of two numbers is 11 and their LCM is 7700. If one of the numbers is 275, then the other is:
+a) 279
+b) 283
+c) 308
+d) 318
+
+10. இரு எண்களின் மீ.பெ.வ 11 மற்றும் அவற்றின் மீ.சி.ம 7700. ஓர் எண் 275 எனில், மற்றோர் எண்:
+அ) 279
+ஆ) 283
+இ) 308
+ஈ) 318
+
+Answer: c
+
+---
+
+11. Two numbers are in the ratio 3 : 4. Their LCM is 84. Find the numbers.
+a) 21, 28
+b) 12, 16
+c) 9, 12
+d) 42, 56
+
+11. இரு எண்கள் 3 : 4 என்ற விகிதத்தில் உள்ளன. அவற்றின் மீ.சி.ம 84 ஆகும். அந்த எண்களைக் கண்டறியவும்.
+அ) 21, 28
+ஆ) 12, 16
+இ) 9, 12
+ஈ) 42, 56
+
+Answer: a
+
+---
+
+12. What is the largest number of four digits which is exactly divisible by 12, 15, 18 and 27?
+a) 9690
+b) 9720
+c) 9930
+d) 9960
+
+12. 12, 15, 18 மற்றும் 27 ஆகிய எண்களால் மீதியின்றி வகுபடக்கூடிய நான்கு இலக்க மிகப்பெரிய எண் எது?
+அ) 9690
+ஆ) 9720
+இ) 9930
+ஈ) 9960
+
+Answer: b
+
+---
+
+13. Find the HCF of 513, 1134 and 1215.
+a) 9
+b) 27
+c) 3
+d) 1
+
+13. 513, 1134 மற்றும் 1215 ஆகியவற்றின் மீ.பெ.வ-ஐக் கண்டறியவும்.
+அ) 9
+ஆ) 27
+இ) 3
+ஈ) 1
+
+Answer: b
+
+---
+
+14. The LCM of two prime numbers x and y (x > y) is 161. The value of 3y - x is:
+a) -2
+b) -1
+c) 1
+d) 2
+
+14. x மற்றும் y (x > y) என்ற இரண்டு பகா எண்களின் மீ.சி.ம 161 ஆகும். 3y - x இன் மதிப்பு:
+அ) -2
+ஆ) -1
+இ) 1
+ஈ) 2
+
+Answer: a
+
+---
+
+15. Find the least number which when divided by 20, 25, 35 and 40 leaves remainders 14, 19, 29 and 34 respectively.
+a) 1394
+b) 1404
+c) 1664
+d) 1406
+
+15. ஒரு எண்ணை 20, 25, 35 மற்றும் 40 ஆல் வகுக்கும்போது முறையே 14, 19, 29 மற்றும் 34 மீதி கிடைத்தால், அந்த மிகச்சிறிய எண் எது?
+அ) 1394
+ஆ) 1404
+இ) 1664
+ஈ) 1406
+
+Answer: a
+
+---
+
+16. The HCF and LCM of two numbers are 8 and 48 respectively. If one of the numbers is 24, then the other number is:
+a) 48
+b) 36
+c) 24
+d) 16
+
+16. இரு எண்களின் மீ.பெ.வ மற்றும் மீ.சி.ம முறையே 8 மற்றும் 48 ஆகும். ஓர் எண் 24 எனில், மற்றோர் எண்:
+அ) 48
+ஆ) 36
+இ) 24
+ஈ) 16
+
+Answer: d
+
+---
+
+17. The ratio of two numbers is 5:6 and their HCF is 4. What is their LCM?
+a) 120
+b) 20
+c) 24
+d) 60
+
+17. இரு எண்களின் விகிதம் 5:6 மற்றும் அவற்றின் மீ.பெ.வ 4 ஆகும். அவற்றின் மீ.சி.ம என்ன?
+அ) 120
+ஆ) 20
+இ) 24
+ஈ) 60
+
+Answer: a
+
+---
+
+18. Find the greatest number that will divide 43, 91 and 183 so as to leave the same remainder in each case.
+a) 4
+b) 7
+c) 9
+d) 13
+
+18. 43, 91 மற்றும் 183 ஆகிய எண்களை வகுக்கும்போது ஒவ்வொரு நேர்விலும் ஒரே மீதியைத் தரும் மிகப்பெரிய எண் எது?
+அ) 4
+ஆ) 7
+இ) 9
+ஈ) 13
+
+Answer: a
+
+---
+
+19. The LCM of 22, 54, 108, 135 and 198 is:
+a) 330
+b) 1980
+c) 5940
+d) 11880
+
+19. 22, 54, 108, 135 மற்றும் 198 இன் மீ.சி.ம:
+அ) 330
+ஆ) 1980
+இ) 5940
+ஈ) 11880
+
+Answer: c
+
+---
+
+20. What is the smallest number which, when increased by 5, is divisible by 24, 32, 36 and 54?
+a) 864
+b) 859
+c) 432
+d) 427
+
+20. எந்த மிகச்சிறிய எண்ணுடன் 5 ஐக் கூட்டினால், அது 24, 32, 36 மற்றும் 54 ஆகிய எண்களால் மீதியின்றி வகுபடும்?
+அ) 864
+ஆ) 859
+இ) 432
+ஈ) 427
+
+Answer: b
+
+---
+
+21. The HCF of x²-1 and x²-x-2 is:
+a) x-1
+b) x+1
+c) x-2
+d) x+2
+
+21. x²-1 மற்றும் x²-x-2 ஆகியவற்றின் மீ.பெ.வ:
+அ) x-1
+ஆ) x+1
+இ) x-2
+ஈ) x+2
+
+Answer: b
+
+---
+
+22. A rectangular courtyard 3.78 meters long and 5.25 meters wide is to be paved exactly with square tiles, all of the same size. What is the largest size of the tile which could be used for the purpose?
+a) 14 cm
+b) 21 cm
+c) 42 cm
+d) 7 cm
+
+22. 3.78 மீட்டர் நீளமும் 5.25 மீட்டர் அகலமும் கொண்ட ஒரு செவ்வக முற்றத்தில், ஒரே அளவிலான சதுர ஓடுகளைப் பதிக்க வேண்டும். இதற்குப் பயன்படுத்தக்கூடிய மிகப்பெரிய அளவுள்ள ஓட்டின் அளவு என்ன?
+அ) 14 செ.மீ
+ஆ) 21 செ.மீ
+இ) 42 செ.மீ
+ஈ) 7 செ.மீ
+
+Answer: b
+
+---
+
+23. Find the HCF of 36 and 84.
+a) 4
+b) 6
+c) 12
+d) 18
+
+23. 36 மற்றும் 84 இன் மீ.பெ.வ-ஐக் கண்டறியவும்.
+அ) 4
+ஆ) 6
+இ) 12
+ஈ) 18
+
+Answer: c
+
+---
+
+24. The HCF of two numbers is 23 and the other two factors in their LCM are 13 and 14. The larger of the two numbers is:
+a) 276
+b) 299
+c) 322
+d) 345
+
+24. இரு எண்களின் மீ.பெ.வ 23 ஆகும். அவற்றின் மீ.சி.ம-வில் உள்ள மற்ற இரு காரணிகள் 13 மற்றும் 14 ஆகும். அந்த இரு எண்களில் பெரிய எண்:
+அ) 276
+ஆ) 299
+இ) 322
+ஈ) 345
+
+Answer: c
+
+---
+
+25. Three numbers are in the ratio 1 : 2 : 3 and their HCF is 12. The numbers are:
+a) 4, 8, 12
+b) 12, 24, 36
+c) 5, 10, 15
+d) 10, 20, 30
+
+25. மூன்று எண்கள் 1 : 2 : 3 என்ற விகிதத்தில் உள்ளன. அவற்றின் மீ.பெ.வ 12 ஆகும். அந்த எண்கள்:
+அ) 4, 8, 12
+ஆ) 12, 24, 36
+இ) 5, 10, 15
+ஈ) 10, 20, 30
+
+Answer: b
+
+---
+
+26. Find the LCM of 8, 15, 24 and 72.
+a) 360
+b) 720
+c) 144
+d) 432
+
+26. 8, 15, 24 மற்றும் 72 ஆகியவற்றின் மீ.சி.ம-வைக் கண்டறியவும்.
+அ) 360
+ஆ) 720
+இ) 144
+ஈ) 432
+
+Answer: a
+
+---
+
+27. The sum of two numbers is 216 and their HCF is 27. How many pairs of such numbers are there?
+a) 1
+b) 2
+c) 3
+d) 0
+
+27. இரு எண்களின் கூடுதல் 216 மற்றும் அவற்றின் மீ.பெ.வ 27 ஆகும். அத்தகைய எண்களின் எத்தனை சோடிகள் உள்ளன?
+அ) 1
+ஆ) 2
+இ) 3
+ஈ) 0
+
+Answer: b
+
+---
+
+28. The greatest number of five digits which is divisible by 15, 25, 40 and 75 is:
+a) 96000
+b) 99000
+c) 99900
+d) 99600
+
+28. 15, 25, 40 மற்றும் 75 ஆகிய எண்களால் வகுபடக்கூடிய ஐந்து இலக்க மிகப்பெரிய எண்:
+அ) 96000
+ஆ) 99000
+இ) 99900
+ஈ) 99600
+
+Answer: c
+
+---
+
+29. Traffic lights at three different road crossings change after every 48 sec, 72 sec and 108 sec respectively. If they all change simultaneously at 7:00:00 hours, then at what time will they again change simultaneously?
+a) 7:07:12 hrs
+b) 7:08:00 hrs
+c) 7:05:12 hrs
+d) 7:10:00 hrs
+
+29. மூன்று வெவ்வேறு சாலை சந்திப்புகளில் உள்ள போக்குவரத்து விளக்குகள் முறையே 48 வி, 72 வி மற்றும் 108 வினாடிகளுக்குப் பிறகு மாறுகின்றன. அவை அனைத்தும் காலை 7:00:00 மணிக்கு ஒரே நேரத்தில் மாறினால், மீண்டும் எப்போது அவை ஒரே நேரத்தில் மாறும்?
+அ) 7:07:12 மணி
+ஆ) 7:08:00 மணி
+இ) 7:05:12 மணி
+ஈ) 7:10:00 மணி
+
+Answer: a
+
+---
+
+30. Find the HCF of 42, 63 and 140.
+a) 14
+b) 9
+c) 21
+d) 7
+
+30. 42, 63 மற்றும் 140 ஆகியவற்றின் மீ.பெ.வ-ஐக் கண்டறியவும்.
+அ) 14
+ஆ) 9
+இ) 21
+ஈ) 7
+
+Answer: d
+
+---
+
+31. Find the smallest 5-digit number which is exactly divisible by 16, 24, 36 and 54.
+a) 10368
+b) 10000
+c) 10432
+d) 10324
+
+31. 16, 24, 36 மற்றும் 54 ஆகிய எண்களால் மீதியின்றி வகுபடக்கூடிய மிகச்சிறிய 5-இலக்க எண் எது?
+அ) 10368
+ஆ) 10000
+இ) 10432
+ஈ) 10324
+
+Answer: a
+
+---
+
+32. The product of two co-prime numbers is 117. Their LCM should be:
+a) 1
+b) 117
+c) equal to their HCF
+d) cannot be calculated
+
+32. இரண்டு சார்பகா எண்களின் பெருக்கற்பலன் 117 ஆகும். அவற்றின் மீ.சி.ம என்னவாக இருக்கும்?
+அ) 1
+ஆ) 117
+இ) அவற்றின் மீ.பெ.வ-க்கு சமம்
+ஈ) கணக்கிட முடியாது
+
+Answer: b
+
+---
+
+33. The LCM of (x² - 4) and (x² - 5x + 6) is:
+a) (x-2)(x+2)(x-3)
+b) (x+2)(x-3)
+c) (x-2)²(x-3)
+d) (x-2)(x+3)
+
+33. (x² - 4) மற்றும் (x² - 5x + 6) ஆகியவற்றின் மீ.சி.ம:
+அ) (x-2)(x+2)(x-3)
+ஆ) (x+2)(x-3)
+இ) (x-2)²(x-3)
+ஈ) (x-2)(x+3)
+
+Answer: a
+
+---
+
+34. Find the side of the largest square slab which can be paved on the floor of a room 5 m 44 cm long and 3 m 74 cm broad.
+a) 56 cm
+b) 42 cm
+c) 38 cm
+d) 34 cm
+
+34. 5 மீ 44 செ.மீ நீளமும், 3 மீ 74 செ.மீ அகலமும் கொண்ட ஒரு அறையின் தரையில் பதிக்கக்கூடிய மிகப்பெரிய சதுர வடிவ கல்லின் பக்க அளவு என்ன?
+அ) 56 செ.மீ
+ஆ) 42 செ.மீ
+இ) 38 செ.மீ
+ஈ) 34 செ.மீ
+
+Answer: d
+
+---
+
+35. The HCF of two numbers is 15 and their LCM is 300. If one of the numbers is 60, the other is:
+a) 50
+b) 75
+c) 65
+d) 100
+
+35. இரு எண்களின் மீ.பெ.வ 15 மற்றும் அவற்றின் மீ.சி.ம 300 ஆகும். ஓர் எண் 60 எனில், மற்றோர் எண்:
+அ) 50
+ஆ) 75
+இ) 65
+ஈ) 100
+
+Answer: b
+
+---
+
+36. Find the least perfect square which is divisible by 21, 36 and 66.
+a) 213444
+b) 214344
+c) 214434
+d) 231444
+
+36. 21, 36 மற்றும் 66 ஆகிய எண்களால் வகுபடக்கூடிய மிகச்சிறிய வர்க்க எண் எது?
+அ) 213444
+ஆ) 214344
+இ) 214434
+ஈ) 231444
+
+Answer: a
+
+---
+
+37. Find the LCM of 2 x 3 x 5 x 7 and 3 x 5 x 7 x 11.
+a) 2 x 3 x 5 x 7 x 11
+b) 3 x 5 x 7
+c) 2 x 3² x 5² x 7² x 11
+d) 2 x 11
+
+37. 2 x 3 x 5 x 7 மற்றும் 3 x 5 x 7 x 11 ஆகியவற்றின் மீ.சி.ம-வைக் கண்டறியவும்.
+அ) 2 x 3 x 5 x 7 x 11
+ஆ) 3 x 5 x 7
+இ) 2 x 3² x 5² x 7² x 11
+ஈ) 2 x 11
+
+Answer: a
+
+---
+
+38. Find the HCF of 2³, 3², 4² and 5³.
+a) 1
+b) 12
+c) 60
+d) 180
+
+38. 2³, 3², 4² மற்றும் 5³ ஆகியவற்றின் மீ.பெ.வ-ஐக் கண்டறியவும்.
+அ) 1
+ஆ) 12
+இ) 60
+ஈ) 180
+
+Answer: a
+
+---
+
+39. Six bells commence tolling together and toll at intervals of 2, 4, 6, 8, 10 and 12 seconds respectively. In 30 minutes, how many times do they toll together?
+a) 4
+b) 10
+c) 15
+d) 16
+
+39. ஆறு மணிகள் ஒன்றாக ஒலிக்கத் தொடங்கி, முறையே 2, 4, 6, 8, 10 மற்றும் 12 வினாடி இடைவெளியில் ஒலிக்கின்றன. 30 நிமிடங்களில், அவை எத்தனை முறை ஒன்றாக ஒலிக்கும்?
+அ) 4
+ஆ) 10
+இ) 15
+ஈ) 16
+
+Answer: d
+
+---
+
+40. What is the least number that must be subtracted from 1936 so that the remainder when divided by 9, 10, 15 will leave in each case the same remainder 7?
+a) 32
+b) 39
+c) 49
+d) 37
+
+40. 1936 என்ற எண்ணிலிருந்து எந்த மிகச்சிறிய எண்ணைக் கழித்தால், கிடைக்கும் எண்ணை 9, 10, 15 ஆல் வகுக்கும்போது ஒவ்வொன்றிலும் மீதி 7 கிடைக்கும்?
+அ) 32
+ஆ) 39
+இ) 49
+ஈ) 37
+
+Answer: b
+
+---
+
+41. Find the LCM of 0.63, 1.05 and 2.1.
+a) 6.3
+b) 0.21
+c) 63
+d) 630
+
+41. 0.63, 1.05 மற்றும் 2.1 ஆகியவற்றின் மீ.சி.ம-வைக் கண்டறியவும்.
+அ) 6.3
+ஆ) 0.21
+இ) 63
+ஈ) 630
+
+Answer: a
+
+---
+
+42. The HCF and LCM of two numbers are 12 and 924 respectively. Then the number of such pairs is:
+a) 0
+b) 1
+c) 2
+d) 3
+
+42. இரு எண்களின் மீ.பெ.வ மற்றும் மீ.சி.ம முறையே 12 மற்றும் 924 ஆகும். எனில், அத்தகைய எண்களின் சோடிகளின் எண்ணிக்கை:
+அ) 0
+ஆ) 1
+இ) 2
+ஈ) 3
+
+Answer: c
+
+---
+
+43. If HCF of p and q is x and q = xy, then the LCM of p and q is:
+a) pq
+b) qy
+c) xy
+d) py
+
+43. p மற்றும் q இன் மீ.பெ.வ x மற்றும் q = xy எனில், p மற்றும் q இன் மீ.சி.ம:
+அ) pq
+ஆ) qy
+இ) xy
+ஈ) py
+
+Answer: d
+
+---
+
+44. Two numbers, both greater than 29, have HCF 29 and LCM 4147. The sum of the numbers is:
+a) 966
+b) 696
+c) 669
+d) 666
+
+44. 29 ஐ விட பெரிய இரண்டு எண்களின் மீ.பெ.வ 29 மற்றும் மீ.சி.ம 4147 ஆகும். அந்த எண்களின் கூடுதல்:
+அ) 966
+ஆ) 696
+இ) 669
+ஈ) 666
+
+Answer: b
+
+---
+
+45. An electronic device makes a beep after every 60 sec. Another device makes a beep after every 62 sec. They beeped together at 10 a.m. The next time when they would beep together at the earliest is:
+a) 10:30 a.m.
+b) 10:31 a.m.
+c) 10:59 a.m.
+d) 11 a.m.
+
+45. ஒரு மின்னணு சாதனம் ஒவ்வொரு 60 வினாடிக்கும் ஒரு பீப் ஒலியை எழுப்புகிறது. மற்றொரு சாதனம் ஒவ்வொரு 62 வினாடிக்கும் ஒரு பீப் ஒலியை எழுப்புகிறது. அவை காலை 10 மணிக்கு ஒன்றாக ஒலித்தன. அடுத்ததாக அவை எப்போது ஒன்றாக ஒலிக்கும்?
+அ) காலை 10:30
+ஆ) காலை 10:31
+இ) காலை 10:59
+ஈ) காலை 11:00
+
+Answer: b
+
+---
+
+46. What is the HCF of 90 and 150?
+a) 30
+b) 60
+c) 90
+d) 15
+
+46. 90 மற்றும் 150 இன் மீ.பெ.வ என்ன?
+அ) 30
+ஆ) 60
+இ) 90
+ஈ) 15
+
+Answer: a
+
+---
+
+47. Find the least number of square tiles required to pave the ceiling of a room 15 m 17 cm long and 9 m 2 cm broad.
+a) 814
+b) 820
+c) 840
+d) 841
+
+47. 15 மீ 17 செ.மீ நீளமும், 9 மீ 2 செ.மீ அகலமும் கொண்ட ஒரு அறையின் கூரையை மூடத் தேவைப்படும் குறைந்தபட்ச சதுர ஓடுகளின் எண்ணிக்கை என்ன?
+அ) 814
+ஆ) 820
+இ) 840
+ஈ) 841
+
+Answer: a
+
+---
+
+48. The sum of two numbers is 528 and their HCF is 33. The number of pairs of numbers satisfying the above conditions is:
+a) 4
+b) 6
+c) 8
+d) 12
+
+48. இரு எண்களின் கூடுதல் 528 மற்றும் அவற்றின் மீ.பெ.வ 33 ஆகும். மேற்கண்ட நிபந்தனைகளை பூர்த்தி செய்யும் எண்களின் சோடிகளின் எண்ணிக்கை:
+அ) 4
+ஆ) 6
+இ) 8
+ஈ) 12
+
+Answer: a
+
+---
+
+49. What is the LCM of 12, 24, and 36?
+a) 36
+b) 72
+c) 12
+d) 144
+
+49. 12, 24, மற்றும் 36 இன் மீ.சி.ம என்ன?
+அ) 36
+ஆ) 72
+இ) 12
+ஈ) 144
+
+Answer: b
+
+---
+
+50. Three numbers are in the ratio of 3 : 4 : 5 and their LCM is 2400. Their HCF is:
+a) 40
+b) 80
+c) 120
+d) 200
+
+50. மூன்று எண்கள் 3 : 4 : 5 என்ற விகிதத்தில் உள்ளன. அவற்றின் மீ.சி.ம 2400 ஆகும். அவற்றின் மீ.பெ.வ:
+அ) 40
+ஆ) 80
+இ) 120
+ஈ) 200
+
+Answer: a

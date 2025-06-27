@@ -1,0 +1,349 @@
+1. A is 40% more efficient than B, and C is 20% less efficient than B. Working together, they can finish a task in 22.5 days. In how many days will B and C together complete 70% of the same task?
+a) 35 days
+b) 32 days
+c) 28 days
+d) 25 days
+Answer: c
+
+2. P can complete a piece of work in 24 days and Q can do the same work in 30 days. They start working together, but Q leaves 6 days before the completion of the work. For how many days in total did the work last?
+a) 15 days
+b) 18 days
+c) 20 days
+d) 16 days
+Answer: c
+
+3. A can do a work in 36 days. The efficiency of B is 20% more than A, and the efficiency of C is 50% more than B. If A and B work together for 10 days and then C replaces them, in how many days will C finish the remaining work?
+a) 10 days
+b) 12 days
+c) 9 days
+d) 11 days
+Answer: d
+
+4. A and B together can complete a project in 20 days. B and C together can complete it in 30 days. C and A together can complete it in 24 days. If the three of them work together for 8 days and then A leaves, how many more days will B and C take to complete the remaining project?
+a) 10 days
+b) 12 days
+c) 14 days
+d) 16 days
+Answer: b
+
+5. Two men or three women or four boys can do a piece of work in 52 days. How many days will it take for one man, one woman, and one boy to do the same work?
+a) 48 days
+b) 44 days
+c) 50 days
+d) 46 days
+Answer: a
+
+6. A alone would take 27 hours more to complete a job than if A and B worked together. B worked alone, he took 3 hours more than if A and B worked together. In what time can A alone do the work?
+a) 36 hours
+b) 27 hours
+c) 45 hours
+d) 18 hours
+Answer: a
+
+7. The ratio of time taken by P and Q to complete a work is 3:4. The ratio of time taken by Q and R is 5:6. If all three work together, they complete the work in 22 days. How long will P and R take to complete the work together?
+a) 30 days
+b) 33 days
+c) 36 days
+d) 28 days
+Answer: b
+
+8. A team of 30 men is supposed to do a work in 38 days. After 25 days, 5 more men were employed and the work was finished one day earlier. If the 5 extra men were not employed, how many days behind schedule would the work have been completed?
+a) 1 day
+b) 2 days
+c) 2.5 days
+d) 3 days
+Answer: a
+
+9. A machine P can print one lakh books in 8 hours, machine Q can print the same number of books in 10 hours while machine R can print them in 12 hours. All the machines are started at 9 A.M. while machine P is closed at 11 A.M. and the remaining two machines complete the work. Approximately at what time will the work be finished?
+a) 1:30 PM
+b) 2:00 PM
+c) 1:55 PM
+d) 2:25 PM
+Answer: c
+
+10. A can build a wall in 20 days and B can demolish the same wall in 30 days. They work on alternate days with A starting the job on the first day. In how many days will the wall be completed?
+a) 110 days
+b) 115 days
+c) 117 days
+d) 120 days
+Answer: c
+
+11. A is thrice as good a workman as B and therefore is able to finish a job in 48 days less than B. Working together, in how many days can they do it?
+a) 18 days
+b) 24 days
+c) 12 days
+d) 20 days
+Answer: a
+
+12. Three individuals A, B, and C can complete a task in 15, 20, and 30 days, respectively. They start working together. After 4 days, A leaves. 2 days after A left, B also leaves. C completes the remaining task alone. What percentage of the total work was done by C?
+a) 40%
+b) 50%
+c) 60%
+d) 70%
+Answer: c
+
+13. Pipe A can fill a tank in 16 minutes and Pipe B can empty it in 24 minutes. If both pipes are opened together in the empty tank, after how many minutes will the tank be full?
+a) 32 minutes
+b) 40 minutes
+c) 48 minutes
+d) 56 minutes
+Answer: c
+
+14. A tank has a leak which would empty the completely filled tank in 10 hours. If the tank is full of water and a tap is opened which admits 4 litres of water per minute into the tank, the leak takes 15 hours to empty the tank. What is the capacity of the tank?
+a) 8400 litres
+b) 7200 litres
+c) 6000 litres
+d) 9600 litres
+Answer: b
+
+15. Two pipes, P and Q, can fill a cistern in 12 and 15 hours respectively. Both are opened together, but at the end of 3 hours, P is turned off. In how many more hours will Q fill the remaining cistern?
+a) 8.5 hours
+b) 9 hours
+c) 8.25 hours
+d) 7.75 hours
+Answer: c
+
+16. A cistern has three pipes, A, B, and C. A and B can fill it in 4 and 5 hours respectively, while C can empty it in 2 hours. If the pipes are opened in order at 1 PM, 2 PM, and 3 PM respectively, at what time will the cistern be empty?
+a) 7 PM
+b) 8 PM
+c) 9 PM
+d) 10 PM
+Answer: b
+
+17. Pipe A can fill a tank 50% faster than Pipe B. If Pipe B can fill the tank in 30 hours, and there is a leak that can empty the full tank in 60 hours, how long will it take for both pipes A and B to fill the tank when the leak is also active?
+a) 12 hours
+b) 15 hours
+c) 18 hours
+d) 20 hours
+Answer: b
+
+18. A pump can fill a tank with water in 2 hours. Because of a leak, it took 2 hours and 20 minutes to fill the tank. The leak can drain all the water of the tank in:
+a) 10 hours
+b) 12 hours
+c) 14 hours
+d) 16 hours
+Answer: c
+
+19. Two pipes A and B are opened together to fill a tank. Both pipes fill the tank in a certain time 't'. If A alone takes t+3 hours and B alone takes t+12 hours, what is the value of 't'?
+a) 4 hours
+b) 6 hours
+c) 8 hours
+d) 9 hours
+Answer: b
+
+20. A large tanker can be filled by two pipes A and B in 60 minutes and 40 minutes respectively. How many minutes will it take to fill the tanker from an empty state if B is used for half the time, and A and B fill it together for the other half?
+a) 25 minutes
+b) 28 minutes
+c) 30 minutes
+d) 32 minutes
+Answer: c
+
+21. A cistern can be filled by two pipes in 20 and 30 minutes respectively. Both pipes are opened together for a certain time, but being clogged, only 5/6 of the full quantity of water flows through the former and only 5/8 through the latter. The obstructions are suddenly removed, after which the cistern is filled in 3 minutes from that moment. For how long were the pipes clogged?
+a) 9.5 minutes
+b) 10.5 minutes
+c) 11.5 minutes
+d) 12.5 minutes
+Answer: b
+
+22. Three taps A, B and C can fill a tank in 12, 15 and 20 hours respectively. If A is open all the time and B and C are open for one hour each alternately, the tank will be full in:
+a) 6 hours
+b) 6.5 hours
+c) 7 hours
+d) 7.5 hours
+Answer: c
+
+23. A tank is filled by three pipes with uniform flow. The first two pipes operating simultaneously fill the tank in the same time during which the tank is filled by the third pipe alone. The second pipe fills the tank 5 hours faster than the first pipe and 4 hours slower than the third pipe. The time required by the first pipe is:
+a) 10 hours
+b) 12 hours
+c) 15 hours
+d) 18 hours
+Answer: c
+
+24. A pipe can fill a cistern in 12 minutes and another pipe can fill it in 15 minutes, but a third pipe can empty it in 6 minutes. The first two pipes are kept open for 5 minutes in the beginning and then the third pipe is also opened. In what time is the cistern emptied?
+a) 30 minutes
+b) 35 minutes
+c) 40 minutes
+d) 45 minutes
+Answer: d
+
+25. A contractor undertook to complete a road in 100 days and employed 110 men. After 45 days, he found that only 1/4 of the road had been constructed. How many additional men must he now employ to complete the work on time?
+a) 150 men
+b) 130 men
+c) 110 men
+d) 90 men
+Answer: b
+
+26. 12 men can complete a work in 18 days. 6 days after they started working, 4 men joined them. How many more days will all of them take to complete the remaining work?
+a) 8 days
+b) 9 days
+c) 10 days
+d) 12 days
+Answer: b
+
+27. A garrison of 500 men had provisions for 27 days. After 3 days, a reinforcement of 300 men arrived. For how many more days will the remaining provisions last?
+a) 15 days
+b) 16 days
+c) 18 days
+d) 20 days
+Answer: a
+
+28. If 10 men working 7 hours a day can complete a piece of work in 12 days, then how many men working 6 hours a day would be required to complete a work twice as large in 28 days?
+a) 15 men
+b) 18 men
+c) 20 men
+d) 10 men
+Answer: d
+
+29. A certain number of men can do a piece of work in 60 days. If there were 8 more men, it could be finished in 10 days less. How many men were there initially?
+a) 32 men
+b) 36 men
+c) 40 men
+d) 45 men
+Answer: c
+
+30. 15 men are supposed to complete a task in 20 days working 8 hours per day. After 10 days, all the men go on a strike for 2 days. How many additional men should be employed to complete the task on time if they now work 10 hours per day?
+a) 3 men
+b) 4 men
+c) 5 men
+d) 6 men
+Answer: a
+
+31. A builder decided to build a farmhouse in 40 days. He employed 100 men in the beginning and 100 more after 35 days and completed the construction in the stipulated time. If he had not employed the additional men, how many days behind schedule would it have been finished?
+a) 5 days
+b) 6 days
+c) 8 days
+d) 10 days
+Answer: a
+
+32. 45 men can complete a work in 16 days. They start working, but after 4 days, 36 more men joined them. In how many more days will the remaining work be completed?
+a) 6 days
+b) 8 days
+c) 6 (2/3) days
+d) 7 (1/2) days
+Answer: a
+
+33. If 5 engines consume 6 tonnes of coal when each is running 9 hours a day, how much coal will be needed for 8 engines, each running 10 hours a day, it being given that 3 engines of the former type consume as much as 4 engines of the latter type?
+a) 8 tonnes
+b) 9 tonnes
+c) 10 tonnes
+d) 12 tonnes
+Answer: a
+
+34. A company employed 200 workers to complete a certain work in 150 days. If only one-fourth of the work has been done in 50 days, then in order to complete the whole work in time, the number of additional workers to be employed was:
+a) 100
+b) 150
+c) 200
+d) 120
+Answer: a
+
+35. A contractor agrees to build a road in 50 days. He employs 50 people for the same. But after 40 days, he finds that only half of the road is built. How many more people does he need to employ to complete the work on time?
+a) 50
+b) 100
+c) 150
+d) 75
+Answer: c
+
+36. A and B can do a piece of work in 20 and 30 days respectively. They work on alternate days starting with A. In how many days will the work be completed?
+a) 24 days
+b) 24.5 days
+c) 25 days
+d) 26 days
+Answer: b
+
+37. P, Q, and R can complete a task in 10, 15, and 30 days respectively. P starts the work. On the second day, Q joins him. On the third day, R joins them. This process of joining does not continue further. How many days will it take to complete the work?
+a) 6 days
+b) 6.5 days
+c) 7 (1/6) days
+d) 7 (5/6) days
+Answer: d
+
+38. A can do a job in 12 days, B in 18 days, and C in 24 days. They work one by one, for a day each, in the order A, B, C. If the total wage for the work is ₹3600, what is the share of B?
+a) ₹1000
+b) ₹1200
+c) ₹900
+d) ₹1500
+Answer: a
+
+39. Ram can do a work in 15 days and Shyam can do it in 25 days. Ram starts the work and they work on alternate days. However, after 10 days of work, Ram leaves the job. In how many days will Shyam complete the remaining work?
+a) 10 days
+b) 11.67 days
+c) 12.33 days
+d) 13.67 days
+Answer: d
+
+40. An inlet pipe can fill a tank in 10 hours and an outlet pipe can empty the same tank in 15 hours. The pipes are opened on alternate hours, starting with the inlet pipe. How long will it take to fill the empty tank for the first time?
+a) 55 hours
+b) 57 hours
+c) 59 hours
+d) 60 hours
+Answer: c
+
+41. A, B and C can do a piece of work in 20, 30 and 60 days respectively. A starts the work, and on every third day, he is assisted by B and C. In how many days is the work completed?
+a) 12 days
+b) 15 days
+c) 16 days
+d) 18 days
+Answer: b
+
+42. A, B, and C can do a work in 12, 16, and 24 days respectively. They work on alternate days. A works on the first day, B on the second, C on the third, and then A again, and so on. In how many days will 125% of the total work be completed?
+a) 20 days
+b) 20.25 days
+c) 19.75 days
+d) 21 days
+Answer: a
+
+43. A and B undertake to do a piece of work for ₹4500. A can do it in 20 days and B can do it in 25 days. With the help of C, they finish it in 8 days. What is the share of C?
+a) ₹1200
+b) ₹1350
+c) ₹1500
+d) ₹900
+Answer: d
+
+44. A, B and C can do a piece of work in 24, 32 and 64 days respectively. They start working together. A leaves after 6 days while B leaves 6 days before the completion of the work. For how many days did the work last?
+a) 20 days
+b) 18 days
+c) 22 days
+d) 25 days
+Answer: a
+
+45. A and B together can do a piece of work in 12 days. B and C together can do it in 16 days. After A has been working at it for 5 days and B for 7 days, C finishes it in 13 days. In how many days could C alone do the work?
+a) 20 days
+b) 24 days
+c) 30 days
+d) 32 days
+Answer: b
+
+46. A, B, and C completed a work costing ₹1800. A worked for 6 days, B for 4 days and C for 9 days. If their daily wages are in the ratio of 5:6:4, how much amount will be received by A?
+a) ₹600
+b) ₹500
+c) ₹750
+d) ₹800
+Answer: a
+
+47. A can complete a work in 30 days. B is 25% more efficient than A and C is 20% more efficient than B. They all work together for 3 days. Then B leaves. In how many more days will A and C complete the remaining work?
+a) 8 days
+b) 9 days
+c) 10 days
+d) 11 days
+Answer: d
+
+48. A, B and C are employed to do a piece of work for ₹575. A and C are supposed to finish 19/23 of the work together. The amount that shall be paid to B is:
+a) ₹100
+b) ₹125
+c) ₹150
+d) ₹75
+Answer: a
+
+49. Two men and 7 boys can do a piece of work in 14 days; 3 men and 8 boys can do the same in 11 days. Then, 8 men and 6 boys can do a piece of work three times as large in:
+a) 18 days
+b) 21 days
+c) 24 days
+d) 30 days
+Answer: b
+
+50. The work done by a woman in 8 hours is equal to the work done by a man in 6 hours and by a boy in 12 hours. If working 6 hours per day 9 men can complete a work in 6 days, then in how many days can 12 men, 12 women and 12 boys together finish the same work working 8 hours per day?
+a) 1.5 days
+b) 1 day
+c) 2 days
+d) 2.5 days
+Answer: a

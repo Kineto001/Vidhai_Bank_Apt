@@ -1,0 +1,454 @@
+Alpha Numeric Reasoning - 50 MCQs for TNPSC Group 4
+எண் மற்றும் எழுத்து பகுத்தறிவு - TNPSC குரூப் 4-க்கான 50 கொள்குறி வகை வினாக்கள்
+
+---
+
+1. Find the next term in the series: 3, 7, 15, 31, ?
+தொடரின் அடுத்த எண்ணைக் கண்டறியவும்: 3, 7, 15, 31, ?
+a) 62
+b) 63
+c) 64
+d) 59
+Answer: b
+விடை: b
+
+2. Find the missing term in the series: A, C, F, J, O, ?
+தொடரில் விடுபட்ட எழுத்தைக் கண்டறியவும்: A, C, F, J, O, ?
+a) U
+b) T
+c) S
+d) R
+Answer: a
+விடை: a
+
+3. In a certain code, 'TEACHER' is written as 'VGCEJGT'. How is 'CHILDREN' written in that code?
+ஒரு குறிப்பிட்ட குறியீட்டு மொழியில், 'TEACHER' என்பது 'VGCEJGT' என எழுதப்பட்டால், 'CHILDREN' எவ்வாறு எழுதப்படும்?
+a) EJKNFTGP
+b) EJKNFGTO
+c) EJNKFTGP
+d) EJNKFGTP
+Answer: a
+விடை: a
+
+4. Find the odd one out.
+பொருந்தாததைக் கண்டறியவும்.
+a) 121
+b) 144
+c) 169
+d) 180
+Answer: d
+விடை: d
+
+5. Analogy: 6 : 35 :: 9 : ?
+ஒப்புமை: 6 : 35 :: 9 : ?
+a) 80
+b) 81
+c) 79
+d) 82
+Answer: a
+விடை: a
+
+6. Find the next term in the alpha-numeric series: Z1A, Y2B, X3C, ?
+எண்-எழுத்து தொடரின் அடுத்த உறுப்பைக் கண்டறியவும்: Z1A, Y2B, X3C, ?
+a) W4D
+b) D4W
+c) W4E
+d) V4D
+Answer: a
+விடை: a
+
+7. If 'PEN' is coded as 35, how is 'PAGE' coded? (A=1, B=2, ...)
+'PEN' என்பதன் குறியீடு 35 என்றால், 'PAGE' என்பதன் குறியீடு என்ன? (A=1, B=2, ...)
+a) 29
+b) 28
+c) 30
+d) 27
+Answer: a
+விடை: a
+
+8. Which term comes next in the sequence: AC, EG, IK, MO, ?
+வரிசையின் அடுத்த உறுப்பு எது: AC, EG, IK, MO, ?
+a) PR
+b) QS
+c) QR
+d) PS
+Answer: b
+விடை: b
+
+9. Find the odd one out.
+பொருந்தாததைக் கண்டறியவும்.
+a) DGJ
+b) KNP
+c) RUX
+d) TWZ
+Answer: c
+விடை: c
+
+10. Analogy: Doctor : Hospital :: Teacher : ?
+ஒப்புமை: மருத்துவர் : மருத்துவமனை :: ஆசிரியர் : ?
+a) Book / புத்தகம்
+b) Student / மாணவர்
+c) School / பள்ளி
+d) Pen / பேனா
+Answer: c
+விடை: c
+
+11. Complete the series: 5, 11, 23, 47, 95, ?
+தொடரை நிறைவு செய்க: 5, 11, 23, 47, 95, ?
+a) 191
+b) 190
+c) 181
+d) 189
+Answer: a
+விடை: a
+
+12. Find the missing letter: B, E, I, N, ?
+விடுபட்ட எழுத்தைக் கண்டறியவும்: B, E, I, N, ?
+a) P
+b) Q
+c) R
+d) T
+Answer: d
+விடை: d
+
+13. If 'ROSE' is coded as '6821' and 'CHAIR' is coded as '73456', what will be the code for 'SEARCH'?
+'ROSE' என்பது '6821' எனவும், 'CHAIR' என்பது '73456' எனவும் குறியிடப்பட்டால், 'SEARCH' என்பதன் குறியீடு என்ன?
+a) 214673
+b) 214763
+c) 216473
+d) 241673
+Answer: a
+விடை: a
+
+14. Find the odd one out.
+பொருந்தாததைக் கண்டறியவும்.
+a) 8
+b) 27
+c) 64
+d) 100
+Answer: d
+விடை: d
+
+15. Analogy: BCD : 234 :: FGH : ?
+ஒப்புமை: BCD : 234 :: FGH : ?
+a) 567
+b) 678
+c) 789
+d) 456
+Answer: b
+விடை: b
+
+16. Find the next term in the series: 1, 4, 9, 16, 25, ?
+தொடரின் அடுத்த எண்ணைக் கண்டறியவும்: 1, 4, 9, 16, 25, ?
+a) 35
+b) 36
+c) 49
+d) 48
+Answer: b
+விடை: b
+
+17. Find the next term in the series: A1, C3, E5, G7, ?
+தொடரின் அடுத்த உறுப்பைக் கண்டறியவும்: A1, C3, E5, G7, ?
+a) H9
+b) I9
+c) I8
+d) H8
+Answer: b
+விடை: b
+
+18. In a code language, if 'GO' is written as '715', then how will 'SUN' be written? (using reverse letter positions, A=26, Z=1)
+ஒரு குறியீட்டு மொழியில் 'GO' என்பது '715' என எழுதப்பட்டால், 'SUN' எவ்வாறு எழுதப்படும்? (தலைகீழ் எழுத்து நிலைகளைப் பயன்படுத்தி, A=26, Z=1)
+a) 81314
+b) 192114
+c) 81313
+d) 192013
+Answer: c
+விடை: c
+
+19. Choose the number which is different from others.
+மற்றவைகளிலிருந்து வேறுபட்ட எண்ணைத் தேர்ந்தெடுக்கவும்.
+a) 23
+b) 29
+c) 31
+d) 33
+Answer: d
+விடை: d
+
+20. Analogy: Book : Pages :: Wall : ?
+ஒப்புமை: புத்தகம் : பக்கங்கள் :: சுவர் : ?
+a) Cement / சிமெண்ட்
+b) House / வீடு
+c) Bricks / செங்கற்கள்
+d) Paint / வர்ணம்
+Answer: c
+விடை: c
+
+21. Find the wrong number in the series: 2, 5, 10, 17, 26, 37, 50, 64
+தொடரில் தவறான எண்ணைக் கண்டறியவும்: 2, 5, 10, 17, 26, 37, 50, 64
+a) 17
+b) 26
+c) 37
+d) 64
+Answer: d
+விடை: d
+
+22. Complete the series: AZ, CX, FU, ?
+தொடரை நிறைவு செய்க: AZ, CX, FU, ?
+a) IR
+b) JQ
+c) KP
+d) IV
+Answer: b
+விடை: b
+
+23. If 'MADRAS' is coded as 'NBESBT', how is 'BOMBAY' coded?
+'MADRAS' என்பது 'NBESBT' என குறியிடப்பட்டால், 'BOMBAY' எவ்வாறு குறியிடப்படும்?
+a) CPNCBZ
+b) CPNCBZA
+c) CPNCBX
+d) CQNCBZ
+Answer: a
+விடை: a
+
+24. Find the odd one out:
+பொருந்தாததைக் கண்டறியவும்:
+a) Car / மகிழுந்து
+b) Bus / பேருந்து
+c) Scooter / ஸ்கூட்டர்
+d) Aeroplane / விமானம்
+Answer: d
+விடை: d
+
+25. Analogy: 25 : 125 :: 36 : ?
+ஒப்புமை: 25 : 125 :: 36 : ?
+a) 180
+b) 206
+c) 216
+d) 318
+Answer: c
+விடை: c
+
+26. Find the next term: 2, 6, 12, 20, 30, ?
+அடுத்த உறுப்பைக் கண்டறியவும்: 2, 6, 12, 20, 30, ?
+a) 40
+b) 42
+c) 44
+d) 38
+Answer: b
+விடை: b
+
+27. Find the next term in the series: S, P, M, J, ?
+தொடரின் அடுத்த எழுத்தைக் கண்டறியவும்: S, P, M, J, ?
+a) H
+b) F
+c) G
+d) I
+Answer: c
+விடை: c
+
+28. If 'EARTH' is coded as 'QPMZS', then how is 'HEART' coded?
+'EARTH' என்பது 'QPMZS' என குறியிடப்பட்டால், 'HEART' எவ்வாறு குறியிடப்படும்?
+a) SQPZM
+b) SQMPZ
+c) SQPMZ
+d) SPQZM
+Answer: c
+விடை: c
+
+29. Find the odd one out.
+பொருந்தாததைக் கண்டறியவும்.
+a) AE
+b) IO
+c) UA
+d) EG
+Answer: d
+விடை: d
+
+30. Analogy: CAT : 3120 :: MAT : ?
+ஒப்புமை: CAT : 3120 :: MAT : ?
+a) 13120
+b) 14120
+c) 13121
+d) 1312
+Answer: a
+விடை: a
+
+31. What is the missing number? 1, 8, 27, ?, 125
+விடுபட்ட எண் என்ன? 1, 8, 27, ?, 125
+a) 36
+b) 48
+c) 64
+d) 81
+Answer: c
+விடை: c
+
+32. Find the next term: 3F, 6G, 11I, 18L, ?
+அடுத்த உறுப்பைக் கண்டறியவும்: 3F, 6G, 11I, 18L, ?
+a) 27P
+b) 25N
+c) 27O
+d) 21O
+Answer: a
+விடை: a
+
+33. If 'WATER' is coded as 'XBUFS', what is 'BREAD' coded as?
+'WATER' என்பது 'XBUFS' என குறியிடப்பட்டால், 'BREAD' எவ்வாறு குறியிடப்படும்?
+a) CSFBE
+b) CSFBDE
+c) DSFBE
+d) CSFBE
+Answer: a
+விடை: a
+
+34. Find the odd one out.
+பொருந்தாததைக் கண்டறியவும்.
+a) 3 - 9
+b) 4 - 16
+c) 5 - 25
+d) 6 - 35
+Answer: d
+விடை: d
+
+35. Analogy: BD : F :: CE : ?
+ஒப்புமை: BD : F :: CE : ?
+a) H
+b) G
+c) I
+d) J
+Answer: a
+விடை: a
+
+36. Find the next term: 4, 10, 28, 82, ?
+அடுத்த உறுப்பைக் கண்டறியவும்: 4, 10, 28, 82, ?
+a) 244
+b) 246
+c) 164
+d) 216
+Answer: a
+விடை: a
+
+37. Find the missing term: Y, W, U, S, Q, ?, ?
+விடுபட்ட உறுப்புகளைக் கண்டறியவும்: Y, W, U, S, Q, ?, ?
+a) N, M
+b) O, M
+c) P, N
+d) O, L
+Answer: b
+விடை: b
+
+38. In a certain code, '253' means 'books are old'; '546' means 'man is old'; '378' means 'buy good books'. What stands for 'are' in that code?
+ஒரு குறியீட்டு மொழியில், '253' என்றால் 'புத்தகங்கள் பழையவை'; '546' என்றால் 'மனிதன் வயதானவன்'; '378' என்றால் 'நல்ல புத்தகங்களை வாங்கு'. அந்த மொழியில் 'are' என்பதன் குறியீடு என்ன?
+a) 2
+b) 4
+c) 5
+d) 6
+Answer: a
+விடை: a
+
+39. Find the odd one out.
+பொருந்தாததைக் கண்டறியவும்.
+a) ZYX
+b) KJI
+c) RQP
+d) GHI
+Answer: d
+விடை: d
+
+40. Analogy: Life : Death :: Hope : ?
+ஒப்புமை: வாழ்க்கை : இறப்பு :: நம்பிக்கை : ?
+a) Cry / அழு
+b) Sad / சோகம்
+c) Despair / விரக்தி
+d) Pain / வலி
+Answer: c
+விடை: c
+
+41. Complete the series: 1, 1, 2, 3, 5, 8, ?
+தொடரை நிறைவு செய்க: 1, 1, 2, 3, 5, 8, ?
+a) 11
+b) 13
+c) 12
+d) 10
+Answer: b
+விடை: b
+
+42. Find the next group of letters: BMO, EOQ, HQS, ?
+அடுத்த எழுத்து குழுவைக் கண்டறியவும்: BMO, EOQ, HQS, ?
+a) KSU
+b) KSV
+c) JSU
+d) KST
+Answer: a
+விடை: a
+
+43. If 'CLOCK' is written as 'KCOLC', how is 'STEPS' written?
+'CLOCK' என்பது 'KCOLC' என எழுதப்பட்டால், 'STEPS' எவ்வாறு எழுதப்படும்?
+a) SPETS
+b) SPSET
+c) SEPTS
+d) SPETS
+Answer: a
+விடை: a
+
+44. Find the odd one out.
+பொருந்தாததைக் கண்டறியவும்.
+a) 17
+b) 19
+c) 21
+d) 23
+Answer: c
+விடை: c
+
+45. Analogy: MAN : 13114 :: RAN : ?
+ஒப்புமை: MAN : 13114 :: RAN : ?
+a) 18115
+b) 18114
+c) 17114
+d) 18214
+Answer: b
+விடை: b
+
+46. Find the next term in the series: 1, 2, 6, 24, 120, ?
+தொடரின் அடுத்த எண்ணைக் கண்டறியவும்: 1, 2, 6, 24, 120, ?
+a) 600
+b) 720
+c) 480
+d) 360
+Answer: b
+விடை: b
+
+47. Find the next term: ELFA, GLHA, ILJA, ?, MLNA
+அடுத்த உறுப்பைக் கண்டறியவும்: ELFA, GLHA, ILJA, ?, MLNA
+a) KLMA
+b) LLMA
+c) KLLA
+d) KLKA
+Answer: c
+விடை: c
+
+48. If 'FRANCE' is coded as '61811435', how is 'INDIA' coded?
+'FRANCE' என்பது '61811435' என குறியிடப்பட்டால், 'INDIA' எவ்வாறு குறியிடப்படும்?
+a) 914491
+b) 914492
+c) 814491
+d) 914591
+Answer: a
+விடை: a
+
+49. Find the odd one out.
+பொருந்தாததைக் கண்டறியவும்.
+a) ACEG
+b) BDFH
+c) IKMO
+d) QRTU
+Answer: d
+விடை: d
+
+50. Analogy: 10 : 99 :: 11 : ?
+ஒப்புமை: 10 : 99 :: 11 : ?
+a) 100
+b) 120
+c) 121
+d) 122
+Answer: b
+விடை: b

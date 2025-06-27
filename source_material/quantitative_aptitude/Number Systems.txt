@@ -1,0 +1,349 @@
+1. A six-digit number is of the form xyzxyz (e.g., 456456). Such a number is always divisible by which of the following?
+a) 7 and 11 only
+b) 11 and 13 only
+c) 7 and 13 only
+d) 7, 11, and 13
+Answer: d
+
+2. If the 9-digit number 785x3678y is divisible by 72, then the value of (x - y) is:
+a) 0
+b) 1
+c) 2
+d) 3
+Answer: a
+
+3. What is the remainder when the sum S = 1! + 2! + 3! + ... + 1000! is divided by 24?
+a) 9
+b) 1
+c) 13
+d) 7
+Answer: a
+
+4. The product of two co-prime numbers is 945. What is their LCM (Least Common Multiple)?
+a) 1
+b) 945
+c) 189
+d) Cannot be determined
+Answer: b
+
+5. A number, when divided by a divisor D, leaves a remainder of 13. When thrice the number is divided by D, the remainder is 4. What is the value of D?
+a) 17
+b) 19
+c) 35
+d) 9
+Answer: c
+
+6. Find the unit digit of the expression: (259)^148 – (123)^43.
+a) 8
+b) 6
+c) 4
+d) 2
+Answer: a
+
+7. How many numbers between 200 and 800 are divisible by both 5 and 7?
+a) 17
+b) 16
+c) 18
+d) 15
+Answer: a
+
+8. The HCF of two numbers is 29, and their sum is 174. How many pairs of such numbers are possible?
+a) 1
+b) 2
+c) 3
+d) 4
+Answer: c
+
+9. Let N be the greatest number that will divide 1305, 4665 and 6905, leaving the same remainder in each case. The sum of the digits of N is:
+a) 4
+b) 5
+c) 6
+d) 8
+Answer: a
+
+10. The sum of the digits of a two-digit number is 12. If the digits are reversed, the new number is 18 less than the original number. What is the original number?
+a) 57
+b) 75
+c) 48
+d) 84
+Answer: b
+
+11. A number is increased by 20% and then decreased by 20%. The final value of the number is 192. What was the original number?
+a) 196
+b) 200
+c) 204
+d) 180
+Answer: b
+
+12. If a number X is 30% less than another number Y and Y is 20% more than 150, then what is the value of X?
+a) 126
+b) 136
+c) 140
+d) 150
+Answer: a
+
+13. The ratio of two numbers is 3:4 and their HCF is 5. Their LCM is:
+a) 15
+b) 20
+c) 60
+d) 80
+Answer: c
+
+14. Find the total number of prime factors in the expression (4^11) * (7^5) * (11^2).
+a) 18
+b) 29
+c) 31
+d) 22
+Answer: b
+
+15. What is the smallest 5-digit number that is exactly divisible by 91?
+a) 10010
+b) 10001
+c) 10101
+d) 10192
+Answer: a
+
+16. The sum of two numbers is 528 and their HCF is 33. The number of pairs of numbers satisfying the above conditions is:
+a) 4
+b) 6
+c) 8
+d) 2
+Answer: a
+
+17. What is the remainder when (7^19 + 2) is divided by 6?
+a) 1
+b) 2
+c) 3
+d) 5
+Answer: c
+
+18. A boy was asked to multiply a number by 25. He instead multiplied the number by 52 and got the answer 324 more than the correct answer. The number to be multiplied was:
+a) 12
+b) 15
+c) 18
+d) 25
+Answer: a
+
+19. If the number 517*324 is completely divisible by 3, then the smallest whole number in place of * will be:
+a) 0
+b) 1
+c) 2
+d) 3
+Answer: c
+
+20. The product of two numbers is 4107. If the HCF of these numbers is 37, then the greater number is:
+a) 101
+b) 107
+c) 111
+d) 185
+Answer: c
+
+21. What is the smallest fraction which, when divided by any of 6/7, 5/14, 10/21, will give an integer as the result?
+a) 30/7
+b) 30/14
+c) 30/21
+d) 60/7
+Answer: a
+
+22. The sum of three consecutive odd natural numbers is 147. The middle number is:
+a) 47
+b) 48
+c) 49
+d) 51
+Answer: c
+
+23. Find the remainder when 2^591 is divided by 7.
+a) 1
+b) 2
+c) 4
+d) 6
+Answer: c
+
+24. In a division sum, the divisor is 10 times the quotient and 5 times the remainder. If the remainder is 46, the dividend is:
+a) 5336
+b) 5326
+c) 5300
+d) 4276
+Answer: a
+
+25. If the 6-digit number 4x4y96 is divisible by 88, then what is the value of (x+2y)?
+a) 10
+b) 11
+c) 12
+d) 13
+Answer: d
+
+26. The difference between a two-digit number and the number obtained by interchanging its digits is 36. What is the difference between the two digits of that number?
+a) 3
+b) 4
+c) 5
+d) 6
+Answer: b
+
+27. Find the number of divisors of 1420, excluding 1 and the number itself.
+a) 12
+b) 10
+c) 22
+d) 24
+Answer: b
+
+28. The LCM of two numbers is 20 times their HCF. The sum of HCF and LCM is 2520. If one of the numbers is 480, what is the other number?
+a) 400
+b) 520
+c) 600
+d) 640
+Answer: c
+
+29. Three bells toll at intervals of 9, 12, and 15 minutes respectively. If they start tolling together, after what time will they next toll together?
+a) 120 minutes
+b) 150 minutes
+c) 180 minutes
+d) 210 minutes
+Answer: c
+
+30. Find the unit digit of 1! + 2! + 3! + ... + 99!
+a) 1
+b) 3
+c) 7
+d) 9
+Answer: b
+
+31. A number consists of two digits. The sum of the digits is 9. If 45 is subtracted from the number, its digits are interchanged. The number is:
+a) 63
+b) 72
+c) 81
+d) 27
+Answer: b
+
+32. If n is a natural number, then (6n² + 6n) is always divisible by:
+a) 6 only
+b) 6 and 12
+c) 12 only
+d) 18
+Answer: b
+
+33. What is the largest 4-digit number exactly divisible by 88?
+a) 9988
+b) 9944
+c) 9900
+d) 9966
+Answer: b
+
+34. The difference of two numbers is 1365. When the larger number is divided by the smaller one, the quotient is 6 and the remainder is 15. What is the smaller number?
+a) 240
+b) 270
+c) 295
+d) 360
+Answer: b
+
+35. The sum of the first 60 natural numbers from 1 to 60 is divisible by:
+a) 59
+b) 60
+c) 61
+d) 63
+Answer: c
+
+36. How many numbers between 1 and 1000 are divisible by 7?
+a) 140
+b) 141
+c) 142
+d) 143
+Answer: c
+
+37. What is the remainder if 4^96 is divided by 6?
+a) 1
+b) 2
+c) 3
+d) 4
+Answer: d
+
+38. The sum of a number and its reciprocal is 17/4. Find the number.
+a) 4
+b) 3/4
+c) 5/2
+d) 5
+Answer: a
+
+39. If 1/3rd of a number is 3 more than 1/6th of the same number, then what is the number?
+a) 12
+b) 18
+c) 24
+d) 36
+Answer: b
+
+40. Three numbers are in the ratio 1:2:3 and their HCF is 12. The numbers are:
+a) 12, 24, 36
+b) 10, 20, 30
+c) 5, 10, 15
+d) 4, 8, 12
+Answer: a
+
+41. How many 3-digit numbers are completely divisible by 6?
+a) 149
+b) 150
+c) 151
+d) 166
+Answer: b
+
+42. What is the unit digit in the product (3^65) * (6^59) * (7^71)?
+a) 1
+b) 2
+c) 4
+d) 6
+Answer: c
+
+43. A number when divided by 296 gives a remainder of 75. When the same number is divided by 37, the remainder will be:
+a) 1
+b) 2
+c) 8
+d) 11
+Answer: a
+
+44. N is the smallest number which when increased by 5 is divisible by 12, 15, and 18. Find the sum of the digits of N.
+a) 17
+b) 13
+c) 16
+d) 14
+Answer: b
+
+45. The sum of two numbers is 216 and their HCF is 27. The numbers are:
+a) 27, 189
+b) 81, 135
+c) 108, 108
+d) 54, 162
+Answer: a
+
+46. What least number must be subtracted from 2000 to get a number exactly divisible by 17?
+a) 11
+b) 1
+c) 13
+d) 9
+Answer: a
+
+47. Find the remainder when 17^200 is divided by 18.
+a) 1
+b) 2
+c) 16
+d) 17
+Answer: a
+
+48. If the number 97215*6 is completely divisible by 11, then the smallest whole number in place of * is:
+a) 3
+b) 2
+c) 1
+d) 5
+Answer: a
+
+49. What will be the remainder when (67^67 + 67) is divided by 68?
+a) 1
+b) 66
+c) 67
+d) 0
+Answer: b
+
+50. Two numbers are in the ratio of 15:11. If their HCF is 13, then the numbers are:
+a) 195, 143
+b) 150, 110
+c) 180, 132
+d) 210, 154
+Answer: a

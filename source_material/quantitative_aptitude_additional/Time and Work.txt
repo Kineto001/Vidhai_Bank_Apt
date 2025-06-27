@@ -1,0 +1,410 @@
+TNPSC Group 4 - Aptitude & Mental Ability
+Topic: Time and Work
+Number of Questions: 50
+
+**************************************************
+
+1. A can do a piece of work in 10 days and B can do the same work in 15 days. In how many days will they complete the work together?
+A ஒரு வேலையை 10 நாட்களிலும், B அதே வேலையை 15 நாட்களிலும் செய்து முடிப்பார்கள். இருவரும் சேர்ந்து அவ்வேலையை எத்தனை நாட்களில் முடிப்பார்கள்?
+a) 5 days / 5 நாட்கள்
+b) 6 days / 6 நாட்கள்
+c) 8 days / 8 நாட்கள்
+d) 10 days / 10 நாட்கள்
+Answer: b
+
+2. A pipe can fill a tank in 8 hours. Another pipe can empty it in 12 hours. If both pipes are opened together, the time taken to fill the tank is:
+ஒரு குழாய் ஒரு தொட்டியை 8 மணி நேரத்தில் நிரப்பும். மற்றொரு குழாய் அதை 12 மணி நேரத்தில் காலி செய்யும். இரண்டு குழாய்களும் ஒரே நேரத்தில் திறக்கப்பட்டால், தொட்டியை நிரப்ப ஆகும் நேரம்:
+a) 12 hours / 12 மணி நேரம்
+b) 16 hours / 16 மணி நேரம்
+c) 20 hours / 20 மணி நேரம்
+d) 24 hours / 24 மணி நேரம்
+Answer: d
+
+3. 12 men can finish a piece of work in 20 days. How many men are required to finish the same work in 15 days?
+12 ஆண்கள் ஒரு வேலையை 20 நாட்களில் முடிக்கிறார்கள். அதே வேலையை 15 நாட்களில் முடிக்க எத்தனை ஆண்கள் தேவை?
+a) 15 men / 15 ஆண்கள்
+b) 16 men / 16 ஆண்கள்
+c) 18 men / 18 ஆண்கள்
+d) 20 men / 20 ஆண்கள்
+Answer: b
+
+4. A and B together can complete a work in 4 days. If A alone can complete the same work in 12 days, in how many days can B alone complete that work?
+A மற்றும் B இருவரும் சேர்ந்து ஒரு வேலையை 4 நாட்களில் முடிப்பார்கள். A மட்டும் அவ்வேலையை 12 நாட்களில் முடித்தால், B மட்டும் அவ்வேலையை எத்தனை நாட்களில் முடிப்பார்?
+a) 6 days / 6 நாட்கள்
+b) 8 days / 8 நாட்கள்
+c) 10 days / 10 நாட்கள்
+d) 16 days / 16 நாட்கள்
+Answer: a
+
+5. A is twice as good a workman as B, and together they finish a piece of work in 18 days. In how many days can A alone finish the work?
+A என்பவர் B-யை விட இரண்டு மடங்கு திறமையானவர். இருவரும் சேர்ந்து ஒரு வேலையை 18 நாட்களில் முடிக்கிறார்கள். A மட்டும் தனியாக அந்த வேலையை எத்தனை நாட்களில் முடிப்பார்?
+a) 27 days / 27 நாட்கள்
+b) 36 days / 36 நாட்கள்
+c) 9 days / 9 நாட்கள்
+d) 54 days / 54 நாட்கள்
+Answer: a
+
+6. A, B, and C can complete a piece of work in 24, 6, and 12 days respectively. Working together, they will complete the same work in:
+A, B, மற்றும் C ஒரு வேலையை முறையே 24, 6, மற்றும் 12 நாட்களில் முடிப்பார்கள். மூவரும் சேர்ந்து வேலை செய்தால், அதே வேலையை எத்தனை நாட்களில் முடிப்பார்கள்?
+a) 1/4 day / 1/4 நாள்
+b) 7/24 day / 7/24 நாள்
+c) 24/7 days / 24/7 நாட்கள்
+d) 4 days / 4 நாட்கள்
+Answer: c
+
+7. 5 persons can prepare an admission list in 8 days working 7 hours a day. If 2 more persons join them so as to complete the work in 4 days, how many hours do they need to work per day?
+5 நபர்கள் ஒரு நாளைக்கு 7 மணி நேரம் வேலை செய்து, ஒரு சேர்க்கைப் பட்டியலை 8 நாட்களில் தயாரிக்கிறார்கள். வேலையை 4 நாட்களில் முடிக்க மேலும் 2 நபர்கள் அவர்களுடன் சேர்ந்தால், அவர்கள் ஒரு நாளைக்கு எத்தனை மணி நேரம் வேலை செய்ய வேண்டும்?
+a) 8 hours / 8 மணி நேரம்
+b) 9 hours / 9 மணி நேரம்
+c) 10 hours / 10 மணி நேரம்
+d) 12 hours / 12 மணி நேரம்
+Answer: c
+
+8. A tap can fill a cistern in 8 hours and another can empty it in 16 hours. If both the taps are opened simultaneously, the time (in hours) to fill the cistern will be:
+ஒரு குழாய் ஒரு தொட்டியை 8 மணி நேரத்தில் நிரப்பும், மற்றொரு குழாய் அதை 16 மணி நேரத்தில் காலி செய்யும். இரண்டு குழாய்களும் ஒரே நேரத்தில் திறக்கப்பட்டால், தொட்டியை நிரப்ப ஆகும் நேரம் (மணிநேரத்தில்):
+a) 8
+b) 10
+c) 16
+d) 24
+Answer: c
+
+9. A and B can do a job in 12 days. B and C can do it in 15 days. A and C can do it in 20 days. In how many days can A alone do the work?
+A மற்றும் B ஒரு வேலையை 12 நாட்களில் செய்யலாம். B மற்றும் C அதை 15 நாட்களில் செய்யலாம். A மற்றும் C அதை 20 நாட்களில் செய்யலாம். A மட்டும் தனியாக அவ்வேலையை எத்தனை நாட்களில் முடிப்பார்?
+a) 20 days / 20 நாட்கள்
+b) 25 days / 25 நாட்கள்
+c) 30 days / 30 நாட்கள்
+d) 40 days / 40 நாட்கள்
+Answer: c
+
+10. If 10 men or 18 boys can do a work in 15 days, then in how many days will 15 men and 33 boys do twice the work?
+10 ஆண்கள் அல்லது 18 சிறுவர்கள் ஒரு வேலையை 15 நாட்களில் செய்தால், 15 ஆண்களும் 33 சிறுவர்களும் சேர்ந்து அதைப்போல் இரண்டு மடங்கு வேலையை எத்தனை நாட்களில் செய்வார்கள்?
+a) 9 days / 9 நாட்கள்
+b) 36 days / 36 நாட்கள்
+c) 4.5 days / 4.5 நாட்கள்
+d) 8 days / 8 நாட்கள்
+Answer: a
+
+11. A can finish a work in 18 days and B can do the same work in half the time taken by A. Then, working together, what part of the same work they can finish in a day?
+A ஒரு வேலையை 18 நாட்களில் முடிப்பார். B அதே வேலையை A எடுத்துக்கொள்ளும் நேரத்தில் பாதி நேரத்தில் செய்வார். இருவரும் சேர்ந்து வேலை செய்தால், ஒரு நாளில் அவ்வேலையின் எவ்வளவு பகுதியை முடிப்பார்கள்?
+a) 1/6
+b) 1/9
+c) 2/5
+d) 2/7
+Answer: a
+
+12. A does 20% of a work in 5 days. Then he calls B and they together finish the remaining work in 3 days. How long B alone would take to do the whole work?
+A ஒரு வேலையின் 20%-ஐ 5 நாட்களில் செய்கிறார். பிறகு அவர் B-ஐ அழைக்க, இருவரும் சேர்ந்து மீதமுள்ள வேலையை 3 நாட்களில் முடிக்கிறார்கள். B மட்டும் தனியாக முழு வேலையை முடிக்க எவ்வளவு காலம் ஆகும்?
+a) 37.5 days / 37.5 நாட்கள்
+b) 10 days / 10 நாட்கள்
+c) 15 days / 15 நாட்கள்
+d) 20 days / 20 நாட்கள்
+Answer: b
+
+13. Two pipes A and B can fill a tank in 20 and 30 minutes respectively. If both the pipes are used together, then how long will it take to fill the tank?
+A மற்றும் B என்ற இரண்டு குழாய்கள் ஒரு தொட்டியை முறையே 20 மற்றும் 30 நிமிடங்களில் நிரப்பும். இரண்டு குழாய்களும் ஒன்றாகப் பயன்படுத்தப்பட்டால், தொட்டியை நிரப்ப எவ்வளவு நேரம் ஆகும்?
+a) 12 minutes / 12 நிமிடங்கள்
+b) 15 minutes / 15 நிமிடங்கள்
+c) 25 minutes / 25 நிமிடங்கள்
+d) 50 minutes / 50 நிமிடங்கள்
+Answer: a
+
+14. A and B can do a work in 8 days, B and C can do the same work in 12 days. A, B and C together can finish it in 6 days. A and C together will do it in:
+A, B இருவரும் 8 நாட்களில் ஒரு வேலையைச் செய்வர். B, C அதே வேலையை 12 நாட்களில் செய்வர். A, B, C மூவரும் சேர்ந்து அதை 6 நாட்களில் முடிப்பர். A, C இருவரும் சேர்ந்து அவ்வேலையை எத்தனை நாட்களில் முடிப்பர்?
+a) 4 days / 4 நாட்கள்
+b) 6 days / 6 நாட்கள்
+c) 8 days / 8 நாட்கள்
+d) 12 days / 12 நாட்கள்
+Answer: c
+
+15. If 7 spiders make 7 webs in 7 days, then 1 spider will make 1 web in how many days?
+7 சிலந்திகள் 7 நாட்களில் 7 வலைகளைப் பின்னினால், 1 சிலந்தி 1 வலையைப் பின்ன எத்தனை நாட்கள் ஆகும்?
+a) 1 day / 1 நாள்
+b) 7 days / 7 நாட்கள்
+c) 14 days / 14 நாட்கள்
+d) 49 days / 49 நாட்கள்
+Answer: b
+
+16. A can do a certain job in 12 days. B is 60% more efficient than A. How many days does B alone take to do the same job?
+A ஒரு குறிப்பிட்ட வேலையை 12 நாட்களில் செய்ய முடியும். B என்பவர் A-யை விட 60% அதிக திறன் கொண்டவர். B மட்டும் தனியாக அதே வேலையைச் செய்ய எத்தனை நாட்கள் ஆகும்?
+a) 6 days / 6 நாட்கள்
+b) 7.5 days / 7.5 நாட்கள்
+c) 8 days / 8 நாட்கள்
+d) 9 days / 9 நாட்கள்
+Answer: b
+
+17. 2 men and 3 boys can do a piece of work in 10 days while 3 men and 2 boys can do the same work in 8 days. In how many days can 2 men and 1 boy do the work?
+2 ஆண்கள் மற்றும் 3 சிறுவர்கள் ஒரு வேலையை 10 நாட்களில் செய்ய முடியும், அதே சமயம் 3 ஆண்கள் மற்றும் 2 சிறுவர்கள் அதே வேலையை 8 நாட்களில் செய்ய முடியும். 2 ஆண்கள் மற்றும் 1 சிறுவன் அவ்வேலையை எத்தனை நாட்களில் செய்ய முடியும்?
+a) 10 days / 10 நாட்கள்
+b) 11.5 days / 11.5 நாட்கள்
+c) 12 days / 12 நாட்கள்
+d) 12.5 days / 12.5 நாட்கள்
+Answer: d
+
+18. A can lay a railway track between two given stations in 16 days and B can do the same job in 12 days. With the help of C, they did the job in 4 days only. Then, C alone can do the job in:
+A என்பவர் இரண்டு நிலையங்களுக்கு இடையே ஒரு ரயில் பாதையை 16 நாட்களில் அமைக்க முடியும், B அதே வேலையை 12 நாட்களில் செய்ய முடியும். C-யின் உதவியுடன், அவர்கள் அந்த வேலையை 4 நாட்களில் முடித்தனர். அப்படியானால், C மட்டும் தனியாக அந்த வேலையைச் செய்ய ஆகும் நாட்கள்:
+a) 9 1/5 days / 9 1/5 நாட்கள்
+b) 9 2/5 days / 9 2/5 நாட்கள்
+c) 9 3/5 days / 9 3/5 நாட்கள்
+d) 10 days / 10 நாட்கள்
+Answer: c
+
+19. A is thrice as efficient as B and is therefore able to finish a job in 60 days less than B. Working together, they can do it in:
+A என்பவர் B-யை விட மூன்று மடங்கு திறமையானவர், அதனால் ஒரு வேலையை B-யை விட 60 நாட்கள் குறைவாக எடுத்துக்கொள்கிறார். இருவரும் சேர்ந்து வேலை செய்தால், அவர்கள் அவ்வேலையை முடிக்க ஆகும் நாட்கள்:
+a) 20 days / 20 நாட்கள்
+b) 22.5 days / 22.5 நாட்கள்
+c) 25 days / 25 நாட்கள்
+d) 30 days / 30 நாட்கள்
+Answer: b
+
+20. 4 men can build a wall in 12 days. How many men are required to build a wall three times as big in 8 days?
+4 ஆண்கள் ஒரு சுவரை 12 நாட்களில் கட்ட முடியும். அதை விட மூன்று மடங்கு பெரிய சுவரை 8 நாட்களில் கட்ட எத்தனை ஆண்கள் தேவை?
+a) 12 men / 12 ஆண்கள்
+b) 16 men / 16 ஆண்கள்
+c) 18 men / 18 ஆண்கள்
+d) 24 men / 24 ஆண்கள்
+Answer: c
+
+21. A works twice as fast as B. If B can complete a work in 12 days independently, the number of days in which A and B can together finish the work is:
+A என்பவர் B-யை விட இரண்டு மடங்கு வேகமாக வேலை செய்கிறார். B ஒரு வேலையைத் தனியாக 12 நாட்களில் முடிக்க முடியும் என்றால், A மற்றும் B இருவரும் சேர்ந்து அந்த வேலையை முடிக்க ஆகும் நாட்களின் எண்ணிக்கை:
+a) 4 days / 4 நாட்கள்
+b) 6 days / 6 நாட்கள்
+c) 8 days / 8 நாட்கள்
+d) 18 days / 18 நாட்கள்
+Answer: a
+
+22. A contractor undertook to do a certain piece of work in 9 days. He employed certain number of men, but 6 of them were absent from the very first day. The rest could finish the work in 15 days. The number of men originally employed were:
+ஒரு ஒப்பந்தக்காரர் ஒரு குறிப்பிட்ட வேலையை 9 நாட்களில் செய்து முடிப்பதாக ஒப்புக்கொண்டார். அவர் குறிப்பிட்ட எண்ணிக்கையிலான ஆட்களைப் பணியமர்த்தினார், ஆனால் அவர்களில் 6 பேர் முதல் நாளிலிருந்தே வரவில்லை. மீதமுள்ளவர்கள் வேலையை 15 நாட்களில் முடித்தனர். முதலில் பணியமர்த்தப்பட்ட ஆண்களின் எண்ணிக்கை:
+a) 12
+b) 15
+c) 18
+d) 24
+Answer: b
+
+23. A and B undertake to do a piece of work for ₹600. A alone can do it in 6 days while B alone can do it in 8 days. With the help of C, they finish it in 3 days. Find the share of C.
+A மற்றும் B ஒரு வேலையை ₹600க்கு செய்ய ஒப்புக்கொள்கிறார்கள். A மட்டும் அதை 6 நாட்களிலும், B மட்டும் 8 நாட்களிலும் செய்ய முடியும். C-யின் உதவியுடன், அவர்கள் அதை 3 நாட்களில் முடிக்கிறார்கள். C-யின் பங்கைக் கண்டறியவும்.
+a) ₹75
+b) ₹100
+c) ₹125
+d) ₹150
+Answer: a
+
+24. A pipe can fill a tank in 15 hours. Due to a leak in the bottom, it is filled in 20 hours. If the tank is full, how much time will the leak take to empty it?
+ஒரு குழாய் ஒரு தொட்டியை 15 மணி நேரத்தில் நிரப்ப முடியும். அதன் அடியில் ஏற்பட்ட கசிவு காரணமாக, அது 20 மணி நேரத்தில் நிரம்புகிறது. தொட்டி நிரம்பியிருந்தால், கசிவு அதை காலி செய்ய எவ்வளவு நேரம் ஆகும்?
+a) 40 hours / 40 மணி நேரம்
+b) 50 hours / 50 மணி நேரம்
+c) 60 hours / 60 மணி நேரம்
+d) 70 hours / 70 மணி நேரம்
+Answer: c
+
+25. A and B can complete a work in 15 days and 10 days respectively. They started doing the work together but after 2 days B had to leave and A alone completed the remaining work. The whole work was completed in:
+A, B ஆகியோர் ஒரு வேலையை முறையே 15 மற்றும் 10 நாட்களில் முடிப்பார்கள். அவர்கள் இருவரும் சேர்ந்து வேலையைத் தொடங்கினர், ஆனால் 2 நாட்களுக்குப் பிறகு B விலக வேண்டியிருந்தது, மீதமுள்ள வேலையை A தனியாக முடித்தார். முழு வேலையும் முடிய ஆகும் காலம்:
+a) 10 days / 10 நாட்கள்
+b) 12 days / 12 நாட்கள்
+c) 15 days / 15 நாட்கள்
+d) 8 days / 8 நாட்கள்
+Answer: b
+
+26. 6 men and 8 women can do a work in 10 days. 5 men and 12 women can do the same work in 10 days. In how many days can 1 man do the work?
+6 ஆண்கள் மற்றும் 8 பெண்கள் ஒரு வேலையை 10 நாட்களில் செய்து முடிப்பர். 5 ஆண்கள் மற்றும் 12 பெண்கள் அதே வேலையை 10 நாட்களில் செய்து முடிப்பர். 1 ஆண் மட்டும் அவ்வேலையை எத்தனை நாட்களில் செய்வார்?
+(This question has an issue, as the rates would imply negative work. Let's rephrase for a valid problem.)
+[Corrected Question] 3 men or 5 women can do a work in 12 days. How long will 6 men and 5 women take to finish the work?
+3 ஆண்கள் அல்லது 5 பெண்கள் ஒரு வேலையை 12 நாட்களில் செய்து முடிப்பார்கள். 6 ஆண்களும் 5 பெண்களும் சேர்ந்து அவ்வேலையை முடிக்க எவ்வளவு காலம் ஆகும்?
+a) 4 days / 4 நாட்கள்
+b) 5 days / 5 நாட்கள்
+c) 6 days / 6 நாட்கள்
+d) 7 days / 7 நாட்கள்
+Answer: a
+
+27. A can do a piece of work in 4 hours; B and C together can do it in 3 hours, while A and C together can do it in 2 hours. How long will B alone take to do it?
+A ஒரு வேலையை 4 மணி நேரத்தில் செய்ய முடியும்; B மற்றும் C சேர்ந்து அதை 3 மணி நேரத்திலும், A மற்றும் C சேர்ந்து அதை 2 மணி நேரத்திலும் செய்ய முடியும். B மட்டும் தனியாக அதைச் செய்ய எவ்வளவு நேரம் ஆகும்?
+a) 8 hours / 8 மணி நேரம்
+b) 10 hours / 10 மணி நேரம்
+c) 12 hours / 12 மணி நேரம்
+d) 24 hours / 24 மணி நேரம்
+Answer: c
+
+28. P can complete 1/4 of a work in 10 days, Q can complete 40% of the work in 15 days and R completes 1/3 of the work in 13 days. Who will complete the work first?
+P ஒரு வேலையின் 1/4 பகுதியை 10 நாட்களிலும், Q வேலையின் 40% ஐ 15 நாட்களிலும், R வேலையின் 1/3 பகுதியை 13 நாட்களிலும் முடிக்கிறார். யார் வேலையை முதலில் முடிப்பார்கள்?
+a) P
+b) Q
+c) R
+d) Cannot be determined / தீர்மானிக்க முடியாது
+Answer: b
+
+29. A tank has two pipes. The first pipe can fill it in 4 hours and the second can empty it in 16 hours. If both pipes are opened together at the same time, then the tank will be filled in:
+ஒரு தொட்டியில் இரண்டு குழாய்கள் உள்ளன. முதல் குழாய் அதை 4 மணி நேரத்தில் நிரப்பும், இரண்டாவது குழாய் அதை 16 மணி நேரத்தில் காலி செய்யும். இரண்டு குழாய்களும் ஒரே நேரத்தில் திறக்கப்பட்டால், தொட்டி நிரம்ப ஆகும் நேரம்:
+a) 5 hours 20 minutes / 5 மணி 20 நிமிடங்கள்
+b) 5 hours 30 minutes / 5 மணி 30 நிமிடங்கள்
+c) 16/3 hours / 16/3 மணி நேரம்
+d) 6 hours / 6 மணி நேரம்
+Answer: c
+
+30. A, B and C can do a piece of work in 20, 30 and 60 days respectively. In how many days can A do the work if he is assisted by B and C on every third day?
+A, B, C ஆகியோர் ஒரு வேலையை முறையே 20, 30, 60 நாட்களில் செய்வார்கள். ஒவ்வொரு மூன்றாவது நாளிலும் B மற்றும் C ஆகியோரின் உதவியுடன் A வேலை செய்தால், அவ்வேலையை எத்தனை நாட்களில் செய்து முடிப்பார்?
+a) 12 days / 12 நாட்கள்
+b) 15 days / 15 நாட்கள்
+c) 16 days / 16 நாட்கள்
+d) 18 days / 18 நாட்கள்
+Answer: b
+
+31. If the work done by (x-1) men in (x+1) days is to the work done by (x+2) men in (x-1) days are in the ratio 9:10, then the value of x is:
+(x-1) ஆண்கள் (x+1) நாட்களில் செய்த வேலைக்கும், (x+2) ஆண்கள் (x-1) நாட்களில் செய்த வேலைக்கும் உள்ள விகிதம் 9:10 எனில், x-ன் மதிப்பு:
+a) 5
+b) 6
+c) 7
+d) 8
+Answer: d
+
+32. A and B can do a work in 72 days. B and C can do it in 120 days. A and C can do it in 90 days. In what time can A alone do it?
+A, B இருவரும் 72 நாட்களில் ஒரு வேலையைச் செய்வர். B, C அதே வேலையை 120 நாட்களில் செய்வர். A, C அதை 90 நாட்களில் செய்வர். A மட்டும் அவ்வேலையை எவ்வளவு காலத்தில் செய்து முடிப்பார்?
+a) 80 days / 80 நாட்கள்
+b) 100 days / 100 நாட்கள்
+c) 120 days / 120 நாட்கள்
+d) 150 days / 150 நாட்கள்
+Answer: c
+
+33. Two pipes can fill a tank in 10 hours and 12 hours respectively while a third pipe empties the full tank in 20 hours. If all the three pipes operate simultaneously, in how much time will the tank be filled?
+இரண்டு குழாய்கள் ஒரு தொட்டியை முறையே 10 மணி மற்றும் 12 மணி நேரத்தில் நிரப்புகின்றன, அதே நேரத்தில் மூன்றாவது குழாய் முழு தொட்டியையும் 20 மணி நேரத்தில் காலி செய்கிறது. மூன்று குழாய்களும் ஒரே நேரத்தில் செயல்பட்டால், தொட்டி எவ்வளவு நேரத்தில் நிரம்பும்?
+a) 7 hours 30 minutes / 7 மணி 30 நிமிடங்கள்
+b) 8 hours / 8 மணி நேரம்
+c) 8 hours 30 minutes / 8 மணி 30 நிமிடங்கள்
+d) 9 hours / 9 மணி நேரம்
+Answer: a
+
+34. A garrison of 500 men had provisions for 27 days. After 3 days, a reinforcement of 300 men arrived. For how many more days will the remaining food last?
+500 பேர் கொண்ட ஒரு படைப்பிரிவுக்கு 27 நாட்களுக்குத் தேவையான உணவுப் பொருட்கள் இருந்தன. 3 நாட்களுக்குப் பிறகு, 300 பேர் கொண்ட ஒரு வலுவூட்டல் படை வந்தது. மீதமுள்ள உணவு இன்னும் எத்தனை நாட்களுக்கு நீடிக்கும்?
+a) 15 days / 15 நாட்கள்
+b) 16 days / 16 நாட்கள்
+c) 18 days / 18 நாட்கள்
+d) 20 days / 20 நாட்கள்
+Answer: a
+
+35. A can do a work in 15 days and B in 20 days. If they work on it together for 4 days, then the fraction of the work that is left is:
+A ஒரு வேலையை 15 நாட்களிலும், B 20 நாட்களிலும் செய்ய முடியும். அவர்கள் 4 நாட்கள் ஒன்றாக வேலை செய்தால், மீதமுள்ள வேலையின் பின்னம்:
+a) 1/4
+b) 1/10
+c) 7/15
+d) 8/15
+Answer: d
+
+36. 10 women can complete a work in 7 days and 10 children take 14 days to complete the work. How many days will 5 women and 10 children take to complete the work?
+10 பெண்கள் ஒரு வேலையை 7 நாட்களில் முடிப்பார்கள், 10 குழந்தைகள் அவ்வேலையை முடிக்க 14 நாட்கள் எடுத்துக்கொள்கிறார்கள். 5 பெண்களும் 10 குழந்தைகளும் சேர்ந்து அவ்வேலையை முடிக்க எத்தனை நாட்கள் ஆகும்?
+a) 3
+b) 5
+c) 7
+d) Cannot be determined / தீர்மானிக்க முடியாது
+Answer: c
+
+37. A can do a work in 25 days and B can do it in 20 days. They work together for 5 days and then A leaves. In how many days will B finish the remaining work?
+A ஒரு வேலையை 25 நாட்களிலும், B 20 நாட்களிலும் செய்ய முடியும். அவர்கள் 5 நாட்கள் ஒன்றாக வேலை செய்த பிறகு A விலகிவிடுகிறார். மீதமுள்ள வேலையை B எத்தனை நாட்களில் முடிப்பார்?
+a) 11 days / 11 நாட்கள்
+b) 12 days / 12 நாட்கள்
+c) 14 days / 14 நாட்கள்
+d) 15 days / 15 நாட்கள்
+Answer: a
+
+38. A is 50% as efficient as B. C does half of the work done by A and B together. If C alone does the work in 40 days, then A, B and C together can do the work in:
+A என்பவர் B-யை விட 50% திறன் கொண்டவர். C என்பவர் A மற்றும் B இருவரும் சேர்ந்து செய்த வேலையில் பாதியைச் செய்கிறார். C மட்டும் தனியாக அந்த வேலையை 40 நாட்களில் செய்தால், A, B, C மூவரும் சேர்ந்து அவ்வேலையை எத்தனை நாட்களில் செய்வார்கள்?
+a) 13 1/3 days / 13 1/3 நாட்கள்
+b) 15 days / 15 நாட்கள்
+c) 20 days / 20 நாட்கள்
+d) 30 days / 30 நாட்கள்
+Answer: a
+
+39. If 6 men and 8 boys can do a piece of work in 10 days while 26 men and 48 boys can do the same in 2 days, the time taken by 15 men and 20 boys in doing the same type of work will be:
+6 ஆண்களும் 8 சிறுவர்களும் ஒரு வேலையை 10 நாட்களில் செய்ய முடியும், அதே சமயம் 26 ஆண்களும் 48 சிறுவர்களும் அதே வேலையை 2 நாட்களில் செய்ய முடியும். அதே வகையான வேலையை 15 ஆண்களும் 20 சிறுவர்களும் செய்ய ஆகும் நேரம்:
+a) 4 days / 4 நாட்கள்
+b) 5 days / 5 நாட்கள்
+c) 6 days / 6 நாட்கள்
+d) 7 days / 7 நாட்கள்
+Answer: a
+
+40. Ram can do a work in 15 days and Ramesh can do it in 20 days. If they work on alternate days with Ram starting, in how many days will the work be finished?
+ராம் ஒரு வேலையை 15 நாட்களிலும், ரமேஷ் 20 நாட்களிலும் செய்ய முடியும். ராம் தொடங்கி, அவர்கள் மாற்று நாட்களில் வேலை செய்தால், வேலை எத்தனை நாட்களில் முடியும்?
+a) 17 days / 17 நாட்கள்
+b) 16 3/4 days / 16 3/4 நாட்கள்
+c) 18 days / 18 நாட்கள்
+d) 17 1/4 days / 17 1/4 நாட்கள்
+Answer: b
+
+41. A and B are working on a job. A is thrice as efficient as B. A takes 10 days to complete the job. In how many days will they finish 50% of the job working together?
+A மற்றும் B ஒரு வேலையில் உள்ளனர். A, B-யை விட மூன்று மடங்கு திறமையானவர். A வேலையை முடிக்க 10 நாட்கள் எடுத்துக்கொள்கிறார். இருவரும் சேர்ந்து வேலை செய்தால், 50% வேலையை எத்தனை நாட்களில் முடிப்பார்கள்?
+a) 3.75 days / 3.75 நாட்கள்
+b) 7.5 days / 7.5 நாட்கள்
+c) 2.5 days / 2.5 நாட்கள்
+d) 5 days / 5 நாட்கள்
+Answer: a
+
+42. 20 women can do a work in 16 days. 16 men can complete the same work in 15 days. What is the ratio between the capacity of a man and a woman?
+20 பெண்கள் ஒரு வேலையை 16 நாட்களில் செய்ய முடியும். 16 ஆண்கள் அதே வேலையை 15 நாட்களில் முடிக்க முடியும். ஒரு ஆண் மற்றும் ஒரு பெண்ணின் திறனுக்கு இடையிலான விகிதம் என்ன?
+a) 3:4
+b) 4:3
+c) 5:3
+d) Data inadequate / தரவு போதுமானதாக இல்லை
+Answer: b
+
+43. A machine P can print one lakh books in 8 hours, machine Q can print the same number of books in 10 hours while machine R can print them in 12 hours. All the machines are started at 9 A.M. while machine P is closed at 11 A.M. and the remaining two machines complete the work. Approximately at what time will the work be finished?
+P என்ற இயந்திரம் ஒரு லட்சம் புத்தகங்களை 8 மணி நேரத்திலும், Q என்ற இயந்திரம் அதே எண்ணிக்கையிலான புத்தகங்களை 10 மணி நேரத்திலும், R என்ற இயந்திரம் 12 மணி நேரத்திலும் அச்சிட முடியும். அனைத்து இயந்திரங்களும் காலை 9 மணிக்குத் தொடங்குகின்றன, P இயந்திரம் காலை 11 மணிக்கு நிறுத்தப்படுகிறது, மீதமுள்ள இரண்டு இயந்திரங்களும் வேலையை முடிக்கின்றன. தோராயமாக எந்த நேரத்தில் வேலை முடியும்?
+a) 11:30 A.M.
+b) 12 noon / 12 மதியம்
+c) 12:30 P.M.
+d) 1:00 P.M.
+Answer: d
+
+44. A does half as much work as B in three-fourth of the time. If together they take 18 days to complete the work, how much time shall B take to do it?
+B எடுத்துக்கொள்ளும் நேரத்தில் முக்கால் பங்கு நேரத்தில் A, B செய்யும் வேலையில் பாதியை செய்கிறார். இருவரும் சேர்ந்து வேலையை முடிக்க 18 நாட்கள் எடுத்துக்கொண்டால், B அதைச் செய்ய எவ்வளவு காலம் எடுத்துக்கொள்வார்?
+a) 30 days / 30 நாட்கள்
+b) 35 days / 35 நாட்கள்
+c) 40 days / 40 நாட்கள்
+d) 45 days / 45 நாட்கள்
+Answer: a
+
+45. Two pipes A and B can separately fill a cistern in 60 minutes and 75 minutes respectively. There is a third pipe in the bottom of the cistern to empty it. If all the three pipes are simultaneously opened, then the cistern is full in 50 minutes. In how much time, the third pipe alone can empty the cistern?
+A மற்றும் B என்ற இரண்டு குழாய்கள் ஒரு தொட்டியை முறையே 60 மற்றும் 75 நிமிடங்களில் தனித்தனியாக நிரப்ப முடியும். தொட்டியின் அடிப்பகுதியில் அதை காலி செய்ய மூன்றாவது குழாய் உள்ளது. மூன்று குழாய்களும் ஒரே நேரத்தில் திறக்கப்பட்டால், தொட்டி 50 நிமிடங்களில் நிரம்புகிறது. மூன்றாவது குழாய் மட்டும் தொட்டியை எவ்வளவு நேரத்தில் காலி செய்ய முடியும்?
+a) 90 minutes / 90 நிமிடங்கள்
+b) 100 minutes / 100 நிமிடங்கள்
+c) 110 minutes / 110 நிமிடங்கள்
+d) 120 minutes / 120 நிமிடங்கள்
+Answer: b
+
+46. If 4 men or 6 women can do a piece of work in 12 days working 7 hours a day; how many days will it take to complete a work twice as large with 10 men and 3 women working together 8 hours a day?
+4 ஆண்கள் அல்லது 6 பெண்கள் ஒரு நாளைக்கு 7 மணி நேரம் வேலை செய்து, ஒரு வேலையை 12 நாட்களில் முடிக்க முடியும் என்றால்; 10 ஆண்களும் 3 பெண்களும் சேர்ந்து ஒரு நாளைக்கு 8 மணி நேரம் வேலை செய்து, அதைவிட இரண்டு மடங்கு பெரிய வேலையை முடிக்க எத்தனை நாட்கள் ஆகும்?
+a) 6 days / 6 நாட்கள்
+b) 7 days / 7 நாட்கள்
+c) 8 days / 8 நாட்கள்
+d) 10 days / 10 நாட்கள்
+Answer: b
+
+47. A can build up a structure in 8 days and B can break it in 3 days. A has worked for 4 days and then B joined to work with A for another 2 days only. In how many days will A alone build up the remaining part of the structure?
+A ஒரு அமைப்பை 8 நாட்களில் கட்ட முடியும், B அதை 3 நாட்களில் உடைக்க முடியும். A 4 நாட்கள் வேலை செய்துள்ளார், பின்னர் B, A உடன் மேலும் 2 நாட்கள் மட்டுமே வேலை செய்ய சேர்ந்தார். மீதமுள்ள கட்டமைப்பை A மட்டும் தனியாக எத்தனை நாட்களில் கட்டி முடிப்பார்?
+a) 5 1/3 days / 5 1/3 நாட்கள்
+b) 6 2/3 days / 6 2/3 நாட்கள்
+c) 7 1/3 days / 7 1/3 நாட்கள்
+d) 8 days / 8 நாட்கள்
+Answer: c
+
+48. A father can do a job as fast as two sons working together. If one son does the job in 3 hours and the other in 6 hours, how many hours does it take the father to do the job?
+இரண்டு மகன்கள் சேர்ந்து செய்யும் வேலையை ஒரு தந்தை தனியாகச் செய்ய முடியும். ஒரு மகன் அந்த வேலையை 3 மணி நேரத்திலும், மற்றொரு மகன் 6 மணி நேரத்திலும் செய்தால், தந்தை அந்த வேலையைச் செய்ய எத்தனை மணி நேரம் ஆகும்?
+a) 1 hour / 1 மணி நேரம்
+b) 2 hours / 2 மணி நேரம்
+c) 3 hours / 3 மணி நேரம்
+d) 4 hours / 4 மணி நேரம்
+Answer: b
+
+49. Kamal can do a work in 15 days. Vimal is 50% more efficient than Kamal. The number of days Vimal will take to do the same piece of work is:
+கமல் ஒரு வேலையை 15 நாட்களில் செய்ய முடியும். விமல், கமலை விட 50% அதிக திறன் கொண்டவர். அதே வேலையைச் செய்ய விமல் எடுத்துக்கொள்ளும் நாட்களின் எண்ணிக்கை:
+a) 7.5 days / 7.5 நாட்கள்
+b) 10 days / 10 நாட்கள்
+c) 12 days / 12 நாட்கள்
+d) 14 days / 14 நாட்கள்
+Answer: b
+
+50. Three men, four women and six children can complete a work in 7 days. A woman does double the work a man does and a child does half the work a man does. How many women alone can complete this work in 7 days?
+மூன்று ஆண்கள், நான்கு பெண்கள் மற்றும் ஆறு குழந்தைகள் ஒரு வேலையை 7 நாட்களில் முடிக்க முடியும். ஒரு பெண் ஒரு ஆண் செய்யும் வேலையை விட இருமடங்கு செய்கிறாள், ஒரு குழந்தை ஒரு ஆண் செய்யும் வேலையில் பாதியைச் செய்கிறது. எத்தனை பெண்கள் மட்டும் இந்த வேலையை 7 நாட்களில் முடிக்க முடியும்?
+a) 6
+b) 7
+c) 8
+d) 9
+Answer: b
+
+**************************************************

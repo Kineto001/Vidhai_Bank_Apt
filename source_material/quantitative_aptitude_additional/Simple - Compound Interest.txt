@@ -1,0 +1,405 @@
+TNPSC Group 4 - Aptitude & Mental Ability
+Topic: Simple Interest & Compound Interest
+Total Questions: 50
+
+---
+
+1. Calculate the simple interest on ₹5,000 for 2 years at 8% per annum.
+   ₹5,000-க்கு 8% ஆண்டு வட்டியில், 2 ஆண்டுகளுக்கான தனி வட்டியைக் கணக்கிடுக.
+   a) ₹800
+   b) ₹400
+   c) ₹1600
+   d) ₹1000
+   Answer: a
+
+2. What principal will amount to ₹6,600 in 4 years at 8% per annum simple interest?
+   எந்த அசல் தொகை 8% ஆண்டு தனி வட்டி வீதத்தில் 4 ஆண்டுகளில் ₹6,600 ஆக மாறும்?
+   a) ₹5,000
+   b) ₹6,000
+   c) ₹5,500
+   d) ₹4,500
+   Answer: a
+
+3. At what rate percent per annum will a sum of ₹2,000 amount to ₹2,400 in 4 years with simple interest?
+   ஆண்டுக்கு என்ன வட்டி வீதத்தில் (தனி வட்டி) ₹2,000 என்ற தொகை 4 ஆண்டுகளில் ₹2,400 ஆக மாறும்?
+   a) 4%
+   b) 5%
+   c) 6%
+   d) 8%
+   Answer: b
+
+4. In how many years will a sum of ₹3,000 yield a simple interest of ₹1,080 at 12% per annum?
+   ஆண்டுக்கு 12% வட்டி வீதத்தில், ₹3,000 என்ற தொகைக்கு ₹1,080 தனி வட்டியாகக் கிடைக்க எத்தனை ஆண்டுகள் ஆகும்?
+   a) 2 years / 2 ஆண்டுகள்
+   b) 3 years / 3 ஆண்டுகள்
+   c) 4 years / 4 ஆண்டுகள்
+   d) 5 years / 5 ஆண்டுகள்
+   Answer: b
+
+5. Find the simple interest on ₹7,500 at 8% per annum for 1 year 6 months.
+   ₹7,500-க்கு 8% ஆண்டு வட்டியில், 1 ஆண்டு 6 மாதங்களுக்கான தனி வட்டியைக் காண்க.
+   a) ₹900
+   b) ₹800
+   c) ₹750
+   d) ₹1,000
+   Answer: a
+
+6. What will be the total amount for a principal of ₹10,000 for 3 years at 5% p.a. simple interest?
+   ₹10,000 அசலுக்கு 5% ஆண்டு தனி வட்டி வீதத்தில் 3 ஆண்டுகளுக்குப் பிறகு கிடைக்கும் மொத்தத் தொகை எவ்வளவு?
+   a) ₹1,500
+   b) ₹11,500
+   c) ₹10,500
+   d) ₹12,000
+   Answer: b
+
+7. A sum of money amounts to ₹9,800 after 5 years and ₹12,005 after 8 years at the same rate of simple interest. The rate of interest per annum is:
+   ஒரு குறிப்பிட்ட அசல் தொகை தனிவட்டி வீதத்தில் 5 ஆண்டுகளில் ₹9,800 ஆகவும், 8 ஆண்டுகளில் ₹12,005 ஆகவும் மாறுகிறது. எனில், ஆண்டு வட்டி வீதம் என்ன?
+   a) 5%
+   b) 8%
+   c) 12%
+   d) 15%
+   Answer: c
+
+8. Find the simple interest on ₹8,000 for 73 days at 10% per annum.
+   ₹8,000-க்கு 10% ஆண்டு வட்டியில், 73 நாட்களுக்கான தனி வட்டியைக் காண்க.
+   a) ₹160
+   b) ₹150
+   c) ₹200
+   d) ₹120
+   Answer: a
+
+9. In how many years will a sum of money double itself at 10% per annum simple interest?
+   ஒரு அசல் தொகை 10% ஆண்டு தனி வட்டி வீதத்தில் எத்தனை ஆண்டுகளில் இரண்டு மடங்காகும்?
+   a) 5 years / 5 ஆண்டுகள்
+   b) 8 years / 8 ஆண்டுகள்
+   c) 10 years / 10 ஆண்டுகள்
+   d) 12 years / 12 ஆண்டுகள்
+   Answer: c
+
+10. The simple interest on ₹1,000 for 2 years is ₹20 more than the simple interest on ₹800 for 2 years at the same rate. Find the rate of interest.
+    ₹1,000-க்கு 2 ஆண்டுகளுக்குக் கிடைக்கும் தனி வட்டியானது, அதே வட்டி வீதத்தில் ₹800-க்கு 2 ஆண்டுகளுக்குக் கிடைக்கும் தனி வட்டியை விட ₹20 அதிகம். எனில், வட்டி வீதத்தைக் காண்க.
+    a) 4%
+    b) 5%
+    c) 8%
+    d) 10%
+    Answer: b
+
+11. A man took a loan of ₹12,000 at 9% p.a. simple interest. What amount will he pay to clear his debt after 5 years?
+    ஒருவர் 9% ஆண்டு தனிவட்டியில் ₹12,000 கடனாகப் பெற்றார். 5 ஆண்டுகளுக்குப் பிறகு அவர் தனது கடனைத் தீர்க்க செலுத்த வேண்டிய மொத்தத் தொகை எவ்வளவு?
+    a) ₹5,400
+    b) ₹17,400
+    c) ₹16,200
+    d) ₹18,000
+    Answer: b
+
+12. If the simple interest for a sum of money for 2 years at 4% per annum is ₹160, what is the principal?
+    ஒரு தொகைக்கு 4% ஆண்டு வட்டியில் 2 ஆண்டுகளுக்குக் கிடைக்கும் தனி வட்டி ₹160 எனில், அசலைக் காண்க.
+    a) ₹1,000
+    b) ₹1,500
+    c) ₹2,000
+    d) ₹2,500
+    Answer: c
+
+13. A sum of money triples itself in 20 years at simple interest. Find the rate of interest.
+    ஒரு அசல் தொகை தனிவட்டியில் 20 ஆண்டுகளில் மூன்று மடங்காகிறது. எனில், வட்டி வீதத்தைக் காண்க.
+    a) 5%
+    b) 8%
+    c) 10%
+    d) 12%
+    Answer: c
+
+14. A person lends ₹5,000 in two parts. One part at 4% p.a. and the other at 5% p.a. simple interest. If the total annual interest is ₹224, find the sum lent at 4%.
+    ஒருவர் ₹5,000-ஐ இரண்டு பகுதிகளாகப் பிரித்துக் கடன் கொடுக்கிறார். ஒரு பகுதிக்கு 4% வட்டியும், மற்றொரு பகுதிக்கு 5% வட்டியும் கிடைக்கிறது. ஒரு வருட முடிவில் மொத்த தனி வட்டி ₹224 எனில், 4% வட்டிக்குக் கொடுக்கப்பட்ட தொகை எவ்வளவு?
+    a) ₹2,400
+    b) ₹2,500
+    c) ₹2,600
+    d) ₹2,800
+    Answer: c
+
+15. The simple interest on a certain sum is 16/25 of the sum. If the rate per cent and time (in years) are numerically equal, find the rate of interest.
+    ஒரு குறிப்பிட்ட அசலின் தனி வட்டியானது, அந்த அசலில் 16/25 பங்காகும். வட்டி வீதமும், காலமும் (ஆண்டுகளில்) எண் அளவில் சமம் எனில், வட்டி வீதத்தைக் காண்க.
+    a) 6%
+    b) 8%
+    c) 10%
+    d) 12%
+    Answer: b
+
+16. Find the compound interest on ₹10,000 for 2 years at 10% per annum, compounded annually.
+    ₹10,000-க்கு 10% ஆண்டு வட்டியில், 2 ஆண்டுகளுக்கு ஆண்டுக்கொரு முறை வட்டி கணக்கிடப்பட்டால் கிடைக்கும் கூட்டு வட்டியைக் காண்க.
+    a) ₹2,000
+    b) ₹2,100
+    c) ₹2,200
+    d) ₹1,900
+    Answer: b
+
+17. Find the compound interest on ₹8,000 for 1 year at 10% per annum, compounded half-yearly.
+    ₹8,000-க்கு 10% ஆண்டு வட்டியில், 1 ஆண்டுக்கு அரையாண்டுக்கு ஒரு முறை வட்டி கணக்கிடப்பட்டால் கிடைக்கும் கூட்டு வட்டியைக் காண்க.
+    a) ₹800
+    b) ₹810
+    c) ₹820
+    d) ₹840
+    Answer: c
+
+18. Find the compound interest on ₹16,000 for 9 months at 20% per annum, compounded quarterly.
+    ₹16,000-க்கு 20% ஆண்டு வட்டியில், 9 மாதங்களுக்கு காலாண்டுக்கு ஒரு முறை வட்டி கணக்கிடப்பட்டால் கிடைக்கும் கூட்டு வட்டியைக் காண்க.
+    a) ₹2,400
+    b) ₹2,522
+    c) ₹2,600
+    d) ₹2,480
+    Answer: b
+
+19. The compound interest on a certain sum for 2 years at 10% per annum is ₹420. The principal is:
+    ஒரு குறிப்பிட்ட அசலுக்கு 10% ஆண்டு கூட்டு வட்டியில் 2 ஆண்டுகளுக்கு கிடைக்கும் கூட்டு வட்டி ₹420 எனில், அசலைக் காண்க.
+    a) ₹1,000
+    b) ₹2,000
+    c) ₹2,200
+    d) ₹1,500
+    Answer: b
+
+20. At what rate per cent per annum will ₹2,000 amount to ₹2,205 in 2 years, compounded annually?
+    ஆண்டுக்கு என்ன கூட்டு வட்டி வீதத்தில் ₹2,000 என்ற அசல், 2 ஆண்டுகளில் ₹2,205 ஆக மாறும்? (வட்டி ஆண்டுக்கொரு முறை கணக்கிடப்படுகிறது)
+    a) 4%
+    b) 5%
+    c) 6%
+    d) 8%
+    Answer: b
+
+21. In how many years will ₹1,000 amount to ₹1,331 at 10% per annum, compounded annually?
+    ஆண்டுக்கு 10% கூட்டு வட்டி வீதத்தில், ₹1,000 என்ற அசல், ₹1,331 ஆக மாற எத்தனை ஆண்டுகள் ஆகும்? (வட்டி ஆண்டுக்கொரு முறை கணக்கிடப்படுகிறது)
+    a) 2 years / 2 ஆண்டுகள்
+    b) 3 years / 3 ஆண்டுகள்
+    c) 4 years / 4 ஆண்டுகள்
+    d) 2.5 years / 2.5 ஆண்டுகள்
+    Answer: b
+
+22. A sum of money placed at compound interest doubles itself in 5 years. In how many years will it amount to eight times itself?
+    ஒரு அசல் தொகை கூட்டு வட்டியில் 5 ஆண்டுகளில் இரண்டு மடங்காகிறது. அதே வட்டி வீதத்தில், அது எட்டு மடங்காக மாற எத்தனை ஆண்டுகள் ஆகும்?
+    a) 10 years / 10 ஆண்டுகள்
+    b) 15 years / 15 ஆண்டுகள்
+    c) 20 years / 20 ஆண்டுகள்
+    d) 25 years / 25 ஆண்டுகள்
+    Answer: b
+
+23. Find the compound interest on ₹16,000 for 2 years and 3 months at 10% per annum compounded annually.
+    ₹16,000-க்கு 10% ஆண்டு வட்டியில், 2 ஆண்டுகள் 3 மாதங்களுக்கு ஆண்டுக்கொரு முறை வட்டி கணக்கிடப்பட்டால் கிடைக்கும் கூட்டு வட்டியைக் காண்க.
+    a) ₹3,360
+    b) ₹3,480
+    c) ₹3,844
+    d) ₹4,000
+    Answer: c
+
+24. The compound interest on ₹30,000 at 7% per annum for a certain time is ₹4,347. The time period is:
+    ₹30,000-க்கு 7% ஆண்டு வட்டியில், ஒரு குறிப்பிட்ட காலத்திற்கு கிடைக்கும் கூட்டு வட்டி ₹4,347 எனில், அந்த காலத்தைக் காண்க.
+    a) 1 year / 1 ஆண்டு
+    b) 2 years / 2 ஆண்டுகள்
+    c) 3 years / 3 ஆண்டுகள்
+    d) 2.5 years / 2.5 ஆண்டுகள்
+    Answer: b
+
+25. Find the amount on ₹25,000 after 2 years, compounded annually, if the rate of interest is 4% for the first year and 5% for the second year.
+    முதல் ஆண்டுக்கு 4%, இரண்டாம் ஆண்டுக்கு 5% என வட்டி வீதம் மாறினால், ₹25,000-க்கு 2 ஆண்டுகளுக்குப் பிறகு கிடைக்கும் மொத்தத் தொகையைக் காண்க (வட்டி ஆண்டுக்கொரு முறை கணக்கிடப்படுகிறது).
+    a) ₹27,000
+    b) ₹27,300
+    c) ₹27,500
+    d) ₹28,000
+    Answer: b
+
+26. What principal will amount to ₹4,410 in 1 year at 10% per annum, compounded half-yearly?
+    10% ஆண்டு கூட்டு வட்டி வீதத்தில், அரையாண்டுக்கு ஒரு முறை வட்டி கணக்கிடப்பட்டால், எந்த அசல் தொகை 1 வருடத்தில் ₹4,410 ஆக மாறும்?
+    a) ₹3,800
+    b) ₹3,900
+    c) ₹4,000
+    d) ₹4,100
+    Answer: c
+
+27. The population of a town was 10,000. If it increases at the rate of 10% per annum, what will be its population after 3 years?
+    ஒரு நகரத்தின் மக்கள் தொகை 10,000. அது ஆண்டுக்கு 10% வீதத்தில் அதிகரித்தால், 3 ஆண்டுகளுக்குப் பிறகு அதன் மக்கள் தொகை என்னவாக இருக்கும்?
+    a) 13,000
+    b) 13,300
+    c) 13,310
+    d) 14,000
+    Answer: c
+
+28. The value of a machine depreciates at the rate of 10% per annum. If its present value is ₹1,62,000, what was its value 2 years ago?
+    ஒரு இயந்திரத்தின் மதிப்பு ஆண்டுக்கு 10% வீதத்தில் குறைகிறது. அதன் தற்போதைய மதிப்பு ₹1,62,000 எனில், 2 ஆண்டுகளுக்கு முன்பு அதன் மதிப்பு என்னவாக இருந்தது?
+    a) ₹1,80,000
+    b) ₹1,90,000
+    c) ₹2,00,000
+    d) ₹2,10,000
+    Answer: c
+
+29. Find the compound interest on ₹5,000 for the 3rd year only at 8% per annum.
+    ₹5,000-க்கு 8% ஆண்டு வட்டியில், 3-வது ஆண்டுக்கு மட்டும் கிடைக்கும் கூட்டு வட்டியைக் காண்க.
+    a) ₹400
+    b) ₹432
+    c) ₹466.56
+    d) ₹500
+    Answer: c
+
+30. Find the amount on ₹8,000 in 2.5 years at 10% p.a. compounded annually.
+    ₹8,000-க்கு 10% ஆண்டு வட்டியில், 2.5 ஆண்டுகளுக்கு ஆண்டுக்கொரு முறை வட்டி கணக்கிடப்பட்டால் கிடைக்கும் மொத்தத் தொகை எவ்வளவு?
+    a) ₹10,000
+    b) ₹10,164
+    c) ₹10,240
+    d) ₹9,680
+    Answer: b
+
+31. Find the difference between simple interest and compound interest on ₹5,000 for 2 years at 4% per annum.
+    ₹5,000-க்கு 4% ஆண்டு வட்டியில், 2 ஆண்டுகளுக்கான தனி வட்டிக்கும் கூட்டு வட்டிக்கும் உள்ள வித்தியாசத்தைக் காண்க.
+    a) ₹4
+    b) ₹8
+    c) ₹12
+    d) ₹16
+    Answer: b
+
+32. The difference between SI and CI on a certain sum of money for 2 years at 10% per annum is ₹40. Find the principal.
+    ஒரு குறிப்பிட்ட அசலுக்கு 10% ஆண்டு வட்டியில், 2 ஆண்டுகளுக்கான தனி வட்டிக்கும் கூட்டு வட்டிக்கும் உள்ள வித்தியாசம் ₹40 எனில், அசலைக் காண்க.
+    a) ₹2,000
+    b) ₹3,000
+    c) ₹4,000
+    d) ₹5,000
+    Answer: c
+
+33. The difference between CI and SI on ₹8,000 for 2 years is ₹20. Find the rate of interest per annum.
+    ₹8,000-க்கு 2 ஆண்டுகளுக்கு கிடைக்கும் கூட்டு வட்டிக்கும் தனி வட்டிக்கும் உள்ள வித்தியாசம் ₹20 எனில், ஆண்டு வட்டி வீதத்தைக் காண்க.
+    a) 4%
+    b) 5%
+    c) 6%
+    d) 8%
+    Answer: b
+
+34. Find the difference between CI and SI on ₹10,000 for 3 years at 5% per annum.
+    ₹10,000-க்கு 5% ஆண்டு வட்டியில், 3 ஆண்டுகளுக்கான கூட்டு வட்டிக்கும் தனி வட்டிக்கும் உள்ள வித்தியாசத்தைக் காண்க.
+    a) ₹75.00
+    b) ₹76.25
+    c) ₹77.50
+    d) ₹78.75
+    Answer: b
+
+35. The difference between CI and SI on a sum for 3 years at 10% p.a. is ₹93. Find the sum.
+    ஒரு குறிப்பிட்ட அசலுக்கு 10% ஆண்டு வட்டியில், 3 ஆண்டுகளுக்கான கூட்டு வட்டிக்கும் தனி வட்டிக்கும் உள்ள வித்தியாசம் ₹93 எனில், அசலைக் காண்க.
+    a) ₹2,000
+    b) ₹2,500
+    c) ₹3,000
+    d) ₹3,500
+    Answer: c
+
+36. The simple interest on a sum of money for 2 years is ₹800 and the compound interest for the same period at the same rate is ₹840. Find the principal.
+    ஒரு அசல் தொகைக்கு 2 ஆண்டுகளுக்கான தனி வட்டி ₹800 மற்றும் அதே காலத்திற்கு அதே வட்டி வீதத்தில் கூட்டு வட்டி ₹840 எனில், அசலைக் காண்க.
+    a) ₹2,000
+    b) ₹4,000
+    c) ₹6,000
+    d) ₹8,000
+    Answer: b
+
+37. The simple interest on a sum of money for 2 years is ₹1,200 and the compound interest for the same period at the same rate is ₹1,260. Find the rate of interest per annum.
+    ஒரு அசல் தொகைக்கு 2 ஆண்டுகளுக்கான தனி வட்டி ₹1,200 மற்றும் அதே காலத்திற்கு அதே வட்டி வீதத்தில் கூட்டு வட்டி ₹1,260 எனில், ஆண்டு வட்டி வீதத்தைக் காண்க.
+    a) 5%
+    b) 8%
+    c) 10%
+    d) 12%
+    Answer: c
+
+38. What is the difference between the compound interests on ₹5,000 for 1.5 years at 4% per annum compounded yearly and half-yearly?
+    ₹5,000-க்கு 4% ஆண்டு வட்டியில், 1.5 ஆண்டுகளுக்கு, ஆண்டுக்கொரு முறை மற்றும் அரையாண்டுக்கொரு முறை வட்டி கணக்கிடப்படும்போது கிடைக்கும் கூட்டு வட்டிகளுக்கு இடையேயான வித்தியாசம் என்ன?
+    a) ₹2.04
+    b) ₹3.06
+    c) ₹4.80
+    d) ₹5.10
+    Answer: a
+
+39. The difference in compound interest and simple interest for 2 years on a sum of money is ₹64. If the rate of interest is 8% p.a., find the sum.
+    ஒரு அசல் தொகைக்கு 8% ஆண்டு வட்டியில், 2 ஆண்டுகளுக்கான கூட்டு வட்டிக்கும் தனி வட்டிக்கும் உள்ள வித்தியாசம் ₹64 எனில், அந்த அசலைக் காண்க.
+    a) ₹8,000
+    b) ₹10,000
+    c) ₹12,000
+    d) ₹12,500
+    Answer: b
+
+40. If the simple interest for a certain sum for 2 years at 5% p.a. is ₹200, what will be the compound interest for the same sum, for the same period, and at the same rate?
+    ஒரு குறிப்பிட்ட அசலுக்கு 5% ஆண்டு வட்டியில் 2 ஆண்டுகளுக்கான தனிவட்டி ₹200 எனில், அதே அசலுக்கு, அதே காலத்திற்கு, அதே வட்டி வீதத்தில் கிடைக்கும் கூட்டு வட்டி எவ்வளவு?
+    a) ₹200
+    b) ₹205
+    c) ₹210
+    d) ₹215
+    Answer: b
+
+41. A sum of money becomes 4 times itself in 12 years at a certain rate of simple interest. In how many years will it become 7 times itself?
+    ஒரு அசல் தொகை தனி வட்டி வீதத்தில் 12 ஆண்டுகளில் 4 மடங்காகிறது. அதே வட்டி வீதத்தில், அது 7 மடங்காக மாற எத்தனை ஆண்டுகள் ஆகும்?
+    a) 18 years / 18 ஆண்டுகள்
+    b) 21 years / 21 ஆண்டுகள்
+    c) 24 years / 24 ஆண்டுகள்
+    d) 28 years / 28 ஆண்டுகள்
+    Answer: c
+
+42. A sum of money becomes 3 times in 8 years at compound interest. In how many years will it become 27 times?
+    ஒரு அசல் தொகை கூட்டு வட்டியில் 8 ஆண்டுகளில் 3 மடங்காகிறது. அதே வட்டி வீதத்தில், அது 27 மடங்காக மாற எத்தனை ஆண்டுகள் ஆகும்?
+    a) 16 years / 16 ஆண்டுகள்
+    b) 24 years / 24 ஆண்டுகள்
+    c) 32 years / 32 ஆண்டுகள்
+    d) 40 years / 40 ஆண்டுகள்
+    Answer: b
+
+43. What is the difference between SI and CI on ₹10,000 for 1 year at 8% p.a., if the interest is compounded half-yearly for CI?
+    ₹10,000-க்கு 8% ஆண்டு வட்டியில், 1 ஆண்டுக்கான தனி வட்டிக்கும், அரையாண்டுக்கொரு முறை வட்டி கணக்கிடப்படும் கூட்டு வட்டிக்கும் உள்ள வித்தியாசம் என்ன?
+    a) ₹0
+    b) ₹8
+    c) ₹16
+    d) ₹32
+    Answer: c
+
+44. What annual installment will discharge a debt of ₹1,092 due in 3 years at 12% simple interest?
+    12% தனிவட்டி வீதத்தில் 3 ஆண்டுகளில் செலுத்த வேண்டிய ₹1,092 கடனைத் தீர்க்க, ஒவ்வொரு ஆண்டும் செலுத்த வேண்டிய தவணைத் தொகை எவ்வளவு?
+    a) ₹300
+    b) ₹325
+    c) ₹350
+    d) ₹375
+    Answer: b
+
+45. A person invests money in three different schemes for 6 years, 10 years and 12 years at 10%, 12% and 15% simple interest respectively. At the completion of each scheme, he gets the same interest. The ratio of his investments is:
+    ஒருவர் தனது முதலீட்டை மூன்று வெவ்வேறு திட்டங்களில் முறையே 6, 10, 12 ஆண்டுகளுக்கு 10%, 12%, 15% தனி வட்டியில் முதலீடு செய்கிறார். ஒவ்வொரு திட்டத்தின் முடிவிலும் அவருக்கு சமமான வட்டி கிடைக்கிறது. எனில், அவரது முதலீடுகளின் விகிதம் என்ன?
+    a) 6:3:2
+    b) 2:3:4
+    c) 3:4:6
+    d) 1:2:3
+    Answer: a
+
+46. A sum of ₹2,100 was taken as a loan. This is to be paid back in two equal annual installments. If the rate of interest is 10% p.a. compounded annually, what is the value of each installment?
+    ₹2,100 கடனாகப் பெறப்பட்டது. இது இரண்டு சமமான வருடாந்திரத் தவணைகளில் திரும்பச் செலுத்தப்பட வேண்டும். வட்டி வீதம் ஆண்டுக்கு 10% மற்றும் வட்டி ஆண்டுக்கொரு முறை கணக்கிடப்பட்டால், ஒவ்வொரு தவணையின் மதிப்பு என்ன?
+    a) ₹1,100
+    b) ₹1,155
+    c) ₹1,210
+    d) ₹1,260
+    Answer: c
+
+47. A sum of money at simple interest amounts to ₹815 in 3 years and to ₹854 in 4 years. The sum is:
+    ஒரு அசல் தொகை தனிவட்டி வீதத்தில் 3 ஆண்டுகளில் ₹815 ஆகவும், 4 ஆண்டுகளில் ₹854 ஆகவும் மாறுகிறது. எனில், அந்த அசல் தொகை:
+    a) ₹650
+    b) ₹690
+    c) ₹698
+    d) ₹700
+    Answer: c
+
+48. For a certain principal, the compound interest for 2 years is ₹282.15 and the simple interest is ₹270. The rate of interest per annum is:
+    ஒரு குறிப்பிட்ட அசலுக்கு, 2 ஆண்டுகளுக்கான கூட்டு வட்டி ₹282.15 மற்றும் தனி வட்டி ₹270 ஆகும். எனில், ஆண்டு வட்டி வீதம்:
+    a) 6%
+    b) 9%
+    c) 10%
+    d) 12%
+    Answer: b
+
+49. Ram deposits ₹5,000 in a bank which pays 6% simple interest per annum. How much total amount will he get after 5 years?
+    ராம் ஒரு வங்கியில் ₹5,000-ஐ ஆண்டுக்கு 6% தனிவட்டி தரும் திட்டத்தில் முதலீடு செய்கிறார். 5 ஆண்டுகளுக்குப் பிறகு அவர் பெறும் மொத்தத் தொகை எவ்வளவு?
+    a) ₹1,500
+    b) ₹6,000
+    c) ₹6,500
+    d) ₹7,000
+    Answer: c
+
+50. Kumar invests ₹12,000 in a scheme that offers compound interest at 5% per annum. What will be the amount after 3 years?
+    குமார் ஒரு திட்டத்தில் ₹12,000-ஐ ஆண்டுக்கு 5% கூட்டு வட்டியில் முதலீடு செய்கிறார். 3 ஆண்டுகளுக்குப் பிறகு கிடைக்கும் மொத்தத் தொகை எவ்வளவு?
+    a) ₹13,800
+    b) ₹13,891.50
+    c) ₹13,920.50
+    d) ₹14,000
+    Answer: b

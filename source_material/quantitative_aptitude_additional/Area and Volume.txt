@@ -1,0 +1,404 @@
+TNPSC Group 4 - Area and Volume (Aptitude) MCQs
+(தமிழ்நாடு அரசுப் பணியாளர் தேர்வாணையம் - தொகுதி 4 - பரப்பளவு மற்றும் கனஅளவு (திறனறிதல்) மாதிரி வினாக்கள்)
+
+---
+
+1.  The side of a square is 10 cm. What is its area?
+    ஒரு சதுரத்தின் பக்கம் 10 செ.மீ எனில், அதன் பரப்பளவு என்ன?
+    a) 40 cm²
+    b) 100 cm²
+    c) 20 cm²
+    d) 10 cm²
+    Answer: b
+
+2.  The length and breadth of a rectangular field are 12 m and 8 m respectively. Find its perimeter.
+    ஒரு செவ்வக வடிவ வயலின் நீளம் மற்றும் அகலம் முறையே 12 மீ மற்றும் 8 மீ ஆகும். அதன் சுற்றளவைக் கண்டறியவும்.
+    a) 96 m
+    b) 20 m
+    c) 40 m
+    d) 4 m
+    Answer: c
+
+3.  Find the area of a circle whose radius is 7 cm. (Use π = 22/7)
+    7 செ.மீ ஆரம் கொண்ட ஒரு வட்டத்தின் பரப்பளவைக் கண்டறியவும். (π = 22/7 எனக்கொள்க)
+    a) 44 cm²
+    b) 154 cm²
+    c) 49 cm²
+    d) 22 cm²
+    Answer: b
+
+4.  A cuboid has dimensions 10 cm × 8 cm × 5 cm. What is its volume?
+    ஒரு கனச்செவ்வகத்தின் பரிமாணங்கள் 10 செ.மீ × 8 செ.மீ × 5 செ.மீ ஆகும். அதன் கனஅளவு என்ன?
+    a) 23 cm³
+    b) 340 cm³
+    c) 400 cm³
+    d) 800 cm³
+    Answer: c
+
+5.  The radius of a cylinder is 7 cm and its height is 10 cm. Find its volume. (Use π = 22/7)
+    ஒரு உருளையின் ஆரம் 7 செ.மீ மற்றும் அதன் உயரம் 10 செ.மீ எனில், அதன் கனஅளவைக் கண்டறியவும். (π = 22/7 எனக்கொள்க)
+    a) 154 cm³
+    b) 440 cm³
+    c) 1540 cm³
+    d) 770 cm³
+    Answer: c
+
+6.  Find the area of a triangle with a base of 14 cm and a height of 10 cm.
+    14 செ.மீ அடிப்பக்கம் மற்றும் 10 செ.மீ உயரம் கொண்ட ஒரு முக்கோணத்தின் பரப்பளவைக் கண்டறியவும்.
+    a) 140 cm²
+    b) 24 cm²
+    c) 70 cm²
+    d) 48 cm²
+    Answer: c
+
+7.  What is the volume of a sphere with a radius of 3 cm?
+    3 செ.மீ ஆரம் கொண்ட ஒரு கோளத்தின் கனஅளவு என்ன?
+    a) 9π cm³
+    b) 12π cm³
+    c) 36π cm³
+    d) 27π cm³
+    Answer: c
+
+8.  The side of a cube is 5 cm. What is its total surface area?
+    ஒரு கனசதுரத்தின் பக்கம் 5 செ.மீ ஆகும். அதன் மொத்தப் புறப்பரப்பு என்ன?
+    a) 125 cm²
+    b) 100 cm²
+    c) 150 cm²
+    d) 25 cm²
+    Answer: c
+
+9.  The diagonals of a rhombus are 10 cm and 12 cm. Find its area.
+    ஒரு சாய்சதுரத்தின் மூலைவிட்டங்கள் 10 செ.மீ மற்றும் 12 செ.மீ ஆகும். அதன் பரப்பளவைக் கண்டறியவும்.
+    a) 120 cm²
+    b) 22 cm²
+    c) 60 cm²
+    d) 30 cm²
+    Answer: c
+
+10. A metallic sphere of radius 6 cm is melted and recast into the shape of a cylinder of radius 3 cm. Find the height of the cylinder.
+    6 செ.மீ ஆரம் கொண்ட ஒரு உலோகக் கோளம் உருக்கப்பட்டு, 3 செ.மீ ஆரம் கொண்ட ஒரு உருளையாக மாற்றப்படுகிறது. உருளையின் உயரத்தைக் கண்டறியவும்.
+    a) 12 cm
+    b) 18 cm
+    c) 36 cm
+    d) 32 cm
+    Answer: d
+
+11. The area of a rectangular garden is 300 sq.m. If its length is 20 m, what is its breadth?
+    ஒரு செவ்வக தோட்டத்தின் பரப்பளவு 300 ச.மீ. அதன் நீளம் 20 மீ எனில், அதன் அகலம் என்ன?
+    a) 15 m
+    b) 10 m
+    c) 25 m
+    d) 12 m
+    Answer: a
+
+12. Find the total surface area of a hemisphere of radius 7 cm. (Use π = 22/7)
+    7 செ.மீ ஆரம் கொண்ட ஒரு அரைக்கோளத்தின் மொத்தப் புறப்பரப்பைக் கண்டறியவும். (π = 22/7 எனக்கொள்க)
+    a) 308 cm²
+    b) 154 cm²
+    c) 462 cm²
+    d) 616 cm²
+    Answer: c
+
+13. The volume of a cube is 64 cm³. Find the length of its side.
+    ஒரு கனசதுரத்தின் கனஅளவு 64 செ.மீ³ எனில், அதன் பக்கத்தின் நீளத்தைக் கண்டறியவும்.
+    a) 8 cm
+    b) 4 cm
+    c) 6 cm
+    d) 16 cm
+    Answer: b
+
+14. The base of a parallelogram is 15 cm and its height is 8 cm. What is its area?
+    ஒரு இணைகரத்தின் அடிப்பக்கம் 15 செ.மீ மற்றும் அதன் உயரம் 8 செ.மீ ஆகும். அதன் பரப்பளவு என்ன?
+    a) 60 cm²
+    b) 120 cm²
+    c) 23 cm²
+    d) 46 cm²
+    Answer: b
+
+15. Find the slant height of a cone whose radius is 3 cm and height is 4 cm.
+    ஆரம் 3 செ.மீ மற்றும் உயரம் 4 செ.மீ கொண்ட ஒரு கூம்பின் சாயுயரத்தைக் கண்டறியவும்.
+    a) 5 cm
+    b) 7 cm
+    c) 6 cm
+    d) 2.5 cm
+    Answer: a
+
+16. The circumference of a circle is 88 cm. Find its radius. (Use π = 22/7)
+    ஒரு வட்டத்தின் சுற்றளவு 88 செ.மீ எனில், அதன் ஆரத்தைக் கண்டறியவும். (π = 22/7 எனக்கொள்க)
+    a) 7 cm
+    b) 28 cm
+    c) 14 cm
+    d) 21 cm
+    Answer: c
+
+17. The ratio of length and breadth of a rectangle is 3:2. If its perimeter is 50 m, find its area.
+    ஒரு செவ்வகத்தின் நீளம் மற்றும் அகலத்தின் விகிதம் 3:2. அதன் சுற்றளவு 50 மீ எனில், அதன் பரப்பளவைக் கண்டறியவும்.
+    a) 100 m²
+    b) 125 m²
+    c) 150 m²
+    d) 200 m²
+    Answer: c
+
+18. Find the volume of a cone with radius 7 cm and height 3 cm. (Use π = 22/7)
+    7 செ.மீ ஆரம் மற்றும் 3 செ.மீ உயரம் கொண்ட ஒரு கூம்பின் கனஅளவைக் கண்டறியவும். (π = 22/7 எனக்கொள்க)
+    a) 154 cm³
+    b) 462 cm³
+    c) 77 cm³
+    d) 308 cm³
+    Answer: a
+
+19. The area of a trapezium is 180 cm² and the lengths of its parallel sides are 24 cm and 12 cm. Find the distance between the parallel sides.
+    ஒரு சரிவகத்தின் பரப்பளவு 180 செ.மீ² மற்றும் அதன் இணைப் பக்கங்களின் நீளங்கள் 24 செ.மீ மற்றும் 12 செ.மீ எனில், இணைப் பக்கங்களுக்கு இடையே உள்ள தூரத்தைக் கண்டறியவும்.
+    a) 5 cm
+    b) 15 cm
+    c) 10 cm
+    d) 20 cm
+    Answer: c
+
+20. The cost of fencing a square field at a rate of ₹10 per meter is ₹400. What is the area of the field?
+    ஒரு சதுர வடிவ வயலுக்கு வேலி அமைக்க மீட்டருக்கு ₹10 வீதம் ₹400 செலவாகிறது. அந்த வயலின் பரப்பளவு என்ன?
+    a) 100 m²
+    b) 40 m²
+    c) 1600 m²
+    d) 10 m²
+    Answer: a
+
+21. The lateral surface area of a cube is 100 cm². Find its volume.
+    ஒரு கனசதுரத்தின் பக்கப் பரப்பு 100 செ.மீ² எனில், அதன் கனஅளவைக் கண்டறியவும்.
+    a) 100 cm³
+    b) 125 cm³
+    c) 25 cm³
+    d) 1000 cm³
+    Answer: b
+
+22. The radii of two cylinders are in the ratio 2:3 and their heights are in the ratio 5:3. The ratio of their volumes is:
+    இரண்டு உருளைகளின் ஆரங்களின் விகிதம் 2:3 மற்றும் அவற்றின் உயரங்களின் விகிதம் 5:3 எனில், அவற்றின் கனஅளவுகளின் விகிதம்:
+    a) 10:9
+    b) 20:27
+    c) 27:20
+    d) 9:10
+    Answer: b
+
+23. Find the area of an equilateral triangle whose side is 4 cm.
+    4 செ.மீ பக்க அளவு கொண்ட ஒரு சமபக்க முக்கோணத்தின் பரப்பளவைக் கண்டறியவும்.
+    a) 4√3 cm²
+    b) 16 cm²
+    c) 8√3 cm²
+    d) 12 cm²
+    Answer: a
+
+24. The volume of a cylinder is 448π cm³ and its height is 7 cm. Find its radius.
+    ஒரு உருளையின் கனஅளவு 448π செ.மீ³ மற்றும் அதன் உயரம் 7 செ.மீ எனில், அதன் ஆரத்தைக் கண்டறியவும்.
+    a) 6 cm
+    b) 7 cm
+    c) 8 cm
+    d) 9 cm
+    Answer: c
+
+25. A room is 8 m long, 6 m wide, and 3 m high. Find the area of its four walls.
+    ஒரு அறையின் நீளம் 8 மீ, அகலம் 6 மீ மற்றும் உயரம் 3 மீ ஆகும். அதன் நான்கு சுவர்களின் பரப்பளவைக் கண்டறியவும்.
+    a) 42 m²
+    b) 144 m²
+    c) 84 m²
+    d) 48 m²
+    Answer: c
+
+26. The surface area of a sphere is 616 cm². Find its radius. (Use π = 22/7)
+    ஒரு கோளத்தின் புறப்பரப்பு 616 செ.மீ² எனில், அதன் ஆரத்தைக் கண்டறியவும். (π = 22/7 எனக்கொள்க)
+    a) 14 cm
+    b) 7 cm
+    c) 21 cm
+    d) 3.5 cm
+    Answer: b
+
+27. Find the area of a semicircle whose diameter is 14 cm. (Use π = 22/7)
+    14 செ.மீ விட்டமுடைய ஒரு அரைவட்டத்தின் பரப்பளவைக் கண்டறியவும். (π = 22/7 எனக்கொள்க)
+    a) 154 cm²
+    b) 308 cm²
+    c) 44 cm²
+    d) 77 cm²
+    Answer: d
+
+28. How many bricks, each measuring 25 cm × 10 cm × 8 cm, will be needed to build a wall 10 m × 5 m × 20 cm?
+    10 மீ × 5 மீ × 20 செ.மீ அளவுள்ள ஒரு சுவரைக் கட்டுவதற்கு, 25 செ.மீ × 10 செ.மீ × 8 செ.மீ அளவுள்ள எத்தனை செங்கற்கள் தேவைப்படும்?
+    a) 2500
+    b) 4000
+    c) 5000
+    d) 6000
+    Answer: c
+
+29. The perimeter of a rhombus is 52 cm. If one of its diagonals is 24 cm, find the length of the other diagonal.
+    ஒரு சாய்சதுரத்தின் சுற்றளவு 52 செ.மீ. அதன் ஒரு மூலைவிட்டம் 24 செ.மீ எனில், மற்ற மூலைவிட்டத்தின் நீளத்தைக் கண்டறியவும்.
+    a) 5 cm
+    b) 10 cm
+    c) 12 cm
+    d) 13 cm
+    Answer: b
+
+30. The curved surface area of a cylinder is 440 cm² and its height is 10 cm. Find its volume. (Use π = 22/7)
+    ஒரு உருளையின் வளைபரப்பு 440 செ.மீ² மற்றும் அதன் உயரம் 10 செ.மீ எனில், அதன் கனஅளவைக் கண்டறியவும். (π = 22/7 எனக்கொள்க)
+    a) 1540 cm³
+    b) 770 cm³
+    c) 4400 cm³
+    d) 3080 cm³
+    Answer: a
+
+31. The diagonal of a square is 10√2 cm. Find its area.
+    ஒரு சதுரத்தின் மூலைவிட்டம் 10√2 செ.மீ ஆகும். அதன் பரப்பளவைக் கண்டறியவும்.
+    a) 50 cm²
+    b) 100 cm²
+    c) 200 cm²
+    d) 40 cm²
+    Answer: b
+
+32. The volume of a right circular cone is 100π cm³ and its height is 12 cm. Find its slant height.
+    ஒரு நேர்வட்டக் கூம்பின் கனஅளவு 100π செ.மீ³ மற்றும் அதன் உயரம் 12 செ.மீ எனில், அதன் சாயுயரத்தைக் கண்டறியவும்.
+    a) 13 cm
+    b) 15 cm
+    c) 10 cm
+    d) 17 cm
+    Answer: a
+
+33. A rectangular park 60 m long and 40 m wide has a 2 m wide path inside it along the boundary. Find the area of the path.
+    60 மீ நீளம் மற்றும் 40 மீ அகலம் கொண்ட ஒரு செவ்வகப் பூங்காவைச் சுற்றி, அதன் உட்புறமாக 2 மீ அகலமுள்ள பாதை அமைந்துள்ளது. அப்பாதையின் பரப்பளவைக் கண்டறியவும்.
+    a) 384 m²
+    b) 400 m²
+    c) 192 m²
+    d) 200 m²
+    Answer: a
+
+34. The volume of a hemispherical bowl is (1408/21) cm³. Find its radius. (Use π = 22/7)
+    ஒரு அரைக்கோள வடிவ கிண்ணத்தின் கனஅளவு (1408/21) செ.மீ³ ஆகும். அதன் ஆரத்தைக் கண்டறியவும். (π = 22/7 எனக்கொள்க)
+    a) 2 cm
+    b) 4 cm
+    c) 6 cm
+    d) 8 cm
+    Answer: b
+
+35. The base and height of a triangle are in the ratio 4:5. If the area of the triangle is 40 m², find the length of its base.
+    ஒரு முக்கோணத்தின் அடி மற்றும் உயரம் 4:5 என்ற விகிதத்தில் உள்ளன. முக்கோணத்தின் பரப்பளவு 40 மீ² எனில், அதன் அடிப்பக்கத்தின் நீளத்தைக் கண்டறியவும்.
+    a) 4 m
+    b) 5 m
+    c) 8 m
+    d) 10 m
+    Answer: c
+
+36. The total surface area of a cuboid is 184 cm². Its length is 8 cm and height is 4 cm. Find its breadth.
+    ஒரு கனச்செவ்வகத்தின் மொத்தப் புறப்பரப்பு 184 செ.மீ². அதன் நீளம் 8 செ.மீ மற்றும் உயரம் 4 செ.மீ எனில், அதன் அகலத்தைக் கண்டறியவும்.
+    a) 5 cm
+    b) 6 cm
+    c) 3 cm
+    d) 4 cm
+    Answer: a
+
+37. The radius of a cone and a cylinder are equal. The volume of the cone is 100 cm³. What is the volume of the cylinder if it has the same height as the cone?
+    ஒரு கூம்பு மற்றும் உருளையின் ஆரங்கள் சமம். கூம்பின் கனஅளவு 100 செ.மீ³ ஆகும். கூம்பின் உயரமும் உருளையின் உயரமும் சமமாக இருந்தால், உருளையின் கனஅளவு என்ன?
+    a) 100 cm³
+    b) 200 cm³
+    c) 300 cm³
+    d) 100/3 cm³
+    Answer: c
+
+38. The cost of plastering the four walls of a room at ₹8 per m² is ₹1920. If the length of the room is 10 m, and the height is 6 m, find the breadth of the room.
+    ஒரு அறையின் நான்கு சுவர்களுக்கும் சதுர மீட்டருக்கு ₹8 வீதம் பூசுவதற்கு ₹1920 செலவாகிறது. அறையின் நீளம் 10 மீ மற்றும் உயரம் 6 மீ எனில், அறையின் அகலத்தைக் கண்டறியவும்.
+    a) 8 m
+    b) 10 m
+    c) 12 m
+    d) 15 m
+    Answer: b
+
+39. The area of a circle is 616 cm². Find its circumference. (Use π = 22/7)
+    ஒரு வட்டத்தின் பரப்பளவு 616 செ.மீ² ஆகும். அதன் சுற்றளவைக் கண்டறியவும். (π = 22/7 எனக்கொள்க)
+    a) 44 cm
+    b) 88 cm
+    c) 176 cm
+    d) 154 cm
+    Answer: b
+
+40. Three cubes of metal whose edges are 3 cm, 4 cm and 5 cm respectively are melted to form a single cube. The total surface area of the new cube is:
+    3 செ.மீ, 4 செ.மீ மற்றும் 5 செ.மீ பக்க அளவுகள் கொண்ட மூன்று உலோக கனசதுரங்கள் உருக்கப்பட்டு ஒரே கனசதுரமாக உருவாக்கப்படுகின்றன. புதிய கனசதுரத்தின் மொத்தப் புறப்பரப்பு:
+    a) 216 cm²
+    b) 180 cm²
+    c) 144 cm²
+    d) 256 cm²
+    Answer: a
+
+41. The area of a rhombus is 96 cm² and the length of one of its diagonals is 16 cm. The perimeter of the rhombus is:
+    ஒரு சாய்சதுரத்தின் பரப்பளவு 96 செ.மீ² மற்றும் அதன் ஒரு மூலைவிட்டத்தின் நீளம் 16 செ.மீ. சாய்சதுரத்தின் சுற்றளவு:
+    a) 36 cm
+    b) 40 cm
+    c) 48 cm
+    d) 52 cm
+    Answer: b
+
+42. A cylindrical tank has a capacity of 6160 m³. If the diameter of its base is 28 m, find the depth of the tank. (Use π = 22/7)
+    ஒரு உருளை வடிவ தொட்டியின் கொள்ளளவு 6160 மீ³ ஆகும். அதன் அடிப்பக்கத்தின் விட்டம் 28 மீ எனில், தொட்டியின் ஆழத்தைக் கண்டறியவும். (π = 22/7 எனக்கொள்க)
+    a) 5 m
+    b) 10 m
+    c) 15 m
+    d) 20 m
+    Answer: b
+
+43. The ratio of the volumes of two spheres is 8:27. What is the ratio of their surface areas?
+    இரண்டு கோளங்களின் கனஅளவுகளின் விகிதம் 8:27 எனில், அவற்றின் புறப்பரப்புகளின் விகிதம் என்ன?
+    a) 2:3
+    b) 4:9
+    c) 8:27
+    d) 16:81
+    Answer: b
+
+44. The perimeter of a rectangle is 36 cm. If its length is 10 cm, find its area.
+    ஒரு செவ்வகத்தின் சுற்றளவு 36 செ.மீ. அதன் நீளம் 10 செ.மீ எனில், அதன் பரப்பளவைக் கண்டறியவும்.
+    a) 80 cm²
+    b) 90 cm²
+    c) 70 cm²
+    d) 360 cm²
+    Answer: a
+
+45. The curved surface area of a cone is 550 cm². If its slant height is 25 cm, find the radius of its base. (Use π = 22/7)
+    ஒரு கூம்பின் வளைபரப்பு 550 செ.மீ². அதன் சாயுயரம் 25 செ.மீ எனில், அதன் அடிப்பக்கத்தின் ஆரத்தைக் கண்டறியவும். (π = 22/7 எனக்கொள்க)
+    a) 14 cm
+    b) 10 cm
+    c) 3.5 cm
+    d) 7 cm
+    Answer: d
+
+46. What is the maximum length of a rod that can be placed in a cuboidal box of dimensions 12 cm × 9 cm × 8 cm?
+    12 செ.மீ × 9 செ.மீ × 8 செ.மீ பரிமாணங்கள் கொண்ட ஒரு கனச்செவ்வகப் பெட்டியில் வைக்கக்கூடிய மிக நீளமான கம்பியின் நீளம் என்ன?
+    a) 17 cm
+    b) 19 cm
+    c) 21 cm
+    d) 29 cm
+    Answer: a
+
+47. The volume of a wall, 5 times as high as it is broad and 8 times as long as it is high, is 12.8 m³. The breadth of the wall is:
+    ஒரு சுவரின் உயரமானது அதன் அகலத்தைப் போல 5 மடங்கும், நீளமானது அதன் உயரத்தைப் போல 8 மடங்கும் உள்ளது. சுவரின் கனஅளவு 12.8 மீ³ எனில், சுவரின் அகலம்:
+    a) 30 cm
+    b) 40 cm
+    c) 25 cm
+    d) 50 cm
+    Answer: b
+
+48. A wire is in the shape of a square of side 22 cm. It is rebent to form a circle. What is the radius of the circle? (Use π = 22/7)
+    ஒரு கம்பி 22 செ.மீ பக்கமுள்ள ஒரு சதுர வடிவில் உள்ளது. அது மீண்டும் வளைக்கப்பட்டு ஒரு வட்டமாக மாற்றப்படுகிறது. அந்த வட்டத்தின் ஆரம் என்ன? (π = 22/7 எனக்கொள்க)
+    a) 7 cm
+    b) 11 cm
+    c) 14 cm
+    d) 22 cm
+    Answer: c
+
+49. A well with a 14 m inner diameter is dug 10 m deep. The earth taken out of it has been spread evenly all around it to a width of 7 m to form an embankment. Find the height of the embankment.
+    14 மீ உள்விட்டமுள்ள ஒரு கிணறு 10 மீ ஆழத்திற்கு தோண்டப்படுகிறது. அதிலிருந்து எடுக்கப்பட்ட மண், கிணற்றைச் சுற்றி 7 மீ அகலத்திற்கு சீராகப் பரப்பப்பட்டு ஒரு மேடை அமைக்கப்படுகிறது. அந்த மேடையின் உயரத்தைக் கண்டறியவும்.
+    a) 2.5 m
+    b) 4 m
+    c) 5 m
+    d) 7.5 m
+    Answer: c
+
+50. The total surface area of a cylinder is 462 cm². Its curved surface area is one-third of its total surface area. The volume of the cylinder is: (Use π = 22/7)
+    ஒரு உருளையின் மொத்தப் புறப்பரப்பு 462 செ.மீ². அதன் வளைபரப்பு, மொத்தப் புறப்பரப்பில் மூன்றில் ஒரு பங்கு ஆகும். உருளையின் கனஅளவு: (π = 22/7 எனக்கொள்க)
+    a) 539 cm³
+    b) 462 cm³
+    c) 308 cm³
+    d) 616 cm³
+    Answer: a

@@ -1,0 +1,464 @@
+**Overall Topic: Cloze Test**
+**Exam Level: SBI PO/Clerk (Difficult)**
+
+**Directions (1-50): In the following passages, some words have been deleted. Fill in the blanks with the help of the options given. Choose the most appropriate option for each blank.**
+
+---
+
+**Passage 1 (Questions 1-5)**
+
+The central bank's recent decision to tighten monetary policy has been a subject of intense debate among economists. The primary objective is to curb the __(1)__ inflationary pressures that threaten to destabilize the economy. By raising interest rates, the bank hopes to __(2)__ liquidity from the market, thereby reducing aggregate demand. However, critics argue that such a move is premature and could potentially __(3)__ economic recovery. They contend that the inflation is largely supply-driven, caused by global disruptions, and that a rate hike would disproportionately harm small businesses and borrowers. The government, on the other hand, seems to have __(4)__ the central bank's stance, emphasizing the need for fiscal prudence and long-term stability over short-term gains. This complex interplay of monetary and fiscal measures will ultimately __(5)__ the nation's economic trajectory in the coming years.
+
+1.  
+    a) burgeoning
+    b) diminishing
+    c) placating
+    d) trivializing
+
+    Answer: a
+
+2.  
+    a) infuse
+    b) augment
+    c) siphon
+    d) disperse
+
+    Answer: c
+
+3.  
+    a) precipitate
+    b) stifle
+    c) facilitate
+    d) bolster
+
+    Answer: b
+
+4.  
+    a) censured
+    b) repudiated
+    c) endorsed
+    d) overlooked
+
+    Answer: c
+
+5.  
+    a) determine
+    b) nullify
+    c) obscure
+    d) complicate
+
+    Answer: a
+
+---
+
+**Passage 2 (Questions 6-10)**
+
+The advent of Artificial Intelligence represents a paradigm shift in technological evolution, with __(6)__ that extend far beyond mere automation. While its potential to revolutionize industries like healthcare and transportation is undeniable, there are also __(7)__ ethical concerns that demand our immediate attention. The issue of algorithmic bias, where AI systems perpetuate and even amplify human prejudices, is a particularly thorny problem. Furthermore, the specter of mass unemployment looms as intelligent machines become more __(8)__ at performing tasks previously done by humans. A robust regulatory framework is therefore not just advisable but essential to __(9)__ the risks associated with this powerful technology. Without careful oversight and ethical guidelines, we risk creating a future that is technologically advanced but socially __(10)__.
+
+6.  
+    a) limitations
+    b) ramifications
+    c) trivialities
+    d) precedents
+
+    Answer: b
+
+7.  
+    a) peripheral
+    b) unfounded
+    c) profound
+    d) negotiable
+
+    Answer: c
+
+8.  
+    a) inept
+    b) ambivalent
+    c) reluctant
+    d) adept
+
+    Answer: d
+
+9.  
+    a) exacerbate
+    b) disregard
+    c) mitigate
+    d) fabricate
+
+    Answer: c
+
+10. 
+    a) cohesive
+    b) equitable
+    c) regressive
+    d) vibrant
+
+    Answer: c
+
+---
+
+**Passage 3 (Questions 11-15)**
+
+The battle against climate change requires a two-pronged approach: mitigation and adaptation. Mitigation involves efforts to reduce or prevent the emission of greenhouse gases, such as __(11)__ to renewable energy sources and improving energy efficiency. Adaptation, on the other hand, involves adjusting to the current and future effects of climate change. This is particularly __(12)__ for vulnerable communities that are already experiencing the __(13)__ of rising sea levels and extreme weather events. Unfortunately, global efforts have often been __(14)__ by a lack of political will and disagreements over financial responsibilities. For any meaningful progress to be made, developed nations must take the lead in both reducing their carbon footprint and providing the necessary support to developing nations to build resilience and __(15)__ sustainable practices.
+
+11. 
+    a) reverting
+    b) transitioning
+    c) objecting
+    d) conforming
+
+    Answer: b
+
+12. 
+    a) trivial
+    b) optional
+    c) crucial
+    d) irrelevant
+
+    Answer: c
+
+13. 
+    a) benefits
+    b) brunt
+    c) subtleties
+    d) origins
+
+    Answer: b
+
+14. 
+    a) bolstered
+    b) validated
+    c) hamstrung
+    d) initiated
+
+    Answer: c
+
+15. 
+    a) abandon
+    b) penalize
+    c) adopt
+    d) question
+
+    Answer: c
+
+---
+
+**Passage 4 (Questions 16-20)**
+
+Corporate governance is the system of rules, practices, and processes by which a company is directed and controlled. Good corporate governance essentially involves balancing the interests of a company's many stakeholders, such as shareholders, senior management, customers, and the community. However, recent corporate scandals have __(16)__ a glaring lack of ethical oversight and accountability in many boardrooms. These incidents often stem from a culture of __(17)__ greed and a management team that prioritizes short-term profits over long-term sustainability and ethical conduct. To restore public trust, it is __(18)__ that companies foster a culture of transparency and probity. This involves establishing independent audit committees, protecting whistleblowers, and ensuring that executive compensation is __(19)__ with performance and ethical behaviour. Without these __(20)__ checks and balances, the risk of corporate malfeasance remains unacceptably high.
+
+16. 
+    a) concealed
+    b) fabricated
+    c) exposed
+    d) mitigated
+
+    Answer: c
+
+17. 
+    a) constrained
+    b) unbridled
+    c) altruistic
+    d) negligible
+
+    Answer: b
+
+18. 
+    a) imperative
+    b) discretionary
+    c) inadvisable
+    d) controversial
+
+    Answer: a
+
+19. 
+    a) incongruous
+    b) commensurate
+    c) independent
+    d) disconnected
+
+    Answer: b
+
+20. 
+    a) superficial
+    b) arbitrary
+    c) robust
+    d) convoluted
+
+    Answer: c
+
+---
+
+**Passage 5 (Questions 21-25)**
+
+The study of cognitive biases reveals the __(21)__ ways in which the human mind deviates from rational judgment. These mental shortcuts, or heuristics, while useful for making quick decisions, can often lead to systematic errors. For instance, confirmation bias makes us __(22)__ information that confirms our pre-existing beliefs while ignoring contradictory evidence. The anchoring effect shows our tendency to rely too heavily on the first piece of information offered. Understanding these biases is not merely an academic exercise; it has __(23)__ implications for fields like economics, law, and medicine. By being aware of our cognitive __(24)__, we can attempt to counteract their influence and make more objective, well-reasoned decisions. This process of metacognition, or thinking about our own thinking, is a __(25)__ of intellectual maturity and effective decision-making.
+
+21. 
+    a) predictable
+    b) infallible
+    c) transparent
+    d) irrational
+
+    Answer: a
+
+22. 
+    a) scrutinize
+    b) disregard
+    c) fabricate
+    d) favor
+
+    Answer: d
+
+23. 
+    a) theoretical
+    b) practical
+    c) negligible
+    d) controversial
+
+    Answer: b
+
+24. 
+    a) strengths
+    b) certainties
+    c) propensities
+    d) immunities
+
+    Answer: c
+
+25. 
+    a) detriment
+    b) cornerstone
+    c) coincidence
+    d) precursor
+
+    Answer: b
+
+---
+
+**Passage 6 (Questions 26-30)**
+
+In the annals of geopolitics, the fall of the Berlin Wall is __(26)__ as a watershed moment, symbolizing the end of the Cold War. The event did not occur in a vacuum; it was the __(27)__ of years of mounting internal dissent within the Eastern Bloc and a softening of the Soviet Union's hardline stance under Mikhail Gorbachev. The subsequent reunification of Germany sent shockwaves across the globe, fundamentally __(28)__ the balance of power in Europe. This period of rapid change was fraught with both opportunity and peril. While it ushered in an era of democratic expansion and economic liberalization, it also __(29)__ long-suppressed ethnic tensions and nationalist sentiments in various regions. The legacy of this period is a complex __(30)__ of progress and conflict, reminding us that historical transformations are rarely linear or painless.
+
+26. 
+    a) contested
+    b) heralded
+    c) dismissed
+    d) forgotten
+
+    Answer: b
+
+27. 
+    a) antithesis
+    b) precursor
+    c) culmination
+    d) negation
+
+    Answer: c
+
+28. 
+    a) cementing
+    b) preserving
+    c) sterilizing
+    d) reshaping
+
+    Answer: d
+
+29. 
+    a) quelled
+    b) resolved
+    c) unleashed
+    d) manufactured
+
+    Answer: c
+
+30. 
+    a) blueprint
+    b) tapestry
+    c) dichotomy
+    d) formula
+
+    Answer: b
+
+---
+
+**Passage 7 (Questions 31-35)**
+
+The rapid urbanization of the developing world presents a __(31)__ challenge. While cities are engines of economic growth and innovation, their unplanned expansion often leads to severe problems. Overburdened infrastructure, inadequate housing, and environmental degradation are common __(32)__ of such rapid growth. Slums proliferate, and access to basic services like clean water and sanitation becomes a daily struggle for millions. To address this, urban planning must shift from a reactive to a proactive approach. This involves creating a __(33)__ for sustainable urban development that integrates housing, transport, and green spaces. Public-private partnerships can play a __(34)__ role in financing and implementing these large-scale projects. Without such concerted and forward-thinking efforts, our cities risk becoming __(35)__ and unlivable, negating the very economic benefits they are supposed to generate.
+
+31. 
+    a) negligible
+    b) simple
+    c) formidable
+    d) resolved
+
+    Answer: c
+
+32. 
+    a) panaceas
+    b) catalysts
+    c) precursors
+    d) manifestations
+
+    Answer: d
+
+33. 
+    a) disregard
+    b) blueprint
+    c) hindrance
+    d) contingency
+
+    Answer: b
+
+34. 
+    a) peripheral
+    b) detrimental
+    c) pivotal
+    d) coercive
+
+    Answer: c
+
+35. 
+    a) idyllic
+    b) homogenous
+    c) dysfunctional
+    d) affluent
+
+    Answer: c
+
+---
+
+**Passage 8 (Questions 36-40)**
+
+The digital divide, the gap between those with and without access to modern information and communication technologies, remains a __(36)__ barrier to social equity. In an increasingly digital world, access to the internet is no longer a luxury but a __(37)__ for education, employment, and civic participation. The disparity is not just about access to devices; it also encompasses digital literacy—the skills needed to __(38)__ and critically evaluate online information. Efforts to bridge this divide must therefore be multifaceted. Simply providing low-cost hardware is insufficient. We must also invest in training programs and ensure that digital content is accessible and relevant to diverse communities. __(39)__ this divide is crucial for fostering inclusive growth and ensuring that the benefits of the digital revolution are not __(40)__ by a privileged few.
+
+36. 
+    a) trivial
+    b) resolved
+    c) significant
+    d) imaginary
+
+    Answer: c
+
+37. 
+    a) prerequisite
+    b) supplement
+    c) hindrance
+    d) preference
+
+    Answer: a
+
+38. 
+    a) generate
+    b) navigate
+    c) censor
+    d) monetize
+
+    Answer: b
+
+39. 
+    a) Widening
+    b) Ignoring
+    c) Bridging
+    d) Documenting
+
+    Answer: c
+
+40. 
+    a) shared
+    b) monopolized
+    c) distributed
+    d) enhanced
+
+    Answer: b
+
+---
+
+**Passage 9 (Questions 41-45)**
+
+In literary criticism, the concept of the 'unreliable narrator' is a fascinating tool used by authors to challenge the reader's perceptions. This narrative device features a narrator whose credibility has been seriously __(41)___. The unreliability may stem from psychological instability, a deliberate intent to deceive, or simply a naive or biased worldview. The author drops subtle clues and contradictions, __(42)__ the reader to question the narrator's account and to piece together a more objective version of the truth. This technique creates a sense of ambiguity and forces the reader into a more active, __(43)__ role. Rather than passively accepting the story as presented, the reader must act as a detective, __(44)__ the text for evidence. The effective use of an unreliable narrator can __(45)__ a simple story into a complex psychological puzzle, leaving a lasting impression on the reader.
+
+41. 
+    a) established
+    b) validated
+    c) compromised
+    d) announced
+
+    Answer: c
+
+42. 
+    a) compelling
+    b) forbidding
+    c) discouraging
+    d) simplifying
+
+    Answer: a
+
+43. 
+    a) passive
+    b) dogmatic
+    c) secondary
+    d) analytical
+
+    Answer: d
+
+44. 
+    a) ignoring
+    b) embellishing
+    c) scouring
+    d) summarizing
+
+    Answer: c
+
+45. 
+    a) reduce
+    b) elevate
+    c) clarify
+    d) conclude
+
+    Answer: b
+
+---
+
+**Passage 10 (Questions 46-50)**
+
+The immune system is a remarkably complex network of cells and proteins that defends the body against infection. Its ability to distinguish between self and non-self (pathogens like bacteria and viruses) is __(46)__ to its function. When this self-recognition mechanism fails, it can lead to autoimmune diseases, where the body mistakenly attacks its own tissues. The system also possesses a 'memory', which is the principle behind vaccination. After an initial __(47)__ to a specific pathogen, the immune system 'remembers' it. This allows for a much faster and more effective response upon subsequent encounters, often preventing the disease from developing. However, the immune system can sometimes be __(48)__ by highly adaptive pathogens that constantly change their surface proteins, a strategy employed by the influenza virus. This constant evolutionary battle __(49)__ the dynamic and ever-vigilant nature of our internal defence mechanisms, a system that is both incredibly resilient and __(50)__ fragile.
+
+46. 
+    a) incidental
+    b) detrimental
+    c) fundamental
+    d) contradictory
+
+    Answer: c
+
+47. 
+    a) aversion
+    b) exposure
+    c) immunity
+    d) resistance
+
+    Answer: b
+
+48. 
+    a) augmented
+    b) bolstered
+    c) outwitted
+    d) triggered
+
+    Answer: c
+
+49. 
+    a) undermines
+    b) underscores
+    c) negates
+    d) simplifies
+
+    Answer: b
+
+50. 
+    a) perpetually
+    b) predictably
+    c) paradoxically
+    d) partially
+
+    Answer: c

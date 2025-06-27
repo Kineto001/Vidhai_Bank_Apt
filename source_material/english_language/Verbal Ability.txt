@@ -1,0 +1,418 @@
+1. In the following question, a sentence is divided into four parts. Identify the part of the sentence that contains a grammatical error.
+
+The committee has been divided (a)/ on this contentious issue, and it seem unlikely (b)/ that they will reach a consensus (c)/ without external mediation. (d)
+a) The committee has been divided
+b) on this contentious issue, and it seem unlikely
+c) that they will reach a consensus
+d) without external mediation.
+Answer: b (Error: "it seem" should be "it seems" to agree with the singular subject 'it'.)
+
+2. In the following question, a sentence is divided into four parts. Identify the part of the sentence that contains a grammatical error.
+
+Neither the finance minister nor the secretaries (a)/ was available for comment on the matter (b)/ pertaining to the sudden nosedive (c)/ in the country's stock market. (d)
+a) Neither the finance minister nor the secretaries
+b) was available for comment on the matter
+c) pertaining to the sudden nosedive
+d) in the country's stock market.
+Answer: b (Error: With "Neither...nor," the verb agrees with the subject closer to it. "Secretaries" is plural, so the verb should be "were" instead of "was".)
+
+3. In the following question, a sentence is divided into four parts. Identify the part of thesentence that contains a grammatical error.
+
+Scarcely had the notification been released (a)/ when the aspirants begun preparing (b)/ for what was touted to be (c)/ the most competitive exam of the decade. (d)
+a) Scarcely had the notification been released
+b) when the aspirants begun preparing
+c) for what was touted to be
+d) the most competitive exam of the decade.
+Answer: b (Error: The past participle "begun" is incorrect here. After "did" or in the simple past, the verb should be "began". The correct form is "aspirants began".)
+
+4. In the following question, a sentence is divided into four parts. Identify the part of the sentence that contains a grammatical error.
+
+The board of directors demanded a more detailed analysis (a)/ of the market trends, finding the (b)/ submitted report to be both inadequate (c)/ and lacking of depth. (d)
+a) The board of directors demanded a more detailed analysis
+b) of the market trends, finding the
+c) submitted report to be both inadequate
+d) and lacking of depth.
+Answer: d (Error: The structure "both X and Y" requires parallelism. "inadequate" is an adjective. "lacking of depth" should be "lacking in depth" or more simply, "shallow" to maintain parallelism. The preposition "of" is incorrect with "lacking" in this context.)
+
+5. In the following question, a sentence is divided into four parts. Identify the part of the sentence that contains a grammatical error.
+
+Having been a prolific writer for most of his life, (a)/ his decision to retreat from public life (b)/ and ceasing all literary pursuits (c)/ came as a surprise to his admirers. (d)
+a) Having been a prolific writer for most of his life,
+b) his decision to retreat from public life
+c) and ceasing all literary pursuits
+d) came as a surprise to his admirers.
+Answer: c (Error: Parallelism is required. "his decision to retreat... and to cease..." The infinitive "to retreat" must be paralleled by "to cease," not the gerund "ceasing.")
+
+6. In the following question, a sentence is divided into four parts. Identify the part of the sentence that contains a grammatical error.
+
+The number of foreign investors showing interest (a)/ in the burgeoning tech sector have grown (b)/ exponentially over the last two fiscal quarters, (c)/ signaling a robust economic outlook. (d)
+a) The number of foreign investors showing interest
+b) in the burgeoning tech sector have grown
+c) exponentially over the last two fiscal quarters,
+d) signaling a robust economic outlook.
+Answer: b (Error: The phrase "The number of" takes a singular verb. Therefore, "have grown" should be "has grown.")
+
+7. In the following question, a sentence is divided into four parts. Identify the part of the sentence that contains a grammatical error.
+
+Despite of the overwhelming evidence presented by the prosecution, (a)/ the defense attorney was able to create (b)/ a reasonable doubt in the minds (c)/ of the jury members. (d)
+a) Despite of the overwhelming evidence presented by the prosecution,
+b) the defense attorney was able to create
+c) a reasonable doubt in the minds
+d) of the jury members.
+Answer: a (Error: "Despite" is never followed by "of". The correct usage is either "Despite the overwhelming evidence" or "In spite of the overwhelming evidence.")
+
+8. In the following question, a sentence is divided into four parts. Identify the part of the sentence that contains a grammatical error.
+
+The economist warned that unless the government takes (a)/ immediate and decisive measures to curb inflation, (b)/ the country's economic stability might be (c)/ at the stake for years to come. (d)
+a) The economist warned that unless the government takes
+b) immediate and decisive measures to curb inflation,
+c) the country's economic stability might be
+d) at the stake for years to come.
+Answer: d (Error: The correct idiom is "at stake," which means at risk. "at the stake" is incorrect.)
+
+9. In the following question, a sentence is divided into four parts. Identify the part of the sentence that contains a grammatical error.
+
+Had I known about the traffic congestion (a)/ due to the political rally, (b)/ I would have definitely chose an alternate route (c)/ to reach the airport on time. (d)
+a) Had I known about the traffic congestion
+b) due to the political rally,
+c) I would have definitely chose an alternate route
+d) to reach the airport on time.
+Answer: c (Error: In the third conditional structure ("would have" + past participle), the correct form of the verb "choose" is "chosen," not "chose.")
+
+10. In the following question, a sentence is divided into four parts. Identify the part of the sentence that contains a grammatical error.
+
+The manager was impressed by the candidate's ability (a)/ to not only articulate complex ideas clearly (b)/ but also his skill in handling (c)/ difficult questions with poise. (d)
+a) The manager was impressed by the candidate's ability
+b) to not only articulate complex ideas clearly
+c) but also his skill in handling
+d) difficult questions with poise.
+Answer: c (Error: The "not only... but also" construction requires parallel structures. "to articulate" (infinitive) should be followed by "to handle" (infinitive). The correct phrase would be "...but also to handle...")
+
+11. Fill in the blanks with the most appropriate pair of words.
+The CEO's _________ remarks were intended to _________ the fears of the employees following the announcement of a corporate merger.
+a) caustic, exacerbate
+b) conciliatory, allay
+c) ambiguous, amplify
+d) perfunctory, intensify
+Answer: b (Conciliatory means intended to pacify, and allay means to diminish or put at rest fear/suspicion.)
+
+12. Fill in the blanks with the most appropriate pair of words.
+Despite his reputation as a _________ negotiator, he was surprisingly _________ to the demands of the opposition, leading to a swift resolution.
+a) formidable, intractable
+b) lenient, hostile
+c) tenacious, amenable
+d) belligerent, resistant
+Answer: c (Tenacious means determined, which contrasts with amenable, meaning open and responsive to suggestion.)
+
+13. Fill in the blanks with the most appropriate pair of words.
+The committee's investigation revealed that the financial mismanagement was not accidental but a _________ act of _________ by senior executives.
+a) deliberate, malfeasance
+b) fortuitous, probity
+c) negligent, rectitude
+d) inadvertent, integrity
+Answer: a (Deliberate means intentional, and malfeasance is wrongdoing, especially by a public official.)
+
+14. Fill in the blanks with the most appropriate pair of words.
+The author's prose is often criticized for being too _________, filled with arcane references and convoluted sentences that _________ the average reader.
+a) lucid, enlighten
+b) prosaic, bore
+c) recondite, befuddle
+d) straightforward, clarify
+Answer: c (Recondite means little known or abstruse, and befuddle means to confuse.)
+
+15. Fill in the blanks with the most appropriate pair of words.
+The government’s _________ approach to economic reform was criticized for being too slow and lacking the _________ needed to tackle the crisis effectively.
+a) precipitate, caution
+b) incremental, impetus
+c) radical, hesitation
+d) comprehensive, deficiency
+Answer: b (Incremental means proceeding in small steps, which fits with the criticism of being too slow, and impetus means the force or energy with which a body moves.)
+
+16. Fill in the blank with the most appropriate word.
+The philosopher's work was so _________ that it took scholars years to fully unpack its meaning.
+a) perspicuous
+b) mundane
+c) esoteric
+d) transparent
+Answer: c (Esoteric means intended for or likely to be understood by only a small number of people with a specialized knowledge or interest.)
+
+17. Fill in the blank with the most appropriate word.
+Her _________ for punctuality was well-known; she could not tolerate tardiness in any form.
+a) penchant
+b) apathy
+c) disdain
+d) indifference
+Answer: a (Penchant means a strong or habitual liking for something or tendency to do something.)
+
+18. Fill in the blank with the most appropriate word.
+The politician's speech was a masterful piece of _________, designed to win over the crowd with emotional appeals rather than logical arguments.
+a) sophistry
+b) candor
+c) verity
+d) simplicity
+Answer: a (Sophistry is the use of clever but false arguments, especially with the intention of deceiving.)
+
+19. Fill in the blank with the most appropriate word.
+The ancient manuscript was in a _________ state, with faded ink and crumbling pages, requiring careful handling by the archivists.
+a) pristine
+b) robust
+c) precarious
+d) immaculate
+Answer: c (Precarious means not securely held or in position; dangerously likely to fall or collapse.)
+
+20. Fill in the blank with the most appropriate word.
+Faced with _________ evidence of his guilt, the defendant had no choice but to confess to the crime.
+a) tenuous
+b) speculative
+c) irrefutable
+d) circumstantial
+Answer: c (Irrefutable means impossible to deny or disprove.)
+
+21. In the following question, a part of the sentence is in bold. Choose the option that can correctly substitute the bold part to make the sentence grammatically correct. If the sentence is correct as it is, choose 'No improvement needed'.
+The reason he was rejected **was because he was** too young for the position.
+a) is because he is
+b) was that he was
+c) being that he was
+d) No improvement needed
+Answer: b (The phrase "The reason is..." should be followed by "that," not "because." "Because" is redundant.)
+
+22. In the following question, a part of the sentence is in bold. Choose the option that can correctly substitute the bold part to make the sentence grammatically correct. If the sentence is correct as it is, choose 'No improvement needed'.
+The team's performance in the tournament was **far more better** than anyone had anticipated.
+a) much more better
+b) far better
+c) more better
+d) No improvement needed
+Answer: b ("Better" is already a comparative adjective. Using "more" with it ("more better") is a double comparative and grammatically incorrect. "Far" can be used to emphasize the comparison.)
+
+23. In the following question, a part of the sentence is in bold. Choose the option that can correctly substitute the bold part to make the sentence grammatically correct. If the sentence is correct as it is, choose 'No improvement needed'.
+If the manager **would have been more careful**, the costly error could have been averted.
+a) had been more careful
+b) would be more careful
+c) was more careful
+d) No improvement needed
+Answer: a (This is a third conditional sentence. The 'if' clause requires the past perfect tense ("had been"), not "would have been.")
+
+24. In the following question, a part of the sentence is in bold. Choose the option that can correctly substitute the bold part to make the sentence grammatically correct. If the sentence is correct as it is, choose 'No improvement needed'.
+He is one of those authors who **is respected** by critics and the public alike.
+a) who are respected
+b) whom is respected
+c) who is being respected
+d) No improvement needed
+Answer: a (In the phrase "one of those who," the relative pronoun "who" refers to the plural noun "authors," not the singular "one." Therefore, the verb should be plural: "are respected.")
+
+25. In the following question, a part of the sentence is in bold. Choose the option that can correctly substitute the bold part to make the sentence grammatically correct. If the sentence is correct as it is, choose 'No improvement needed'.
+**Upon entering the room, the majestic painting** immediately caught my eye.
+a) When I entered the room, the majestic painting
+b) Upon entering the room, I was immediately caught by the eye of the majestic painting
+c) The majestic painting, upon entering the room,
+d) No improvement needed
+Answer: a (The original sentence has a dangling modifier. "Upon entering the room" should modify the person entering (I), not the painting. Option (a) corrects this by clarifying the subject.)
+
+Directions (26-30): Rearrange the following five sentences (A), (B), (C), (D), and (E) in the proper sequence to form a meaningful paragraph; then answer the questions given below.
+(A) This liquidity is crucial, as it allows individuals and businesses to easily convert their digital assets into traditional currency or other cryptocurrencies.
+(B) Consequently, their widespread acceptance by merchants and institutions remains a significant hurdle to their integration into the mainstream economy.
+(C) One of the primary functions of cryptocurrency exchanges is to provide a marketplace where buyers and sellers can trade digital currencies.
+(D) However, the decentralized and often anonymous nature of these transactions also presents challenges, particularly concerning regulatory oversight and security.
+(E) By facilitating these transactions, exchanges establish market prices and provide essential liquidity to the ecosystem.
+
+26. Which of the following should be the FIRST sentence after rearrangement?
+a) A
+b) B
+c) C
+d) D
+Answer: c (Sentence C introduces the main topic: the primary function of cryptocurrency exchanges.)
+
+27. Which of the following should be the SECOND sentence after rearrangement?
+a) A
+b) B
+c) D
+d) E
+Answer: d (Sentence E logically follows C by explaining *how* exchanges fulfill their function and what the immediate result is.)
+
+28. Which of the following should be the THIRD sentence after rearrangement?
+a) A
+b) B
+c) C
+d) D
+Answer: a (Sentence A elaborates on the concept of "liquidity" introduced in sentence E, explaining its importance.)
+
+29. Which of the following should be the FOURTH sentence after rearrangement?
+a) B
+b) C
+c) D
+d) E
+Answer: c (Sentence D presents a contrast ("However") to the positive functions described in C, E, and A, introducing the challenges.)
+
+30. Which of the following should be the LAST (FIFTH) sentence after rearrangement?
+a) A
+b) B
+c) D
+d) E
+Answer: b (Sentence B follows the challenges mentioned in D, stating the "consequence" of these challenges on widespread acceptance, providing a concluding thought.)
+**Correct Sequence: C - E - A - D - B**
+
+31. Choose the option that best expresses the meaning of the idiom in bold.
+The seasoned diplomat was known for his ability to **pour oil on troubled waters**, successfully de-escalating numerous international crises.
+a) to worsen a difficult situation
+b) to make a situation calm or peaceful
+c) to take advantage of a chaotic situation
+d) to remain neutral in a conflict
+Answer: b (To pour oil on troubled waters means to try to settle a disagreement or argument.)
+
+32. Choose the option that best expresses the meaning of the idiom in bold.
+Despite the initial success, the startup's victory proved to be a **Pyrrhic victory**, as the legal battles required to win had bankrupted the company.
+a) a victory that is easy and effortless
+b) a victory that comes with a surprisingly large reward
+c) a victory that is not worth winning because the winner loses so much in order to win
+d) a victory that is delayed but ultimately satisfying
+Answer: c (A Pyrrhic victory is a victory that inflicts such a devastating toll on the victor that it is tantamount to defeat.)
+
+33. Choose the option that best expresses the meaning of the idiom in bold.
+The new manager decided to **cut the Gordian knot** by completely restructuring the inefficient department rather than attempting minor reforms.
+a) to solve a complex problem in a decisive and simple way
+b) to postpone a difficult decision
+c) to complicate an already difficult problem
+d) to create a problem for others to solve
+Answer: a (To cut the Gordian knot means to solve a complex problem with a bold and decisive action.)
+
+34. Select the word that can substitute the given group of words.
+A person who is excessively concerned with minor details and rules or with displaying academic learning.
+a) Pedantic
+b) Erudite
+c) Loquacious
+d) Stoic
+Answer: a (A pedant is a person who is overly concerned with formalism, accuracy, and precision, or who makes an ostentatious and arrogant show of learning.)
+
+35. Select the word that can substitute the given group of words.
+Happening by a lucky chance; fortunate.
+a) Serendipitous
+b) Premeditated
+c) Inevitable
+d) Ominous
+Answer: a (Serendipitous means occurring or discovered by chance in a happy or beneficial way.)
+
+36. In the following sentence, a word is given in bold. Find the word which is most similar in meaning (SYNONYM) to the bold word.
+The speaker's **trenchant** critique of the government's policy left a lasting impression on the audience.
+a) vague
+b) insightful
+c) complimentary
+d) superficial
+Answer: b (Trenchant means vigorous or incisive in expression or style. "Insightful" is the closest synonym.)
+
+37. In the following sentence, a word is given in bold. Find the word which is most similar in meaning (SYNONYM) to the bold word.
+The manager's **parsimonious** nature was evident in his refusal to approve even the most necessary office expenditures.
+a) profligate
+b) generous
+c) stingy
+d) extravagant
+Answer: c (Parsimonious means unwilling to spend money or use resources; stingy or frugal.)
+
+38. In the following sentence, a word is given in bold. Find the word which is most opposite in meaning (ANTONYM) to the bold word.
+The evidence against the official was **tenuous** at best, making a conviction unlikely.
+a) flimsy
+b) substantial
+c) weak
+d) speculative
+Answer: b (Tenuous means very weak or slight. "Substantial" is the most direct antonym.)
+
+39. In the following sentence, a word is given in bold. Find the word which is most opposite in meaning (ANTONYM) to the bold word.
+The intern's **obsequious** behavior towards the senior partners was unsettling to his colleagues.
+a) fawning
+b) sycophantic
+c) servile
+d) assertive
+Answer: d (Obsequious means obedient or attentive to an excessive or servile degree. "Assertive" is a strong antonym.)
+
+40. In the following sentence, a word is given in bold. Find the word which is most opposite in meaning (ANTONYM) to the bold word.
+The peace talks were meant to **ameliorate** the escalating tensions between the two nations.
+a) improve
+b) mitigate
+c) exacerbate
+d) alleviate
+Answer: c (Ameliorate means to make something bad or unsatisfactory better. "Exacerbate" means to make a problem worse.)
+
+41. In the questions below, two sentences are given. You are required to find the connector from the options which can be used to form a single sentence from the two sentences.
+I. The company implemented a rigorous cost-cutting strategy.
+II. It failed to achieve the projected profit margins for the quarter.
+a) As a result,
+b) Furthermore,
+c) Consequently,
+d) Despite this,
+Answer: d ("Despite this" correctly introduces the contrast between the action taken (cost-cutting) and the unexpected negative outcome (failing to meet profit margins).)
+
+42. In the questions below, two sentences are given. You are required to find the connector from the options which can be used to form a single sentence from the two sentences.
+I. The central bank raised interest rates to combat inflation.
+II. The move is expected to slow down economic growth in the short term.
+a) Nevertheless,
+b) In contrast,
+c) Accordingly,
+d) Moreover,
+Answer: c ("Accordingly" shows a logical consequence. Raising interest rates is done, and accordingly (as a result), economic growth is expected to slow.)
+
+43. In the questions below, two sentences are given. You are required to find the connector from the options which can be used to form a single sentence from the two sentences.
+I. Artificial intelligence can process vast amounts of data with incredible speed.
+II. It currently lacks the nuanced understanding and emotional intelligence of a human.
+a) Besides,
+b) Whereas,
+c) Therefore,
+d) For instance,
+Answer: b ("Whereas" is used to compare or contrast two facts, which is the case here—comparing the strengths and weaknesses of AI.)
+
+44. In the questions below, two sentences are given. You are required to find the connector from the options which can be used to form a single sentence from the two sentences.
+I. The archaeological team unearthed a rare artifact from the ancient civilization.
+II. The discovery has provided invaluable insights into the culture's religious practices.
+a) On the contrary,
+b) Subsequently,
+c) Although,
+d) In other words,
+Answer: b ("Subsequently" indicates that one event happened after another and often as a result. The discovery happened, and subsequently (after that), it provided insights.)
+
+45. In the questions below, two sentences are given. You are required to find the connector from the options which can be used to form a single sentence from the two sentences.
+I. The new software update promises enhanced security features.
+II. Users have reported numerous bugs and system crashes since its installation.
+a) Nevertheless,
+b) Hence,
+c) In addition,
+d) As a result,
+Answer: a ("Nevertheless" is the best fit as it introduces a statement that contrasts with what has just been said (the promise vs. the reality).)
+
+Directions (46-50): Read the following passage carefully and answer the questions given below it.
+
+The rise of the gig economy, facilitated by digital platforms, has fundamentally reshaped labor markets globally. Proponents argue that it offers unprecedented flexibility and autonomy, allowing workers to be their own bosses, set their own hours, and choose their assignments. This model can be particularly appealing for those seeking supplementary income or a better work-life balance. Furthermore, it fosters entrepreneurship and innovation, reducing barriers to entry for service providers and creating a more dynamic, responsive market. For consumers, the gig economy often translates into more convenient and affordable services.
+
+However, this paradigm shift is not without its critics, who point to a significant erosion of traditional labor protections. Gig workers are typically classified as independent contractors, a designation that exempts companies from providing benefits like health insurance, paid leave, and retirement contributions. This precariousness is compounded by income volatility and a lack of a clear career progression path. The algorithmic management that governs many platforms can also be opaque and inequitable, with workers having little recourse against decisions that affect their earnings. Consequently, a debate rages on about the need for a new regulatory framework that can balance the innovative potential of the gig economy with the imperative to ensure fair and secure working conditions.
+
+46. What is the primary purpose of the passage?
+a) To advocate for the complete abolition of the gig economy.
+b) To exclusively praise the benefits of the gig economy for consumers.
+c) To present a balanced overview of the advantages and disadvantages of the gig economy.
+d) To argue that gig workers should be classified as full-time employees.
+Answer: c (The passage clearly presents both the arguments for (first paragraph) and against (second paragraph) the gig economy, making "a balanced overview" the most accurate description.)
+
+47. According to the passage, which of the following is a major criticism leveled against the gig economy?
+a) It leads to higher prices for consumers.
+b) It stifles innovation and entrepreneurship.
+c) It diminishes traditional employment benefits and security for workers.
+d) It provides workers with too much autonomy.
+Answer: c (The second paragraph explicitly states that critics point to an "erosion of traditional labor protections" and the exemption from providing benefits as a major issue.)
+
+48. The author uses the word "precariousness" in the second paragraph to describe:
+a) The physical danger associated with gig work.
+b) The financial and professional instability faced by gig workers.
+c) The technical difficulty of using digital platforms.
+d) The legal challenges faced by platform companies.
+Answer: b (The context, which mentions "income volatility and a lack of a clear career progression path," points directly to financial and professional instability.)
+
+49. What can be inferred about the author's stance on the regulation of the gig economy?
+a) The author is strongly against any form of regulation.
+b) The author believes existing labor laws are sufficient.
+c) The author suggests that a new, balanced approach to regulation is necessary.
+d) The author believes regulation would destroy the gig economy's innovative spirit.
+Answer: c (The last sentence mentions the "debate... about the need for a new regulatory framework that can balance" innovation with worker security, implying the author sees this as the central, unresolved issue and a necessary path forward.)
+
+50. The term "algorithmic management" as used in the passage most likely refers to:
+a) A team of managers who are experts in computer algorithms.
+b) The use of automated systems and data to assign tasks and evaluate worker performance.
+c) A management style that is flexible and adapts quickly.
+d) A democratic process where workers vote on platform rules.
+Answer: b (The context suggests a system that "governs many platforms" and against which workers have "little recourse," which points to an automated, data-driven system for managing workers, not human managers or democratic processes.)

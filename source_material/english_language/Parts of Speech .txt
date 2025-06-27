@@ -1,0 +1,379 @@
+Grammar (Parts of Speech) - 30 MCQs for SBI PO/Clerk Level
+
+Instructions: The following questions are designed to test your understanding of Parts of Speech in complex sentence structures. Choose the best option for each question.
+
+---
+
+**Question 1**
+In the sentence, "He was praised for his *unflinching* loyalty and courage," the word 'unflinching' functions as what part of speech?
+a) Adverb
+b) Adjective
+c) Gerund
+d) Verb
+
+Answer: b
+**Explanation:** 'Unflinching' is a participle acting as an adjective to describe the noun 'loyalty'.
+
+---
+
+**Question 2**
+Identify the part of the sentence that has a grammatical error related to the use of a part of speech.
+The recently appointed chairman (a) / is not only incompetent (b) / but also corrupts. (c) / No error (d)
+a) The recently appointed chairman
+b) is not only incompetent
+c) but also corrupts
+d) No error
+
+Answer: c
+**Explanation:** The correlative conjunction "not only... but also" must connect parallel structures. 'Incompetent' is an adjective, so it must be followed by another adjective. The verb 'corrupts' should be the adjective 'corrupt'.
+
+---
+
+**Question 3**
+Fill in the blank with the correct word.
+The ______ of the new policy on the small businesses is yet to be fully understood.
+a) affect
+b) effect
+c) effecting
+d) affective
+
+Answer: b
+**Explanation:** 'Effect' is a noun meaning 'a result or consequence'. 'Affect' is a verb meaning 'to influence'. The sentence requires a noun.
+
+---
+
+**Question 4**
+In the sentence, "Everyone *but* the manager was present for the meeting," what part of speech is the word 'but'?
+a) Conjunction
+b) Adverb
+c) Preposition
+d) Pronoun
+
+Answer: c
+**Explanation:** In this context, 'but' means 'except', and it is functioning as a preposition.
+
+---
+
+**Question 5**
+Choose the option that correctly identifies the parts of speech of the underlined words in the order they appear: "He worked *fast* enough to finish the project *before* the deadline."
+a) Adverb, Preposition
+b) Adjective, Conjunction
+c) Adverb, Adverb
+d) Adjective, Preposition
+
+Answer: a
+**Explanation:** 'Fast' is an adverb modifying the verb 'worked'. 'Before' is a preposition introducing the prepositional phrase 'before the deadline'.
+
+---
+
+**Question 6**
+Identify the part of the sentence that has a grammatical error.
+The manager spoke (a) / to my colleague and (b) / I about the upcoming audit. (c) / No error (d)
+a) The manager spoke
+b) to my colleague and
+c) I about the upcoming audit
+d) No error
+
+Answer: c
+**Explanation:** 'to' is a preposition. Pronouns that are objects of a preposition must be in the objective case. Therefore, 'I' (subjective case) should be 'me' (objective case).
+
+---
+
+**Question 7**
+The new intern works so ______ that she completes her tasks well before the deadline.
+a) diligent
+b) diligently
+c) diligence
+d) more diligent
+
+Answer: b
+**Explanation:** An adverb ('diligently') is needed to modify the verb 'works'. 'Diligent' is an adjective.
+
+---
+
+**Question 8**
+Which part of the sentence contains an error?
+Having been found guilty (a) / of the theft, the judge (b) / sentenced him to three years in prison. (c) / No error (d)
+a) Having been found guilty
+b) of the theft, the judge
+c) sentenced him to three years in prison
+d) No error
+
+Answer: d
+**Explanation:** The sentence is grammatically correct. "Having been found guilty of the theft" is a participial phrase correctly modifying 'him' (implied subject of the phrase). The structure is sound. Many might mistakenly see a dangling modifier, but the structure is valid.
+
+---
+
+**Question 9**
+In the sentence, "The *inside* information proved to be crucial for the investigation," the word 'inside' is functioning as a/an:
+a) Noun
+b) Adverb
+c) Preposition
+d) Adjective
+
+Answer: d
+**Explanation:** 'Inside' is modifying the noun 'information', so it is functioning as an adjective.
+
+---
+
+**Question 10**
+Replace the underlined part of the sentence with the grammatically correct option.
+The reason for the delay *is because the* server crashed unexpectedly.
+a) is that the
+b) is due to the
+c) is on account of the
+d) No improvement
+
+Answer: a
+**Explanation:** The phrase "The reason is because..." is redundant. The correct and more concise structure is "The reason is that...".
+
+---
+
+**Question 11**
+Identify the part of the sentence with an error.
+Neither of the candidates (a) / who were shortlisted for the final round (b) / have the required experience. (c) / No error (d)
+a) Neither of the candidates
+b) who were shortlisted for the final round
+c) have the required experience
+d) No error
+
+Answer: c
+**Explanation:** The indefinite pronoun 'Neither' is singular and requires a singular verb. Therefore, 'have' should be 'has'.
+
+---
+
+**Question 12**
+The team's performance was ______ good, considering the lack of resources and time.
+a) remarkable
+b) remarked
+c) remarkably
+d) remark
+
+Answer: c
+**Explanation:** The adverb 'remarkably' is needed to modify the adjective 'good'.
+
+---
+
+**Question 13**
+In the sentence, "They arrived *late*, so they missed the opening ceremony," what part of speech is the word 'late'?
+a) Adjective
+b) Adverb
+c) Preposition
+d) Noun
+
+Answer: b
+**Explanation:** 'Late' is an adverb modifying the verb 'arrived'.
+
+---
+
+**Question 14**
+Which of the following sentences uses the pronoun correctly?
+a) Let's keep this secret between you and I.
+b) The award was given to whomever performed the best.
+c) Me and my friends went to the concert.
+d) It was he who broke the window.
+
+Answer: d
+**Explanation:**
+a) 'between you and me' is correct (objective case after preposition).
+b) 'whoever performed the best' is correct (subject of the verb 'performed').
+c) 'My friends and I' is correct (subjective case for the subject).
+d) 'It was he' is the correct predicative nominative form.
+
+---
+
+**Question 15**
+Identify the error in the sentence.
+The committee's report, (a) / which recommendations were unanimously approved, (b) / will be published next month. (c) / No error (d)
+a) The committee's report,
+b) which recommendations were unanimously approved,
+c) will be published next month
+d) No error
+
+Answer: b
+**Explanation:** The relative pronoun 'which' cannot show possession. The correct possessive relative pronoun is 'whose'. It should be 'whose recommendations'.
+
+---
+
+**Question 16**
+*Running* is his favorite form of exercise. The underlined word is a:
+a) Participle
+b) Verb
+c) Gerund
+d) Adjective
+
+Answer: c
+**Explanation:** 'Running' is a verb form ending in -ing that functions as a noun (the subject of the sentence), which makes it a gerund.
+
+---
+
+**Question 17**
+The company's profits have grown ______ in the last quarter.
+a) substantial
+b) substance
+c) substantiate
+d) substantially
+
+Answer: d
+**Explanation:** The adverb 'substantially' is required to modify the verb 'have grown'.
+
+---
+
+**Question 18**
+Identify the sentence with an incorrectly placed modifier.
+a) The man with the red hat quickly walked away.
+b) Covered in mud, the car looked brand new after the wash.
+c) The investor only decided to fund the project after seeing the prototype.
+d) Speaking eloquently, the speaker captivated the entire audience.
+
+Answer: c
+**Explanation:** The placement of 'only' is incorrect. It should be placed right before the word or phrase it modifies. The intended meaning is likely that the decision to fund happened *only after* seeing the prototype. A better construction is: "The investor decided to fund the project only after seeing the prototype."
+
+---
+
+**Question 19**
+In the sentence, "This is the very book *that* I was looking for," the word 'that' is a:
+a) Demonstrative Pronoun
+b) Adverb
+c) Relative Pronoun
+d) Conjunction
+
+Answer: c
+**Explanation:** 'That' introduces a relative clause ('that I was looking for') and refers back to the noun 'book'. This makes it a relative pronoun.
+
+---
+
+**Question 20**
+Which part of the sentence contains an error?
+The scenery of the Himalayas (a) / are exceptionally beautiful, (b) / especially during the sunrise. (c) / No error (d)
+a) The scenery of the Himalayas
+b) are exceptionally beautiful,
+c) especially during the sunrise
+d) No error
+
+Answer: b
+**Explanation:** 'Scenery' is an uncountable noun and is always singular. Therefore, the verb should be 'is', not 'are'.
+
+---
+
+**Question 21**
+His ______ to the team rules was the main reason for his dismissal.
+a) adhere
+b) adhered
+c) adherence
+d) adherent
+
+Answer: c
+**Explanation:** The sentence requires a noun to act as the subject. 'Adherence' is the noun form meaning 'attachment or commitment to a person, cause, or belief'.
+
+---
+
+**Question 22**
+In the sentence, "He has been working here *since* 2010," the word 'since' functions as a:
+a) Conjunction
+b) Adverb
+c) Preposition
+d) Adjective
+
+Answer: c
+**Explanation:** 'Since' introduces the prepositional phrase 'since 2010', indicating a point in time. It is a preposition in this context.
+
+---
+
+**Question 23**
+Identify the part of the sentence that has an error.
+He did not have (a) / hardly any money left (b) / when he reached the final destination. (c) / No error (d)
+a) He did not have
+b) hardly any money left
+c) when he reached the final destination
+d) No error
+
+Answer: b
+**Explanation:** 'Hardly' is a negative adverb. Using it with 'did not' creates a double negative. The correct sentence would be "He had hardly any money left" or "He did not have any money left."
+
+---
+
+**Question 24**
+The bank requires two forms of ______ before opening a new account.
+a) identify
+b) identity
+c) identification
+d) identifiable
+
+Answer: c
+**Explanation:** The sentence requires a noun that means 'the action or process of identifying someone or something'. 'Identification' is the correct noun. 'Identity' refers to the state of being who you are.
+
+---
+
+**Question 25**
+In the sentence, "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife," the word 'that' functions as a:
+a) Relative Pronoun
+b) Adverb
+c) Demonstrative Pronoun
+d) Subordinating Conjunction
+
+Answer: d
+**Explanation:** 'That' is introducing a noun clause which explains what the 'truth' is. It functions as a subordinating conjunction connecting the main clause to the dependent clause.
+
+---
+
+**Question 26**
+Choose the option that correctly replaces the underlined part.
+*Fewer* water in the reservoir means there will be water rationing this summer.
+a) Less
+b) Lesser
+c) A few
+d) No improvement
+
+Answer: a
+**Explanation:** 'Fewer' is used for countable nouns (like bottles, people). 'Less' is used for uncountable nouns (like water, sugar, time). 'Water' is uncountable, so 'less' is correct.
+
+---
+
+**Question 27**
+Identify the part of the sentence that has an error.
+The CEO, along with his board members, (a) / are responsible for the (b) / financial discrepancy found in the annual report. (c) / No error (d)
+a) The CEO, along with his board members,
+b) are responsible for the
+c) financial discrepancy found in the annual report
+d) No error
+
+Answer: b
+**Explanation:** When a subject is followed by a phrase beginning with 'along with', 'as well as', 'besides', etc., the verb agrees with the main subject. The main subject is 'The CEO' (singular), so the verb should be 'is', not 'are'.
+
+---
+
+**Question 28**
+The speaker's argument was not very ______; it was full of logical fallacies.
+a) convince
+b) convincingly
+c) convincing
+d) convinced
+
+Answer: c
+**Explanation:** The sentence requires an adjective to describe the 'argument'. 'Convincing' is a present participle used as an adjective.
+
+---
+
+**Question 29**
+In the sentence, "He felt somewhat *better* after taking the medicine," the word 'better' is a(n):
+a) Adverb
+b) Adjective
+c) Verb
+d) Noun
+
+Answer: b
+**Explanation:** 'Better' is an adjective in this context. It follows a linking verb ('felt') and describes the subject 'He'. Although 'better' can be an adverb (e.g., "He sings better"), here it functions as a predicate adjective.
+
+---
+
+**Question 30**
+Which part of the sentence has an error?
+The number of applicants (a) / for the managerial position (b) / have exceeded our expectations this year. (c) / No error (d)
+a) The number of applicants
+b) for the managerial position
+c) have exceeded our expectations this year
+d) No error
+
+Answer: c
+**Explanation:** The phrase "The number of..." is always treated as singular and takes a singular verb. The phrase "A number of..." is treated as plural. Therefore, 'have' should be 'has'.

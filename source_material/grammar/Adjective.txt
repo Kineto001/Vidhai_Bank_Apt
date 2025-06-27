@@ -1,0 +1,255 @@
+Overall Topic: Grammar (Adjectives)
+Level: Difficult (SBI PO/Clerk)
+Number of Questions: 30
+
+***
+
+**Directions (1-8): In the following questions, a sentence is divided into four parts (a), (b), (c), and (d). Read the sentence carefully to find out if there is any grammatical error in it. The error, if any, will be in one part of thesentence. The letter of that part is the answer. If there is no error, the answer is (e). (Ignore errors of punctuation, if any).**
+
+1. The research team discovered (a)/ a several thousands-year-old manuscript (b)/ that provided invaluable insights (c)/ into the ancient civilization's customs. (d)
+a) The research team discovered
+b) a several thousands-year-old manuscript
+c) that provided invaluable insights
+d) into the ancient civilization's customs.
+Answer: b
+(Explanation: The correct hyphenated adjective form is 'several-thousand-year-old'. When used as a compound adjective before a noun, 'thousand' and 'year' should be in their singular forms.)
+
+2. Despite the bank’s numerous attempts to recover the loan, (a)/ the client remained indifferent of the legal notices, (b)/ leading to the initiation of (c)/ stricter foreclosure proceedings. (d)
+a) Despite the bank’s numerous attempts to recover the loan,
+b) the client remained indifferent of the legal notices,
+c) leading to the initiation of
+d) stricter foreclosure proceedings.
+Answer: b
+(Explanation: The adjective 'indifferent' is followed by the preposition 'to', not 'of'. The correct phrase is 'indifferent to'.)
+
+3. The newly appointed manager is (a)/ not only efficient but also (b)/ considerable more empathetic towards (c)/ the employees' personal issues. (d)
+a) The newly appointed manager is
+b) not only efficient but also
+c) considerable more empathetic towards
+d) the employees' personal issues.
+Answer: c
+(Explanation: The adjective 'empathetic' (which is part of the comparative 'more empathetic') should be modified by an adverb, not an adjective. The correct word is 'considerably'.)
+
+4. Of the two strategic proposals submitted, (a)/ the board found the latter to be (b)/ the most viable, although it required (c)/ a significantly higher initial investment. (d)
+a) Of the two strategic proposals submitted,
+b) the board found the latter to be
+c) the most viable, although it required
+d) a significantly higher initial investment.
+Answer: c
+(Explanation: When comparing only two items ('the two strategic proposals'), the comparative degree ('more viable') should be used, not the superlative degree ('the most viable').)
+
+5. The marketing campaign was (a)/ deemed a success because it attracted (b)/ less complaints from consumers (c)/ than any previous campaign. (d)
+a) The marketing campaign was
+b) deemed a success because it attracted
+c) less complaints from consumers
+d) than any previous campaign.
+Answer: c
+(Explanation: 'Complaints' are countable nouns. Therefore, the correct adjective to use is 'fewer', not 'less'. 'Less' is used for uncountable nouns.)
+
+6. The audit revealed that the company’s financial health (a)/ was more weaker than previously reported, (b)/ prompting an immediate and sharp (c)/ decline in its stock value. (d)
+a) The audit revealed that the company’s financial health
+b) was more weaker than previously reported,
+c) prompting an immediate and sharp
+d) decline in its stock value.
+Answer: b
+(Explanation: 'Weaker' is already a comparative adjective. Using 'more' with it creates a double comparative, which is grammatically incorrect. It should simply be 'was weaker'.)
+
+7. The defendant provided a (a)/ verbal agreement as proof, (b)/ but the judge dismissed it, stating that it was not (c)/ as valid as a written, signed contract. (d)
+a) The defendant provided a
+b) verbal agreement as proof,
+c) but the judge dismissed it, stating that it was not
+d) as valid as a written, signed contract.
+Answer: b
+(Explanation: 'Verbal' means 'relating to words' (spoken or written). The intended meaning is an agreement made by speaking, for which the correct adjective is 'oral'. An 'oral agreement'.)
+
+8. The company is searching for (a)/ an unique solution to its logistical problems, (b)/ one that can be implemented quickly (c)/ without disrupting the current supply chain. (d)
+a) The company is searching for
+b) an unique solution to its logistical problems,
+c) one that can be implemented quickly
+d) without disrupting the current supply chain.
+Answer: b
+(Explanation: The word 'unique' starts with a 'y' consonant sound ('yoo-neek'). Therefore, the article 'a' should be used before it, not 'an'. The correct phrase is 'a unique solution'.)
+
+**Directions (9-16): Fill in the blanks with the most appropriate adjective or pair of adjectives from the options given below.**
+
+9. The ______ part of the film was less engaging than the beginning, which had set a very high standard.
+a) later
+b) latter
+c) latest
+d) last
+Answer: b
+(Explanation: 'Latter' refers to the second of two things mentioned. The two things here are the 'beginning' and the 'end part' of the film.)
+
+10. The ______ number of participants in the workshop was ______ to the complex and advanced nature of the topics discussed.
+a) few, due
+b) little, owing
+c) small, due
+d) lesser, because
+Answer: c
+(Explanation: 'Number' is a countable quantity, so 'small' is the appropriate adjective. 'Few' implies a negative connotation of insufficiency which may not be intended. 'Due to' is the correct prepositional phrase to indicate causation here.)
+
+11. The management was ______ to making any policy changes, fearing it would have an ______ effect on employee morale.
+a) adverse, averse
+b) averse, adverse
+c) averse, averted
+d) adverse, averted
+Answer: b
+(Explanation: 'Averse to' means having a strong dislike or opposition to something. 'Adverse' means harmful or unfavorable. The management was opposed to changes, fearing a harmful effect.)
+
+12. The speaker's arguments, though initially persuasive, seemed ______ upon ______ examination.
+a) less convincing, farther
+b) lesser convincing, further
+c) less convincing, further
+d) least convincing, farther
+Answer: c
+(Explanation: 'Less convincing' is the correct comparative form. 'Further' means 'to a greater depth or extent' in a metaphorical sense. 'Farther' refers to physical distance.)
+
+13. The audience was clearly ______ by the ______ plot twists in the final act of the play.
+a) amazed, amazing
+b) amazing, amazed
+c) amazed, amaze
+d) amazing, amazing
+Answer: a
+(Explanation: The audience feels the emotion, so they were 'amazed' (-ed participle). The plot twists cause the emotion, so they were 'amazing' (-ing participle).)
+
+14. Among all his siblings, John is the ______ and is therefore often consulted by the younger ones for advice.
+a) eldest
+b) oldest
+c) elder
+d) older
+Answer: a
+(Explanation: 'Eldest' is the superlative form used to refer to the firstborn among three or more family members. 'Oldest' is used for people not in the same family or for objects.)
+
+15. The ______ house at the end of the street, with its ______ garden, has been abandoned for years.
+a) old stone large, unkempt
+b) large old stone, unkempt
+c) stone old large, tidy
+d) large stone old, tidy
+Answer: b
+(Explanation: The correct order of adjectives is generally Opinion/Size -> Age -> Material. So, 'large' (Size) -> 'old' (Age) -> 'stone' (Material). 'Unkempt' (messy) fits the context of an abandoned house.)
+
+16. This particular model of the car is ______ to the previous one in terms of fuel efficiency and safety features.
+a) superior than
+b) more superior to
+c) superior to
+d) more superior than
+Answer: c
+(Explanation: Adjectives like 'superior', 'inferior', 'senior', and 'junior' are followed by the preposition 'to', not 'than'. They are also already comparative in nature and do not take 'more'.)
+
+**Directions (17-23): In the following questions, a part of the sentence is underlined. Below are given alternatives to the underlined part which may improve the sentence. Choose the correct alternative. In case no improvement is needed, your answer is (d).**
+
+17. The project's success is **most unique**, given the limited resources and tight deadline.
+a) very unique
+b) quite unique
+c) unique
+d) No improvement
+Answer: c
+(Explanation: 'Unique' is an absolute or non-gradable adjective, meaning it cannot be more or less so. Modifiers like 'most', 'very', or 'quite' are grammatically superfluous. It is simply 'unique'.)
+
+18. He submitted a **three-pages comprehensive** report on the market trends.
+a) comprehensive three-page
+b) three-page comprehensive
+c) comprehensive three-pages
+d) No improvement
+Answer: a
+(Explanation: The correct order is Opinion ('comprehensive') before a number-based compound adjective. The compound adjective itself ('three-page') should use the singular form 'page'.)
+
+19. There are **no less than** fifty applicants waiting to be interviewed for the single vacant position.
+a) not less than
+b) no fewer than
+c) not fewer than
+d) No improvement
+Answer: b
+(Explanation: 'Applicants' are countable. Therefore, 'fewer' should be used instead of 'less'. 'No fewer than' is the correct idiomatic expression.)
+
+20. The final decision is **yours and no one’s else**.
+a) yours and no one else
+b) your’s and no one else’s
+c) yours and no one else’s
+d) No improvement
+Answer: c
+(Explanation: The possessive form of 'no one else' is 'no one else's'. The possessive pronoun 'yours' does not take an apostrophe.)
+
+21. The trainer gave a very **interested** lecture on the future of artificial intelligence.
+a) interesting
+b) interest
+c) interestingly
+d) No improvement
+Answer: a
+(Explanation: The lecture causes the feeling of interest, so the -ing participle 'interesting' should be used as an adjective to describe the lecture. 'Interested' would describe someone who feels interest.)
+
+22. She bought a **beautiful, blue, long, silk** evening gown for the ceremony.
+a) long, beautiful, blue, silk
+b) beautiful, long, blue, silk
+c) blue, long, beautiful, silk
+d) No improvement
+Answer: b
+(Explanation: The generally accepted order of adjectives is: Opinion ('beautiful'), Size/Length ('long'), Color ('blue'), and Material ('silk').)
+
+23. This new software is **more preferable** to the older version because it is much faster and user-friendly.
+a) much preferable than
+b) far preferable to
+c) most preferable to
+d) No improvement
+Answer: b
+(Explanation: 'Preferable' is already comparative in meaning ('preferred more'). Therefore, it does not need 'more'. It is followed by the preposition 'to'. 'Far' can be used as an intensifier.)
+
+**Directions (24-27): Choose the sentence which is grammatically correct and has the most appropriate use of adjectives.**
+
+24.
+a) She felt very bad about the mistake and apologized to her superior than her.
+b) She felt badly about the mistake and apologized to her superior to her.
+c) She felt very badly about the mistake and apologized to her senior than her.
+d) She felt very bad about the mistake and apologized to her senior, who was in the office.
+Answer: d
+(Explanation: 'Felt' is a linking verb, so it should be followed by the adjective 'bad', not the adverb 'badly'. 'Senior' is correctly used to describe rank and avoids the awkward comparative phrases in a, b, and c.)
+
+25.
+a) The two first chapters of the book are boring, but the rest is quite interesting.
+b) The first two chapters of the book are boring, but the rest is quite interesting.
+c) The two firsts chapters of the book are boring, but the rest are quite interesting.
+d) The first two chapter of the book is boring, but the rest is quite interesting.
+Answer: b
+(Explanation: The correct order is ordinal number ('first') before the cardinal number ('two'). 'Chapters' is plural, which is correct. 'The first two chapters' is the correct phrasing.)
+
+26.
+a) This is the most perfect strategy I have ever seen for market entry.
+b) This strategy is more perfect than the one we discussed yesterday.
+c) This is a near-perfect strategy for market entry.
+d) This strategy is the perfectest one for market entry.
+Answer: c
+(Explanation: 'Perfect' is an absolute adjective and should not be used with comparative or superlative forms ('more perfect', 'most perfect'). 'Near-perfect' is an acceptable and common way to express that something is very close to being perfect.)
+
+27.
+a) The data suggests that there is a little hope of economic recovery this quarter.
+b) The data suggests that there is little hope of economic recovery this quarter.
+c) The data suggests that there is a few hope of economic recovery this quarter.
+d) The data suggests that there is fewer hope of economic recovery this quarter.
+Answer: b
+(Explanation: 'Hope' is an uncountable noun. 'Little' without an article means 'almost no' or 'not much', which fits a negative context. 'A little' means 'some', which is a positive quantity. 'Few' and 'fewer' are for countable nouns.)
+
+**Directions (28-30): Identify the correct statement about the use of adjectives.**
+
+28. Which of the following sentences uses the order of adjectives correctly?
+a) He was driving a sleek, black, new, German sports car.
+b) He was driving a new, sleek, black, German sports car.
+c) He was driving a sleek, new, black, German sports car.
+d) He was driving a German, sleek, new, black sports car.
+Answer: c
+(Explanation: The standard order is Opinion (sleek) -> Age (new) -> Color (black) -> Origin (German) -> Purpose/Type (sports). Therefore, 'a sleek, new, black, German sports car' is correct.)
+
+29. Identify the sentence with a dangling or misplaced adjective/modifier.
+a) Feeling tired, I decided to take a short break from work.
+b) The report, detailed and comprehensive, was submitted on time.
+c) Anxious about the results, the candidate's palms were sweating.
+d) The old car rattled down the dusty, deserted road.
+Answer: c
+(Explanation: The adjective 'Anxious' is dangling. It seems to modify 'palms', but palms cannot be anxious. The sentence should be rephrased: "Anxious about the results, the candidate had sweating palms.")
+
+30. In which sentence is the adjective used correctly as a subject complement after a linking verb?
+a) The CEO appeared confidently before the board members to present the plan.
+b) The new intern looks very competently and is eager to learn.
+c) After the long negotiation, the deal smelled sweetly.
+d) The fabric of the new uniform feels smooth and durable.
+Answer: d
+(Explanation: 'Feels' is a linking verb (sense verb) in this context. It should be followed by adjectives ('smooth', 'durable') that describe the subject ('fabric'), not adverbs. In (a) and (b), the adverbs 'confidently' and 'competently' are incorrect; they should be adjectives 'confident' and 'competent'. In (c), 'sweetly' should be the adjective 'sweet'.)

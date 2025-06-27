@@ -1,0 +1,366 @@
+**Overall Topic: Grammar (Conjunction)**
+**Exam Level: SBI PO/Clerk (Difficult)**
+**Total Questions: 30**
+
+---
+
+**1. In the following sentence, find the part that contains a grammatical error. If there is no error, choose (d).**
+Scarcely had the merger been finalized (a) / then the integration challenges began to surface, (b) / threatening the projected synergies and shareholder value. (c) / No error (d).
+(a) Scarcely had the merger been finalized
+(b) then the integration challenges began to surface,
+(c) threatening the projected synergies and shareholder value.
+(d) No error
+
+Answer: b
+**Explanation:** The correlative conjunction pair is "Scarcely...when" or "Hardly...when". The use of "then" is incorrect.
+
+---
+
+**2. Fill in the blank with the most appropriate conjunction.**
+The bank will not process your loan application ______ you submit a complete set of the required documents along with a credible guarantor.
+(a) if
+(b) provided that
+(c) unless
+(d) because
+
+Answer: c
+**Explanation:** "Unless" means "if not". The sentence implies the loan will not be processed if the documents are not submitted.
+
+---
+
+**3. In the following sentence, a part is underlined. Choose the option that best replaces the underlined part.**
+The board of directors approved the high-risk investment, **although knowing it could** lead to substantial losses if the market turned volatile.
+(a) despite it could
+(b) knowing though that it could
+(c) even though they knew it could
+(d) nevertheless knowing it could
+
+Answer: c
+**Explanation:** "Although" is a conjunction that must connect clauses. "Although knowing" is grammatically incorrect. "Even though" correctly introduces a subordinate clause ("they knew it could...").
+
+---
+
+**4. Fill in the blanks with the correct pair of correlative conjunctions.**
+______ had the central bank announced the rate hike ______ the currency markets began to show extreme volatility.
+(a) No sooner, than
+(b) Neither, nor
+(c) Hardly, that
+(d) As soon as, then
+
+Answer: a
+**Explanation:** The structure "No sooner had... than..." is used to indicate that one event happened immediately after another. This is the only grammatically correct and contextually fitting pair.
+
+---
+
+**5. In the following sentence, find the part that contains a grammatical error.**
+Although the quarterly report indicated strong revenue growth, (a) / but the company's stock price paradoxically fell, (b) / puzzling analysts and investors alike. (c) / No error (d).
+(a) Although the quarterly report indicated strong revenue growth,
+(b) but the company's stock price paradoxically fell,
+(c) puzzling analysts and investors alike.
+(d) No error
+
+Answer: b
+**Explanation:** The conjunctions "Although" and "but" both express contrast and should not be used together in the same sentence. Removing "but" would correct the sentence.
+
+---
+
+**6. Choose the conjunction that best connects the two sentences.**
+I. The company invested heavily in state-of-the-art security systems.
+II. A major data breach occurred, compromising sensitive customer information.
+(a) Consequently
+(b) Nevertheless
+(c) Moreover
+(d) For
+
+Answer: b
+**Explanation:** The two sentences present a contrast. Despite the heavy investment (a positive action), a negative event occurred. "Nevertheless" (meaning 'in spite of that') is the best conjunction to show this contrast.
+
+---
+
+**7. In the following sentence, a part is underlined. Choose the option that best replaces it.**
+**Lest he should not miss** the opportunity for a promotion, he volunteered to lead the challenging international project.
+(a) Lest he should miss
+(b) So that he might not miss
+(c) In order for him to not miss
+(d) For he may not miss
+
+Answer: a
+**Explanation:** "Lest" is a negative conjunction meaning "for fear that". It is correctly followed by "should", but it should not be paired with another negative like "not".
+
+---
+
+**8. Fill in the blank with the most suitable conjunction.**
+The new regulations are complex ______ ambiguous, leading to widespread confusion among the financial institutions required to implement them.
+(a) but
+(b) yet
+(c) and
+(d) or
+
+Answer: c
+**Explanation:** The sentence is adding two similar negative qualities ("complex", "ambiguous"). "And" is the appropriate coordinating conjunction to link them.
+
+---
+
+**9. In the following sentence, find the part that contains a grammatical error.**
+Not only the manager was reprimanded for the oversight (a) / but his entire team was also put on probation (b) / for failing to adhere to the compliance standards. (c) / No error (d).
+(a) Not only the manager was reprimanded for the oversight
+(b) but his entire team was also put on probation
+(c) for failing to adhere to the compliance standards.
+(d) No error
+
+Answer: a
+**Explanation:** When a sentence begins with "Not only", it requires an inversion of the subject and auxiliary verb. The correct structure is "Not only was the manager reprimanded...".
+
+---
+
+**10. Fill in the blank with the most appropriate conjunction.**
+The audit will proceed as planned ______ we receive a direct order from the regulatory authority to halt it.
+(a) if
+(b) until
+(c) unless
+(d) while
+
+Answer: c
+**Explanation:** "Unless" means 'except if'. The audit will continue, except if they receive an order to stop it. This fits the context perfectly.
+
+---
+
+**11. In the following sentence, a part is underlined. Choose the best replacement.**
+**The reason he was denied the loan is because** he had a poor credit history and no stable source of income.
+(a) The reason why he was denied the loan is that
+(b) Because he was denied the loan is that
+(c) The reason for him being denied the loan is because
+(d) No improvement
+
+Answer: a
+**Explanation:** The construction "The reason... is because" is redundant and grammatically incorrect. The correct idiom is "The reason... is that".
+
+---
+
+**12. Choose the option that best combines the two sentences.**
+I. You must adhere strictly to the investment guidelines.
+II. You risk losing the entire principal amount.
+(a) You must adhere strictly to the investment guidelines, for you risk losing the entire principal amount.
+(b) You must adhere strictly to the investment guidelines, otherwise you risk losing the entire principal amount.
+(c) You must adhere strictly to the investment guidelines, so that you risk losing the entire principal amount.
+(d) You must adhere strictly to the investment guidelines, as you risk losing the entire principal amount.
+
+Answer: b
+**Explanation:** The second sentence presents a negative consequence of not following the first. "Otherwise" (or "or else") is the correct conjunction to show this relationship of condition and consequence.
+
+---
+
+**13. In the following sentence, find the part that contains a grammatical error.**
+Both the chief financial officer (a) / as well as the chief executive officer were (b) / implicated in the financial scandal that rocked the corporation. (c) / No error (d).
+(a) Both the chief financial officer
+(b) as well as the chief executive officer were
+(c) implicated in the financial scandal that rocked the corporation.
+(d) No error
+
+Answer: b
+**Explanation:** The correct correlative conjunction pair is "Both...and". Using "as well as" with "both" is incorrect.
+
+---
+
+**14. Fill in the blank with the most suitable conjunction.**
+He worked overtime for a month ______ he could pay off his credit card debt before the interest accrued.
+(a) because
+(b) hence
+(c) so that
+(d) due to
+
+Answer: c
+**Explanation:** "So that" is used to express the purpose or reason for an action. He worked overtime for the purpose of paying off his debt.
+
+---
+
+**15. In the following sentence, find the part that contains a grammatical error.**
+Unless the management does not reconsider its rigid stance on salary negotiations, (a) / the employees' union will have no choice (b) / but to call for a nationwide strike. (c) / No error (d).
+(a) Unless the management does not reconsider its rigid stance on salary negotiations,
+(b) the employees' union will have no choice
+(c) but to call for a nationwide strike.
+(d) No error
+
+Answer: a
+**Explanation:** "Unless" is inherently negative (meaning "if...not"). Using "do not" with "unless" creates a double negative, which is grammatically incorrect. It should be "Unless the management reconsiders...".
+
+---
+
+**16. Fill in the blank with the most suitable conjunction.**
+The economic indicators are positive; ______, investor confidence remains surprisingly low due to political instability.
+(a) therefore
+(b) moreover
+(c) however
+(d) consequently
+
+Answer: c
+**Explanation:** The sentence sets up a contrast between positive economic indicators and low investor confidence. "However" is the appropriate conjunctive adverb to show this contrast.
+
+---
+
+**17. In the following sentence, a part is underlined. Choose the best replacement.**
+**Supposing if the company fails** to secure the next round of funding, it will have to declare bankruptcy within six months.
+(a) Supposing that the company fails
+(b) Suppose the company fails
+(c) In case the company will fail
+(d) No improvement
+
+Answer: b
+**Explanation:** "Supposing" and "if" have similar meanings and are redundant when used together. "Suppose" or "Supposing" alone is sufficient to introduce the condition.
+
+---
+
+**18. Fill in the blank with the most appropriate conjunction.**
+He is neither willing to accept the transfer ______ is he prepared to resign from his position, creating a stalemate with the management.
+(a) or
+(b) but
+(c) nor
+(d) and
+
+Answer: c
+**Explanation:** The correlative conjunction "Neither" is always paired with "nor". The inversion ("nor is he") is correct as "nor" is introducing a new clause.
+
+---
+
+**19. In the following sentence, find the part that contains a grammatical error.**
+As soon as the new policy was implemented by the company, (a) / then there was a significant drop in employee morale, (b) / affecting overall productivity and team cohesion. (c) / No error (d).
+(a) As soon as the new policy was implemented by the company,
+(b) then there was a significant drop in employee morale,
+(c) affecting overall productivity and team cohesion.
+(d) No error
+
+Answer: b
+**Explanation:** The conjunction "As soon as" does not require a subsequent "then". The use of "then" is superfluous and incorrect.
+
+---
+
+**20. Fill in the blank with the most appropriate conjunction.**
+The project was completed ahead of schedule, ______ there were several unforeseen logistical challenges along the way.
+(a) because
+(b) since
+(c) although
+(d) therefore
+
+Answer: c
+**Explanation:** The sentence highlights a contrast between the successful outcome (completed ahead of schedule) and the difficulties faced. "Although" is the perfect conjunction to express this concession.
+
+---
+
+**21. In the following sentence, a part is underlined. Choose the best replacement.**
+He was **so exhausted as he** could barely keep his eyes open during the crucial presentation.
+(a) so exhausted that he
+(b) too exhausted that he
+(c) very exhausted and he
+(d) No improvement
+
+Answer: a
+**Explanation:** The correct structure to show cause and effect with an adjective is "so + [adjective] + that".
+
+---
+
+**22. Fill in the blank with the most appropriate conjunction.**
+You can take the morning flight ______ the evening one; both will get you to the conference on time.
+(a) nor
+(b) or
+(c) but
+(d) and
+
+Answer: b
+**Explanation:** The sentence offers a choice between two alternatives. The coordinating conjunction "or" is used for this purpose.
+
+---
+
+**23. In the following sentence, find the part that contains a grammatical error.**
+He was not only a visionary leader (a) / but an exceptional mentor who (b) / nurtured talent and inspired loyalty among his subordinates. (c) / No error (d).
+(a) He was not only a visionary leader
+(b) but an exceptional mentor who
+(c) nurtured talent and inspired loyalty among his subordinates.
+(d) No error
+
+Answer: d
+**Explanation:** The sentence is grammatically correct. The "not only... but also" structure is correctly used ("also" is often omitted when the meaning is clear). The parallelism is maintained ("a visionary leader" and "an exceptional mentor").
+
+---
+
+**24. Choose the conjunction that best connects the two sentences.**
+I. The company has a strict non-disclosure policy.
+II. You must not discuss project details outside the office.
+(a) Nevertheless
+(b) Whereas
+(c) Therefore
+(d) Although
+
+Answer: c
+**Explanation:** The second sentence is a logical consequence or result of the first. "Therefore" (meaning 'for that reason') correctly establishes this cause-and-effect relationship.
+
+---
+
+**25. Fill in the blank with the most appropriate conjunction.**
+He behaved in a suspiciously generous manner, ______ he were trying to conceal a significant mistake.
+(a) like
+(b) as
+(c) so that
+(d) as though
+
+Answer: d
+**Explanation:** "As though" (or "as if") is used to describe a hypothetical or unreal situation, which fits the context of speculating about the reason for his behavior.
+
+---
+
+**26. In the following sentence, find the part that contains a grammatical error.**
+Neither the regional managers nor the vice-president (a) / were aware of the unauthorized transaction (b) / until the internal auditors flagged it as a major concern. (c) / No error (d).
+(a) Neither the regional managers nor the vice-president
+(b) were aware of the unauthorized transaction
+(c) until the internal auditors flagged it as a major concern.
+(d) No error
+
+Answer: b
+**Explanation:** With the correlative conjunction "neither...nor", the verb must agree with the subject that is closer to it. The closer subject is "the vice-president" (singular), so the verb should be "was", not "were".
+
+---
+
+**27. In the following sentence, a part is underlined. Choose the best replacement.**
+**As he is a majority shareholder, so he** has the power to veto any decision made by the board.
+(a) Being a majority shareholder, therefore he
+(b) As he is a majority shareholder, he
+(c) Because he is a majority shareholder, but he
+(d) No improvement
+
+Answer: b
+**Explanation:** When a sentence begins with a subordinate clause of reason using "As", "Since", or "Because", the main clause should not begin with "so" or "therefore". The conjunction "so" is redundant.
+
+---
+
+**28. Fill in the blank with the most appropriate conjunction.**
+The new software is extremely powerful; ______, it requires extensive training for employees to use it effectively.
+(a) on the other hand
+(b) in addition
+(c) for instance
+(d) in the same way
+
+Answer: a
+**Explanation:** The sentence presents two contrasting aspects of the software: its power (positive) and its difficulty of use (negative). "On the other hand" is used to introduce a contrasting point of view.
+
+---
+
+**29. In the following sentence, find the part that contains a grammatical error.**
+The bank has not yet confirmed the loan approval, (a) / or has it given any indication (b) / about a probable timeline for the decision. (c) / No error (d).
+(a) The bank has not yet confirmed the loan approval,
+(b) or has it given any indication
+(c) about a probable timeline for the decision.
+(d) No error
+
+Answer: b
+**Explanation:** To add a second negative statement after a first one, the correct conjunction is "nor", not "or". The sentence should read, "...nor has it given...".
+
+---
+
+**30. Fill in the blank with the most appropriate conjunction.**
+______ the government offers significant tax incentives, private companies will be reluctant to invest in the underdeveloped region.
+(a) If
+(b) Unless
+(c) Although
+(d) Whereas
+
+Answer: b
+**Explanation:** The sentence implies that private companies will invest only if the government provides incentives. "Unless" (meaning 'if not') correctly frames this condition: If the government does NOT offer incentives, the companies will be reluctant.

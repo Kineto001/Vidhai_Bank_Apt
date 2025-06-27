@@ -1,0 +1,303 @@
+**English (Bank) MCQs: Grammar (Adverbs)**
+**Difficulty Level: SBI PO / Clerk (Difficult)**
+
+**Instructions:**
+For each question, select the best option from the choices given. In error-spotting questions, identify the part of the sentence that contains a grammatical error related to adverbs. If there is no error, select 'No error'.
+
+***
+
+**1. Find the error in the given sentence.**
+The new intern (a)/ who joined last week (b)/ speaks English very fluent (c)/ and is a great asset to the team. (d)
+a) a
+b) b
+c) c
+d) d
+
+Answer: c
+(Explanation: The verb 'speaks' needs to be modified by an adverb, not an adjective. The correct word is 'fluently'.)
+
+**2. Find the error in the given sentence.**
+Seldom I have (a)/ witnessed such a (b)/ blatant disregard for (c)/ company regulations and protocols. (d)
+a) a
+b) b
+c) c
+d) d
+
+Answer: a
+(Explanation: When a sentence begins with a negative adverb like 'Seldom', 'Hardly', 'Never', etc., it must be followed by inversion. The correct structure is 'Seldom have I witnessed'.)
+
+**3. Choose the correct option to fill in the blank.**
+__________ had the Finance Minister finished his budget speech ______ the stock market reacted sharply.
+a) Scarcely, than
+b) No sooner, when
+c) Hardly, then
+d) No sooner, than
+
+Answer: d
+(Explanation: The correlative conjunction pair is 'No sooner...than'. 'Hardly' and 'Scarcely' are paired with 'when'.)
+
+**4. Improve the underlined part of the sentence.**
+The manager was **enough kind** to approve my leave application at the last minute.
+a) kind enough
+b) kindly enough
+c) too kind
+d) No improvement
+
+Answer: a
+(Explanation: The adverb 'enough' is placed after the adjective or adverb it modifies. Hence, 'kind enough' is the correct structure.)
+
+**5. Find the error in the given sentence.**
+Although he worked very hard (a)/ and followed all instructions, (b)/ he could not hardly (c)/ pass the final assessment. (d)
+a) a
+b) b
+c) c
+d) d
+
+Answer: c
+(Explanation: 'Hardly' is a negative adverb. Using 'not' with 'hardly' creates a double negative, which is grammatically incorrect. The correct phrase is 'he could hardly pass'.)
+
+**6. Which of the following sentences is grammatically correct?**
+a) She performed at the concert brilliant last night.
+b) She performed brilliant at the concert last night.
+c) She performed brilliantly at the concert last night.
+d) She brilliantly performed at the concert last night.
+
+Answer: c
+(Explanation: This sentence correctly follows the Adverb of Manner-Place-Time (MPT) rule: 'brilliantly' (Manner), 'at the concert' (Place), 'last night' (Time).)
+
+**7. Choose the correct option to fill in the blank.**
+The CEO's decision was _________ criticized by the board, leading to a heated and lengthy debate.
+a) bitterly
+b) bitter
+c) much bitter
+d) very bitterly
+
+Answer: a
+(Explanation: An adverb is needed to modify the verb 'criticized'. 'Bitterly' is the correct adverb of manner. 'Bitter' is an adjective.)
+
+**8. Improve the underlined part of thesentence.**
+The report must be submitted **without no delay**.
+a) with no delay
+b) without any delay
+c) without a delay
+d) No improvement
+
+Answer: b
+(Explanation: 'Without' is a negative preposition. Using 'no' with it creates an incorrect double negative. 'Without any delay' is the correct phrase.)
+
+**9. Find the error in the given sentence.**
+Little he knew (a)/ that his proposal would be (b)/ accepted so enthusiastic (c)/ by the senior management. (d)
+a) a
+b) b
+c) c
+d) d
+
+Answer: a
+(Explanation: Sentences beginning with 'Little' in this context require inversion. The correct structure is 'Little did he know'. There is also an error in part (c), which should be 'enthusiastically', but the first error is in part (a).)
+
+**10. Choose the correct option to fill in the blank.**
+The new software is designed to make the data entry process ___________ faster and more accurate.
+a) considerable
+b) considerably
+c) considering
+d) considered
+
+Answer: b
+(Explanation: The adverb 'considerably' is required to modify the adjective (comparative adverb) 'faster'. 'Considerable' is an adjective.)
+
+**11. Improve the underlined part of the sentence.**
+He is **too intelligent to be not selected** for this prestigious role.
+a) so intelligent that he will be selected
+b) too intelligent to be selected
+c) too intelligent not to be selected
+d) No improvement
+
+Answer: c
+(Explanation: The structure 'too...to' has a negative implication. To express a positive outcome (he will be selected because he is intelligent), the structure must be 'too intelligent not to be selected'.)
+
+**12. Find the error in the given sentence.**
+The speaker emphasized (a)/ that the company would go (b)/ through a difficult phase (c)/ in the near future probably. (d)
+a) a
+b) b
+c) c
+d) d
+
+Answer: d
+(Explanation: The adverb 'probably' is usually placed before the main verb or after the auxiliary verb. A better position would be '...the company would probably go...' or placing it at the very beginning. Placing it at the end of the clause is awkward and generally incorrect in formal writing.)
+
+**13. Which of the following sentences uses the adverb 'only' correctly?**
+a) Only the manager can sanction a leave for more than a week.
+b) The manager can only sanction a leave for more than a week.
+c) The manager can sanction only a leave for more than a week.
+d) The manager can sanction a leave only for more than a week.
+
+Answer: a
+(Explanation: The placement of 'only' changes the meaning. In option (a), it correctly emphasizes that *no one else but the manager* can sanction the leave, which is the most logical meaning in a corporate context.)
+
+**14. Choose the correct option to fill in the blank.**
+He was _______ upset by the news of his transfer to a remote branch.
+a) very much
+b) much too
+c) too muchly
+d) very
+
+Answer: b
+(Explanation: 'Much too' is used to modify an adjective ('upset'). 'Too much' is used to modify a noun. So, 'much too upset' is correct. 'Very much' is used with verbs (e.g., I like it very much), not typically with this adjective.)
+
+**15. Find the error in the given sentence.**
+Not only the new policy was (a)/ criticized by the employees, (b)/ but it also led to (c)/ a significant dip in morale. (d)
+a) a
+b) b
+c) c
+d) d
+
+Answer: a
+(Explanation: When a clause begins with 'Not only', it requires inversion. The correct structure is 'Not only was the new policy...'.)
+
+**16. Improve the underlined part of the sentence.**
+I haven't seen my cousin **late**, so I am not sure how she is doing.
+a) lately
+b) later
+c) latest
+d) No improvement
+
+Answer: a
+(Explanation: 'Late' means not on time. 'Lately' means recently or in the recent past. The context of the sentence requires 'lately'.)
+
+**17. Choose the correct option to fill in the blank.**
+Under no circumstances ______ allowed to share your system password with anyone.
+a) you are
+b) are you
+c) you will be
+d) you can be
+
+Answer: b
+(Explanation: The negative phrase 'Under no circumstances' at the beginning of the sentence requires inversion of the subject and the auxiliary verb. Thus, 'are you' is the correct form.)
+
+**18. Find the error in the given sentence.**
+The team worked (a)/ very diligent to (b)/ meet the project deadline, (c)/ despite facing numerous challenges. (d)
+a) a
+b) b
+c) c
+d) d
+
+Answer: b
+(Explanation: The verb 'worked' must be modified by an adverb, not an adjective. The correct word is 'diligently'.)
+
+**19. Which sentence correctly places the adverbs?**
+a) He drove to the office carelessly this morning.
+b) He drove carelessly this morning to the office.
+c) He carelessly drove to the office this morning.
+d) He drove this morning to the office carelessly.
+
+Answer: c
+(Explanation: An adverb of manner ('carelessly') can be placed before the main verb ('drove') for emphasis. While 'He drove carelessly to the office this morning' (Manner-Place-Time) is also correct, option (c) is a very common and correct structure, often preferred for fluency.)
+
+**20. Improve the underlined part of the sentence.**
+I have **never such a confusing document seen** in my entire career.
+a) seen never such a confusing document
+b) never seen such a confusing document
+c) seen such a confusing document never
+d) No improvement
+
+Answer: b
+(Explanation: The adverb of frequency 'never' should be placed after the auxiliary verb 'have' and before the main verb 'seen'.)
+
+**21. Choose the correct option to fill in the blank.**
+The auditor reviewed the financial statements __________ and found several discrepancies.
+a) meticulous
+b) more meticulous
+c) meticulously
+d) with meticulously
+
+Answer: c
+(Explanation: The verb 'reviewed' needs an adverb of manner to describe how the action was performed. 'Meticulously' is the correct adverb.)
+
+**22. Find the error in the given sentence.**
+The chairman of the board (a)/ seldom or ever takes (b)/ a decision without consulting (c)/ his most trusted advisors. (d)
+a) a
+b) b
+c) c
+d) d
+
+Answer: b
+(Explanation: The correct idiomatic expression is 'seldom, if ever,' or 'seldom or never'. 'Seldom or ever' is incorrect.)
+
+**23. Improve the underlined part of the sentence.**
+She ran **so fastly** that no one could catch up with her.
+a) so fast
+b) very fastly
+c) much fast
+d) No improvement
+
+Answer: a
+(Explanation: 'Fastly' is not a word in standard English. 'Fast' serves as both an adjective and an adverb.)
+
+**24. Which of the following sentences is grammatically INCORRECT?**
+a) He plays the piano beautifully.
+b) She arrived at the venue late.
+c) The train is running lately today.
+d) The machine works very efficiently.
+
+Answer: c
+(Explanation: 'Lately' means 'recently'. The sentence requires the adverb 'late', which means 'not on time'. So, 'The train is running late today' would be correct.)
+
+**25. Choose the correct option to fill in the blank.**
+The risk assessment was not conducted _________, which led to the project's ultimate failure.
+a) proper
+b) as proper
+c) properly
+d) more properly
+
+Answer: c
+(Explanation: An adverb is needed to modify the verb 'conducted'. 'Properly' is the correct adverb of manner.)
+
+**26. Find the error in the given sentence.**
+Our new marketing head (a)/ speaks five languages (b)/ and also she has lived (c)/ in three different continents. (d)
+a) a
+b) b
+c) c
+d) d
+
+Answer: c
+(Explanation: The placement of 'also' is awkward. A better and more standard structure would be '...and she has also lived...' or '...and has also lived...'. The redundant pronoun 'she' after 'and' is also slightly unnatural.)
+
+**27. Improve the underlined part of the sentence.**
+It is **raining heavy since morning**, so the match will likely be cancelled.
+a) raining heavily since morning
+b) heavy raining since morning
+c) raining since morning heavily
+d) No improvement
+
+Answer: a
+(Explanation: The verb 'raining' must be modified by the adverb 'heavily', not the adjective 'heavy'.)
+
+**28. Find the error in the given sentence.**
+Nowhere else in the country (a)/ you will find (b)/ such a dedicated team (c)/ of banking professionals. (d)
+a) a
+b) b
+c) c
+d) d
+
+Answer: b
+(Explanation: The negative adverbial phrase 'Nowhere else' at the start of the sentence requires inversion. The correct structure is 'will you find'.)
+
+**29. Choose the correct option to fill in the blank.**
+She was able to complete the task _______, despite the constant interruptions.
+a) any how
+b) any way
+c) anyways
+d) anyway
+
+Answer: d
+(Explanation: 'Anyway' is the correct adverb meaning 'in any case' or 'regardless'. 'Anyways' is informal and generally considered non-standard. 'Any way' (two words) means 'any method'.)
+
+**30. Improve the underlined part of the sentence.**
+The presentation was **very much interesting**, and it held the audience's attention throughout.
+a) much interesting
+b) very interesting
+c) too interesting
+d) No improvement
+
+Answer: b
+(Explanation: 'Very' is used to modify present participles that function as adjectives (like 'interesting', 'charming'). 'Much' is used with comparative adjectives (much more interesting) or certain past participles. Therefore, 'very interesting' is correct.)

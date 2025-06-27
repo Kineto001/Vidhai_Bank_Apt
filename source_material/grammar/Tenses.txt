@@ -1,0 +1,229 @@
+Overall Topic for English ( Bank ) Question Generation: Grammar ( Tenses )
+
+***
+
+### **Part 1: Error Spotting**
+
+**Instructions:** In the following questions, a sentence is divided into three parts (A), (B), and (C). Read the sentence to find out whether there is any grammatical error related to tenses in it. The error, if any, will be in one part of the sentence. The letter of that part is the answer. If there is no error, the answer is (D).
+
+1. Had the regulator been more vigilant, (A)/ this widespread financial malpractice (B)/ would not have been occurred last year. (C)/ No Error (D).
+   a) A
+   b) B
+   c) C
+   d) D
+   **Answer: c** (Explanation: The verb 'occur' is intransitive and cannot be used in the passive voice. The correct phrasing is 'would not have occurred'.)
+
+2. The committee is reviewing the documents (A)/ since last Monday and is yet to (B)/ make a final decision on the proposed merger. (C)/ No Error (D).
+   a) A
+   b) B
+   c) C
+   d) D
+   **Answer: a** (Explanation: The use of 'since last Monday' indicates an action that started in the past and is continuing. This requires the Present Perfect Continuous tense. It should be 'has been reviewing'.)
+
+3. By the time we will get our security clearance (A)/ and enter the high-security zone, (B)/ the confidential briefing will have already begun. (C)/ No Error (D).
+   a) A
+   b) B
+   c) C
+   d) D
+   **Answer: a** (Explanation: In a time clause beginning with 'By the time' that refers to the future, the verb should be in the Simple Present tense, not the Simple Future. It should be 'By the time we get'.)
+
+4. It is high time that the organization (A)/ realizes its vulnerability to cyber-attacks and (B)/ implemented a more robust security framework. (C)/ No Error (D).
+   a) A
+   b) B
+   c) C
+   d) D
+   **Answer: b** (Explanation: The structure 'It is high time' is followed by a verb in the Simple Past tense to express what should have already been done. It should be 'realized'.)
+
+5. Having been identified as the primary suspect, (A)/ the employee was not only suspended from his duties (B)/ but was also fining heavily by the disciplinary committee. (C)/ No Error (D).
+   a) A
+   b) B
+   c) C
+   d) D
+   **Answer: c** (Explanation: The sentence requires the passive voice to match 'was suspended'. It should be 'was also fined heavily'.)
+
+6. The new system, which was installed last month, (A)/ already proved to be far more efficient (B)/ than the one it replaced. (C)/ No Error (D).
+   a) A
+   b) B
+   c) C
+   d) D
+   **Answer: b** (Explanation: An action that happened in the recent past and has a result in the present is best expressed in the Present Perfect tense. It should be 'has already proved'.)
+
+7. I would have appreciated it (A)/ if you told me about the change in the meeting schedule (B)/ before I rearranged my entire day. (C)/ No Error (D).
+   a) A
+   b) B
+   c) C
+   d) D
+   **Answer: b** (Explanation: This is a Type 3 conditional sentence ('would have' + past participle). The 'if' clause must be in the Past Perfect tense. It should be 'if you had told me'.)
+
+8. The quarterly report indicated (A)/ that the company's profits did not grow (B)/ as rapidly as the analysts have predicted a year ago. (C)/ No Error (D).
+   a) A
+   b) B
+   c) C
+   d) D
+   **Answer: c** (Explanation: The main actions ('indicated', 'did not grow') are in the past. The prediction happened before those actions, so it must be in the Past Perfect tense. It should be 'had predicted'.)
+
+9. The Chairman of the Board announced yesterday (A)/ that the company will undertake a major restructuring (B)/ over the next fiscal year to improve profitability. (C)/ No Error (D).
+   a) A
+   b) B
+   c) C
+   d) D
+   **Answer: b** (Explanation: This is reported speech. Since the reporting verb 'announced' is in the past tense, 'will' in the reported clause should change to 'would' according to the sequence of tenses. It should be 'would undertake'.)
+
+10. Scarcely had the new interest rates been announced (A)/ then a sharp fluctuation was witnessed (B)/ in the stock market and currency exchange rates. (C)/ No Error (D).
+   a) A
+   b) B
+   c) C
+   d) D
+   **Answer: b** (Explanation: The correct correlative conjunction pair is 'Scarcely...when' or 'Hardly...when'. 'Then' is incorrect. It should be 'when a sharp fluctuation was witnessed'.)
+
+***
+
+### **Part 2: Sentence Completion (Fill in the Blanks)**
+
+**Instructions:** Choose the correct option to fill in the blank(s) to make the sentence grammatically correct and meaningful.
+
+11. By the time the next financial year begins, our team _______ the pilot phase of the project and _______ the results.
+    a) completed, will analyze
+    b) will complete, will be analyzing
+    c) will have completed, will be analyzing
+    d) has completed, is analyzing
+    **Answer: c** (Explanation: The Future Perfect ('will have completed') is used for an action that will be finished before a specific time in the future. The Future Continuous ('will be analyzing') is used for an action that will be in progress at that future time.)
+
+12. If the management _______ to the union's demands earlier, the week-long strike _______ .
+    a) agreed, would not happen
+    b) would have agreed, would not happen
+    c) had agreed, would not have happened
+    d) agrees, will not have happened
+    **Answer: c** (Explanation: This is a Type 3 conditional, referring to an unreal past condition and its unreal past result. The structure is 'If + Past Perfect, would have + past participle'.)
+
+13. She _______ as a risk analyst for seven years before she _______ to head of the department.
+    a) was working, promoted
+    b) has been working, was promoted
+    c) had been working, was promoted
+    d) worked, had been promoted
+    **Answer: c** (Explanation: The Past Perfect Continuous ('had been working') is used to describe the duration of an action that was happening before another past action ('was promoted').)
+
+14. The CEO demanded that the quarterly report _______ and that all department heads _______ present at the review meeting.
+    a) be finalized, be
+    b) was finalized, were
+    c) is finalized, are
+    d) should be finalized, should be
+    **Answer: a** (Explanation: After verbs of demand, suggestion, or recommendation (like 'demanded'), the subjunctive mood (base form of the verb, e.g., 'be', 'submit') is used.)
+
+15. I wish I _______ the warning signs about the market downturn; I _______ a significant portion of my investment.
+    a) noticed, would not lose
+    b) was noticing, did not lose
+    c) had noticed, would not have lost
+    d) notice, have not lost
+    **Answer: c** (Explanation: 'I wish' followed by the Past Perfect ('had noticed') expresses a regret about the past. The second clause ('would not have lost') describes the hypothetical past result.)
+
+16. The investigation, which _______ for several months, finally _______ that the security breach was an inside job.
+    a) has been going on, concluded
+    b) went on, was concluding
+    c) had been going on, concluded
+    d) is going on, has concluded
+    **Answer: c** (Explanation: The Past Perfect Continuous ('had been going on') shows the duration of an action before another past action ('concluded').)
+
+17. Ever since the new regulations _______ into effect, our compliance department _______ overtime to ensure all protocols are met.
+    a) came, has been working
+    b) have come, is working
+    c) came, was working
+    d) come, will be working
+    **Answer: a** (Explanation: The structure 'Ever since + Simple Past' is typically followed by the Present Perfect or Present Perfect Continuous to describe an action that started then and continues.)
+
+18. While the senior analyst _______ the financial models, the junior staff _______ data from various sources.
+    a) was re-evaluating, were compiling
+    b) re-evaluated, compiled
+    c) had re-evaluated, compiled
+    d) re-evaluates, are compiling
+    **Answer: a** (Explanation: The Past Continuous is used to describe two or more actions happening simultaneously in the past.)
+
+19. It was the second time that year that the bank _______ its interest rates in response to market volatility.
+    a) had cut
+    b) has cut
+    c) was cutting
+    d) cuts
+    **Answer: a** (Explanation: The structure 'It was the second/first/third time' is followed by the Past Perfect tense to describe an event that happened before that point in the past.)
+
+20. The server _______ for maintenance at midnight, so any unsaved work _______ .
+    a) will be shut down, will be lost
+    b) is shutting down, is lost
+    c) was shut down, was lost
+    d) has been shut down, has been lost
+    **Answer: a** (Explanation: Both actions are in the future. The passive voice is needed for both clauses. 'Will be shut down' and 'will be lost' are the correct future passive forms.)
+
+***
+
+### **Part 3: Sentence Improvement (Phrase Replacement)**
+
+**Instructions:** In the following questions, a part of the sentence is in **bold**. Choose the best alternative to the bold part to improve the sentence. If the sentence is grammatically correct as it is, choose (d) as your answer.
+
+21. The investigation revealed that for three years, the manager **was secretly diverting** corporate funds to his personal account.
+    a) had been secretly diverting
+    b) secretly diverted
+    c) has been secretly diverting
+    d) No improvement needed
+    **Answer: a** (Explanation: The action of diverting funds happened over a period of time before another past action (the investigation revealed). This requires the Past Perfect Continuous.)
+
+22. If I **was the finance minister**, I would have implemented this tax reform years ago.
+    a) Had I been
+    b) If I were
+    c) If I am
+    d) No improvement needed
+    **Answer: b** (Explanation: For hypothetical or unreal situations in the present or future (a Type 2 conditional), the subjunctive mood 'were' is used with 'I' instead of 'was'.)
+
+23. The economic policies, which **were been announced** last month, are yet to show any tangible results.
+    a) which were announced
+    b) which had been announced
+    c) which have been announced
+    d) No improvement needed
+    **Answer: a** (Explanation: 'Were been' is grammatically incorrect. Since there is a specific past time marker ('last month'), the Simple Past Passive ('were announced') is the correct form.)
+
+24. As soon as the RBI **will make** an announcement, the market is expected to react sharply.
+    a) makes
+    b) made
+    c) has made
+    d) No improvement needed
+    **Answer: a** (Explanation: In a future time clause starting with 'as soon as', 'when', 'if', etc., the Simple Present tense is used, not the Simple Future.)
+
+25. The company has been performing exceptionally well **since the last two quarters**.
+    a) for the last two quarters
+    b) from the last two quarters
+    c) in the last two quarters ago
+    d) No improvement needed
+    **Answer: a** (Explanation: 'For' is used to denote a period or duration of time (two quarters). 'Since' is used to denote a specific point in time.)
+
+26. When I spoke to the project lead yesterday, he said he **works** on this module for over a month.
+    a) has been working
+    b) had been working
+    c) was working
+    d) No improvement needed
+    **Answer: b** (Explanation: The reporting verb 'spoke' is in the past. The action of 'working' happened for a period of time before that conversation, requiring the Past Perfect Continuous.)
+
+27. By the end of this year, the research team **will be submitting** its groundbreaking findings on AI.
+    a) will submit
+    b) will have submitted
+    c) submits
+    d) No improvement needed
+    **Answer: b** (Explanation: The phrase 'By the end of this year' sets a deadline in the future, which requires the Future Perfect tense to indicate an action completed by that time.)
+
+28. The memorandum stated that any employee who **did not complete** the mandatory training by the specified date would be ineligible for promotion.
+    a) had not completed
+    b) will not complete
+    c) has not completed
+    d) No improvement needed
+    **Answer: a** (Explanation: The reporting verb 'stated' is in the past. The action of completing the training (or not) occurred before the past deadline, so the Past Perfect tense is required.)
+
+29. We are trying to finalize the deal for the past month, but the other party **is not yet agreeing** to our terms.
+    a) did not yet agree
+    b) has not yet agreed
+    c) had not yet agreed
+    d) No improvement needed
+    **Answer: b** (Explanation: The action started in the past ('for the past month') and its result (or lack thereof) continues to the present. The Present Perfect is used for such situations. Also, 'agree' is a stative verb not typically used in continuous form.)
+
+30. The client was angry because the updated software **was not delivered** on the date that was promised a week earlier.
+    a) was not being delivered
+    b) has not been delivered
+    c) had not been delivered
+    d) No improvement needed
+    **Answer: c** (Explanation: The client 'was angry' (past action). The promise and the non-delivery happened before the client was angry. To show an action that happened before another past action, the Past Perfect (in passive form here) is used.)

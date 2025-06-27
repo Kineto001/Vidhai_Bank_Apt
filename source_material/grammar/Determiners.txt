@@ -1,0 +1,287 @@
+[TOPIC: Grammar (Determiners) | LEVEL: Difficult (SBI PO/Clerk)]
+
+1.  The board appointed him ______ chairman not because of his connections, but because of ______ invaluable experience he brought to the company.
+    a) a, the
+    b) the, an
+    c) a, an
+    d) a, some
+
+    Answer: a
+    Explanation: 'Chairman' is a unique post here, but when we talk about appointing someone 'to the post of' or 'as', the article is often omitted or 'a' is used to denote the role. 'invaluable experience' is specified ('the experience he brought'), so 'the' is correct for the second blank. However, looking at the options, 'a' fits the first blank best as it refers to the role he is being appointed to. 'invaluable' starts with a vowel sound, but the best option pair is 'a, the'. Let's re-evaluate. Appointed him chairman (zero article) is common. Or appointed him as the chairman. Let's make the first blank a clear choice. Rephrasing: The board appointed him to ______ post of chairman, recognizing ______ invaluable experience he possessed.
+    Let's stick to the original question. When a title is used to describe a role that one person holds at a time, but it's used as a complement, 'a/an' is not typically used. It should be "appointed him chairman". But let's assume the question wants an article. The most fitting is "a", treating it as one of many possible roles. For the second blank, "the invaluable experience" refers to the specific experience he brought. So "a, the" is the most plausible choice among the given options. Let's re-examine this for PO level. "Appoint [someone] [a position]" is grammatically tricky. "He was appointed chairman" (no article) is most correct. To make this a valid MCQ, let's change the sentence slightly.
+    Revised Question 1: He holds ______ unique position as ______ only strategist who has never lost a corporate negotiation for the firm.
+    a) an, the
+    b) a, the
+    c) the, an
+    d) a, a
+    Answer: b
+    Explanation: 'Unique' starts with a 'y' consonant sound, so it takes 'a'. 'Only strategist' is a specific, singular title, which requires 'the'.
+
+2.  Find the part of the sentence that has an error.
+    Despite the bank's assurance, (a)/ there are less opportunities for agricultural loans this year (b)/ compared to the last, causing distress (c)/ among the farming community. (d)
+    a) a
+    b) b
+    c) c
+    d) d
+
+    Answer: b
+    Explanation: The error is in part (b). 'Opportunities' is a plural, countable noun. Therefore, the correct determiner should be 'fewer', not 'less'. 'Less' is used for uncountable nouns.
+
+3.  The veteran diplomat had ______ hope of brokering a peace deal, as both nations showed extreme hostility and refused to negotiate.
+    a) a little
+    b) little
+    c) a few
+    d) few
+
+    Answer: b
+    Explanation: 'Hope' is an uncountable noun, so 'few' and 'a few' are incorrect. The context "extreme hostility and refused to negotiate" implies a negative, near-zero amount of hope. 'little' means almost no hope, whereas 'a little' implies a small but present amount of hope. Therefore, 'little' is the correct choice.
+
+4.  ______ of the two witnesses provided a consistent testimony, which forced the investigators to look for more concrete evidence.
+    a) Both
+    b) Every
+    c) Neither
+    d) Each
+
+    Answer: c
+    Explanation: The sentence implies that because the testimonies were not consistent, investigators had to look for other evidence. The sentence structure requires a determiner that means "not one and not the other". 'Neither' fits perfectly as it applies to two subjects and carries a negative meaning. "Neither of the two witnesses provided..." means "Witness 1 did not provide, and Witness 2 did not provide...".
+
+5.  Although the research team gathered ______ data from the field, ______ conclusive findings could be drawn from it due to inconsistencies.
+    a) much, few
+    b) many, little
+    c) a great deal of, few
+    d) much, little
+
+    Answer: c
+    Explanation: 'Data' is often treated as an uncountable noun in formal English, so 'much' or 'a great deal of' is appropriate. 'Findings' is a countable noun. The context "due to inconsistencies" suggests a negative outcome (almost no findings). Therefore, 'few' (meaning a very small number, almost none) is the best fit. Option (c) provides the correct pair: 'a great deal of' for uncountable data and 'few' for countable findings.
+
+6.  Find the part of the sentence that has an error.
+    The report concluded that (a)/ it would be a historical mistake (b)/ to ignore the long-term environmental impact (c)/ of the proposed industrial project. (d)
+    a) a
+    b) b
+    c) c
+    d) d
+
+    Answer: b
+    Explanation: The error is in part (b). The word 'historical' begins with a consonant sound ('h' is pronounced). Therefore, the correct article should be 'a', not 'an'. The sentence should read "it would be a historical mistake".
+
+7.  You can take ______ bus to the city center; they all follow the same main route and the fare is identical.
+    a) some
+    b) any
+    c) a certain
+    d) a
+
+    Answer: b
+    Explanation: 'Any' is used in an affirmative sentence here to mean 'it does not matter which'. The context "they all follow the same main route" supports the idea that the choice is open and any option will lead to the same result.
+
+8.  Despite extensive searching, the rescue team found ______ sign of the missing hikers in the dense forest.
+    a) not any
+    b) none
+    c) no
+    d) neither
+
+    Answer: c
+    Explanation: 'No' is a determiner used directly before a noun to indicate absence. "No sign" is the correct and standard collocation. "Not any" would require a different sentence structure (e.g., "did not find any sign"). 'None' is a pronoun, not a determiner used before a noun (e.g., "None of the signs were helpful").
+
+9.  The CEO spent ______ day reviewing the annual reports, trying to identify the root cause of the company's declining profits.
+    a) all the
+    b) the whole
+    c) every
+    d) much of
+
+    Answer: b
+    Explanation: 'The whole' is used with singular countable nouns to mean the entire thing. "The whole day" means the entire 24-hour period or, more likely, the entire workday. "All the day" is grammatically incorrect; it should be "all day" (without 'the'). 'Every day' implies a repeated action, which is not the context here.
+
+10. Find the part of the sentence that has an error.
+    Each of the committee members (a)/ were asked to submit their feedback (b)/ independently to prevent (c)/ any form of groupthink. (d)
+    a) a
+    b) b
+    c) c
+    d) d
+
+    Answer: b
+    Explanation: The subject of the sentence is 'Each', which is singular. Therefore, the verb should also be singular. The error is 'were'; it should be 'was'. "Each of the committee members was asked...".
+
+11. I have already read the first two chapters; could you please lend me ______ one so I can continue reading?
+    a) other
+    b) the other
+    c) another
+    d) next
+
+    Answer: c
+    Explanation: 'Another' means 'one more' or 'an additional one'. Since the speaker wants the next chapter in the sequence, 'another one' is the most appropriate choice. 'The other' would be used if there were only two options in total. 'Next' would require 'the' (the next one).
+
+12. The police force has deployed ______ officers to manage the protest, but they are prepared to send more if the situation escalates.
+    a) a little
+    b) enough
+    c) several
+    d) much
+
+    Answer: c
+    Explanation: 'Officers' is a countable noun, eliminating 'a little' and 'much'. 'Several' means more than two but not very many, which fits the context of an initial deployment that might need to be reinforced. 'Enough' would imply the current number is sufficient, which contradicts the second part of the sentence ("prepared to send more").
+
+13. After the presentation, the floor was opened for questions, but to the speaker's surprise, ______ of the attendees raised their hand.
+    a) a few
+    b) few
+    c) some
+    d) many
+
+    Answer: b
+    Explanation: The phrase "to the speaker's surprise" suggests a negative or unexpected outcome. 'Few' means a very small number, almost none, which fits the context of surprise at the lack of questions. 'A few' means a small but positive number, which would not be surprising.
+
+14. ______ of the two initial proposals was deemed viable, so the project committee had to go back to the drawing board.
+    a) Either
+    b) Both
+    c) Any
+    d) Neither
+
+    Answer: d
+    Explanation: The context "had to go back to the drawing board" implies that both proposals were rejected. 'Neither' is the correct determiner for indicating "not one and not the other" when referring to two items.
+
+15. Find the part of the sentence that has an error.
+    A great many information (a)/ regarding the clandestine operation (b)/ was leaked to the press, (c)/ causing a major political scandal. (d)
+    a) a
+    b) b
+    c) c
+    d) d
+
+    Answer: a
+    Explanation: The phrase 'a great many' is used with plural countable nouns (e.g., a great many people). 'Information' is an uncountable noun. The correct phrase would be 'A great deal of information' or 'Much information'.
+
+16. The economic theory he proposed was revolutionary, and it is ______ very idea that now forms the basis of our country's fiscal policy.
+    a) this
+    b) a
+    c) that
+    d) an
+
+    Answer: c
+    Explanation: 'That' is used here as a determiner to add emphasis, referring back to the "revolutionary" economic theory mentioned previously. It functions similarly to 'the' but with more emphasis, meaning "that specific idea and no other".
+
+17. She has ______ interest in pursuing a career in finance; her passion has always been for the creative arts.
+    a) a little
+    b) any
+    c) no
+    d) some
+
+    Answer: c
+    Explanation: The second clause ("her passion has always been for the creative arts") strongly contrasts with a career in finance, implying a complete lack of interest. 'No' is the strongest and most appropriate determiner to express this absence of interest.
+
+18. ______ solution he proposed was a short-term fix that failed to address the systemic issues plaguing the organization.
+    a) The all
+    b) Every
+    c) The whole
+    d) The
+
+    Answer: d
+    Explanation: The sentence is referring to a specific solution that he proposed. Therefore, the definite article 'the' is the most suitable determiner to specify which solution is being discussed.
+
+19. The company has invested ______ of its resources into this new venture, banking on its success to secure their market position for the next decade.
+    a) a large amount
+    b) a large number
+    c) a few
+    d) several
+
+    Answer: a
+    Explanation: 'Resources' can be treated as both countable and uncountable. However, when talking about the general pool of a company's assets (time, money, personnel), it's often treated as an uncountable mass. 'A large amount' fits this context perfectly. 'A large number' and 'several' would imply counting individual, distinct resources, which is less likely here. 'A few' contradicts the idea of "banking on its success".
+
+20. Find the part of the sentence that has an error.
+    Every of the employees was given (a)/ a unique login ID and a temporary password (b)/ which they were instructed to change (c)/ within the first 24 hours. (d)
+    a) a
+    b) b
+    c) c
+    d) d
+
+    Answer: a
+    Explanation: The determiner 'Every' cannot be followed by 'of the'. The correct construction is 'Each of the employees' or 'Every employee'. The error is in the usage of 'Every of'.
+
+21. I have two extra tickets for the concert. Would ______ of you like to come with me?
+    a) neither
+    b) both
+    c) either
+    d) some
+
+    Answer: c
+    Explanation: The question is an offer being made. 'Either' is used to offer a choice between two options. "Would either of you..." is the correct way to ask if one of the two people would like to accept the offer.
+
+22. We were running out of time and ______ little money we had was stolen, leaving us completely stranded.
+    a) a
+    b) the
+    c) some
+    d) that
+
+    Answer: b
+    Explanation: 'The little' is a specific construction that means "the small amount of something that one had". It emphasizes that the small, existing amount was lost. The sentence implies they had a small sum of money, and all of it ("the little money we had") was stolen.
+
+23. ______ what the critics say, the film has broken ______ box office record and is being lauded by the public.
+    a) Despite, every
+    b) In spite of, much
+    c) According to, all
+    d) For all, some
+
+    Answer: a
+    Explanation: The first blank needs a phrase to set up a contrast. "Despite" fits perfectly. For the second blank, 'every' can be used to mean 'all possible' or 'each and every one'. "Broken every box office record" is a common, emphatic expression.
+
+24. Find the part of the sentence that has an error.
+    There were not much people (a)/ at the seminar, which was surprising (b)/ given the speaker's international reputation (c)/ and the importance of the topic. (d)
+    a) a
+    b) b
+    c) c
+    d) d
+
+    Answer: a
+    Explanation: The error is in part (a). 'People' is a plural, countable noun. The correct determiner to use with it in a negative sentence is 'many', not 'much'. It should be "not many people".
+
+25. ______ kind of strategy do you think the opposition will adopt, given their recent public statements?
+    a) Which
+    b) What
+    c) Whose
+    d) How many
+
+    Answer: b
+    Explanation: 'What' is used as a determiner to ask about the nature or identity of something when the range of options is unknown or broad. 'Which' is used when there is a limited or known set of choices. Since the strategy is unknown, 'What' is the correct choice.
+
+26. ______ students who had registered for the advanced course attended the introductory session, which worried the professor.
+    a) The few
+    b) A few
+    c) Few
+    d) The little
+
+    Answer: c
+    Explanation: The context "which worried the professor" indicates a negative outcome, meaning a surprisingly or disappointingly small number of students attended. 'Few' carries this negative connotation of 'almost none'. 'A few' means a small but positive number. 'The few' would mean 'all of the small number that was expected', which doesn't fit the 'worried' context as well.
+
+27. Find the part of the sentence that has an error.
+    The contestants were told that (a)/ either of the three finalists (b)/ would be selected to represent the country (c)/ at the international competition. (d)
+    a) a
+    b) b
+    c) c
+    d) d
+
+    Answer: b
+    Explanation: The determiner 'either' is used to refer to one of two options. Since there are 'three finalists', the correct determiner should be 'any'. The sentence should read "any of the three finalists".
+
+28. The new policy leaves ______ room for interpretation and gives ______ discretionary power to the department heads.
+    a) little, considerable
+    b) few, many
+    c) some, a few
+    d) no, little
+
+    Answer: a
+    Explanation: 'Room' (in the sense of scope or possibility) and 'power' are both uncountable nouns. The sentence implies a contrast: the policy is strict (little room for interpretation) but gives power to heads. 'little' means almost no room, and 'considerable' means a large amount of power. This pair provides the most logical meaning.
+
+29. ______ patience that the negotiator showed during the protracted talks was instrumental in reaching a peaceful agreement.
+    a) A
+    b) Some
+    c) The
+    d) Much
+
+    Answer: c
+    Explanation: We are not talking about patience in general, but about the specific patience "that the negotiator showed". When an abstract noun like 'patience' is qualified by a phrase or clause that specifies it, the definite article 'the' must be used.
+
+30. Find the part of the sentence that has an error.
+    The manager was not satisfied with the report (a)/ and asked the team to gather (b)/ another data from a more reliable source (c)/ before the final submission. (d)
+    a) a
+    b) b
+    c) c
+    d) d
+
+    Answer: c
+    Explanation: The determiner 'another' is used with singular countable nouns (e.g., another report). 'Data' is an uncountable noun. The correct word to use here would be 'more' or 'further'. The phrase should be "gather more data" or "gather further data".

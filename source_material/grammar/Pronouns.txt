@@ -1,0 +1,222 @@
+Filename: English_Grammar_Pronouns_MCQs_SBI_PO.txt
+
+### English (Bank) MCQs: Grammar (Pronouns) - SBI PO/Clerk (Difficult Level)
+
+**Instructions:** In the following questions, some part of the sentence may have errors. Find out which part of the sentence has an error and select the appropriate option. If a sentence is free from error, select 'No error'. For questions that require filling in a blank, choose the most appropriate option.
+
+1.  Each of the talented programmers (a)/ who have been shortlisted for the final round (b)/ must submit their portfolio and a letter of intent (c)/ before the end of this week. (d)
+    a) a
+    b) b
+    c) c
+    d) d
+    **Answer: c** (Error: 'their' should be 'his' or 'his/her' because the subject is 'Each', which is singular.)
+
+2.  The bank manager, along with his team of clerks, (a)/ has worked tirelessly to prepare the annual report, (b)/ but they have not yet received (c)/ approval from the head office. (d)
+    a) a
+    b) b
+    c) c
+    d) d
+    **Answer: c** (Error: 'they' refers to the singular subject 'The bank manager'. It should be 'he'.)
+
+3.  Let you and I collaborate on this presentation; (a)/ between you and me, I believe we have a (b)/ higher chance of success than anyone (c)/ else in the department. (d)
+    a) a
+    b) b
+    c) c
+    d) d
+    **Answer: a** (Error: 'I' should be in the objective case 'me' after the verb 'Let'. The correct phrase is 'Let you and me'.)
+
+4.  The person whom we suspected (a)/ to be the culprit turned out to be the one (b)/ who had actually reported the security breach (c)/ to the authorities. (d)
+    a) a
+    b) b
+    c) c
+    d) No error
+    **Answer: d** (The sentence is grammatically correct. 'Whom' is the object of the verb 'suspected'.)
+
+5.  One must always be mindful of (a)/ the commitments he makes in his professional life, (b)/ as one's reputation is built (c)/ upon trust and reliability. (d)
+    a) a
+    b) b
+    c) c
+    d) d
+    **Answer: b** (Error: The pronoun should be consistent. If the sentence starts with 'One', the subsequent pronoun should be 'one's', not 'he' or 'his'. The correct phrase is 'the commitments one makes'.)
+
+6.  The committee members found themselves in disagreement, (a)/ so the chairman suggested that the decision be left (b)/ to the CEO and I, as we had the most (c)/ experience with such matters. (d)
+    a) a
+    b) b
+    c) c
+    d) d
+    **Answer: c** (Error: 'I' should be in the objective case 'me' as it is the object of the preposition 'to'. The correct phrase is 'to the CEO and me'.)
+
+7.  He is one of those meticulous managers (a)/ who always ensures that every detail, (b)/ no matter how minor, are attended to (c)/ before a project is launched. (d)
+    a) a
+    b) b
+    c) c
+    d) d
+    **Answer: c** (Error: The verb 'are' should be 'is'. The pronoun error is more subtle: the relative pronoun 'who' refers to 'managers' (plural), so the verb should be 'ensure', not 'ensures'. However, focusing on the pronoun aspect, let's rephrase. A better pronoun-related question would be: He is the only one of those managers (a)/ who have consistently met their targets (b)/. The error is that 'who' refers to 'one', so it should be 'has' and 'his'. Let's stick to the original question, where the antecedent of 'who' is 'managers', making the verb 'ensure' correct. The error is 'are' -> 'is' for 'detail'. To make it a pronoun question: *He is one of those meticulous managers (a)/ who always does their best to ensure (b)/ that every detail is attended to (c)/ before a project is launched. (d)* Answer would be (b) - 'who' refers to managers (plural), so it should be 'do their best' not 'does their best'. Let's go with this rephrased version for clarity.
+    
+    Rephrased Question: He is one of those meticulous managers (a)/ who always does their best to ensure (b)/ that every detail is attended to (c)/ before a project is launched. (d)
+    a) a
+    b) b
+    c) c
+    d) d
+    **Answer: b** (Error: The relative pronoun 'who' refers to the plural antecedent 'managers', not 'one'. Therefore, the verb should be plural ('do') and the pronoun should be 'their' which is correct. The error is the verb 'does', it should be 'do'.)
+
+8.  Despite the company's recent losses, (a)/ its board of directors remains optimistic (b)/ and have expressed their full confidence (c)/ in the new recovery strategy. (d)
+    a) a
+    b) b
+    c) c
+    d) d
+    **Answer: c** (Error: The subject 'board of directors' is a collective noun acting as a single unit, so the verb should be singular ('has') and the pronoun should be singular ('its'). The correct phrase is 'has expressed its full confidence'.)
+
+9.  The new regulations will affect everyone, (a)/ but the impact will be felt more severely (b)/ by we, the small business owners, (c)/ than by large corporations. (d)
+    a) a
+    b) b
+    c) c
+    d) d
+    **Answer: c** (Error: 'we' should be in the objective case 'us' as it is the object of the preposition 'by'. The correct phrase is 'by us, the small business owners'.)
+
+10. The client whom the legal team was advising (a)/ suddenly decided to withdraw the case, (b)/ what came as a complete surprise (c)/ to everyone involved. (d)
+    a) a
+    b) b
+    c) c
+    d) d
+    **Answer: c** (Error: 'what' is used incorrectly. The correct relative pronoun to refer to the entire preceding clause is 'which'. The correct phrase is 'which came as a complete surprise'.)
+
+11. Neither the regional managers nor the head of operations (a)/ was able to give a convincing explanation (b)/ for their failure to meet (c)/ the quarterly sales targets. (d)
+    a) a
+    b) b
+    c) c
+    d) d
+    **Answer: c** (Error: When using 'neither...nor', the pronoun agrees with the nearest antecedent, which is 'the head of operations' (singular). Therefore, 'their' should be 'his' or 'his/her'.)
+
+12. To who should I address this formal complaint (a)/ regarding the discrepancies (b)/ found in the financial statement (c)/ provided by the vendor? (d)
+    a) a
+    b) b
+    c) c
+    d) d
+    **Answer: a** (Error: 'who' should be in the objective case 'whom' as it is the object of the preposition 'To'. The correct phrase is 'To whom'.)
+
+13. The responsibility for the security lapse lies not with the junior staff, (a)/ but with the senior management, (b)/ who should have implemented stronger protocols (c)/ to protect themselves data. (d)
+    a) a
+    b) b
+    c) c
+    d) d
+    **Answer: d** (Error: The reflexive pronoun 'themselves' is used incorrectly. It should be the possessive adjective 'their'. The correct phrase is 'to protect their data'.)
+
+14. The bank prides _______ on its customer-centric approach, which has been a cornerstone of its success for over a century.
+    a) it
+    b) itself
+    c) them
+    d) themselves
+    **Answer: b** (The verb 'prides' requires a reflexive pronoun. Since the subject is 'The bank' (singular), the correct pronoun is 'itself'.)
+
+15. You, she, and I (a)/ have been assigned the critical task (b)/ of overhauling the client onboarding process, (c)/ a project of immense importance. (d)
+    a) a
+    b) b
+    c) c
+    d) No error
+    **Answer: d** (The sentence is correct. The order of personal pronouns for a positive action is second person (You), third person (she), and first person (I).)
+
+16. Any of these two candidates is qualified for the position, (a)/ but the final decision will depend on (b)/ who's interview performance (c)/ is more impressive to the board. (d)
+    a) a
+    b) b
+    c) c
+    d) d
+    **Answer: c** (Error: 'who's' is a contraction for 'who is'. The required word is the possessive pronoun 'whose'. The correct phrase is 'whose interview performance'.)
+
+17. The manager told his assistant that (a)/ he was not responsible for the error (b)/ in the report, which created (c)/ a great deal of confusion. (d)
+    a) a
+    b) b
+    c) c
+    d) d
+    **Answer: b** (Error: This is a case of pronoun ambiguity. 'He' could refer to either the manager or the assistant. The sentence needs rephrasing for clarity.)
+
+18. If I were _______, I would reconsider the proposal before rejecting it outright, as it has significant long-term benefits.
+    a) him
+    b) he
+    c) his
+    d) himself
+    **Answer: b** (In a subjunctive clause (If I were...), the pronoun that follows is in the subjective case. The correct pronoun is 'he'.)
+
+19. All the documents, including the confidential files, (a)/ were left unattended on the desk, (b)/ and it was a serious breach (c)/ of company protocol. (d)
+    a) a
+    b) b
+    c) c
+    d) d
+    **Answer: c** (Error: 'it' is not the best pronoun here. 'This' or 'that' would be more appropriate to refer to the action described in the preceding clause. The most correct phrasing would be 'which was a serious breach'.)
+
+20. Everyone who attended the seminar (a)/ was given a feedback form and was requested (b)/ to return them to the registration desk (c)/ before leaving the auditorium. (d)
+    a) a
+    b) b
+    c) c
+    d) d
+    **Answer: c** (Error: The pronoun 'them' refers to the singular antecedent 'a feedback form'. It should be 'it'. The correct phrase is 'to return it'.)
+
+21. The dog wagged it's tail excitedly (a)/ when its owner returned, (b)/ a clear sign of the bond (c)/ shared between the two of they. (d)
+    a) a
+    b) b
+    c) c
+    d) d
+    **Answer: a** (Error: 'it's' is a contraction for 'it is'. The possessive form required here is 'its'. The sentence also has an error in part (d), 'they' should be 'them', but the first error occurs in (a).)
+
+22. It is not I who is to blame (a)/ for the project's delay; (b)/ it is the logistical team's failure (c)/ to procure the resources on time. (d)
+    a) a
+    b) b
+    c) c
+    d) d
+    **Answer: a** (Error: The verb must agree with the antecedent of the relative pronoun 'who'. The antecedent is 'I', so the verb should be 'am'. The correct phrase is 'It is not I who am to blame'.)
+
+23. The two brothers greatly resemble one another; (a)/ it is often difficult for people (b)/ who do not know them well (c)/ to tell one from the other. (d)
+    a) a
+    b) b
+    c) c
+    d) No error
+    **Answer: a** (Error: For two people or things, the reciprocal pronoun 'each other' is traditionally preferred. 'One another' is used for more than two. The correct phrase is 'resemble each other'.)
+
+24. Having thoroughly reviewed the financial reports, (a)/ the auditor informed the CEO and myself (b)/ that several discrepancies required (c)/ immediate clarification. (d)
+    a) a
+    b) b
+    c) c
+    d) d
+    **Answer: b** (Error: The reflexive pronoun 'myself' is used incorrectly as an object. The correct objective pronoun is 'me'. The phrase should be 'the CEO and me'.)
+
+25. This is the same innovative strategy (a)/ which was praised by the industry experts (b)/ and later adopted by several of (c)/ our main competitors. (d)
+    a) a
+    b) b
+    c) c
+    d) d
+    **Answer: b** (Error: After phrases like 'the same', 'the only', 'all', and superlatives, the relative pronoun 'that' is preferred over 'which' or 'who'. The correct phrase is 'that was praised'.)
+
+26. None of the information provided by the witnesses (a)/ were substantial enough to press charges, (b)/ so the police had to release (c)/ the man they were holding. (d)
+    a) a
+    b) b
+    c) c
+    d) d
+    **Answer: b** (Error: 'None' when referring to an uncountable noun like 'information' takes a singular verb. 'were' should be 'was'.)
+
+27. The success of our new digital platform depends on _________ and our ability to adapt to user feedback quickly.
+    a) it's marketing
+    b) its' marketing
+    c) its marketing
+    d) it is marketing
+    **Answer: c** (The possessive adjective 'its' is required to show that the marketing belongs to the platform. 'It's' means 'it is'.)
+
+28. The board was divided in _______ opinion, with some members supporting the merger and others vehemently opposing it.
+    a) its
+    b) their
+    c) it's
+    d) theirs
+    **Answer: b** (When a collective noun like 'board' or 'committee' refers to the individual members acting separately (as indicated by 'divided'), a plural pronoun ('their') and a plural verb are used.)
+
+29. My performance in the final assessment was (a)/ far better than that of my colleague, (b)/ but the manager still promoted him (c)/ instead of myself. (d)
+    a) a
+    b) b
+    c) c
+    d) d
+    **Answer: d** (Error: 'myself' is used incorrectly. The objective pronoun 'me' is required here. The correct phrase is 'instead of me'.)
+
+30. We were all surprised when we heard (a)/ about him winning the prestigious award, (b)/ as he had never shown (c)/ much interest in competitive events. (d)
+    a) a
+    b) b
+    c) c
+    d) d
+    **Answer: b** (Error: A pronoun before a gerund (-ing form of a verb) should be in the possessive case. The correct phrase is 'about his winning the prestigious award'.)

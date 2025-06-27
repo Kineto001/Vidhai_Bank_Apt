@@ -1,0 +1,240 @@
+Overall Topic: Grammar (Nouns)
+Difficulty Level: SBI PO/Clerk (Difficult)
+
+---
+
+**Instructions:** In the following questions, a sentence is divided into four parts (a), (b), (c), and (d). Identify the part of the sentence that contains a grammatical error related to nouns. If there is no error, your answer would be (e), but for the purpose of this test, an error is present in one part.
+
+1.  The sceneries of the Himalayas (a)/ are exceptionally beautiful, (b)/ attracting thousands of tourists (c)/ every single year. (d)
+    a) The sceneries of the Himalayas
+    b) are exceptionally beautiful,
+    c) attracting thousands of tourists
+    d) every single year.
+    **Answer: a** (Explanation: 'Scenery' is an uncountable noun and does not have a plural form. It should be 'The scenery of the Himalayas'.)
+
+2.  The company has ordered (a)/ some new and sophisticated machineries (b)/ to enhance its production capacity (c)/ and meet the market demand. (d)
+    a) The company has ordered
+    b) some new and sophisticated machineries
+    c) to enhance its production capacity
+    d) and meet the market demand.
+    **Answer: b** (Explanation: 'Machinery' is an uncountable noun. It should be 'machinery' or 'pieces of machinery'.)
+
+3.  All the furnitures in the new bungalow (a)/ were imported from Sweden (b)/ and cost a fortune, but they (c)/ added a touch of elegance. (d)
+    a) All the furnitures in the new bungalow
+    b) were imported from Sweden
+    c) and cost a fortune, but they
+    d) added a touch of elegance.
+    **Answer: a** (Explanation: 'Furniture' is an uncountable noun and is not used in the plural form. It should be 'All the furniture'.)
+
+4.  My sister-in-laws who live in Mumbai (a)/ have decided to come and stay with us (b)/ during the upcoming (c)/ summer vacation. (d)
+    a) My sister-in-laws who live in Mumbai
+    b) have decided to come and stay with us
+    c) during the upcoming
+    d) summer vacation.
+    **Answer: a** (Explanation: The plural of the compound noun 'sister-in-law' is 'sisters-in-law'.)
+
+5.  The magistrate issued (a)/ a summons for the witness, (b)/ but despite several attempts, (c)/ the police could not serve it. (d)
+    a) The magistrate issued
+    b) a summons for the witness,
+    c) but despite several attempts,
+    d) the police could not serve it.
+    **Answer: b** (Explanation: 'Summons' is a singular noun. To make it plural, it should be 'summonses'. Since the article 'a' is used, 'summons' is correct. This is a trick question. The error lies elsewhere. Let's rephrase.
+    Rephrased Question: The court has issued (a)/ five summons for him so far (b)/ but he has not (c)/ turned up yet. (d)
+    a) The court has issued
+    b) five summons for him so far
+    c) but he has not
+    d) turned up yet.
+    **Answer: b** (Explanation: The plural of 'summons' (singular noun ending in 's') is 'summonses'. It should be 'five summonses'.)
+
+6.  I went to the temple (a)/ with my parents, aunts (b)/ and my cousins sisters (c)/ for the evening prayer. (d)
+    a) I went to the temple
+    b) with my parents, aunts
+    c) and my cousins sisters
+    d) for the evening prayer.
+    **Answer: c** (Explanation: The word 'cousins' itself denotes either a male or female cousin. Adding 'sisters' is superfluous and grammatically incorrect. It should just be 'and my cousins'.)
+
+7.  The custom officer's stringent checks (a)/ at the airport caused (b)/ considerable inconvenience and delay (c)/ to the international passengers. (d)
+    a) The custom officer's stringent checks
+    b) at the airport caused
+    c) considerable inconvenience and delay
+    d) to the international passengers.
+    **Answer: a** (Explanation: 'Custom' as a noun means a tradition. The tax or duty is 'customs'. The officer is a 'customs officer'. The correct phrase is 'The customs officer's...'.)
+
+8.  Despite his best efforts to stay neutral, (a)/ the politician could not prevent the media (b)/ from publishing a series of false news (c)/ about his involvement in the scam. (d)
+    a) Despite his best efforts to stay neutral,
+    b) the politician could not prevent the media
+    c) from publishing a series of false news
+    d) about his involvement in the scam.
+    **Answer: c** (Explanation: 'News' is an uncountable noun. 'A series of' is used with countable plural nouns. The correct expression would be 'a series of false news reports' or 'pieces of false news'.)
+
+9.  My friend, who is a renowned economist, (a)/ believes that ethics are a crucial component (b)/ for the long-term success and sustainability (c)/ of any business venture. (d)
+    a) My friend, who is a renowned economist,
+    b) believes that ethics are a crucial component
+    c) for the long-term success and sustainability
+    d) of any business venture.
+    **Answer: b** (Explanation: When 'ethics' refers to the subject or a moral philosophy, it is treated as a singular noun. The verb should be 'is'. '...that ethics is a crucial component...')
+
+10. The Commander-in-Chiefs of the army (a)/ are responsible for the strategic deployment (b)/ of troops during wartime operations (c)/ and for maintaining discipline. (d)
+    a) The Commander-in-Chiefs of the army
+    b) are responsible for the strategic deployment
+    c) of troops during wartime operations
+    d) and for maintaining discipline.
+    **Answer: a** (Explanation: The plural of the compound noun 'Commander-in-Chief' is 'Commanders-in-Chief'. The 's' is added to the principal word.)
+
+11. According to the new guidelines, (a)/ students are not permitted (b)/ to bring their valuable's (c)/ into the examination hall. (d)
+    a) According to the new guidelines,
+    b) students are not permitted
+    c) to bring their valuable's
+    d) into the examination hall.
+    **Answer: c** (Explanation: 'Valuables' is a plural noun meaning valuable things. An apostrophe is not needed here as it is not showing possession. It should be 'their valuables'.)
+
+12. The committee were unanimous in its decision (a)/ to appoint Mr. Sharma as the new chairman, (b)/ citing his vast experience (c)/ and impeccable track record. (d)
+    a) The committee were unanimous in its decision
+    b) to appoint Mr. Sharma as the new chairman,
+    c) citing his vast experience
+    d) and impeccable track record.
+    **Answer: a** (Explanation: The word 'unanimous' indicates that the collective noun 'committee' is acting as a single unit. Therefore, it should be treated as singular. The verb should be 'was' and the pronoun should be 'its'. The pronoun is correct, but the verb is wrong. It should be 'The committee was unanimous...')
+
+13. One must be careful (a)/ while signing legal documents (b)/ as there are many criterions (c)/ that need to be fulfilled. (d)
+    a) One must be careful
+    b) while signing legal documents
+    c) as there are many criterions
+    d) that need to be fulfilled.
+    **Answer: c** (Explanation: 'Criterion' is the singular form. The plural form is 'criteria'. It should be 'many criteria'.)
+
+14. Rahul and Rohan's joint company (a)/ is doing extremely well, (b)/ but lately, there have been signs of (c)/ a rift between the two business partners. (d)
+    a) Rahul and Rohan's joint company
+    b) is doing extremely well,
+    c) but lately, there have been signs of
+    d) a rift between the two business partners.
+    **Answer: a** (Explanation: For joint possession of a single entity ('joint company'), the apostrophe 's' is added only to the last noun. The usage is correct here. However, let's reframe for an error.
+    Rephrased Question: Rahul's and Rohan's joint company (a)/ is doing extremely well, (b)/ but lately, there have been signs of (c)/ a rift between the two business partners. (d)
+    a) Rahul's and Rohan's joint company
+    b) is doing extremely well,
+    c) but lately, there have been signs of
+    d) a rift between the two business partners.
+    **Answer: a** (Explanation: For joint possession of a single entity, the apostrophe 's' is added only to the last noun. It should be 'Rahul and Rohan's joint company'.)
+
+15. The police have received (a)/ two important informations that can help them (b)/ solve the high-profile (c)/ murder case. (d)
+    a) The police have received
+    b) two important informations that can help them
+    c) solve the high-profile
+    d) murder case.
+    **Answer: b** (Explanation: 'Information' is an uncountable noun. To quantify it, we use expressions like 'pieces of'. It should be 'two important pieces of information'.)
+
+16. The recent datas released by the government (a)/ indicate a significant slowdown (b)/ in the country's economic growth, (c)/ causing concern among investors. (d)
+    a) The recent datas released by the government
+    b) indicate a significant slowdown
+    c) in the country's economic growth,
+    d) causing concern among investors.
+    **Answer: a** (Explanation: 'Data' is the plural form of 'datum'. In modern usage, 'data' is often used as an uncountable noun taking a singular verb (The data is...). However, 'datas' is always incorrect. The correct form is 'The recent data...'.)
+
+17. A five-men delegation (a)/ waited upon the Prime Minister (b)/ to submit a memorandum (c)/ regarding the farmer's issues. (d)
+    a) A five-men delegation
+    b) waited upon the Prime Minister
+    c) to submit a memorandum
+    d) regarding the farmer's issues.
+    **Answer: a** (Explanation: When a noun is used as an adjective in a compound phrase (hyphenated or not), it is always in the singular form. It should be 'A five-man delegation'.)
+
+18. The manager of the bank, (a)/ along with his colleagues, (b)/ have been given a three-weeks vacation (c)/ as a reward for their performance. (d)
+    a) The manager of the bank,
+    b) along with his colleagues,
+    c) have been given a three-weeks vacation
+    d) as a reward for their performance.
+    **Answer: c** (Explanation: Similar to the rule in question 17, in a compound adjective phrase like 'a three-week vacation', the noun 'week' must be in its singular form. It should be 'a three-week vacation'.)
+
+19. The jury were divided in their opinions, (a)/ which led to a heated debate (b)/ amongst the members and delayed (c)/ the announcement of the verdicts. (d)
+    a) The jury were divided in their opinions,
+    b) which led to a heated debate
+    c) amongst the members and delayed
+    d) the announcement of the verdicts.
+    **Answer: d** (Explanation: 'Verdict' is a countable noun. If the jury is divided and there are multiple cases or charges, 'verdicts' could be plausible. However, typically one case has one verdict. A more common noun-related error is in pluralization. Let's find a clearer error.
+    Rephrased Question: The jury was divided in their opinions, (a)/ which led to a heated debate (b)/ amongst the members and delayed (c)/ the announcement of the verdict. (d)
+    a) The jury was divided in their opinions,
+    b) which led to a heated debate
+    c) amongst the members and delayed
+    d) the announcement of the verdict.
+    **Answer: a** (Explanation: When the collective noun 'jury' acts as a group of individuals (indicated by 'divided in their opinions'), it takes a plural verb. The verb 'was' should be 'were'.)
+
+20. The CEO's son-in-law's promotion (a)/ has raised several questions (b)/ about nepotism within the organization's (c)/ higher management levels. (d)
+    a) The CEO's son-in-law's promotion
+    b) has raised several questions
+    c) about nepotism within the organization's
+    d) higher management levels.
+    **Answer: a** (Explanation: While grammatically permissible, using double possessives ('s) is often considered awkward. A better construction is 'The promotion of the CEO's son-in-law'. However, the most direct noun error would be in pluralization. Let's rephrase.
+    Rephrased Question: The CEO has three son-in-laws, (a)/ and all of them have been appointed (b)/ to senior positions within the company, (c)/ raising questions of nepotism. (d)
+    a) The CEO has three son-in-laws,
+    b) and all of them have been appointed
+    c) to senior positions within the company,
+    d) raising questions of nepotism.
+    **Answer: a** (Explanation: The plural of the compound noun 'son-in-law' is 'sons-in-law'. The 's' is added to the principal noun.)
+
+21. The blind's life is often filled with hardships, (a)/ but many of them overcome these challenges (b)/ with incredible courage (c)/ and a positive outlook. (d)
+    a) The blind's life is often filled with hardships,
+    b) but many of them overcome these challenges
+    c) with incredible courage
+    d) and a positive outlook.
+    **Answer: a** (Explanation: When 'the' is used with an adjective like 'blind' or 'poor' to represent a class of people, it functions as a plural noun. It should be 'The lives of the blind are...' or 'The blind live lives...' The possessive form 'blind's' is incorrect here.)
+
+22. We were surprised to find (a)/ that the table's leg was broken, (b)/ so we had to call a carpenter (c)/ immediately for the repair work. (d)
+    a) We were surprised to find
+    b) that the table's leg was broken,
+    c) so we had to call a carpenter
+    d) immediately for the repair work.
+    **Answer: b** (Explanation: The possessive case ('s) is generally avoided for non-living things. The preferred structure is 'the leg of the table'.)
+
+23. There is a dire need for (a)/ more efficient equipments in our labs (b)/ if we are to compete (c)/ on a global scale. (d)
+    a) There is a dire need for
+    b) more efficient equipments in our labs
+    c) if we are to compete
+    d) on a global scale.
+    **Answer: b** (Explanation: 'Equipment' is an uncountable noun and does not have a plural form 'equipments'. It should be 'more efficient equipment'.)
+
+24. The gentry of this town (a)/ does not approve of the new policies (b)/ implemented by the municipal corporation (c)/ regarding property tax. (d)
+    a) The gentry of this town
+    b) does not approve of the new policies
+    c) implemented by the a) municipal corporation
+    d) regarding property tax.
+    **Answer: b** (Explanation: Nouns like 'gentry', 'peasantry', 'cavalry', 'police' are plural in meaning and take a plural verb. It should be 'do not approve' instead of 'does not approve'.)
+
+25. The teacher gave us (a)/ many good advices before the examination, (b)/ which helped us manage our time (c)/ and reduce anxiety effectively. (d)
+    a) The teacher gave us
+    b) many good advices before the examination,
+    c) which helped us manage our time
+    d) and reduce anxiety effectively.
+    **Answer: b** (Explanation: 'Advice' is an uncountable noun. It cannot be pluralized as 'advices'. The correct phrasing would be 'much good advice' or 'many pieces of good advice'.)
+
+26. Several passer-bys stopped (a)/ to witness the street performance, (b)/ but none offered any money (c)/ to the struggling artist. (d)
+    a) Several passer-bys stopped
+    b) to witness the street performance,
+    c) but none offered any money
+    d) to the struggling artist.
+    **Answer: a** (Explanation: The plural of the compound noun 'passer-by' is 'passers-by'. The 's' is added to the main noun, which is 'passer'.)
+
+27. The beautiful surrounding of the place (a)/ enchanted me so much that (b)/ I decided to extend my stay (c)/ for another two days. (d)
+    a) The beautiful surrounding of the place
+    b) enchanted me so much that
+    c) I decided to extend my stay
+    d) for another two days.
+    **Answer: a** (Explanation: The noun 'surroundings' (meaning environment or vicinity) is always used in the plural form. It should be 'The beautiful surroundings of the place'.)
+
+28. The company has lost (a)/ a great deal of business (b)/ because of its failure to pay (c)/ its employee's salaries on time. (d)
+    a) The company has lost
+    b) a great deal of business
+    c) because of its failure to pay
+    d) its employee's salaries on time.
+    **Answer: d** (Explanation: 'Employee' refers to multiple employees in this context. The possessive for a plural noun ending in 's' is formed by adding only an apostrophe after the 's'. It should be 'its employees' salaries'.)
+
+29. The flock of lions (a)/ roamed freely in the vast expanse (b)/ of the Gir National Park, (c)/ presenting a majestic sight. (d)
+    a) The flock of lions
+    b) roamed freely in the vast expanse
+    c) of the Gir National Park,
+    d) presenting a majestic sight.
+    **Answer: a** (Explanation: The correct collective noun for a group of lions is a 'pride', not a 'flock'. A 'flock' is used for sheep or birds.)
+
+30. The quality of these apparels (a)/ have deteriorated significantly over the years, (b)/ which is why the brand is losing (c)/ its loyal customer base. (d)
+    a) The quality of these apparels
+    b) have deteriorated significantly over the years,
+    c) which is why the brand is losing
+    d) its loyal customer base.
+    **Answer: b** (Explanation: The subject of the verb is 'The quality' (singular), not 'apparels' (plural). Therefore, the verb must be singular to agree with the subject. It should be 'has deteriorated'.)

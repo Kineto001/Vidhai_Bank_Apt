@@ -1,0 +1,800 @@
+1.
+Statements:
+Only a few Pens are Pencils.
+All Pencils are Erasers.
+No Eraser is a Sharpener.
+
+Conclusions:
+I. Some Pens are not Sharpeners.
+II. All Pens being Pencils is a possibility.
+
+a) Only conclusion I follows
+b) Only conclusion II follows
+c) Both I and II follow
+d) Neither I nor II follows
+Answer: a
+
+2.
+Statements:
+All Metals are Silver.
+All Silver are Diamonds.
+Some Diamonds are Gold.
+
+Conclusions:
+I. All Gold being Metals is a possibility.
+II. Some Metals are Diamonds.
+
+a) Only conclusion I follows
+b) Only conclusion II follows
+c) Both I and II follow
+d) Neither I nor II follows
+Answer: c
+
+3.
+Statements:
+Only a few Rivers are Oceans.
+All Oceans are Seas.
+No Sea is a Lake.
+
+Conclusions:
+I. Some Rivers are not Lakes.
+II. All Rivers can be Seas.
+
+a) Only conclusion I follows
+b) Only conclusion II follows
+c) Both I and II follow
+d) Neither I nor II follows
+Answer: a
+
+4.
+Statements:
+No Apple is a Banana.
+All Bananas are Oranges.
+Only a few Oranges are Grapes.
+
+Conclusions:
+I. Some Grapes are not Apples.
+II. All Oranges can never be Apples.
+
+a) Only conclusion I follows
+b) Only conclusion II follows
+c) Both I and II follow
+d) Neither I nor II follows
+Answer: b
+
+5.
+Statements:
+Only Tables are Chairs.
+Some Tables are Desks.
+No Desk is a Bench.
+
+Conclusions:
+I. All Tables can never be Benches.
+II. Some Chairs being Desks is a possibility.
+
+a) Only conclusion I follows
+b) Only conclusion II follows
+c) Both I and II follow
+d) Neither I nor II follows
+Answer: a
+
+6.
+Statements:
+All Phones are Chargers.
+No Charger is a Headphone.
+Only a few Headphones are Wires.
+
+Conclusions:
+I. No Phone is a Headphone.
+II. Some Wires are not Chargers.
+
+a) Only conclusion I follows
+b) Only conclusion II follows
+c) Both I and II follow
+d) Neither I nor II follows
+Answer: c
+
+7.
+Statements:
+Some Books are Novels.
+Only a few Novels are Papers.
+All Papers are White.
+
+Conclusions:
+I. All Books being Papers is a possibility.
+II. Some Novels are not Papers.
+
+a) Only conclusion I follows
+b) Only conclusion II follows
+c) Both I and II follow
+d) Neither I nor II follows
+Answer: c
+
+8.
+Statements:
+All Greens are Blues.
+All Blues are Yellows.
+No Yellow is a Pink.
+
+Conclusions:
+I. No Green is a Pink.
+II. All Blues being Pink is a possibility.
+
+a) Only conclusion I follows
+b) Only conclusion II follows
+c) Both I and II follow
+d) Neither I nor II follows
+Answer: a
+
+9.
+Statements:
+Only a few Cars are Buses.
+No Bus is a Train.
+Some Trains are Flights.
+
+Conclusions:
+I. Some Cars are not Trains.
+II. All Flights being Buses is a possibility.
+
+a) Only conclusion I follows
+b) Only conclusion II follows
+c) Both I and II follow
+d) Neither I nor II follows
+Answer: a
+
+10.
+Statements:
+Only a few A are B.
+Some B are C.
+All C are D.
+
+Conclusions:
+I. Some A are not B.
+II. All B being D is a possibility.
+
+a) Only conclusion I follows
+b) Only conclusion II follows
+c) Both I and II follow
+d) Neither I nor II follows
+Answer: c
+
+11.
+Statements:
+Only Keys are Locks.
+Some Keys are Chains.
+No Chain is a Ring.
+
+Conclusions:
+I. Some Locks being Chains is a possibility.
+II. All Keys can never be Rings.
+
+a) Only conclusion I follows
+b) Only conclusion II follows
+c) Both I and II follow
+d) Neither I nor II follows
+Answer: b
+
+12.
+Statements:
+No Circle is a Square.
+Only a few Squares are Rectangles.
+All Rectangles are Triangles.
+
+Conclusions:
+I. Some Triangles are not Circles.
+II. All Squares being Triangles is a possibility.
+
+a) Only conclusion I follows
+b) Only conclusion II follows
+c) Both I and II follow
+d) Neither I nor II follows
+Answer: c
+
+13.
+Statements:
+All Laptops are Computers.
+Only a few Computers are Mobiles.
+Some Mobiles are Tablets.
+
+Conclusions:
+I. All Laptops being Mobiles is a possibility.
+II. Some Computers are not Mobiles.
+
+a) Only conclusion I follows
+b) Only conclusion II follows
+c) Both I and II follow
+d) Neither I nor II follows
+Answer: c
+
+14.
+Statements:
+Some Red are Black.
+All Black are White.
+Only a few White are Brown.
+
+Conclusions:
+I. All Red being White is a possibility.
+II. Some Black can be Brown.
+
+a) Only conclusion I follows
+b) Only conclusion II follows
+c) Both I and II follow
+d) Neither I nor II follows
+Answer: c
+
+1<seg_43>.
+Statements:
+Only a few Mails are Messages.
+All Mails are Posts.
+No Message is a Comment.
+
+Conclusions:
+I. Some Posts are not Comments.
+II. All Messages being Posts is a possibility.
+
+a) Only conclusion I follows
+b) Only conclusion II follows
+c) Both I and II follow
+d) Neither I nor II follows
+Answer: c
+
+16.
+Statements:
+All Stars are Moons.
+No Moon is a Planet.
+Only a few Planets are Galaxies.
+
+Conclusions:
+I. No Star is a Planet.
+II. Some Galaxies are not Moons.
+
+a) Only conclusion I follows
+b) Only conclusion II follows
+c) Both I and II follow
+d) Neither I nor II follows
+Answer: c
+
+17.
+Statements:
+Only Cups are Plates.
+Some Cups are Spoons.
+All Spoons are Forks.
+
+Conclusions:
+I. Some Forks are Cups.
+II. No Plate is a Spoon.
+
+a) Only conclusion I follows
+b) Only conclusion II follows
+c) Both I and II follow
+d) Neither I nor II follows
+Answer: c
+
+18.
+Statements:
+Only a few Windows are Doors.
+All Doors are Walls.
+Some Walls are Bricks.
+
+Conclusions:
+I. All Windows being Walls is a possibility.
+II. Some Doors are definitely not Bricks.
+
+a) Only conclusion I follows
+b) Only conclusion II follows
+c) Both I and II follow
+d) Neither I nor II follows
+Answer: a
+
+19.
+Statements:
+No Air is Water.
+All Water is Fire.
+Only a few Fire is Earth.
+
+Conclusions:
+I. Some Fire is not Air.
+II. All Earth being Water is a possibility.
+
+a) Only conclusion I follows
+b) Only conclusion II follows
+c) Both I and II follow
+d) Neither I nor II follows
+Answer: a
+
+20.
+Statements:
+All Physics are Chemistry.
+Only a few Chemistry are Maths.
+No Maths is Biology.
+
+Conclusions:
+I. Some Chemistry are not Maths.
+II. Some Physics being Maths is a possibility.
+
+a) Only conclusion I follows
+b) Only conclusion II follows
+c) Both I and II follow
+d) Neither I nor II follows
+Answer: c
+
+21.
+Statements:
+Some Doctors are Engineers.
+All Engineers are Lawyers.
+No Lawyer is a Teacher.
+All Teachers are Scientists.
+
+Conclusions:
+I. No Engineer is a Teacher.
+II. Some Doctors are not Teachers.
+
+a) Only conclusion I follows
+b) Only conclusion II follows
+c) Both I and II follow
+d) Neither I nor II follows
+Answer: c
+
+22.
+Statements:
+Only a few Roses are Lilies.
+All Lilies are Sunflowers.
+No Sunflower is a Marigold.
+
+Conclusions:
+I. Some Roses are not Marigolds.
+II. All Roses being Lilies is not a possibility.
+
+a) Only conclusion I follows
+b) Only conclusion II follows
+c) Both I and II follow
+d) Neither I nor II follows
+Answer: c
+
+23.
+Statements:
+Only Letters are Words.
+Some Letters are Alphabets.
+No Alphabet is a Vowel.
+
+Conclusions:
+I. Some Words being Alphabets is a possibility.
+II. All Letters can never be Vowels.
+
+a) Only conclusion I follows
+b) Only conclusion II follows
+c) Both I and II follow
+d) Neither I nor II follows
+Answer: b
+
+24.
+Statements:
+All Bikes are Cars.
+Some Cars are Trucks.
+Only a few Trucks are Jeeps.
+
+Conclusions:
+I. Some Bikes are Trucks.
+II. All Jeeps being Cars is a possibility.
+
+a) Only conclusion I follows
+b) Only conclusion II follows
+c) Both I and II follow
+d) Neither I nor II follows
+Answer: b
+
+25.
+Statements:
+No Morning is Evening.
+Only a few Evenings are Nights.
+All Nights are Days.
+
+Conclusions:
+I. Some Days are not Mornings.
+II. All Evenings can be Days.
+
+a) Only conclusion I follows
+b) Only conclusion II follows
+c) Both I and II follow
+d) Neither I nor II follows
+Answer: c
+
+26.
+Statements:
+Only a few Gold are Silver.
+No Silver is a Platinum.
+All Platinum are Bronze.
+
+Conclusions:
+I. Some Gold are not Platinum.
+II. Some Bronze are not Silver.
+
+a) Only conclusion I follows
+b) Only conclusion II follows
+c) Both I and II follow
+d) Neither I nor II follows
+Answer: c
+
+27.
+Statements:
+100% of A are B.
+Only a few B are C.
+0% of C is D.
+
+Conclusions:
+I. Some B are not C.
+II. Some A are C is a possibility.
+
+a) Only conclusion I follows
+b) Only conclusion II follows
+c) Both I and II follow
+d) Neither I nor II follows
+Answer: c
+
+28.
+Statements:
+All January are February.
+Only February are March.
+Some February are April.
+
+Conclusions:
+I. Some March being April is a possibility.
+II. All January being April is a possibility.
+
+a) Only conclusion I follows
+b) Only conclusion II follows
+c) Both I and II follow
+d) Neither I nor II follows
+Answer: b
+
+29.
+Statements:
+Some North are South.
+All South are East.
+Only a few East are West.
+
+Conclusions:
+I. All North being East is a possibility.
+II. Some South can be West.
+
+a) Only conclusion I follows
+b) Only conclusion II follows
+c) Both I and II follow
+d) Neither I nor II follows
+Answer: c
+
+30.
+Statements:
+No Cat is a Dog.
+Only a few Dogs are Rats.
+All Rats are Rabbits.
+
+Conclusions:
+I. Some Rabbits are not Cats.
+II. All Dogs can be Rabbits.
+
+a) Only conclusion I follows
+b) Only conclusion II follows
+c) Both I and II follow
+d) Neither I nor II follows
+Answer: c
+
+31.
+Statements:
+All Fruits are Vegetables.
+No Vegetable is a Grain.
+All Grains are Pulses.
+
+Conclusions:
+I. No Fruit is a Grain.
+II. Some Pulses are not Vegetables.
+
+a) Only conclusion I follows
+b) Only conclusion II follows
+c) Both I and II follow
+d) Neither I nor II follows
+Answer: c
+
+32.
+Statements:
+Only a few Scripts are Plays.
+All Plays are Dramas.
+No Drama is a Movie.
+
+Conclusions:
+I. Some Scripts are not Movies.
+II. All Scripts can never be Plays.
+
+a) Only conclusion I follows
+b) Only conclusion II follows
+c) Both I and II follow
+d) Neither I nor II follows
+Answer: c
+
+33.
+Statements:
+Only Rooms are Halls.
+Some Rooms are Kitchens.
+No Kitchen is a Balcony.
+
+Conclusions:
+I. All Halls can be Kitchens.
+II. Some Rooms are not Balconies.
+
+a) Only conclusion I follows
+b) Only conclusion II follows
+c) Both I and II follow
+d) Neither I nor II follows
+Answer: b
+
+34.
+Statements:
+All Bottles are Jars.
+Only a few Jars are Cans.
+All Cans are Tins.
+
+Conclusions:
+I. Some Bottles are Cans.
+II. All Jars being Tins is a possibility.
+
+a) Only conclusion I follows
+b) Only conclusion II follows
+c) Both I and II follow
+d) Neither I nor II follows
+Answer: b
+
+35.
+Statements:
+Some Lions are Tigers.
+All Tigers are Leopards.
+No Leopard is a Cheetah.
+
+Conclusions:
+I. Some Lions are not Cheetahs.
+II. No Tiger is a Cheetah.
+
+a) Only conclusion I follows
+b) Only conclusion II follows
+c) Both I and II follow
+d) Neither I nor II follows
+Answer: c
+
+36.
+Statements:
+Only a few One are Two.
+All Two are Three.
+Some Three are Four.
+
+Conclusions:
+I. All One being Three is a possibility.
+II. Some One are not Two.
+
+a) Only conclusion I follows
+b) Only conclusion II follows
+c) Both I and II follow
+d) Neither I nor II follows
+Answer: c
+
+37.
+Statements:
+No Week is a Month.
+All Months are Years.
+Only a few Years are Decades.
+
+Conclusions:
+I. Some Years are not Weeks.
+II. All Decades can be Months.
+
+a) Only conclusion I follows
+b) Only conclusion II follows
+c) Both I and II follow
+d) Neither I nor II follows
+Answer: a
+
+38.
+Statements:
+Only a few Jackets are Coats.
+No Coat is a Shirt.
+All Shirts are Trousers.
+
+Conclusions:
+I. Some Jackets are not Shirts.
+II. All Trousers being Coats is a possibility.
+
+a) Only conclusion I follows
+b) Only conclusion II follows
+c) Both I and II follow
+d) Neither I nor II follows
+Answer: a
+
+39.
+Statements:
+All Wood are Furniture.
+Only Furniture are Steel.
+Some Furniture are Plastic.
+
+Conclusions:
+I. Some Wood can be Plastic.
+II. No Steel is Wood.
+
+a) Only conclusion I follows
+b) Only conclusion II follows
+c) Both I and II follow
+d) Neither I nor II follows
+Answer: a
+
+40.
+Statements:
+Some Circles are Ovals.
+All Ovals are Ellipses.
+Only a few Ellipses are Polygons.
+
+Conclusions:
+I. Some Circles are Ellipses.
+II. All Polygons being Ovals is a possibility.
+
+a) Only conclusion I follows
+b) Only conclusion II follows
+c) Both I and II follow
+d) Neither I nor II follows
+Answer: c
+
+41.
+Statements:
+No Country is a Continent.
+All Continents are Oceans.
+Only Oceans are Planets.
+
+Conclusions:
+I. Some Oceans are not Countries.
+II. No Planet is a Country.
+
+a) Only conclusion I follows
+b) Only conclusion II follows
+c) Both I and II follow
+d) Neither I nor II follows
+Answer: c
+
+42.
+Statements:
+All Actors are Dancers.
+Only a few Dancers are Singers.
+No Singer is a Musician.
+
+Conclusions:
+I. Some Dancers are not Singers.
+II. Some Actors being Singers is a possibility.
+
+a) Only conclusion I follows
+b) Only conclusion II follows
+c) Both I and II follow
+d) Neither I nor II follows
+Answer: c
+
+43.
+Statements:
+Only a few Cakes are Pastries.
+All Pastries are Sweets.
+Some Sweets are Chocolates.
+
+Conclusions:
+I. All Cakes being Sweets is a possibility.
+II. Some Pastries are Chocolates.
+
+a) Only conclusion I follows
+b) Only conclusion II follows
+c) Both I and II follow
+d) Neither I nor II follows
+Answer: a
+
+44.
+Statements:
+No India is a Japan.
+All Japan are China.
+Only a few China are Russia.
+
+Conclusions:
+I. Some China are not India.
+II. All Russia being Japan is a possibility.
+
+a) Only conclusion I follows
+b) Only conclusion II follows
+c) Both I and II follow
+d) Neither I nor II follows
+Answer: c
+
+45.
+Statements:
+Only a few Summers are Winters.
+No Winter is a Spring.
+All Springs are Autumns.
+
+Conclusions:
+I. All Summers can never be Winters.
+II. Some Autumns are not Winters.
+
+a) Only conclusion I follows
+b) Only conclusion II follows
+c) Both I and II follow
+d) Neither I nor II follows
+Answer: c
+
+46.
+Statements:
+All History are Civics.
+Only a few Civics are Geography.
+No Geography is Economics.
+
+Conclusions:
+I. Some History being Geography is a possibility.
+II. Some Civics are definitely not Economics.
+
+a) Only conclusion I follows
+b) Only conclusion II follows
+c) Both I and II follow
+d) Neither I nor II follows
+Answer: c
+
+4T7.
+Statements:
+Only Beaches are Islands.
+Some Beaches are Coasts.
+All Coasts are Shores.
+
+Conclusions:
+I. Some Shores are Beaches.
+II. All Islands can be Coasts.
+
+a) Only conclusion I follows
+b) Only conclusion II follows
+c) Both I and II follow
+d) Neither I nor II follows
+Answer: a
+
+48.
+Statements:
+No Tea is Coffee.
+All Coffee are Juices.
+Only a few Juices are Drinks.
+
+Conclusions:
+I. Some Juices are not Tea.
+II. All Drinks being Coffee is a possibility.
+
+a) Only conclusion I follows
+b) Only conclusion II follows
+c) Both I and II follow
+d) Neither I nor II follows
+Answer: c
+
+49.
+Statements:
+All Keyboards are Mouse.
+Only a few Mouse are CPUs.
+All CPUs are Monitors.
+
+Conclusions:
+I. Some Keyboards are CPUs is a possibility.
+II. All Monitors being Mouse is a possibility.
+
+a) Only conclusion I follows
+b) Only conclusion II follows
+c) Both I and II follow
+d) Neither I nor II follows
+Answer: c
+
+50.
+Statements:
+Only a few Rupees are Dollars.
+All Dollars are Euros.
+No Euro is a Yen.
+
+Conclusions:
+I. Some Rupees are not Yen.
+II. All Rupees being Dollars is not a possibility.
+
+a) Only conclusion I follows
+b) Only conclusion II follows
+c) Both I and II follow
+d) Neither I nor II follows
+Answer: c

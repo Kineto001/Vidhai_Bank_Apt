@@ -1,0 +1,220 @@
+Seating Arrangement MCQs - SBI PO/Clerk Level
+---------------------------------------------
+
+### Set 1: Questions 1-5
+
+**Directions:** Study the following information carefully and answer the questions given below.
+Eight individuals – A, B, C, D, E, F, G, and H – are seated around a circular table. Each of them works for a different company, namely P, Q, R, S, T, U, V, and W. Some are facing the center while others are facing away from it.
+
+H works for company R and faces the center. C sits third to the right of H. E sits second to the right of C. Both immediate neighbors of C face the opposite direction to C. B sits third to the left of E. Both E and C face the same direction. The person from company W is an immediate neighbor of H. The person from company U sits third to the right of the person from company W. G sits third to the right of A, who works for company T. Both immediate neighbors of A face the center. The person from company P sits second to the left of G. The person from company Q is an immediate neighbor of the person from company P and faces the center. D, who works for company V, is an immediate neighbor of A. F does not work for company W. The person from company S sits second to the right of A.
+
+**Question 1:** Who sits exactly between A and the person from company V?
+a) B
+b) The person from company U
+c) G
+d) The person from company Q
+Answer: b
+
+**Question 2:** What is the position of F with respect to the person from company P?
+a) Third to the left
+b) Second to the right
+c) Third to the right
+d) Immediate left
+Answer: a
+
+**Question 3:** Four of the following five are alike in a certain way based on the given arrangement and thus form a group. Which one does not belong to that group?
+a) A - T
+b) F - P
+c) B - W
+d) G - S
+Answer: d
+
+**Question 4:** Which of the following statements is definitively true regarding the arrangement?
+a) F faces away from the center.
+b) The person from company Q is an immediate neighbor of H.
+c) C works for company S.
+d) B sits second to the left of D.
+Answer: a
+
+**Question 5:** Who works for company U?
+a) B
+b) E
+c) F
+d) G
+Answer: c
+
+---
+
+### Set 2: Questions 6-10
+
+**Directions:** Study the following information carefully and answer the questions given below.
+Twelve people are sitting in two parallel rows containing six people each, in such a way that there is an equal distance between adjacent persons. In row 1, P, Q, R, S, T, and U are seated and all of them are facing South. In row 2, A, B, C, D, E, and F are seated and all of them are facing North. Therefore, in the given seating arrangement, each member seated in a row faces another member of the other row. Each person also likes a different flower: Rose, Lily, Tulip, Orchid, Marigold, Lotus, Sunflwr, Daisy, Jasmine, and Hibiscus (Two flowers are not assigned).
+
+The one who likes Lotus sits third to the right of S. Either S or the one who likes Lotus sits at an extreme end of the line. The one who faces S sits second to the right of E. Two people sit between B and F, neither of whom sits at an extreme end. The immediate neighbor of B faces the person who sits third to the left of P. R and T are immediate neighbors of each other. T does not face the person who likes Lotus. The one who likes Tulip faces the person who sits second to the left of A. A does not face S. The one who likes Orchid sits second to the right of the one who likes Rose. Q does not sit at an extreme end. C is an immediate neighbor of E. The person who faces T likes Daisy. The person who likes Marigold faces the person who is an immediate neighbor of U. The one who likes Sunflwr sits in the same row as P. F does not like Sunflwr. B does not like Tulip.
+
+**Question 6:** Who among the following likes Marigold?
+a) R
+b) T
+c) P
+d) S
+Answer: b
+
+**Question 7:** Who among the following faces the one who likes Sunflwr?
+a) The one who likes Daisy
+b) F
+c) The one who likes Tulip
+d) B
+Answer: c
+
+**Question 8:** Four of the following five are alike in a certain way and so form a group. Which is the one that does not belong to that group?
+a) T - Lotus
+b) U - Tulip
+c) S - Rose
+d) R - Orchid
+Answer: a
+
+**Question 9:** Which of the following statements is true regarding the arrangement?
+a) The person who likes Daisy sits at one of the extreme ends.
+b) Q sits second to the left of S.
+c) A faces the immediate neighbor of R.
+d) The person who likes Orchid faces F.
+Answer: d
+
+**Question 10:** What is the position of Q with respect to the person who likes Orchid?
+a) Third to the right
+b) Second to the left
+c) Immediate right
+d) Fourth to the left
+Answer: b
+
+---
+
+### Set 3: Questions 11-15
+
+**Directions:** Study the following information carefully and answer the questions given below.
+Eight friends – J, K, L, M, N, O, P, and Q – are sitting around a rectangular table, but not necessarily in the same order. There are ten seats on the table, so two seats are vacant. Four seats are at the corners, one on each of the two shorter sides, and two on each of the two longer sides. All are facing the center of the table.
+
+P sits on one of the shorter sides. M sits second to the left of P. L is an immediate neighbor of M. Two persons sit between L and K. J sits third to the right of K. O is an immediate neighbor of J, and O sits at one of the corners. The vacant seats are not opposite to each other. Q sits opposite to L. The seat opposite to P is not vacant. N is not an immediate neighbor of P or M. A person sitting on a shorter side is opposite to the person on the other shorter side. A person at a corner is opposite to another person at a corner diagonally. Persons on the longer side are opposite to the persons on the other longer side.
+
+**Question 11:** Who sits opposite to M?
+a) J
+b) N
+c) K
+d) A vacant seat
+Answer: d
+
+**Question 12:** What is the position of N with respect to K?
+a) Second to the left
+b) Third to the right
+c) Second to the right
+d) Immediate left
+Answer: b
+
+**Question 13:** Four of the following five are alike in a certain way based on their seating positions and so form a group. Which one does not belong to that group?
+a) O
+b) M
+c) K
+d) L
+Answer: b
+
+**Question 14:** Which of the following statements is true?
+a) K sits on a longer side.
+b) N sits between J and P.
+c) One of the vacant seats is an immediate neighbor of L.
+d) L and J are immediate neighbors.
+Answer: c
+
+**Question 15:** If all the persons are made to sit in alphabetical order in a clockwise direction starting from J, whose position will remain unchanged (excluding J)?
+a) K
+b) L
+c) O
+d) No one
+Answer: a
+
+---
+
+### Set 4: Questions 16-20
+
+**Directions:** Study the following information carefully and answer the questions given below.
+A certain number of people are sitting in a single row facing North. Information about only some of them is known.
+
+L sits fifth to the right of M. M does not sit at an extreme end. Three persons sit between L and K. K sits seventh from one of the extreme ends. The number of persons to the right of K is one more than the number of persons to the left of M. N sits exactly in the middle of K and L. O sits third to the right of N. The total number of persons in the row is an odd number. P sits fourth to the left of M.
+
+**Question 16:** How many people are sitting in the linear row?
+a) 19
+b) 23
+c) 17
+d) 21
+Answer: d
+
+**Question 17:** What is the position of O with respect to K?
+a) Second to the right
+b) Immediate left
+c) Second to the left
+d) Third to the right
+Answer: c
+
+**Question 18:** How many people are sitting between P and N?
+a) Nine
+b) Eight
+c) Ten
+d) Seven
+Answer: c
+
+**Question 19:** If X sits exactly in the middle of the row, what is the position of M with respect to X?
+a) Fifth to the left
+b) Fourth to the right
+c) Sixth to the left
+d) Fifth to the right
+Answer: a
+
+**Question 20:** Which of the following statements is true based on the final arrangement?
+a) More than 4 persons sit to the left of P.
+b) O sits third from one of the ends.
+c) The number of persons between M and N is five.
+d) P sits at one of the extreme ends.
+Answer: c
+
+---
+
+### Set 5: Questions 21-25
+
+**Directions:** Study the following information carefully and answer the questions given below.
+Eight members of a family – A, B, C, D, E, F, G, and H – are sitting around a circular table, all facing the center. The family has three generations and consists of three married couples. The number of males is equal to the number of females.
+
+C is the brother of G. G is the only daughter of F. A is the son-in-law of F. B is the child of A. D is the maternal uncle of B. H is the mother of A. E is the grandmother of B. C is not married to H. The person who is B's father sits third to the left of his mother-in-law. C sits between his mother and his sister. H sits second to the left of her son. G is not an immediate neighbor of her husband. D sits opposite his sister. B is not an immediate neighbor of their mother.
+
+**Question 21:** Who is the wife of D?
+a) H
+b) G
+c) B
+d) D is unmarried.
+Answer: a
+
+**Question 22:** How is B related to F?
+a) Grandson
+b) Granddaughter
+c) Son
+d) Cannot be determined
+Answer: d
+
+**Question 23:** Who sits third to the right of E?
+a) C
+b) The wife of A
+c) B's paternal grandmother
+d) D
+Answer: b
+
+**Question 24:** Four of the following five are alike in a certain way and so form a group. Which is the one that does not belong to that group?
+a) E
+b) F
+c) H
+d) B
+Answer: d
+
+**Question 25:** Which of the following statements is definitely false?
+a) B sits opposite to their uncle.
+b) E and F are immediate neighbors.
+c) A's mother and A's father-in-law are immediate neighbors.
+d) The two grandmothers of B are sitting opposite to each other.
+Answer: a

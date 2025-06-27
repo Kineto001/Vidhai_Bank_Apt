@@ -1,0 +1,391 @@
+**SBI PO/CLERK LEVEL - APTITUDE QUESTIONS**
+**OVERALL TOPIC: RANKING/DIRECTION/ALPHABET TEST**
+
+***
+
+### Ranking Test Questions
+
+**Directions (1-4): Study the following information carefully and answer the questions given below.**
+
+Seven friends, P, Q, R, S, T, U, and V, have different heights. T is taller than only three people. S is taller than V but shorter than R. Q is taller than P but shorter than U. R is not the tallest. V is not the shortest. U is taller than R.
+
+1. Who is the tallest among all the friends?
+a) R
+b) U
+c) S
+d) Cannot be determined
+Answer: b
+
+2. How many people are taller than S?
+a) Two
+b) Three
+c) Four
+d) One
+Answer: b
+
+3. Who is the third shortest person?
+a) V
+b) S
+c) T
+d) P
+Answer: b
+
+4. If the height of T is 168 cm and the height of V is 162 cm, what could be the possible height of P?
+a) 169 cm
+b) 163 cm
+c) 160 cm
+d) 170 cm
+Answer: c
+
+**Directions (5-7): Study the following information carefully and answer the questions given below.**
+
+In a class of 45 students, Rohan's rank from the top is 15th. Anuj is seven ranks below Rohan.
+
+5. What is Anuj's rank from the bottom?
+a) 23rd
+b) 24th
+c) 25th
+d) 22nd
+Answer: b
+
+6. If another student, Priya, is exactly in the middle of Rohan and Anuj in rank, what is Priya's rank from the top?
+a) 18th
+b) 19th
+c) 20th
+d) 17th
+Answer: b
+
+7. How many students are ranked between Anuj and the student who ranked last?
+a) 21
+b) 22
+c) 23
+d) 24
+Answer: b
+
+8. In a row of people, Karan is 18th from the left end and Muskan is 25th from the right end. If they interchange their positions, Karan becomes 30th from the left end. What is the total number of people in the row?
+a) 54
+b) 55
+c) 53
+d) 52
+Answer: a
+
+9. In the same row mentioned in the question above (Q8), what is Muskan's new position from the right end after interchanging?
+a) 35th
+b) 36th
+c) 37th
+d) 38th
+Answer: c
+
+10. A, B, C, D, and E are five employees who receive different salaries. C receives more salary than only D. E's salary is less than A's but more than B's. A does not receive the highest salary. Who receives the second-highest salary?
+a) A
+b) B
+c) E
+d) Cannot be determined
+Answer: c
+
+11. Among six products L, M, N, O, P and Q, each has a different price. The price of P is more than O but less than N. The price of L is more than N and M. The price of Q is less than only L. The price of O is not the lowest. Which product has the third-lowest price?
+a) O
+b) P
+c) M
+d) N
+Answer: b
+
+12. In a queue, Sumit is 14th from the front and Jack is 17th from the end, while Mary is exactly between Sumit and Jack. If Sumit is ahead of Jack and there are 48 persons in the queue, how many persons are there between Sumit and Mary?
+a) 8
+b) 7
+c) 6
+d) 5
+Answer: d
+
+13. Six boxes (A, B, C, D, E, F) are stacked one above another. Box D is immediately below Box F. Only two boxes are between D and A. Only one box is between A and B. Box C is above Box E, but not at the top. If Box B is not at the bottom, which box is at the bottom?
+a) E
+b) C
+c) A
+d) B
+Answer: a
+
+14. In a sports ranking, Ajay is 5 places ahead of Bipin. If Bipin's rank is 19th from the last, and there are 35 participants in total, what is Ajay's rank from the top?
+a) 12th
+b) 13th
+c) 14th
+d) 15th
+Answer: a
+
+15. In a row of 30 children facing North, R is 4th to the right of P, who is 10th from the left end. Q is 6th to the left of R. What is Q's position from the right end?
+a) 22nd
+b) 23rd
+c) 24th
+d) 21st
+Answer: b
+
+16. Five people, Varun, Kartik, Sid, Alia, and Kiara, have different weights. Kartik is heavier than only two people. Varun is heavier than Sid but lighter than Kiara. Alia is the heaviest. Sid is not the lightest. Who is the lightest?
+a) Varun
+b) Sid
+c) Kiara
+d) The person whose name is not given
+Answer: d
+
+17. If a class of students can be arranged in rows of 3, 5, and 8 with no student left, what is the minimum number of students in the class?
+a) 60
+b) 90
+c) 120
+d) 150
+Answer: c
+
+***
+
+### Direction Sense Test Questions
+
+**Directions (18-21): Study the following information carefully and answer the questions given below.**
+
+The following codes are used to denote directions between two points:
+'P @ Q' means 'P is 8m North of Q'.
+'P # Q' means 'P is 6m South of Q'.
+'P $ Q' means 'P is 10m East of Q'.
+'P % Q' means 'P is 4m West of Q'.
+
+A series of points are given as: G % H, J @ H, K $ J, L # K, M % L.
+
+18. What is the shortest distance between point J and point L?
+a) 10m
+b) 2√41 m
+c) 2√43 m
+d) 12m
+Answer: b
+
+19. In which direction is point M with respect to point H?
+a) North-East
+b) South-West
+c) South-East
+d) North-West
+Answer: c
+
+20. If a point X is exactly in the middle of J and K, what is the direction of X with respect to H?
+a) North-East
+b) North
+c) East
+d) North-West
+Answer: a
+
+21. What is the total distance covered if a person walks from G to H, then to J, and finally to K?
+a) 22m
+b) 20m
+c) 24m
+d) 18m
+Answer: a
+
+22. A man starts from point A, walks 10 km towards the East to reach point B. He then takes a right turn and walks 3 km to reach point C. He then takes another right turn and walks 14 km to reach point D. What is the shortest distance between his starting point A and final point D?
+a) 4 km
+b) 5 km
+c) 6 km
+d) 7 km
+Answer: b
+
+23. Rahul starts walking from his house. He walks 5 km North, then turns 135° clockwise and walks 10 km. After that, he turns South and walks 5√2 km. In which direction is he from his starting point?
+a) East
+b) South-East
+c) North-East
+d) West
+Answer: b
+
+24. A pole is situated at a crossing. In the morning, due to sunlight, its shadow was falling towards the west. If a person is coming from the opposite direction of the shadow, from which direction is he coming?
+a) West
+b) East
+c) North
+d) South
+Answer: a
+
+25. Point R is 10 m north of point Q. Point P is 15 m west of point Q. Point S is 20 m south of point P. Point T is 20 m east of point S. What is the direction of point T with respect to point R?
+a) South
+b) South-East
+c) South-West
+d) East
+Answer: c
+
+26. A person is facing North-West. He turns 90° in the clockwise direction, then 180° in the anti-clockwise direction and then another 90° in the same anti-clockwise direction. Which direction is he facing now?
+a) South-West
+b) West
+c) South
+d) South-East
+Answer: d
+
+27. A river flows from West to East. On the way, it turns left and goes in a semi-circle around a hillock, and then turns left at a right angle. In which direction is the river finally flowing?
+a) West
+b) East
+c) North
+d) South
+Answer: d
+
+28. Point A is 5m to the east of Point B. Point C is 8m to the south of Point A. Point D is 4m to the west of Point C. Point E is 4m to the north of Point D. Point F is 1m to the west of Point E. Which three points lie in a straight line?
+a) B, E, F
+b) A, C, D
+c) B, D, F
+d) A, E, F
+Answer: a
+
+29. A delivery boy starts from his office, goes 8 km straight towards East. He turns left and goes 5 km. Then he turns right and goes 4 km. Finally, he turns right and goes 5 km. How far is he from his office?
+a) 10 km
+b) 12 km
+c) 13 km
+d) 15 km
+Answer: b
+
+30. My house is to the South of the market, and the post office is to the East of my house. The distance of the market from the post office is exactly the same as the distance of my house from the market. In which direction is the post office situated with respect to the market?
+a) South-East
+b) North-East
+c) South-West
+d) North-West
+Answer: a
+
+31. A watch reads 4:30. If the minute hand points East, in which direction will the hour hand point?
+a) North-East
+b) South-East
+c) North
+d) North-West
+Answer: a
+
+32. Two cars start from the same point. Car X travels 10 km North, then turns right and travels 12 km. Car Y travels 5 km South, then turns right and travels 12 km. What is the shortest distance between the final positions of the two cars?
+a) 15 km
+b) 20 km
+c) 25 km
+d) 17 km
+Answer: a
+
+33. A person starts from point P and walks 5m towards East. He takes a right turn and walks for 10m. He again takes a right turn and walks for 15m. He then takes a left turn and walks for 5m to reach point Q. What is the direction of his starting point P with respect to his ending point Q?
+a) North-East
+b) North-West
+c) South-East
+d) South-West
+Answer: a
+
+34. A and B are standing at a distance of 20 km from each other on a straight East-West road. A and B start walking simultaneously, eastwards and westwards respectively, and both cover a distance of 5 km. Then A turns to his left and walks 10 km. B turns to his right and walks 10 km at the same speed. What is the distance between them?
+a) 10 km
+b) 5 km
+c) 15 km
+d) 20 km
+Answer: d
+
+***
+
+### Alphabet & Mixed Series Test Questions
+
+**Directions (35-38): Refer to the following alpha-numeric-symbol series and answer the questions given below.**
+
+R & 4 A J K 7 % P T Q © 9 1 E U # 5 I O 2 B @ 6 G * H 3
+
+35. If all the symbols are dropped from the series, which element will be 5th to the left of the 15th element from the left end?
+a) Q
+b) P
+c) T
+d) 7
+Answer: c
+
+36. How many such consonants are there in the above arrangement, each of which is immediately preceded by a number and immediately followed by a vowel?
+a) None
+b) One
+c) Two
+d) Three
+Answer: b
+
+37. What should come in place of the question mark (?) in the following series based on the above arrangement?
+4JK, %TQ, 9EU, ?
+a) 5OB
+b) #I2
+c) IO@
+d) 5IB
+Answer: d
+
+38. Four of the following five are alike in a certain way based on their positions in the above arrangement and so form a group. Which is the one that does not belong to that group?
+a) A K &
+b) T Q %
+c) 1 E ©
+d) I 2 #
+Answer: d
+
+39. How many pairs of letters are there in the word "CORPORATE" which have as many letters between them in the word as in the English alphabet (in both forward and backward directions)?
+a) Two
+b) Three
+c) Four
+d) More than four
+Answer: d
+
+40. If it is possible to make only one meaningful English word with the first, fourth, seventh, and ninth letters of the word "STREAMLINE", which of the following will be the third letter of that word? If more than one such word can be formed, give 'X' as the answer. If no such word can be formed, give 'Y' as the answer.
+a) M
+b) L
+c) X
+d) T
+Answer: c
+
+41. If in the word "DOCUMENT", all the vowels are changed to the next letter in the English alphabet and all the consonants are changed to the previous letter in the English alphabet, how many vowels will be there in the new arrangement?
+a) None
+b) One
+c) Two
+d) Three
+Answer: b
+
+42. Arrange the letters of the word "VICTORY" in alphabetical order. How many letters will remain in their original positions?
+a) None
+b) One
+c) Two
+d) Three
+Answer: b
+
+**Directions (43-45): The following questions are based on the five three-digit numbers given below.**
+
+482   693   574   821   935
+
+43. If the first and third digits of each number are interchanged, which of the following will be the second-highest number?
+a) 482
+b) 693
+c) 574
+d) 821
+Answer: a
+
+44. If all the digits in each number are arranged in descending order within the number, what will be the sum of the digits of the third-lowest number thus formed?
+a) 16
+b) 17
+c) 18
+d) 11
+Answer: a
+
+45. If '1' is subtracted from the middle digit of each number and '1' is added to the first digit of each number, which number will be the smallest?
+a) 482
+b) 693
+c) 574
+d) 821
+Answer: a
+
+46. In a certain code, 'SYSTEM' is written as 'METSYS'. How is 'ADJURE' written in that code?
+a) ERUJDA
+b) ERUDJA
+c) ERJUDJ
+d) ERUJAD
+Answer: b
+
+47. If the first half of the English alphabet is written in reverse order, which letter will be the 4th to the right of the 10th letter from the left end?
+a) F
+b) B
+c) G
+d) H
+Answer: b
+
+48. A meaningful word starting with 'A' is made from the first, second, sixth, seventh, and eighth letters of the word "DEMONSTRATION". What is the middle letter of that word?
+a) T
+b) O
+c) I
+d) N
+Answer: d
+
+49. In the number 76534218, how many digits will remain in the same position if the digits are rearranged in ascending order?
+a) None
+b) One
+c) Two
+d) Three
+Answer: c
+
+50. If every alternate letter starting from B of the English alphabet is written in small letters, and the rest are written in capital letters, how will the 5th letter to the left of the 17th letter from the left end be written?
+a) L
+b) l
+c) K
+d) k
+Answer: a

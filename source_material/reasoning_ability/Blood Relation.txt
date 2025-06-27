@@ -1,0 +1,392 @@
+**Blood Relations MCQs for SBI PO/Clerk (Difficult Level)**
+
+**Directions (1-5): Study the following information carefully and answer the questions given below.**
+In a certain code language:
+'P @ Q' means 'P is the wife of Q'.
+'P # Q' means 'P is the son of Q'.
+'P $ Q' means 'P is the sister of Q'.
+'P % Q' means 'P is the father of Q'.
+'P & Q' means 'P is the daughter of Q'.
+
+1. If the expression 'A # B $ C & D % E' is true, how is A related to E?
+a) Grandson
+b) Nephew
+c) Son-in-law
+d) Grandfather
+Answer: a
+
+2. Which of the following expressions shows that R is the maternal uncle of T?
+a) T & S # R % Q
+b) T & S $ R # Q
+c) R # Q % S & T
+d) R $ S % Q & T
+Answer: b
+
+3. If the expression 'M % N @ O # P $ Q' is true, what is the relationship between M and P?
+a) M is the paternal grandfather of P.
+b) M is the maternal grandfather of P.
+c) P is the grandson of M.
+d) P is the granddaughter of M.
+Answer: a
+
+4. From the expression 'F & G % H @ I # J', how is J related to F?
+a) Paternal Grandmother
+b) Maternal Grandmother
+c) Aunt
+d) Mother
+Answer: a
+
+5. If 'K % L & M @ N' is given, which of the following is definitely true?
+a) N is the son-in-law of K.
+b) K is the father-in-law of N.
+c) L is the sister-in-law of N.
+d) M is the daughter of K.
+Answer: b
+
+**Directions (6-10): Study the following information carefully and answer the questions given below.**
+In a certain code language:
+'A × B' means 'A is the mother of B'.
+'A ÷ B' means 'A is the brother of B'.
+'A – B' means 'A is the husband of B'.
+'A + B' means 'A is the daughter of B'.
+
+6. In the expression 'P ÷ Q – R × S + T', how is P related to T?
+a) Son-in-law
+b) Brother-in-law
+c) Son
+d) Father-in-law
+Answer: a
+
+7. Which of the following expressions indicates 'U is the paternal grandmother of W'?
+a) U × V – T ÷ W
+b) T × W + V – U
+c) V ÷ W + T – U
+d) U × T – V ÷ W
+Answer: d
+
+8. If the expression 'F + D × E ÷ G – H' is true, how is F related to G?
+a) Sister
+b) Niece
+c) Cousin
+d) Sister-in-law
+Answer: c
+
+9. If 'L – M × N ÷ O' is given, which of the following statements is not correct?
+a) O is the nephew of L.
+b) N is the son of M.
+c) L is the paternal uncle of O.
+d) M is the mother of O.
+Answer: a
+
+10. To establish that 'A is the maternal uncle of D', what should be placed in the blank in the expression: 'A ___ B × C + D'?
+a) ÷
+b) ×
+c) +
+d) –
+Answer: a
+
+**Directions (11-15): Study the following information carefully and answer the questions given below.**
+A family of eight members: J, K, L, M, N, O, P, and Q are related to each other.
+There are three married couples in the family and three generations. There are an equal number of males and females.
+K is the father-in-law of O, who is the mother of two children. P is the niece of N.
+L is the mother of N. J is the grandmother of P. N is the son of M.
+Q is the son of K and is unmarried. J is not the mother of N. M is a male.
+
+11. How is N related to O?
+a) Brother
+b) Father
+c) Brother-in-law
+d) Son-in-law
+Answer: c
+
+12. Who is the husband of O?
+a) N
+b) M
+c) K
+d) Cannot be determined
+Answer: b
+
+13. How many female members are there in the last generation?
+a) One
+b) Two
+c) Three
+d) Zero
+Answer: a
+
+14. Who among the following is the wife of K?
+a) O
+b) L
+c) P
+d) J
+Answer: d
+
+15. Which of the following is one of the married couples?
+a) N and L
+b) M and O
+c) K and L
+d) Q and P
+Answer: b
+
+**Directions (16-20): Study the following information carefully and answer the questions given below.**
+In a family of nine members – A, B, C, D, E, F, G, H, and I – there are four females.
+G is the daughter of A. B is the son of C. F is the mother of H. D is the mother-in-law of A.
+C is the brother of G and son of A. I is the son of F.
+E is the wife of C. H is the sister of I. A is a male.
+
+16. Who is the husband of D?
+a) B's grandfather
+b) C's father
+c) G's grandfather
+d) F's father-in-law
+Answer: a
+
+17. How is H related to G?
+a) Sister
+b) Niece
+c) Daughter
+d) Cousin
+Answer: b
+
+18. Who among the following is the paternal grandmother of B?
+a) D
+b) F
+c) E
+d) G
+Answer: a
+
+19. How is A related to F?
+a) Brother
+b) Father
+c) Brother-in-law
+d) Son-in-law
+Answer: d
+
+20. Which group represents the four female members of the family?
+a) D, E, G, H
+b) D, E, F, I
+c) D, F, G, H
+d) E, F, G, H
+Answer: a
+
+**Directions (21-25): Study the following information carefully and answer the questions given below.**
+'P # Q' means 'P is the son of Q'.
+'P @ Q' means 'P is the mother of Q'.
+'P & Q' means 'P is the wife of Q'.
+'P % Q' means 'P is the sister of Q'.
+
+21. If 'A # B & C @ D % E' is true, how is C related to A's father?
+a) Father
+b) Grandfather
+c) Husband
+d) Son
+Answer: c
+
+22. Which of the following shows that 'R is the paternal aunt of S'?
+a) S # T & U % R
+b) R % Q # P & S
+c) S # P & Q % R
+d) R % P # Q & T # S
+Answer: c
+
+23. If 'G % H # I & J @ K' is given, how is K related to H?
+a) Son
+b) Daughter
+c) Grandson
+d) Granddaughter
+Answer: d
+
+24. What should come in the place of the question mark (?) to establish that M is the nephew of O in the expression 'M # N % O ? P'?
+a) &
+b) #
+c) @
+d) %
+Answer: d
+
+25. From the expression 'X & Y # Z @ W', if W is the husband of V, how is Y related to V?
+a) Father-in-law
+b) Brother-in-law
+c) Son-in-law
+d) Nephew
+Answer: a
+
+26. Pointing to a man, a woman said, "His mother is the only daughter of my mother." How is the woman related to the man?
+a) Mother
+b) Sister
+c) Grandmother
+d) Aunt
+Answer: a
+
+27. Pointing to a photograph, Rohan said, "She is the daughter of the son of my grandfather's only son." How is Rohan related to the girl in the photograph?
+a) Father
+b) Brother
+c) Cousin
+d) Uncle
+Answer: b
+
+28. Introducing a boy, a girl said, "His mother's husband is the only son of my maternal grandmother." How is the girl related to the boy?
+a) Mother
+b) Sister
+c) Aunt
+d) Cousin
+Answer: d
+
+29. Looking at a portrait of a man, Harsh said, "His mother is the wife of my father's son. I have no brothers or sisters." At whose portrait was Harsh looking?
+a) His son
+b) His cousin
+c) His uncle
+d) His nephew
+Answer: a
+
+30. Pointing to a lady, a man said, "The son of her only brother is the brother of my wife." How is the lady related to the man?
+a) Mother's sister
+b) Grandmother
+c) Mother-in-law
+d) Sister of father-in-law
+Answer: d
+
+31. If A is the brother of B, C is the sister of A, D is the brother of E, and E is the daughter of B, then who is the uncle of D?
+a) A
+b) B
+c) C
+d) E
+Answer: a
+
+32. Deepak is the brother of Ravi. Rekha is the sister of Atul. Ravi is the son of Rekha. How is Deepak related to Rekha?
+a) Son
+b) Brother
+c) Nephew
+d) Father
+Answer: a
+
+33. V is the husband of U. W is the daughter of V. X is the husband of W. Y is the daughter of X. How is Y related to V?
+a) Granddaughter
+b) Niece
+c) Daughter
+d) Sister
+Answer: a
+
+34. A is B's wife's husband's brother. C and D are sisters of B. How is A related to C?
+a) Brother
+b) Cousin
+c) Uncle
+d) Son-in-law
+Answer: a
+
+35. M is the father of N who is the son of V. In order to know the relation of M to P, which of the following statements is necessary?
+a) P is the sister of V.
+b) N is the brother of P.
+c) P is the daughter of V.
+d) V is the wife of M.
+Answer: c
+
+36. Pointing towards a person, a man said to a woman, "His mother is the only daughter of your father." How is the woman related to that person?
+a) Daughter
+b) Sister
+c) Mother
+d) Wife
+Answer: c
+
+37. A is the father of C, but C is not his son. E is the daughter of C. D is the spouse of A. B is the brother of C. F is the son of B. G is the spouse of B. H is the father of G. Who is the paternal grandfather of F?
+a) A
+b) C
+c) H
+d) B
+Answer: a
+
+38. Based on the information from question 37, who is the grandmother of E?
+a) G
+b) H
+c) D
+d) A
+Answer: c
+
+39. Pointing to a photograph, a woman says, "This man's son's sister is my mother-in-law." How is the woman's husband related to the man in the photograph?
+a) Son
+b) Grandson
+c) Nephew
+d) Son-in-law
+Answer: b
+
+40. S is the mother of T. T is the husband of J. K is the only son of J. L is the brother of K. How is S related to L?
+a) Mother
+b) Aunt
+c) Paternal Grandmother
+d) Maternal Grandmother
+Answer: c
+
+**Directions (41-45): Study the following information carefully and answer the questions given below.**
+There are eight members in a three-generation family - P, Q, R, S, T, U, V, and W.
+S is the mother-in-law of T, who is the wife of R.
+Q is the brother of R. W and R are children of V.
+P is the father of Q. U is the grandson of P.
+W is unmarried. V has only one son.
+
+41. How is W related to T?
+a) Sister-in-law
+b) Sister
+c) Aunt
+d) Mother-in-law
+Answer: a
+
+42. How is U related to R?
+a) Son
+b) Nephew
+c) Brother
+d) Uncle
+Answer: b
+
+43. Who is the grandmother of U?
+a) S
+b) T
+c) V
+d) W
+Answer: c
+
+44. Who among the following is the father of R?
+a) U
+b) P
+c) S
+d) Q
+Answer: b
+
+45. Which of the following statements is definitely false?
+a) S is the mother of W.
+b) T is the mother of U.
+c) P is the husband of V.
+d) Q is the father of U.
+Answer: a
+
+46. X is the sister of Y. Y is the daughter of M. M is the mother of P. P is the brother of Y. Z is the brother of X. How is Z related to P?
+a) Brother
+b) Uncle
+c) Father
+d) Cousin
+Answer: a
+
+47. A and B are sisters. R and S are brothers. A's daughter is R's sister. What is B's relation to S?
+a) Mother
+b) Grandmother
+c) Sister
+d) Aunt
+Answer: d
+
+48. A woman walking with a boy meets another woman and on being asked about her relationship with the boy, she says, "My maternal uncle and his maternal uncle's maternal uncle are brothers." How is the boy related to the woman?
+a) Husband
+b) Brother-in-law
+c) Son
+d) Grandson
+Answer: c
+
+49. Q's mother is the sister of P and daughter of M. S is the daughter of P and sister of T. How is M related to T?
+a) Father
+b) Grandfather
+c) Grandmother
+d) Grandfather or Grandmother
+Answer: d
+
+50. In a family, B is the husband of P. Q is the only grandson of E, who is the wife of D and mother-in-law of P. How is B related to D?
+a) Nephew
+b) Son
+c) Grandson
+d) Son-in-law
+Answer: b

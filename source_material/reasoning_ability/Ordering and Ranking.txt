@@ -1,0 +1,426 @@
+Ordering_and_Ranking_MCQs_SBI_PO_Level.txt
+-------------------------------------------------
+
+**Directions (1-5): Study the following information carefully and answer the questions given below.**
+
+Seven students, A, B, C, D, E, F, and G, secured different ranks from 1 to 7 in a competitive exam. Each student is from a different city, namely Mumbai, Delhi, Kolkata, Chennai, Pune, Bengaluru, and Hyderabad, but not necessarily in the same order.
+
+The student from Pune secured the 4th rank. D secured the 2nd rank and is not from Delhi. The student who secured the 7th rank is from Hyderabad. A is from Kolkata, and his rank is immediately better than E's rank. C's rank is better than the rank of the student from Delhi. F is from Mumbai, and his rank is not the 3rd. B's rank is somewhere between the rank of the student from Pune and F's rank. The student from Bengaluru secured a better rank than the student from Chennai. G is not from Delhi.
+
+1.  Who secured the 1st rank?
+    a) A
+    b) C
+    c) G
+    d) The student from Delhi
+    Answer: b
+
+2.  B is from which of the following cities?
+    a) Chennai
+    b) Bengaluru
+    c) Delhi
+    d) Pune
+    Answer: c
+
+3.  What is the rank of the student from Mumbai?
+    a) 5th
+    b) 3rd
+    c) 6th
+    d) 1st
+    Answer: c
+
+4.  Which of the following combinations of Student-Rank-City is correct?
+    a) G - 1 - Bengaluru
+    b) E - 4 - Pune
+    c) D - 2 - Delhi
+    d) B - 5 - Chennai
+    Answer: b
+
+5.  Four of the following five are alike in a certain way and thus form a group. Which is the one that does not belong to that group?
+    a) C - Bengaluru
+    b) D - Rank 2
+    c) A - Kolkata
+    d) F - Rank 6
+    Answer: b
+
+---
+
+**Directions (6-10): Study the following information carefully and answer the questions given below.**
+
+Eight boxes – P, Q, R, S, T, U, V, and W – are stacked one above the other, but not necessarily in the same order. Each box is of a different color: Red, Blue, Green, Yellow, Black, White, Orange, and Pink.
+
+Box R is placed three positions above the Yellow box. The number of boxes kept above Box R is the same as the number of boxes kept below the Pink box. Only one box is placed between the Yellow box and the Pink box. Box V is Black in color and is placed immediately above Box S. The Green box is placed immediately below Box U, and it is revealed that Box S is the Green box. Box Q is Red, and there are two boxes between Box Q and the Green box. Box P is the Orange box. The Blue box is not placed at the bottom-most position. Box W is placed somewhere below Box T.
+
+6.  Which box is placed at the top-most position?
+    a) R
+    b) T
+    c) U
+    d) Q
+    Answer: d
+
+7.  What is the color of Box R?
+    a) Blue
+    b) White
+    c) Pink
+    d) Cannot be determined
+    Answer: b
+
+8.  Which of the following statements is true regarding the arrangement?
+    a) Box T is placed at the 4th position and is Yellow.
+    b) Box P is placed at the bottom-most position.
+    c) The White box is placed exactly between Box Q and Box V.
+    d) Box W is the Pink box.
+    Answer: b
+
+9.  How many boxes are placed between the Black box and the Orange box?
+    a) Two
+    b) Three
+    c) Four
+    d) Five
+    Answer: c
+
+10. If Box T is the Yellow box, which box is the Pink box?
+    a) W
+    b) P
+    c) The box at position 3
+    d) The box at position 2
+    Answer: d
+
+---
+
+**Directions (11-15): Study the following information carefully and answer the questions given below.**
+
+Six friends, L, M, N, O, P, and Q, each have a different weight. O is heavier than P but lighter than M. L is heavier than Q. N is lighter than only one person. The person who is the third heaviest weighs 75 kg. P is not the lightest among all. The weight of Q is 50 kg. The difference between the weights of N and O is 13 kg, and N is heavier than O. M is not the heaviest.
+
+11. Who among the following is the heaviest?
+    a) O
+    b) M
+    c) L
+    d) N
+    Answer: c
+
+12. What is the possible weight of N?
+    a) 74 kg
+    b) 86 kg
+    c) 61 kg
+    d) 89 kg
+    Answer: d
+
+13. Who is the fourth lightest person among the friends?
+    a) M
+    b) O
+    c) P
+    d) L
+    Answer: a
+
+14. How many people are lighter than M?
+    a) One
+    b) Two
+    c) Three
+    d) Four
+    Answer: c
+
+15. If the weight of P is 68 kg, what could be a possible weight for O?
+    a) 65 kg
+    b) 69 kg
+    c) 80 kg
+    d) 76 kg
+    Answer: b
+
+---
+
+**Directions (16-20): Study the following information carefully and answer the questions given below.**
+
+Seven individuals, P, Q, R, S, T, U, and V, attend a seminar on seven different days of the same week, starting from Monday and ending on Sunday. They are all in different professions: Doctor, Engineer, Teacher, Lawyer, Architect, Banker, and Pilot.
+
+The Teacher attends the seminar on Thursday. Only one person attends between the Teacher and the Architect. P attends three days after the Architect. The number of people attending before P is the same as the number of people attending after the Doctor. The Pilot attends immediately before the Lawyer. U is the Banker and attends on Tuesday. Q attends the seminar before T but after R. The Engineer does not attend on Monday. V is not the Architect.
+
+16. Who is the Engineer?
+    a) P
+    b) S
+    c) V
+    d) R
+    Answer: b
+
+17. On which day does the Pilot attend the seminar?
+    a) Friday
+    b) Wednesday
+    c) Saturday
+    d) Monday
+    Answer: a
+
+18. Which of the following combinations is correct?
+    a) R - Friday - Lawyer
+    b) V - Saturday - Pilot
+    c) P - Sunday - Doctor
+    d) T - Wednesday - Engineer
+    Answer: c
+
+19. Who attends the seminar immediately before U?
+    a) The Lawyer
+    b) The Pilot
+    c) R
+    d) V
+    Answer: c
+
+20. Four of the following five are alike in a certain way based on the given arrangement and thus form a group. Which is the one that does not belong to that group?
+    a) R - Tuesday
+    b) S - Wednesday
+    c) V - Friday
+    d) T - Sunday
+    Answer: a
+
+---
+
+**Directions (21-25): Study the following information carefully and answer the questions given below.**
+
+Eight people—A, B, C, D, E, F, G, and H—are sitting in a straight line facing north. Each of them has a different age: 14, 16, 17, 19, 21, 23, 26, and 31, but not necessarily in the same order.
+
+G sits third to the right of the person whose age is 17. The person whose age is 17 does not sit at the extreme ends. C's age is 31, and he sits third to the left of the one who is sitting at the extreme right end. A's age is 16, and he is an immediate neighbor of C. The one whose age is 19 sits second to the left of A. B sits second to the right of H. The difference between the ages of D and F is 2 years. E is younger than B. The person whose age is 23 sits to the immediate left of the one whose age is 14.
+
+21. What is the age of the person sitting at the extreme left end?
+    a) 19
+    b) 21
+    c) 26
+    d) 23
+    Answer: d
+
+22. Who sits exactly between A and the person whose age is 26?
+    a) The one whose age is 17
+    b) H
+    c) B
+    d) The one whose age is 19
+    Answer: a
+
+23. What is the sum of the ages of the immediate neighbors of B?
+    a) 37
+    b) 43
+    c) 40
+    d) 47
+    Answer: b
+
+24. Which of the following statements is true?
+    a) H's age is 17 and he sits third from the right end.
+    b) The person with age 21 sits at an extreme end.
+    c) D sits second to the left of G.
+    d) B's age is 26.
+    Answer: d
+
+25. Who among the following is 19 years old?
+    a) H
+    b) F
+    c) D
+    d) E
+    Answer: a
+
+---
+
+**Directions (26-30): Study the following information carefully and answer the questions given below.**
+
+Six products, J, K, L, M, N, and O, are delivered on six different dates of the same month: 4th, 7th, 11th, 16th, 19th, and 22nd. Each product has a different price: ₹1500, ₹2000, ₹2800, ₹3500, ₹4000, and ₹5200.
+
+The product with the price of ₹2800 is delivered on the 11th. Product K is delivered immediately after the costliest product. Only two products are delivered between Product L and the one priced at ₹2800. The product priced at ₹3500 is delivered on a date which is a perfect square. Product M's price is ₹1500, and it is delivered after Product L. The price of Product O is ₹500 more than the price of Product N. Product J is not the costliest.
+
+26. What is the price of Product L?
+    a) ₹2000
+    b) ₹4000
+    c) ₹5200
+    d) ₹3500
+    Answer: c
+
+27. On which date is Product M delivered?
+    a) 16th
+    b) 19th
+    c) 22nd
+    d) 7th
+    Answer: b
+
+28. Which product is the second costliest?
+    a) N
+    b) O
+    c) K
+    d) J
+    Answer: b
+
+29. What is the difference between the delivery dates (number only) of Product K and Product M?
+    a) 12
+    b) 9
+    c) 3
+    d) 5
+    Answer: a
+
+30. Which of the following statements is definitely false?
+    a) Product L is delivered on the 4th.
+    b) Product O's price is ₹4000.
+    c) Product J is delivered on the 22nd.
+    d) The product priced ₹2000 is delivered before the product priced ₹1500.
+    Answer: c
+
+---
+
+**Directions (31-35): Study the following information carefully and answer the questions given below.**
+
+Seven persons—M, N, O, P, Q, R, and S—live on seven different floors of a building, where the ground floor is numbered 1 and the top floor is numbered 7. Each of them bought a different car: Audi, BMW, Ford, Honda, Kia, Tata, and Volvo.
+
+R lives on an odd-numbered floor but not on the ground floor. The one who bought the Kia lives on a floor immediately above R. Only two people live between the one who bought the Kia and the one who bought the Audi. S lives on an even-numbered floor above the one who bought the Audi. The number of people living above S is equal to the number of people living below the one who bought the Honda. Q bought the Tata and lives on an odd-numbered floor immediately below P. M lives on a floor immediately above N. O did not buy the Ford. The one who bought the BMW lives on an even-numbered floor below the one who bought the Ford.
+
+31. Who lives on the 4th floor?
+    a) P
+    b) S
+    c) The one who bought the Ford
+    d) The one who bought the BMW
+    Answer: d
+
+32. Which car did P buy?
+    a) Ford
+    b) Volvo
+    c) Audi
+    d) BMW
+    Answer: a
+
+33. How many people live between M and the one who bought the Volvo?
+    a) None
+    b) One
+    c) Two
+    d) Three
+    Answer: b
+
+34. Which of the following combinations is correct?
+    a) M - Floor 5 - Kia
+    b) S - Floor 6 - BMW
+    c) O - Floor 7 - Volvo
+    d) P - Floor 2 - Ford
+    Answer: c
+
+35. If all the persons are arranged in alphabetical order from top to bottom, who will remain on the same floor?
+    a) S
+    b) P
+    c) O
+    d) No one
+    Answer: a
+
+---
+
+**Directions (36-40): Study the following information carefully and answer the questions given below.**
+
+In a class of six students—P, Q, R, S, T, and U—each scored different marks in a test. R scored more marks than T but fewer marks than S. Q scored more marks than only U. The one who scored the second-highest marks got 92, and the one who scored the third-lowest marks got 65. P did not score the highest marks. T's score was not 65.
+
+36. Who scored the highest marks?
+    a) P
+    b) R
+    c) S
+    d) Cannot be determined
+    Answer: c
+
+37. What could be the possible marks of R?
+    a) 95
+    b) 64
+    c) 91
+    d) 66
+    Answer: d
+
+38. Who scored the second-lowest marks?
+    a) U
+    b) Q
+    c) T
+    d) P
+    Answer: b
+
+39. If the difference between the marks of P and T is 10, and P scored more than T, what is the score of P?
+    a) 75
+    b) 72
+    c) 90
+    d) 82
+    Answer: a
+
+40. Which statement is definitely true based on the given information?
+    a) U scored the lowest marks.
+    b) P scored more marks than Q.
+    c) The difference between S's and P's marks is less than 5.
+    d) R scored more marks than P.
+    Answer: a
+
+---
+
+**Directions (41-45): Study the following information carefully and answer the questions given below.**
+
+Eight friends, A, B, C, D, E, F, G, and H, are ranked from 1 to 8 based on their performance in a competition. Rank 1 is the highest and rank 8 is the lowest. Each of them likes a different fruit: Apple, Banana, Cherry, Mango, Guava, Orange, Papaya, and Kiwi.
+
+The one who likes Guava got an even-numbered rank but not rank 2. E's rank is two positions lower than C's rank. The one who likes Cherry got the lowest rank. D's rank is better than the rank of only two people. B likes Banana and has a rank just above D. The one who likes Mango got rank 1. A's rank is just below the one who likes Apple. F likes Kiwi, and his rank is better than B's rank but worse than G's rank. The one who likes Papaya has an odd-numbered rank. H does not like Mango.
+
+41. Who likes Papaya?
+    a) C
+    b) G
+    c) E
+    d) H
+    Answer: a
+
+42. What is the rank of F?
+    a) 2
+    b) 3
+    c) 4
+    d) 5
+    Answer: c
+
+43. Which fruit does G like?
+    a) Apple
+    b) Orange
+    c) Papaya
+    d) Guava
+    Answer: b
+
+44. Which of the following rank-person-fruit combinations is correct?
+    a) 1 - H - Mango
+    b) 5 - A - Banana
+    c) 4 - F - Kiwi
+    d) 8 - D - Cherry
+    Answer: c
+
+45. How many people have a rank between G and the one who likes Banana?
+    a) One
+    b) Two
+    c) Three
+    d) Four
+    Answer: c
+
+---
+
+**Directions (46-50): Study the following information carefully and answer the questions given below.**
+
+In a row of seven people—J, K, L, M, N, O, and P—all facing north, each has a different number of books, from 1 to 7.
+
+The person with the most books (7) sits at the extreme right end. N sits third to the left of the person with 7 books. The person with 1 book sits immediately to the right of N. K has 3 more books than J. M sits second to the right of the person with 1 book. The number of people sitting to the right of M is one less than the number of people sitting to the left of L. P sits to the immediate left of J. O has an even number of books and does not sit next to N. The person sitting at the extreme left end does not have 2 books.
+
+46. How many books does M have?
+    a) 2
+    b) 4
+    c) 5
+    d) 6
+    Answer: d
+
+47. Who sits at the extreme left end of the row?
+    a) L
+    b) K
+    c) O
+    d) P
+    Answer: a
+
+48. What is the sum of the number of books with P and O?
+    a) 7
+    b) 6
+    c) 9
+    d) 8
+    Answer: b
+
+49. Who sits exactly in the middle of the row?
+    a) The person with 1 book
+    b) N
+    c) The person with 4 books
+    d) J
+    Answer: a
+
+50. Which of the following pairs represents the immediate neighbors of the person with 5 books?
+    a) L and P
+    b) N and M
+    c) P and the person with 1 book
+    d) O and K
+    Answer: c

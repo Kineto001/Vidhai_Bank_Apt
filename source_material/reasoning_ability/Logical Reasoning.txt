@@ -1,0 +1,559 @@
+1. 
+Statements:
+Only a few Pens are Pencils.
+All Pencils are Erasers.
+Some Erasers are not Sharpeners.
+
+Conclusions:
+I. Some Pens being Sharpeners is a possibility.
+II. All Pens can be Erasers.
+
+a) Only conclusion I follows.
+b) Only conclusion II follows.
+c) Both I and II follow.
+d) Neither I nor II follows.
+
+Answer: c
+
+2. 
+Statements:
+Only Tables are Chairs.
+Some Tables are Desks.
+No Desk is a Bench.
+
+Conclusions:
+I. Some Tables are not Benches.
+II. No Chair is a Desk.
+
+a) Only conclusion I follows.
+b) Only conclusion II follows.
+c) Both I and II follow.
+d) Neither I nor II follows.
+
+Answer: c
+
+3. 
+Statements:
+Some Red are Blue.
+Only a few Blue are Green.
+All Green are Yellow.
+
+Conclusions:
+I. Some Blue are not Green.
+II. Some Red being Yellow is a possibility.
+
+a) Only conclusion I follows.
+b) Only conclusion II follows.
+c) Both I and II follow.
+d) Neither I nor II follows.
+
+Answer: c
+
+4. 
+Statements:
+No Apple is a Mango.
+Only a few Mangos are Oranges.
+Some Oranges are Grapes.
+
+Conclusions:
+I. Some Mangos are not Oranges.
+II. All Grapes can be Mangos.
+
+a) Only conclusion I follows.
+b) Only conclusion II follows.
+c) Both I and II follow.
+d) Neither I nor II follows.
+
+Answer: a
+
+5. 
+Statements:
+All Laptops are Mobiles.
+Some Mobiles are Computers.
+Only a few Computers are Tablets.
+
+Conclusions:
+I. Some Laptops being Computers is a possibility.
+II. All Mobiles can be Tablets.
+
+a) Only conclusion I follows.
+b) Only conclusion II follows.
+c) Both I and II follow.
+d) Neither I nor II follows.
+
+Answer: a
+
+6. 
+Statement: The state government has decided to provide a monthly unemployment allowance to all unemployed graduates for a period of two years to help them sustain themselves.
+
+Which of the following can be an assumption implicit in the statement?
+a) The government has sufficient funds to cover the cost of the allowance for the stipulated period.
+b) This allowance will demotivate graduates from actively seeking employment.
+c) The number of unemployed graduates will drastically decrease within two years.
+d) Other states have successfully implemented similar schemes in the past.
+
+Answer: a
+
+7. 
+Statement: A recent study shows that children who consume a high amount of sugary drinks are more prone to obesity and dental problems compared to those who have a balanced diet.
+
+Which of the following can be a valid conclusion drawn from the statement?
+a) All children who are obese consume high amounts of sugary drinks.
+b) A balanced diet is the only way to prevent obesity in children.
+c) Reducing the intake of sugary drinks may help in lowering the risk of obesity and dental issues in children.
+d) Sugary drinks are the single most significant cause of health problems in modern society.
+
+Answer: c
+
+8. 
+Statement: The city's main arterial road experiences severe traffic congestion during peak hours, causing significant delays for commuters and increasing pollution levels.
+
+Which of the following is a viable course of action to address the problem?
+a) Ban the use of all private vehicles on the arterial road permanently.
+b) Immediately start the construction of a parallel flyover, even if it causes temporary disruption.
+c) Advise all offices located along the road to declare a holiday to reduce traffic.
+d) Implement a "congestion pricing" system where vehicles entering the road during peak hours are charged a fee.
+
+Answer: d
+
+9. 
+Statement: Should India invest more in developing its renewable energy sector (like solar and wind) rather than continuing its heavy reliance on coal-based power plants?
+
+Arguments:
+I. Yes, this will reduce India's carbon footprint, combat climate change, and decrease long-term health costs associated with air pollution.
+II. No, coal is abundantly available in India and is currently the cheapest source of energy, making it crucial for the country's immediate industrial and economic growth.
+
+a) Only argument I is strong.
+b) Only argument II is strong.
+c) Both I and II are strong.
+d) Neither I nor II is strong.
+
+Answer: c
+
+10. 
+Statements:
+I. The local meteorological department has issued a high-alert for a severe cyclone expected to hit the coastal areas in the next 48 hours.
+II. The state administration has evacuated thousands of people from the low-lying coastal villages to safer shelters.
+
+a) Statement I is the cause and statement II is its effect.
+b) Statement II is the cause and statement I is its effect.
+c) Both statements I and II are independent causes.
+d) Both statements I and II are effects of some common cause.
+
+Answer: a
+
+Directions for questions 11-12: In the following questions, the relationship between different elements is shown in the statements. These statements are followed by two conclusions.
+
+11. 
+Statements:
+P > Q ≥ R = S; T < R ≤ U; V > U
+
+Conclusions:
+I. P > T
+II. V > S
+
+a) Only I is true.
+b) Only II is true.
+c) Both I and II are true.
+d) Neither I nor II is true.
+
+Answer: c
+
+12. 
+Statements:
+A ≤ B = C < D; G > F = C ≥ E
+
+Conclusions:
+I. G > A
+II. D > E
+
+a) Only I is true.
+b) Only II is true.
+c) Both I and II are true.
+d) Neither I nor II is true.
+
+Answer: b
+
+Directions for questions 13-15: In these questions, relationship between different elements is shown in the statements. The statements are followed by conclusions. Study the following information and answer the given questions.
+P @ Q means P is not smaller than Q (P ≥ Q)
+P # Q means P is not greater than Q (P ≤ Q)
+P $ Q means P is neither smaller than nor equal to Q (P > Q)
+P % Q means P is neither greater than nor equal to Q (P < Q)
+P & Q means P is neither greater than nor smaller than Q (P = Q)
+
+13. 
+Statements:
+M @ T, T $ K, K & D
+
+Conclusions:
+I. M $ D
+II. T $ D
+
+a) Only I is true.
+b) Only II is true.
+c) Both I and II are true.
+d) Neither I nor II is true.
+
+Answer: c
+
+14. 
+Statements:
+R # N, N % H, H @ J
+
+Conclusions:
+I. R % H
+II. N % J
+
+a) Only I is true.
+b) Only II is true.
+c) Both I and II are true.
+d) Neither I nor II is true.
+
+Answer: a
+
+15. 
+Statements:
+F $ B, B & W, W # L
+
+Conclusions:
+I. F $ L
+II. W % F
+
+a) Only I is true.
+b) Only II is true.
+c) Both I and II are true.
+d) Neither I nor II is true.
+
+Answer: b
+
+Directions for questions 16-18: Study the information carefully and answer the questions given below.
+There are eight members in a three-generation family: A, B, C, D, E, F, G, and H. There are three married couples in the family. C is the brother-in-law of G, who is the daughter-in-law of A. B is the father of D and the paternal grandfather of F. H is the only son of G. A has only one daughter, who is unmarried. E is the mother of C and wife of B. D is the sister of G's husband.
+
+16. How is F related to C?
+a) Son
+b) Nephew
+c) Daughter
+d) Niece
+
+Answer: b
+
+17. Who is the husband of G?
+a) A
+b) C
+c) H's father (Cannot be determined from names)
+d) Brother of D
+
+Answer: d
+
+18. How is D related to A?
+a) Granddaughter
+b) Daughter
+c) Daughter-in-law
+d) Sister
+
+Answer: b
+
+Directions for questions 19-20: Study the information carefully and answer the questions given below.
+Point A is 10m north of Point B. Point C is 8m east of Point B. Point D is 12m south of Point C. Point E is 15m west of Point D. Point F is 12m north of Point E. Point G is 7m east of Point F.
+
+19. What is the shortest distance between Point A and Point F?
+a) 10m
+b) 2m
+c) 5m
+d) 13m
+
+Answer: b
+
+20. In which direction is Point G with respect to Point B?
+a) North
+b) South-West
+c) North-West
+d) East
+
+Answer: a
+
+Directions for questions 21-25: Each of the questions below consists of a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statements are sufficient to answer the question.
+
+21. Seven people P, Q, R, S, T, U, V are sitting in a straight line facing north. Who sits at the extreme right end?
+Statement I: S is third to the right of V. P is an immediate neighbor of V. T sits at one of the extreme ends.
+Statement II: Q sits second to the left of R. Only two people sit between R and T. S is not an immediate neighbor of T.
+
+a) Data in statement I alone are sufficient.
+b) Data in statement II alone are sufficient.
+c) Data either in I or II alone are sufficient.
+d) Data in both statements I and II together are sufficient.
+
+Answer: d
+
+22. In a certain code language, how is 'market' coded?
+Statement I: 'market is for profit' is coded as 'su li ta ki' and 'profit and gain' is coded as 'pa li ra'.
+Statement II: 'market has good demand' is coded as 'do su pi mo' and 'demand for money' is coded as 'ta pi ka'.
+
+a) Data in statement I alone are sufficient.
+b) Data in statement II alone are sufficient.
+c) Data in both statements I and II together are sufficient.
+d) Data in both statements I and II together are not sufficient.
+
+Answer: c
+
+23. How is K related to M?
+Statement I: M is the sister of N. J is the father of N. K is the son of J.
+Statement II: P is the mother of K. P is married to J. M is the daughter of J.
+
+a) Data in statement I alone are sufficient.
+b) Data in statement II alone are sufficient.
+c) Data either in I or II alone are sufficient.
+d) Data in both statements I and II together are not sufficient.
+
+Answer: c
+
+24. There are six boxes J, K, L, M, N, O stacked one above another. Which box is at the bottom?
+Statement I: L is placed just above M. There are two boxes between L and K. J is placed just above K.
+Statement II: O is placed above N. There is one box between M and O. K is not at the top.
+
+a) Data in statement I alone are sufficient.
+b) Data in statement II alone are sufficient.
+c) Data in both statements I and II together are sufficient.
+d) Data in both statements I and II together are not sufficient.
+
+Answer: d
+
+25. Eight friends are sitting around a circular table. How many are facing away from the center?
+Statement I: A sits third to the right of B, who faces the center. C sits second to the left of A. Both immediate neighbors of C face the center.
+Statement II: D sits opposite to E, who faces the center. F is not an immediate neighbor of E or D. G and H face opposite directions.
+
+a) Data in statement I alone are sufficient.
+b) Data in statement II alone are sufficient.
+c) Data in both statements I and II together are sufficient.
+d) Data in both statements I and II together are not sufficient.
+
+Answer: d
+
+Directions for questions 26-30: Study the following information to answer the given questions. In a certain code language:
+‘global risk impact strong’ is written as ‘&4T @6K #5T %6G’
+‘financial stability vital now’ is written as ‘#3W @9L &5L %7Y’
+‘market down future uncertain’ is written as ‘@7N #6T &4N %9N’
+‘crisis may affect policy’ is written as ‘#6Y &5S %3Y @6T’
+
+26. What is the code for ‘stability’?
+a) %7Y
+b) @9L
+c) #3W
+d) &5L
+
+Answer: b
+
+27. What is the code for ‘future crisis’?
+a) #6T #6Y
+b) &4N &5S
+c) #6T &5S
+d) %9N &5S
+
+Answer: c
+
+28. Which word is coded as ‘%6G’?
+a) global
+b) risk
+c) impact
+d) strong
+
+Answer: a
+
+29. What is the symbol for a word starting with ‘F’?
+a) @
+b) #
+c) &
+d) %
+
+Answer: d
+
+30. What could be the code for the word ‘challenge’?
+a) #9E
+b) @9E
+c) &9E
+d) %9E
+
+Answer: a
+
+Directions for questions 31-35: A word and number arrangement machine when given an input line of words and numbers rearranges them following a particular rule in each step. The following is an illustration of input and rearrangement.
+Input: 68 teach 18 goal 93 inspire 45 better 27 success
+Step I: 93 68 teach 18 goal 45 better 27 success inspire
+Step II: 27 93 68 teach 18 goal 45 inspire better
+Step III: 68 27 93 teach 18 45 inspire better goal
+Step IV: 45 68 27 93 18 inspire better goal teach
+Step V: 18 45 68 27 93 inspire better goal teach success
+Step V is the last step.
+As per the rules followed in the above steps, find out in each of the following questions the appropriate step for the given input.
+Input: 84 project 31 hard 59 work 16 smart 72 study
+
+31. Which of the following is the last step of the arrangement?
+a) Step IV
+b) Step V
+c) Step VI
+d) Step VII
+
+Answer: b
+
+32. What will be the position of 'project' in Step III?
+a) Fourth from the left
+b) Fifth from the right
+c) Sixth from the left
+d) Seventh from the right
+
+Answer: c
+
+33. Which element is third to the right of '84' in Step IV?
+a) project
+b) 16
+c) hard
+d) smart
+
+Answer: a
+
+34. In Step II, which word/number is at the extreme right end?
+a) project
+b) hard
+c) smart
+d) work
+
+Answer: b
+
+35. What is the second step of the given input?
+a) 72 59 84 project 31 16 smart study work hard
+b) 31 59 84 project 72 16 smart work study hard
+c) 59 31 84 project 72 16 smart study work hard
+d) 31 59 84 project 16 hard 72 smart work study
+
+Answer: b
+
+Directions for questions 36-40: Study the following information carefully and answer the questions given below.
+Eight persons—P, Q, R, S, T, U, V, and W—live on eight different floors of a building, but not necessarily in the same order. The lowermost floor is numbered 1, and the floor above it is numbered 2, and so on, up to the topmost floor, which is numbered 8. They are from different cities—Delhi, Mumbai, Pune, Chennai, Kolkata, Jaipur, Agra, and Goa.
+T lives on an odd-numbered floor above floor number 4. There are three persons between T and the one from Pune. The one from Jaipur lives on an even-numbered floor immediately below the one from Pune. S is from Mumbai and lives on an even-numbered floor but not on the 2nd floor. The one from Goa lives on the lowermost floor. V lives immediately above P. The person from Chennai lives on an odd-numbered floor but not on the first floor. Q is from Kolkata and lives on an odd-numbered floor. There is only one person between the one from Pune and Q. R lives on a floor immediately above W. The person from Delhi lives on an even-numbered floor. P is not from Delhi. S lives on a floor above T.
+
+36. Who lives on the 5th floor?
+a) T
+b) Q
+c) The one from Kolkata
+d) The one from Chennai
+
+Answer: a
+
+37. R is from which city?
+a) Agra
+b) Delhi
+c) Chennai
+d) Jaipur
+
+Answer: b
+
+38. How many persons live between S and the one from Goa?
+a) Two
+b) Three
+c) Four
+d) Five
+
+Answer: d
+
+39. Which of the following combinations is correct?
+a) V - Floor 2 - Pune
+b) W - Floor 1 - Goa
+c) P - Floor 3 - Chennai
+d) S - Floor 6 - Mumbai
+
+Answer: d
+
+40. Who lives immediately below the person from Jaipur?
+a) V
+b) P
+c) W
+d) Q
+
+Answer: a
+
+Directions for questions 41-45: Study the following information carefully and answer the questions given below.
+Eight friends—A, B, C, D, E, F, G, and H—are sitting around a circular table. Some of them are facing the center, while others are facing outside. They work in different banks—SBI, PNB, BOB, UBI, CBI, IOB, Canara, and Dena, but not necessarily in the same order.
+F sits third to the right of C, who works in BOB and faces the center. Only two people sit between F and the one who works in IOB. The one who works in Dena and the one who works in Canara are immediate neighbors. A, who works in UBI, sits second to the right of G. G is not an immediate neighbor of F or C. G faces the opposite direction to C. The immediate neighbors of G face the center. E sits third to the right of A. Both D and H are immediate neighbors and face outside. The one who works in SBI sits second to the left of D. B sits to the immediate left of the one who works in PNB. The one who works in Dena is not an immediate neighbor of the one who works in SBI. E faces the same direction as G. The one who works in Canara is not F.
+
+41. Who works in PNB?
+a) D
+b) H
+c) E
+d) G
+
+Answer: a
+
+42. How many people are facing away from the center?
+a) Three
+b) Four
+c) Five
+d) Two
+
+Answer: c
+
+43. What is the position of the person from CBI with respect to the person from IOB?
+a) Second to the left
+b) Immediate right
+c) Third to the right
+d) Second to the right
+
+Answer: a
+
+44. Which of the following statements is true?
+a) H works in Dena Bank.
+b) The person from PNB faces the center.
+c) B sits opposite to G.
+d) C and B are immediate neighbors.
+
+Answer: a
+
+45. Four of the following five are alike in a certain way and thus form a group. Which is the one that does not belong to that group?
+a) G
+b) A
+c) C
+d) E
+
+Answer: c
+
+Directions for questions 46-50: Study the following information carefully and answer the questions given below.
+Ten persons are sitting in two parallel rows containing five persons each, in such a way that there is an equal distance between adjacent persons. In row 1—J, K, L, M, and N are seated and all of them are facing south. In row 2—A, B, C, D, and E are seated and all of them are facing north. Therefore, in the given seating arrangement, each member seated in a row faces another member of the other row. Each of them has a different age.
+The one whose age is 25 faces the one who sits third to the right of B. M is an immediate neighbor of the one who faces B. Only one person sits between M and the one whose age is 21. The one whose age is 28 sits second to the right of J. J does not sit at any of the extreme ends. A sits third to the right of the one who faces J. C faces L. The one whose age is 32 is in row 1 and sits to the immediate right of the person whose age is 21. The one whose age is 30 faces the one whose age is 32. The age of E is 20 and he is an immediate neighbor of the one whose age is 30. The age of K is 4 years more than J. The person whose age is 24 sits in row 2. M's age is not 25. The age of D is 5 years less than the age of N.
+
+46. Who sits at the extreme right end of Row 1?
+a) M
+b) L
+c) The one whose age is 25
+d) The one whose age is 21
+
+Answer: d
+
+47. What is the age of K?
+a) 32
+b) 28
+c) 30
+d) 36
+
+Answer: a
+
+48. Who faces the person whose age is 24?
+a) J
+b) K
+c) N
+d) M
+
+Answer: a
+
+49. Four of the following five are alike in a certain way and so form a group. Which one does not belong to that group?
+a) K - 32
+b) B - 24
+c) D - 25
+d) N - 30
+
+Answer: d
+
+50. Which of the following statements is true regarding the arrangement?
+a) A's age is 30 and he sits at an extreme end.
+b) N faces C and sits at an extreme end.
+c) The one whose age is 28 sits opposite to E.
+d) B sits second to the left of the one whose age is 24.
+
+Answer: d

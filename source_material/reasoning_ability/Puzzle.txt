@@ -1,0 +1,460 @@
+**Puzzles for SBI PO/Clerk - 50 MCQs**
+
+**Directions for questions 1-5:** Study the following information carefully and answer the questions given below.
+
+Eight persons—A, B, C, D, E, F, G, and H—are sitting around a circular table. Some of them are facing the center, while some are facing away from the center. They all work in different departments: Finance, Marketing, HR, IT, Operations, Sales, Legal, and R&D.
+
+F sits third to the right of C, who works in the IT department. C is facing the center. The one who works in the Sales department sits second to the right of F. Only two people sit between the one from Sales and A. B sits to the immediate left of the one from the R&D department. Neither A nor F is from the R&D department. The one from R&D faces the same direction as A. B and F face opposite directions. The one from the Marketing department sits third to theleft of H. H is not an immediate neighbor of A. D sits second to the right of G, who is from the Operations department. G is not an immediate neighbor of C. The one from Finance sits to the immediate right of the one from Legal. E is not from the Legal department. The immediate neighbors of A face opposite directions. Both G and D face the center. The person from HR faces away from the center.
+
+1.  Who works in the HR department?
+    a) A
+    b) E
+    c) H
+    d) B
+    e) F
+    Answer: b
+
+2.  Which of the following statements is true regarding B?
+    a) B faces away from the center.
+    b) B works in the Finance department.
+    c) B sits third to the left of A.
+    d) B is an immediate neighbor of the person from the IT department.
+    e) The person from Marketing is an immediate neighbor of B.
+    Answer: d
+
+3.  How many people are sitting between H and the person from the Finance department, when counted from the right of H?
+    a) One
+    b) Two
+    c) Three
+    d) Four
+    e) None
+    Answer: c
+
+4.  Four of the following five are alike in a certain way and thus form a group. Which is the one that does not belong to that group?
+    a) C
+    b) G
+    c) A
+    d) D
+    e) The one from R&D
+    Answer: c
+
+5.  What is the position of the person from the Marketing department with respect to G?
+    a) Second to the left
+    b) Third to the right
+    c) Immediate right
+    d) Second to the right
+    e) Fourth to the left
+    Answer: a
+
+**Directions for questions 6-10:** Study the following information carefully and answer the questions given below.
+
+Seven boxes—P, Q, R, S, T, U, and V—are kept one above the other, but not necessarily in the same order. Each box contains a different item: Pen, Book, Eraser, Sharpener, Pencil, Scale, and Compass.
+
+There are three boxes between box R and the box containing the Compass. The box with the Compass is kept below box R. Box U is kept immediately below the box with the Compass. Only one box is kept between box U and box S, which contains the Pencil. Box S is not at the bottom. The box with the Eraser is kept immediately above box R. Box Q contains the Book and is kept on an odd-numbered position from the top. Box T is kept two boxes above box V. Box V does not contain the Eraser. The box with the Pen is kept above the box with the Sharpener but below the box with the Scale. Box P does not contain the Eraser.
+
+6.  Which box contains the Scale?
+    a) R
+    b) P
+    c) T
+    d) Q
+    e) S
+    Answer: b
+
+7.  How many boxes are kept between box T and the box containing the Book?
+    a) None
+    b) One
+    c) Two
+    d) Three
+    e) More than three
+    Answer: c
+
+8.  Which of the following combinations of Box-Item-Position (from top) is correct?
+    a) T - Pen - 2
+    b) V - Sharpener - 4
+    c) Q - Book - 5
+    d) P - Scale - 1
+    e) S - Pencil - 6
+    Answer: d
+
+9.  Which item is contained in box U?
+    a) Sharpener
+    b) Eraser
+    c) Scale
+    d) Pen
+    e) Compass
+    Answer: a
+
+10. If all the boxes are arranged in alphabetical order from top to bottom, the position of how many boxes will remain unchanged?
+    a) None
+    b) One
+    c) Two
+    d) Three
+    e) Four
+    Answer: b
+
+**Directions for questions 11-15:** Study the following information carefully and answer the questions given below.
+
+Eight friends—M, N, O, P, Q, R, S, and T—have their birthdays in four different months: March, June, September, and December, on either the 10th or 21st of the month.
+
+T’s birthday is on the 21st of a month which has 30 days. There are three birthdays between T and O. The number of persons having birthdays before O is the same as the number of persons having birthdays after M. P and N have their birthdays in the same month, and P’s birthday is before N’s. P’s birthday is not in December. S’s birthday is in a month with 31 days. R’s birthday is immediately after S’s birthday. Q’s birthday is on an even-numbered date. The number of persons between P and R is more than two.
+
+11. Who has a birthday on 10th March?
+    a) O
+    b) M
+    c) S
+    d) P
+    e) Q
+    Answer: c
+
+12. How many people have their birthday between O and N?
+    a) One
+    b) Two
+    c) Three
+    d) Four
+    e) None
+    Answer: d
+
+13. Four of the following five are alike in a certain way and form a group. Which one does not belong to that group?
+    a) S, R
+    b) P, N
+    c) O, T
+    d) M, Q
+    e) S, P
+    Answer: e
+
+14. Which of the following statements is true?
+    a) R’s birthday is on 21st December.
+    b) M and T have their birthdays in the same month.
+    c) There are two birthdays between S and P.
+    d) Q has a birthday immediately before M.
+    e) O's birthday is in June.
+    Answer: d
+
+15. Who among the following has a birthday in December?
+    a) O
+    b) R
+    c) M
+    d) Q
+    e) T
+    Answer: c
+
+**Directions for questions 16-20:** Study the following information carefully and answer the questions given below.
+
+Ten people are sitting in two parallel rows. In Row 1, A, B, C, D, and E are sitting and all of them are facing south. In Row 2, P, Q, R, S, and T are sitting and all of them are facing north. Each person in Row 1 faces exactly one person in Row 2. Each of them is from a different city: Delhi, Mumbai, Pune, Chennai, Kolkata, Jaipur, Agra, Goa, Patna, and Nagpur.
+
+C sits third to the right of the person from Pune. The person from Pune faces R. The one from Jaipur sits second to the right of R. The one who faces the person from Jaipur sits at one of the extreme ends. Two people sit between E and the one who faces the person from Jaipur. The one from Kolkata faces the person who sits to the immediate left of E. S sits second to the left of the one from Jaipur. The person from Mumbai faces Q, who is not from Jaipur. A is an immediate neighbor of C. The one who faces A is from Goa. The person from Delhi sits to the immediate right of B. D is not from Pune. The one who is from Patna faces T. T is not an immediate neighbor of R. P is not from Agra. C is not from Chennai.
+
+16. Who is from Nagpur?
+    a) The one who faces P
+    b) S
+    c) The one who sits second to the left of D
+    d) T
+    e) The one who faces the person from Agra
+    Answer: d
+
+17. Four of the following five are alike in a certain way based on the given arrangement and thus form a group. Which is the one that does not belong to that group?
+    a) A - Goa
+    b) B - Jaipur
+    c) C - Patna
+    d) E - Agra
+    e) D - Kolkata
+    Answer: b
+
+18. Which of the following is true regarding P?
+    a) P faces the person from Chennai.
+    b) P sits at one of the extreme ends.
+    c) The person from Mumbai is an immediate neighbor of the person who faces P.
+    d) P is from Delhi.
+    e) The one from Goa sits third to the right of P.
+    Answer: a
+
+19. The person from which city sits opposite to D?
+    a) Agra
+    b) Patna
+    c) Jaipur
+    d) Goa
+    e) Nagpur
+    Answer: c
+
+20. What is the position of the person from Delhi with respect to the person from Chennai?
+    a) Second to the left
+    b) Immediate right
+    c) Third to the right
+    d) Third to the left
+    e) Immediate left
+    Answer: e
+
+**Directions for questions 21-25:** Study the following information carefully and answer the questions given below.
+
+Nine persons—P, Q, R, S, T, U, V, W, and X—hold different designations in a company: CEO, MD, CFO, COO, GM, DGM, AM, PO, and Clerk. The order of seniority is the same as given above (CEO is the senior-most and Clerk is the junior-most). Each person likes a different fruit: Apple, Banana, Cherry, Guava, Mango, Orange, Papaya, Peach, and Plum.
+
+Only two persons are senior to T. The one who likes Mango is immediately senior to T. V is junior to the one who likes Mango but senior to R, who is the PO. There are three designations between V and S. W is the CFO and likes Peach. The one who likes Guava is senior to the one who likes Plum but junior to U. U does not like Mango. X is senior to the one who likes Papaya but junior to the one who likes Banana. The one who likes Banana is not the CEO. P is immediately senior to Q. Q does not like Papaya. The DGM likes Cherry. The one who likes Plum is not the Clerk.
+
+21. Who is the CEO of the company?
+    a) P
+    b) U
+    c) X
+    d) The one who likes Banana
+    e) The one who likes Guava
+    Answer: b
+
+22. Which fruit does R like?
+    a) Plum
+    b) Papaya
+    c) Guava
+    d) Banana
+    e) Cherry
+    Answer: b
+
+23. How many persons are designated between P and the one who likes Peach?
+    a) One
+    b) Two
+    c) Three
+    d) Four
+    e) None
+    Answer: c
+
+24. Which of the following combinations of Person-Designation-Fruit is correct?
+    a) S - Clerk - Apple
+    b) T - CFO - Guava
+    c) X - MD - Mango
+    d) V - GM - Cherry
+    e) Q - AM - Plum
+    Answer: e
+
+25. Four of the following five are alike in a certain way and so form a group. Which one does not belong to that group?
+    a) U - Banana
+    b) W - Peach
+    c) V - Cherry
+    d) S - Papaya
+    e) Q - Plum
+    Answer: d
+
+**Directions for questions 26-30:** Study the following information carefully and answer the questions given below.
+
+Eight persons—L, M, N, O, P, Q, R, and S—live in a four-story building. The floors are numbered 1 to 4 from bottom to top. Each floor has two flats: Flat A and Flat B. Flat A is to the west of Flat B. Each person drives a different car: Audi, BMW, Ford, Honda, Kia, Maruti, Tata, and Volvo.
+
+P lives on an even-numbered floor. The person who drives a Ford lives immediately below P in the same flat type. R lives two floors above the one who drives a Ford, but not in the same flat type. The one who drives a Tata lives in Flat B on floor 3. There is one floor between R and Q, who drives a Kia. R and Q live in the same flat type. The one who drives a Volvo lives to the east of the one who drives a Honda. M drives a BMW and lives on an odd-numbered floor. M and S live on the same floor. S does not drive a Tata. The one who drives an Audi lives above the one who drives a Maruti. O lives on a floor above L, but not in the same flat type. O does not live on the top floor.
+
+26. Who drives the Audi?
+    a) P
+    b) S
+    c) O
+    d) M
+    e) N
+    Answer: a
+
+27. On which floor and in which flat does L live?
+    a) Floor 1, Flat A
+    b) Floor 2, Flat B
+    c) Floor 1, Flat B
+    d) Floor 2, Flat A
+    e) Floor 3, Flat A
+    Answer: c
+
+28. Four of the following five are alike in a certain way and thus form a group. Which is the one that does not belong to that group? (The group is based on the floor they live on)
+    a) The one who drives Audi
+    b) The one who drives Kia
+    c) O
+    d) The one who drives Ford
+    e) The one who drives Maruti
+    Answer: e
+
+29. Which of the following statements is definitely true?
+    a) N lives on Floor 4 in Flat A.
+    b) The one who drives Volvo lives on Floor 2.
+    c) L drives the Honda.
+    d) There are two floors between M and P.
+    e) O lives in Flat A.
+    Answer: e
+
+30. Who lives in Flat B on Floor 4?
+    a) R
+    b) P
+    c) Q
+    d) The one who drives a Maruti
+    e) The one who drives a Tata
+    Answer: a
+
+**Directions for questions 31-35:** Study the following information carefully and answer the questions given below.
+
+A certain number of persons are sitting in a linear row facing north.
+P sits fifth from the left end of the row. Three persons sit between P and R. S sits third to the right of R. The number of persons sitting to the right of S is one less than the number of persons sitting to the left of P. Q sits exactly in the middle of P and R. T sits at the extreme right end of the row. M sits fourth to the left of S. Only four persons sit between T and N.
+
+31. How many persons are sitting in the row?
+    a) 17
+    b) 19
+    c) 20
+    d) 18
+    e) 21
+    Answer: d
+
+32. What is the position of M with respect to P?
+    a) Second to the left
+    b) Immediate right
+    c) Third to the right
+    d) Second to the right
+    e) Immediate left
+    Answer: d
+
+33. How many persons are sitting between M and N?
+    a) Five
+    b) Six
+    c) Seven
+    d) Eight
+    e) Four
+    Answer: b
+
+34. If U sits exactly between R and S, what is the position of U from the right end?
+    a) 8th
+    b) 9th
+    c) 10th
+    d) 7th
+    e) 11th
+    Answer: b
+
+35. Which of the following statements is true regarding the arrangement?
+    a) More than five persons sit between P and M.
+    b) N sits to the left of R.
+    c) R sits sixth from the right end.
+    d) Q sits at the 7th position from the left end.
+    e) There are four people between Q and S.
+    Answer: d
+
+**Directions for questions 36-40:** Study the following information carefully and answer the questions given below.
+
+Eight delegates—A, B, C, D, E, F, G, and H—from eight different countries—India, China, USA, UK, Russia, Japan, France, and Germany—are sitting around a square table. Four of them sit at the corners and face away from the center, while the other four sit in the middle of the sides and face towards the center.
+
+The delegate from Russia sits third to the right of H. H is not from France. The delegate from USA sits second to the left of the one from Russia. The delegate from Japan is an immediate neighbor of the delegate from USA and faces the center. Two persons sit between G and the delegate from Japan. C sits to the immediate right of G. The delegate from China sits second to the left of C. B sits third to the left of the delegate from China. A is an immediate neighbor of the delegate from Germany. A is not from Russia. The delegate from India sits to the immediate left of F. E is not an immediate neighbor of H. F is not from the USA. D does not sit in the middle of any side.
+
+36. Who is the delegate from the UK?
+    a) H
+    b) C
+    c) A
+    d) E
+    e) B
+    Answer: a
+
+37. What is the position of the delegate from France with respect to the delegate from India?
+    a) Second to the left
+    b) Third to the right
+    c) Immediate right
+    d) Fourth to the left
+    e) Immediate left
+    Answer: b
+
+38. Four of the following five are alike in a certain way and so form a group. Which is the one that does not belong to that group?
+    a) H
+    b) The delegate from Germany
+    c) D
+    d) The delegate from USA
+    e) G
+    Answer: e
+
+39. Which country's delegate sits second to the right of B?
+    a) India
+    b) Germany
+    c) Russia
+    d) UK
+    e) Japan
+    Answer: c
+
+40. Which of the following statements is NOT true?
+    a) D is the delegate from USA.
+    b) The delegate from France sits in the middle of a side.
+    c) A sits opposite to C.
+    d) E is from Russia and faces away from the center.
+    e) The delegates from India and Japan are immediate neighbors.
+    Answer: c
+
+**Directions for questions 41-45:** Study the following information carefully and answer the questions given below.
+
+Eight persons—P, Q, R, S, T, U, V, and W—live on eight different floors of a building. The lowermost floor is numbered 1, and the topmost floor is numbered 8. Each of them owns a different brand of watch: Titan, Rolex, Casio, Fossil, Omega, Tissot, Rado, and Hublot.
+
+W lives on an even-numbered floor but not on the top floor. There are three floors between W and the one who owns Tissot. The one who owns Omega lives on an odd-numbered floor immediately below the one who owns Tissot. The number of persons living above the one who owns Omega is the same as the number of persons living below P. S lives two floors above P. The one who owns Rado lives immediately above S. V lives on a floor immediately below the one who owns Hublot. V does not live on the ground floor. T lives on an even-numbered floor above W. The one who owns Fossil lives on a floor immediately above the one who owns Casio. U does not own Tissot. Q owns Titan and lives on a floor below the one who owns Casio.
+
+41. Who owns the Rolex watch?
+    a) T
+    b) W
+    c) V
+    d) U
+    e) S
+    Answer: d
+
+42. How many persons live between T and the one who owns Fossil?
+    a) One
+    b) Two
+    c) Three
+    d) Four
+    e) None
+    Answer: b
+
+43. Which of the following combinations is correct?
+    a) T - Floor 8 - Hublot
+    b) V - Floor 7 - Omega
+    c) P - Floor 2 - Casio
+    d) U - Floor 5 - Rolex
+    e) S - Floor 4 - Tissot
+    Answer: d
+
+44. Four of the following five are alike in a certain way based on their positions in the final arrangement and so form a group. Which is the one that does not belong to the group?
+    a) T
+    b) The one who owns Rado
+    c) U
+    d) The one who owns Omega
+    e) Q
+    Answer: a
+
+45. If V is related to Titan and S is related to Fossil in a certain way, then who among the following is related to Omega?
+    a) P
+    b) W
+    c) T
+    d) R
+    e) U
+    Answer: b
+
+**Directions for questions 46-50:** Study the following information carefully and answer the questions given below.
+
+Seven friends—A, B, C, D, E, F, and G—attended a seminar on seven different days of the same week, starting from Monday and ending on Sunday. Each of them works in a different company: HCL, TCS, Wipro, Infosys, Cognizant, IBM, and Accenture.
+
+The one from IBM attended the seminar on one of the days after Thursday. Only one person attended the seminar between the one from IBM and G. C attended the seminar immediately before G. The one from Wipro attended the seminar on Monday. A attended the seminar two days before the one from Cognizant. A is not from Wipro. Three people attended the seminar between the one from Wipro and the one from TCS. F attended the seminar immediately after D. The one from Accenture attended the seminar before the one from HCL. E, who is not from IBM, attended the seminar after B. D is not from TCS.
+
+46. Who works in Infosys?
+    a) C
+    b) G
+    c) A
+    d) D
+    e) E
+    Answer: a
+
+47. On which day did the person from Cognizant attend the seminar?
+    a) Tuesday
+    b) Wednesday
+    c) Thursday
+    d) Saturday
+    e) Sunday
+    Answer: d
+
+48. Four of the following five are alike in a certain way and so form a group. Which one does not belong to that group?
+    a) Wipro - B
+    b) HCL - G
+    c) TCS - D
+    d) Infosys - A
+    e) Accenture - F
+    Answer: d
+
+49. Which of the following statements is true?
+    a) G attended the seminar on Friday.
+    b) The one from HCL attended the seminar on Wednesday.
+    c) B works in TCS.
+    d) There are two seminars between A and F.
+    e) E works in Accenture.
+    Answer: c
+
+50. What is the correct combination of Person-Company-Day?
+    a) G - HCL - Saturday
+    b) D - Accenture - Tuesday
+    c) A - Infosys - Thursday
+    d) E - IBM - Sunday
+    e) F - Cognizant - Wednesday
+    Answer: b

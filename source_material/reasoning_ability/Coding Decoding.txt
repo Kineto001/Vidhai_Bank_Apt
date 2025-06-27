@@ -1,0 +1,516 @@
+Coding-Decoding MCQs for SBI PO/Clerk (Difficult)
+
+Directions (1-50): Read the information carefully and answer the questions given below.
+
+1. If 'TERMINAL' is coded as 'LAMINRET', and 'CREDIBLE' is coded as 'ELBIDEREC', then what will be the code for 'QUANTIFY'?
+a) YFINAUTQ
+b) YFITNAUQ
+c) YFITNAQU
+d) YFITNUQA
+Answer: b
+(Explanation: The last letter of the word becomes the first letter of the code. The first letter of the word becomes the last letter of the code. The remaining letters in the middle are reversed. QUANTIFY -> Y + TIFNAU + Q -> YFITNAUQ.)
+
+2. In a certain code, 'HYDROGEN' is written as '19223912202213'. What is the code for 'ANTIMONY'?
+a) 26137181412132
+b) 26137181312132
+c) 26147181412132
+d) 25137181412132
+Answer: a
+(Explanation: Each letter is coded with the positional value of its opposite letter in the English alphabet (A->Z(26), B->Y(25), etc.). ANTIMONY: A->Z(26), N->M(13), T->G(7), I->R(18), M->N(14), O->L(12), N->M(13), Y->B(2). Code: 26137181412132.)
+
+3. In a code language, if 'STRATEGY' is coded as 'HGIZGVTB', then how will 'ASSESSMENT' be coded?
+a) ZHHVHHMNVMG
+b) ZHHVHHSNVMG
+c) ZHHVGHNNVMG
+d) ZHHVHHNVNG
+Answer: b
+(Explanation: Each letter in the word is replaced by its opposite letter in the English alphabet (A->Z, B->Y, etc.). ASSESSMENT: A→Z, S→H, S→H, E→V, S→H, S→H, M→N, E→V, N→M, T→G. Code: ZHHVHHSNVMG.)
+
+4. In a certain code, 'REASON' is written as '5' and 'BELIEVED' as '7'. How is 'GOVERNMENT' written in that code?
+a) 8
+b) 9
+c) 10
+d) 11
+Answer: b
+(Explanation: The code is the number of letters in the word minus one. REASON has 6 letters, code is 6-1=5. BELIEVED has 8 letters, code is 8-1=7. GOVERNMENT has 10 letters, so the code is 10-1=9.)
+
+5. In a certain code, 'PRISM' is coded as '220' and 'CORNEA' is coded as '174'. How will 'HELMET' be coded?
+a) 251
+b) 249
+c) 255
+d) 241
+Answer: a
+(Explanation: The logic is the sum of (positional value of each letter * its position in the word).
+HELMET: H(8)*1 + E(5)*2 + L(12)*3 + M(13)*4 + E(5)*5 + T(20)*6 = 8 + 10 + 36 + 52 + 25 + 120 = 251.)
+
+6. If in a code, 'MASTER' is coded as '132619202218', how is 'SERVANT' coded?
+a) 19221822261420
+b) 195182211420
+c) 1922182211420
+d) 1951822261420
+Answer: a
+(Explanation: Vowels are coded by their reverse positional value (A=26, E=22, etc.). Consonants are coded by their normal positional value. SERVANT: S(19), E(22), R(18), V(22), A(26), N(14), T(20). Code: 19221822261420.)
+
+7. In a certain code 'SYSTEM' is written as 'HBHGVN'. How is 'POLICY' written in that code?
+a) KLOXRY
+b) KLRXOB
+c) KLOXRB
+d) KLOXBR
+Answer: c
+(Explanation: Each letter is replaced by its opposite letter in the alphabet. SYSTEM -> S-H, Y-B, S-H, T-G, E-V, M-N. POLICY -> P-K, O-L, L-O, I-R, C-X, Y-B. Code: KLOXRB.)
+
+---
+**Directions (8-12): Study the following information carefully to answer the given questions.**
+In a certain code language:
+‘global economy remains weak’ is coded as ‘mo ra su fe’
+‘global risk remains high’ is coded as ‘su zo ti ra’
+‘high inflation impacts growth’ is coded as ‘na ki zo ka’
+‘risk growth very low’ is coded as ‘ti fo na ge’
+
+8. What is the code for ‘high’?
+a) na
+b) ki
+c) zo
+d) ka
+Answer: c
+(Explanation: From sentences 2 and 3, the common word is 'high' and the common code is 'zo'.)
+
+9. What is the code for ‘growth’?
+a) ti
+b) fo
+c) ge
+d) na
+Answer: d
+(Explanation: From sentences 3 and 4, the common word is 'growth' and the common code is 'na'.)
+
+10. What could be the code for ‘global impacts’?
+a) su na
+b) ra ki
+c) su ki
+d) mo zo
+Answer: c
+(Explanation: From sentences 1 & 2, 'global/remains' is 'su/ra'. From sentence 2, 'risk' is 'ti' and 'high' is 'zo'. From sentence 3, 'high' is 'zo' and 'growth' is 'na', so 'inflation/impacts' is 'ki/ka'. Thus, 'global impacts' could be 'su ki' or 'su ka' or 'ra ki' or 'ra ka'. Only 'su ki' is in the options.)
+
+11. What is the code for ‘remains low risk’?
+a) ra ge ti
+b) su fo zo
+c) mo fo na
+d) zo su ge
+Answer: a
+(Explanation: 'risk' is 'ti'. 'remains' is 'ra' or 'su'. From sentence 4, 'very low' is 'fo' or 'ge'. Therefore, the code could be 'ra ge ti', 'ra fo ti', 'su ge ti', or 'su fo ti'. From the given options, only 'ra ge ti' is a possible combination.)
+
+12. If ‘economy is weak’ is coded as ‘fe mo sa’, what is the code for ‘is’?
+a) fe
+b) mo
+c) sa
+d) Cannot be determined
+Answer: c
+(Explanation: From sentence 1, 'economy weak' is 'mo fe'. In the new sentence, 'economy is weak' is 'fe mo sa'. The new word is 'is' and the new code is 'sa'.)
+
+---
+**Directions (13-17): Study the following information and answer the questions below.**
+In a certain code language:
+‘market gain risk boost’ is coded as ‘@N4 #T6 $K4 @T5’
+‘finance sector growth down’ is coded as ‘#R6 $H6 $N4 @E7’
+‘global stable index future’ is coded as ‘@X5 #E6 $E7 @L6’
+(The codes are not necessarily in the same order as the words).
+
+The logic is as follows:
+- **Symbol:** Based on the number of vowels in the word. 1 vowel -> $, 2 vowels -> @, 3 or more vowels -> #.
+- **Letter:** The last letter of the word.
+- **Number:** The total number of letters in the word.
+
+13. What is the code for ‘MONETARY’?
+a) #Y8
+b) @Y8
+c) #M8
+d) @T8
+Answer: a
+(Explanation: MONETARY has O,E,A - 3 vowels -> #. Last letter is Y. Number of letters is 8. Code: #Y8.)
+
+14. What is the code for ‘PUBLIC’?
+a) @C6
+b) #C6
+c) $C6
+d) #P6
+Answer: a
+(Explanation: PUBLIC has U,I - 2 vowels -> @. Last letter is C. Number of letters is 6. Code: @C6.)
+
+15. ‘$M4’ could be the code for which of the following words?
+a) FROM
+b) ARMY
+c) BANK
+d) TEAM
+Answer: a
+(Explanation: $ means 1 vowel. M is the last letter. 4 is the number of letters. 'FROM' has 1 vowel (O), ends in M, and has 4 letters. It matches.)
+
+16. What is the code for ‘INFRASTRUCTURE’?
+a) @E14
+b) #E14
+c) #I14
+d) @I14
+Answer: b
+(Explanation: INFRASTRUCTURE has I,A,U,U,E (5 vowels), which is 3 or more -> #. Last letter is E. Length is 14. Code: #E14.)
+
+17. What is the code for ‘STRENGTH’?
+a) $H8
+b) @H8
+c) #H8
+d) $S8
+Answer: a
+(Explanation: STRENGTH has E (1 vowel) -> $. Last letter is H. Length is 8. Code: $H8.)
+
+---
+**Directions (18-22): Study the information below and answer the following questions.**
+In a certain code language, ‘0’ is coded as ‘@’ and ‘1’ is coded as ‘#’. Any number greater than 1 is first converted into its binary equivalent and then coded. The binary number should be read from left to right (e.g., 2 in binary is 10, so it is coded as #@).
+
+18. What is the code for the number 97?
+a) ##@@@@#
+b) #@@@@@#
+c) ##@@@##
+d) #@@@@##
+Answer: a
+(Explanation: 97 in decimal is 1100001 in binary. Converting this using the code: 1 -> #, 0 -> @. So, 1100001 becomes ##@@@@#.)
+
+19. If the code is '#@#@#', what is the decimal number?
+a) 21
+b) 19
+c) 23
+d) 25
+Answer: a
+(Explanation: The code #@#@# corresponds to the binary number 10101. Converting to decimal: (1*16) + (0*8) + (1*4) + (0*2) + (1*1) = 16 + 4 + 1 = 21.)
+
+20. What is the code for the result of 15 x 6?
+a) #@##@#@
+b) #@#@#@#
+c) #@##@#
+d) #@#@##@
+Answer: a
+(Explanation: 15 x 6 = 90. The binary representation of 90 is 1011010. The code is #@##@#@.)
+
+21. Which decimal number is represented by the code '##@#@'?
+a) 24
+b) 26
+c) 28
+d) 30
+Answer: b
+(Explanation: The code ##@#@ corresponds to the binary number 11010. Converting to decimal: (1*16) + (1*8) + (0*4) + (1*2) + (0*1) = 16 + 8 + 2 = 26.)
+
+22. What is the code for 142?
+a) #@@@##@
+b) #@@@###@
+c) #@@####@
+d) #@@##@@
+Answer: b
+(Explanation: 142 in decimal is 10001110 in binary. The code is #@@@###@.)
+
+---
+**Directions (23-27): Study the following information and answer the questions given below.**
+- **Letters:** E A R N I P G O D L T C
+- **Codes:**   1 2 3 4 5 6 7 8 9 0 # @
+- **Conditions:**
+  1. If the first letter is a vowel and the last letter is a consonant, their codes are to be interchanged.
+  2. If both the first and the last letters are consonants, both are to be coded as ‘$’.
+  3. If the number of unique vowels in the word is more than 2, the word is coded by reversing the normal codes of its letters.
+
+23. What is the code for 'PLEADING'?
+a) $0129547
+b) 6012954$
+c) $012954$
+d) 60129547
+Answer: c
+(Explanation: First letter P (consonant), last letter G (consonant). Condition 2 applies. Both P and G are coded as '$'. The remaining letters L(0), E(1), A(2), D(9), I(5), N(4) are coded from the table. Code: $012954$.)
+
+24. What is the code for 'OPERATING'?
+a) 86132#547
+b) 745#23168
+c) 745#2316$
+d) $6132#54$
+Answer: b
+(Explanation: The word has unique vowels O, E, A, I (4 unique vowels), which is more than 2. Condition 3 applies. Normal code for OPERATING is 86132#547. This code must be reversed. Reversed code: 745#23168.)
+
+25. What is the code for 'ORGANIC'?
+a) @372458
+b) 837245@
+c) $37245$
+d) @37245@
+Answer: a
+(Explanation: First letter O (vowel), last letter C (consonant). Condition 1 applies. The codes for O(8) and C(@) are interchanged. O is coded as @, C is coded as 8. Rest as per table: R(3), G(7), A(2), N(4), I(5). Code: @372458.)
+
+26. What is the code for 'LAPTOP'?
+a) 026#86
+b) $26#8$
+c) 026#8$
+d) $26#86
+Answer: b
+(Explanation: First letter L (consonant), last letter P (consonant). Condition 2 applies. Both L and P are coded as '$'. Remaining letters A(2), P(6), T(#), O(8) are coded from the table. Code: $26#8$.)
+
+27. The code '132954$' represents which word?
+a) EARDING
+b) ORADING
+c) EARNING
+d) PRICING
+Answer: a
+(Explanation: The code ends with '$', which implies Condition 2 was used (first and last letters are consonants). Let's check the options. a) EARDING: First E (vowel), Last G (consonant). Condition 1 would apply, so this is not it. Let's re-read the options and code.
+My question setup seems to have an issue. A code cannot be decoded back to a word if '$' replaces letters.
+Let's change Q27. What is the code for 'ATLANTIC'?
+A(vowel), C(consonant). Condition 1 applies. A and C interchange codes. A->@, C->2. Rest: T->#, L->0, A->2, N->4, I->5. Code: @#02452.
+This is a better question. Let's write that.
+
+27. (New) What is the code for 'ATLANTIC'?
+a) 2#0245@
+b) @#02452
+c) $#0245$
+d) 25420#@
+Answer: b
+(Explanation: First letter A (vowel), last C (consonant). Condition 1 applies. Codes for A(2) and C(@) are interchanged. A is coded as @, C is coded as 2. Rest from table: T(#), L(0), A(2), N(4), I(5). Code: @#02452.)
+
+---
+**Directions (28-32): A word is represented by numbers from the matrices given below.**
+Matrix I has rows 0-4 and columns 0-4. Matrix II has rows 5-9 and columns 5-9. A letter can be represented first by its row and then its column.
+
+| Matrix I | 0 | 1 | 2 | 3 | 4 |
+| :--- | :-: | :-: | :-: | :-: | :-: |
+| **0** | A | F | M | S | L |
+| **1** | L | K | G | E | T |
+| **2** | B | W | I | R | C |
+| **3** | V | H | P | O | D |
+| **4** | X | N | U | Y | Q |
+
+| Matrix II | 5 | 6 | 7 | 8 | 9 |
+| :--- | :-: | :-: | :-: | :-: | :-: |
+| **5** | J | Z | Z | B | D |
+| **6** | U | K | Y | V | C |
+| **7** | Q | A | X | W | I |
+| **8** | O | R | N | P | F |
+| **9** | G | S | M | T | H |
+
+28. Which of the following can be a code for 'MUTE'?
+a) 97651413
+b) 02429812
+c) 97421398
+d) 02651431
+Answer: a
+(Explanation: M can be 02, 97. U can be 42, 65. T can be 14, 98. E can be 13. Option (a) 97-65-14-13 corresponds to M-U-T-E.)
+
+29. Which of the following can be a code for 'FROZEN'?
+a) 018733561341
+b) 892386571387
+c) 012386561341
+d) 898733571341
+Answer: d
+(Explanation: F-89, R-87, O-33, Z-57, E-13, N-41. This set matches option (d).)
+
+30. The set '87214298' codes for which word?
+a) RWUT
+b) RWAT
+c) IWUT
+d) RWUS
+Answer: a
+(Explanation: 87 -> R, 21 -> W, 42 -> U, 98 -> T. The word is RWUT.)
+
+31. Which of the following can be a code for 'JUMPY'?
+a) 5542023243
+b) 5565978867
+c) 5542973267
+d) 5565028843
+Answer: b
+(Explanation: J-55, U-65, M-97, P-88, Y-67. This set matches option (b).)
+
+32. The set '22339713' codes for which word?
+a) IOTE
+b) IOME
+c) BOME
+d) IONE
+Answer: b
+(Explanation: 22 -> I, 33 -> O, 97 -> M, 13 -> E. The word is IOME.)
+
+---
+**Directions (33-37): Study the coded sentences below.**
+In a certain code language:
+‘achieve your goals’ is written as ‘74 42 52’
+‘believe in yourself’ is written as ‘74 21 83’
+‘focus on learning’ is written as ‘52 21 83’
+
+The logic for the code is:
+- First digit(s): The total number of letters in the word.
+- Last digit: The total count of vowels in the word (A,E,I,O,U).
+
+33. What is the code for 'STRATEGY'?
+a) 83
+b) 72
+c) 82
+d) 73
+Answer: c
+(Explanation: STRATEGY has 8 letters and 2 vowels (A, E). The code is 82.)
+
+34. What is the code for 'ORGANISATION'?
+a) 125
+b) 116
+c) 126
+d) 115
+Answer: c
+(Explanation: ORGANISATION has 12 letters and 6 vowels (O, A, I, A, I, O). The code is 126.)
+
+35. The code '63' represents which word?
+a) PEOPLE
+b) POWER
+c) IMPACT
+d) GLOBAL
+Answer: a
+(Explanation: The code 63 means a word with 6 letters and 3 vowels. PEOPLE has 6 letters and 3 vowels (E, O, E).)
+
+36. What is the sum of the codes for 'public' and 'affairs'?
+a) 133
+b) 135
+c) 145
+d) 125
+Answer: b
+(Explanation: 'public' has 6 letters, 2 vowels (u,i) -> code 62. 'affairs' has 7 letters, 3 vowels (a,a,i) -> code 73. Sum = 62 + 73 = 135.)
+
+37. The code for 'markets' is the same as the code for which word?
+a) company
+b) project
+c) quality
+d) finance
+Answer: b
+(Explanation: 'markets' has 7 letters, 2 vowels (a,e) -> code 72. 'project' also has 7 letters, 2 vowels (o,e) -> code 72.)
+
+---
+**Directions (38-42): Study the following information to answer the given questions.**
+In a certain code language:
+‘risk of high inflation’ is written as ‘ma co he te’
+‘impact of severe crisis’ is written as ‘di ge co la’
+‘high crisis brings worry’ is written as ‘he la si nu’
+‘worry has severe impact’ is written as ‘ge si di mi’
+
+38. What is the code for 'impact'?
+a) ge
+b) di
+c) si
+d) Cannot be determined
+Answer: d
+(Explanation: From sentences 2 and 4, the common words are 'impact' and 'severe', and common codes are 'di' and 'ge'. We cannot determine which code corresponds to which word.)
+
+39. What could be the code for 'high worry impact'?
+a) he si te
+b) la si ge
+c) he si di
+d) nu si co
+Answer: c
+(Explanation: From sentence 3, 'high' is 'he' and 'worry' is 'si'. From Q38, 'impact' can be 'di' or 'ge'. So the code could be 'he si di' or 'he si ge'. Option (c) is a valid possibility.)
+
+40. 'mi te la' could be a code for which of the following?
+a) has risk crisis
+b) has inflation worry
+c) severe risk crisis
+d) has brings crisis
+Answer: a
+(Explanation: 'mi' is 'has' (from sentence 4). 'la' is 'crisis' (from sentences 2 and 3). 'te' is either 'risk' or 'inflation' (from sentence 1). So, 'mi te la' could be 'has risk crisis' or 'has inflation crisis'. Option (a) matches.)
+
+41. What is the code for 'brings'?
+a) si
+b) la
+c) he
+d) nu
+Answer: d
+(Explanation: In sentence 3, we know 'high' is 'he', 'crisis' is 'la', 'worry' is 'si'. The remaining word 'brings' must be coded as the remaining code 'nu'.)
+
+42. What is the code for 'of severe risk'?
+a) co ge ma
+b) di co te
+c) co la ma
+d) Either a or b
+Answer: d
+(Explanation: 'of' is 'co'. 'severe' is 'di' or 'ge'. 'risk' is 'ma' or 'te'. So possible codes are 'co di ma', 'co di te', 'co ge ma', 'co ge te'. Options a and b are both valid possibilities.)
+
+---
+**Directions (43-47): A word is coded based on the following rules.**
+- **Symbol:** Based on the first letter of the word. A-G -> #, H-N -> @, O-T -> $, U-Z -> %.
+- **Letter:** The third letter of the word. (If the word has less than 3 letters, the last letter is taken).
+- **Number:** The total number of letters in the word.
+
+43. What is the code for 'JOURNEY'?
+a) @U7
+b) @R7
+c) #U7
+d) $U7
+Answer: a
+(Explanation: First letter J is in H-N range -> @. Third letter is U. Number of letters is 7. Code: @U7.)
+
+44. What is the code for 'SECURITY'?
+a) $C8
+b) $E8
+c) #C8
+d) $U8
+Answer: a
+(Explanation: First letter S is in O-T range -> $. Third letter is C. Number of letters is 8. Code: $C8.)
+
+45. What is the code for 'ZEBRA'?
+a) %B5
+b) %E5
+c) #B5
+d) %R5
+Answer: a
+(Explanation: First letter Z is in U-Z range -> %. Third letter is B. Number of letters is 5. Code: %B5.)
+
+46. What does '$L8' stand for?
+a) SOLUTION
+b) PROBLEM
+c) QUESTION
+d) DOCUMENT
+Answer: a
+(Explanation: $ means the first letter is O-T. L is the third letter. 8 is the number of letters. 'SOLUTION' starts with S (in O-T range), has 'L' as the third letter, and is 8 letters long. It matches.)
+
+47. What is the code for 'GO'?
+a) #G2
+b) @O2
+c) #O2
+d) $G2
+Answer: c
+(Explanation: First letter G is in A-G range -> #. Word has less than 3 letters, so we take the last letter, O. Number of letters is 2. Code: #O2.)
+
+---
+**Directions (48-50): Answer the questions based on the unique logic provided in each.**
+
+48. In a certain language, 'JOURNEY' is coded as 'INT R OFZ'. How is 'MACHINE' coded?
+a) L Z B H J O F
+b) LZB H JOF
+c) L A B I O F
+d) L ZB I JOF
+Answer: b
+(Explanation: The word is split into two halves. The first half is coded by taking the preceding letter. The second half is coded by taking the succeeding letter. If the word has an odd number of letters, the middle letter remains unchanged.
+MACHINE -> MAC H INE.
+MAC -> L Z B.
+H -> H.
+INE -> J O F.
+Code: LZB H JOF.)
+
+49. If 'SUBJECT' is coded as '2-3-5-10-19-20-21', what is the code for 'CRICKET'?
+a) 3-18-9-3-11-5-20
+b) 3-3-5-9-11-18-20
+c) 3-3-5-11-9-18-20
+d) 3-5-3-9-11-18-20
+Answer: b
+(Explanation: The letters of the word are first arranged in alphabetical order, and then their positional values are written with hyphens.
+CRICKET -> Alphabetical order: CCEIKRT.
+Positional values: 3-3-5-9-11-18-20.)
+
+50. In a certain code, 'PRESIDENT' is coded as '252' and 'GOVERNOR' is coded as '225'. How will 'MINISTER' be coded?
+a) 152
+b) 162
+c) 171
+d) 189
+Answer: c
+(Explanation: The code is the product of the alphabetical positions of the second letter from the beginning and the second letter from the end.
+MINISTER: Second letter is 'I' (9). Second last letter is 'E' (5). This logic fails for MINISTER. Let's re-check the question logic.
+PRESIDENT: R(18) * N(14) = 252. Correct.
+GOVERNOR: O(15) * O(15) = 225. Correct.
+MINISTER: Second letter I(9). Second-to-last letter is R(18). Code = 9 * 18 = 162.
+My option 'c' 171 is wrong. Let's fix the options.
+a) 152
+b) 162
+c) 171
+d) 189
+Answer: b
+(Explanation: The code is the product of the alphabetical positions of the second letter from the beginning and the second letter from the end. MINISTER: Second letter is 'I' (9). Second-to-last letter is 'R' (18). The code is 9 * 18 = 162.)

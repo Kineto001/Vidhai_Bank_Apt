@@ -1,0 +1,564 @@
+Input-Output Reasoning MCQs (SBI PO/Clerk - Difficult Level)
+
+Directions for questions 1-5: A word and number arrangement machine when given an input line of words and numbers rearranges them following a particular rule in each step. The following is an illustration of input and rearrangement.
+
+Input: glory 47 faith 12 98 destiny 25 umbrella
+Step I: umbrella glory 47 faith 98 destiny 25 12
+Step II: umbrella destiny glory 47 faith 98 12 25
+Step III: umbrella destiny glory faith 98 12 25 47
+Step IV: umbrella destiny faith glory 98 12 25 47
+Step V: umbrella destiny faith glory 12 25 47 98
+
+Step V is the last step of the rearrangement. As per the rules followed in the above steps, find out in each of the following questions the appropriate step for the given input.
+
+Input for the questions: magic 88 19 wonder 62 stone 35 quest
+
+[Note: In each step, the word with the most letters is moved to the extreme left, and the smallest number is moved to the extreme right. If word lengths are equal, the word that comes first alphabetically is moved.]
+
+1.  Which of the following will be Step III?
+    a) wonder quest magic 88 62 stone 19 35
+    b) wonder stone quest 88 62 magic 19 35
+    c) wonder quest stone magic 88 62 19 35 62
+    d) wonder quest stone 88 62 magic 19 35
+
+Answer: d
+
+2.  How many steps will be required to complete the rearrangement?
+    a) Three
+    b) Four
+    c) Five
+    d) Six
+
+Answer: b
+
+3.  What is the position of '62' in the final step?
+    a) Fifth from the left
+    b) Sixth from the left
+    c) Seventh from the left
+    d) Fifth from the right
+
+Answer: a
+
+4.  Which element is third to the right of 'stone' in Step II?
+    a) 88
+    b) magic
+    c) 19
+    d) 35
+
+Answer: c
+
+5.  Which of the following represents the final arrangement?
+    a) wonder quest stone magic 88 19 35 62
+    b) wonder quest stone magic 19 35 62 88
+    c) wonder stone quest magic 19 35 62 88
+    d) magic wonder quest stone 19 35 62 88
+
+Answer: b
+
+---
+
+Directions for questions 6-10: A word and number arrangement machine when given an input line of words and numbers rearranges them following a particular rule in each step. The following is an illustration of input and rearrangement.
+
+Input: 38 apple 91 zone 65 grape 14 lemon
+Step I: 10 38 apple 65 grape 14 lemon zone
+Step II: 11 10 38 apple grape 14 zone lemon
+Step III: 11 11 10 apple 14 zone lemon grape
+Step IV: 5 11 11 10 zone lemon grape apple
+
+Step IV is the last step of the rearrangement. As per the rules followed in the above steps, find out in each of the following questions the appropriate step for the given input.
+
+Input for the questions: 74 river 29 cloud 85 breeze 56 tree
+
+[Note: In each step, the largest number is picked, its digits are added, and the sum is placed at the extreme left. Simultaneously, the word whose last letter comes last alphabetically is moved to the extreme right.]
+
+6.  What will be the Step II of the arrangement?
+    a) 11 13 29 cloud 56 breeze tree 74 river
+    b) 13 11 74 cloud 56 breeze tree river 29
+    c) 11 13 29 cloud 56 breeze tree river
+    d) 11 13 74 29 cloud 56 breeze tree river
+
+Answer: d
+
+7.  Which element will be at the sixth position from the left in the final step?
+    a) tree
+    b) cloud
+    c) breeze
+    d) 11
+
+Answer: c
+
+8.  How many elements are there between '11' and 'breeze' in Step III?
+    a) Two
+    b) Three
+    c) Four
+    d) One
+
+Answer: b
+
+9.  Which step number is the following output: "11 13 11 29 breeze tree river cloud"?
+    a) Step I
+    b) Step III
+    c) Step II
+    d) This step is not possible.
+
+Answer: b
+
+10. In the final step, which word/number is immediately to the right of '13'?
+    a) river
+    b) cloud
+    c) 11
+    d) tree
+
+Answer: c
+
+---
+
+Directions for questions 11-15: A word and number arrangement machine when given an input line of words and numbers rearranges them following a particular rule in each step. The following is an illustration of input and rearrangement.
+
+Input: always 25 find 81 the 49 way 64
+Step I: 25 find always 81 the 49 way 64
+Step II: find always 81 the 25 49 way 64
+Step III: always 81 the 25 49 way 64 find
+Step IV: 81 always the 25 49 way 64 find
+Step V: always the 81 25 49 way 64 find
+
+As per the rules followed in the above steps, find out in each of the following questions the appropriate step for the given input.
+
+Input for the questions: never 16 give 77 up 43 on 92
+
+[Note: The first element of the line is moved to a specific position. The position pattern is 3rd, 5th, last, 2nd, and then this pattern repeats.]
+
+11. What is the output after Step III?
+    a) 77 up 43 on 92 never 16 give
+    b) give 77 up 43 on 92 never 16
+    c) 16 give 77 up 43 on 92 never
+    d) up 77 43 on 92 never 16 give
+
+Answer: a
+
+12. How many steps are required to get the following arrangement: "77 16 give up 43 on 92 never"?
+    a) 2
+    b) 4
+    c) 5
+    d) 6
+
+Answer: b
+
+13. What is the position of 'on' in Step V?
+    a) Third from left
+    b) Fourth from left
+    c) Sixth from left
+    d) Second from right
+
+Answer: c
+
+14. Which element is at the extreme left end in Step IV?
+    a) 16
+    b) give
+    c) 77
+    d) up
+
+Answer: c
+
+15. If Step II is "give 77 up 16 43 on 92 never", what will be Step V?
+    a) 43 77 up on 92 never give 16
+    b) up 77 43 on 92 never 16 give
+    c) 77 up 43 16 on 92 never give
+    d) give 43 77 up on 92 never 16
+
+Answer: a
+
+---
+
+Directions for questions 16-20: An input of words and numbers is processed by a machine in two steps. The rules are as follows.
+
+Step I: All numbers in the input are increased by 3. Then, all odd numbers are arranged in descending order at the beginning of the line, followed by all even numbers in descending order. The words remain in their original relative order.
+Step II: All words from the output of Step I are arranged in reverse alphabetical order. In each word, all vowels are replaced by '*' and all consonants are replaced by '#'. The numbers remain in their positions from Step I.
+
+The machine illustrates this with an example:
+Input: good 52 89 life 17 park 44
+Step I: 92 20 55 47 good life park
+Step II: 92 20 55 47 p*rk l*f* g**d
+
+Now, apply these rules to the following input to answer the questions.
+
+Input for the questions: 61 home 28 quest 96 brave 35
+
+16. What is the sequence of numbers at the beginning of the line in Step I?
+    a) 99 64 38 31
+    b) 31 38 64 99
+    c) 99 64 31 38
+    d) 64 38 99 31
+
+Answer: d
+
+17. Which of the following is the correct Step II?
+    a) 38 64 99 31 q*#st h*m# #r*v#
+    b) 64 38 99 31 #*#st h*m* #r*v*
+    c) 64 38 99 31 q*#st h*m# br*v#
+    d) 64 38 99 31 q##st h*m# br*v#
+
+Answer: b
+
+18. In Step II, what is the third element from the right end?
+    a) 99
+    b) h*m*
+    c) 31
+    d) #r*v*
+
+Answer: b
+
+19. In Step I, what is the position of 'brave' with respect to '99'?
+    a) Two places to the right
+    b) Immediately to the right
+    c) Three places to the right
+    d) Two places to the left
+
+Answer: c
+
+20. What is the sum of the second and fourth numbers from the left in Step I?
+    a) 137
+    b) 69
+    c) 163
+    d) 102
+
+Answer: b
+
+---
+
+Directions for questions 21-25: A word and number arrangement machine when given an input line of words and numbers rearranges them following a particular rule in each step. The following is an illustration of input and rearrangement.
+
+Input: 86 cloud 49 sun 17 rain 94 moon
+Step I: 17 86 cloud 49 sun rain 94 moon
+Step II: 17 49 86 cloud sun rain 94 cloud moon
+Step III: 17 49 86 sun rain 94 moon rain cloud
+Step IV: 17 49 86 94 sun moon rain cloud
+
+Step IV is the last step of the rearrangement. As per the rules followed in the above steps, find out in each of the following questions the appropriate step for the given input.
+
+Input for the questions: 73 wind 26 fire 58 storm 11 earth
+
+[Note: In each step, the smallest number is placed at the extreme left, and the word that comes first alphabetically is placed at the extreme right.]
+
+21. Which step number would be the following output? "11 26 73 wind 58 fire storm earth"
+    a) Step I
+    b) Step II
+    c) Step III
+    d) This step is not possible
+
+Answer: b
+
+22. What is the position of 'fire' in Step III?
+    a) Third from right
+    b) Fourth from left
+    c) Fifth from left
+    d) Second from right
+
+Answer: c
+
+23. How many steps will be needed to complete the arrangement?
+    a) 3
+    b) 4
+    c) 5
+    d) 6
+
+Answer: b
+
+24. In Step IV, how many elements are between '26' and 'storm'?
+    a) One
+    b) Two
+    c) Three
+    d) Four
+
+Answer: d
+
+25. What will be Step I of the given input?
+    a) 11 73 wind 26 fire 58 storm earth
+    b) 11 73 wind 26 fire 58 storm earth
+    c) 73 wind 26 fire 58 storm 11 earth
+    d) earth 73 wind 26 fire 58 storm 11
+
+Answer: a
+
+---
+
+Directions for questions 26-30: A word and number arrangement machine when given an input line of words and numbers rearranges them following a particular rule in each step. The following is an illustration of input and rearrangement.
+
+Input: tree 85 46 game 23 life 70
+Step I: 76 tree 46 game 23 life 70
+Step II: 76 tree 46 23 life 70 emag
+Step III: 76 07 tree 46 23 life emag
+Step IV: 76 07 tree 23 46 emag efil
+Step V: 76 07 64 tree 23 emag efil
+Step VI: 76 07 64 23 emag efil eert
+Step VII: 76 07 64 14 emag efil eert
+
+Step VII is the last step. As per the rules followed, answer the questions.
+
+Input for the questions: power 92 53 mind 88 soul 19
+
+[Note: It arranges one number and one word alternately. Numbers are arranged left-to-right in descending order; if even, digits are reversed, if odd, 9 is subtracted. Words are arranged right-to-left in alphabetical order, with letters reversed.]
+
+26. What will be the final step of the arrangement?
+    a) 29 88 44 10 dnim rewop luos
+    b) 29 88 44 10 luos rewop dnim
+    c) 29 88 44 10 dnim rewop luos
+    d) 29 88 44 10 soul power mind
+
+Answer: a
+
+27. How many steps will be required to complete the arrangement?
+    a) 5
+    b) 6
+    c) 7
+    d) 8
+
+Answer: b
+
+28. What is the sum of the number which is 2nd from the left and the number which is 4th from the left in the final arrangement?
+    a) 98
+    b) 54
+    c) 132
+    d) 39
+
+Answer: a
+
+29. Which of the following is Step IV?
+    a) 29 88 53 19 luos rewop dnim
+    b) 29 88 53 soul 19 rewop dnim
+    c) 29 88 53 19 dnim rewop soul
+    d) 29 88 44 19 soul rewop dnim
+
+Answer: b
+
+30. In Step III, what is the element third to the right of '88'?
+    a) 19
+    b) soul
+    c) rewop
+    d) 53
+
+Answer: b
+
+---
+
+Directions for questions 31-35: A word and number arrangement machine when given an input line of words and numbers rearranges them following a particular rule in each step. The following is an illustration of input and rearrangement.
+
+Input: box 96 41 joy 15 reason 77 puzzle
+Step I: 96 box 41 joy reason 77 puzzle 15
+Step II: 96 77 box 41 joy reason puzzle 15
+Step III: 96 77 puzzle 41 joy reason box 15
+Step IV: 96 77 puzzle reason 41 joy box 15
+
+Step IV is the last step. As per the rules followed, answer the questions.
+
+Input for the questions: 68 victory 22 89 small 34 train goal
+
+[Note: The machine arranges highest element at first position, lowest at last. Then second highest at second position, second lowest at second last, and so on. Word value is its length; if length is same, use alphabetical order.]
+
+31. How many steps will be required to complete the arrangement for the given input?
+    a) Three
+    b) Four
+    c) Five
+    d) Six
+
+Answer: b
+
+32. What is the position of 'train' in Step III?
+    a) Third from left
+    b) Fourth from left
+    c) Fifth from left
+    d) Sixth from left
+
+Answer: c
+
+33. Which of the following will be the final step?
+    a) 89 victory 68 train small goal 34 22
+    b) 89 victory 68 train 34 small 22 goal
+    c) 89 victory 68 train small 34 goal 22
+    d) 89 victory train 68 small 34 goal 22
+
+Answer: c
+
+34. In Step II, which element is exactly between '89' and 'small'?
+    a) 68
+    b) victory
+    c) 34
+    d) train
+
+Answer: a
+
+35. Which of the following is Step I?
+    a) 89 68 victory 34 small train goal 22
+    b) 89 victory 68 22 small 34 train goal
+    c) 89 68 victory 22 small 34 train goal
+    d) 89 victory 68 small 34 train goal 22
+
+Answer: c
+
+---
+
+Directions for questions 36-40: An input of words and numbers is processed by a machine in two steps. The rules are as follows.
+
+Step I: For each number, if it is a prime number, replace it with the sum of its digits; otherwise, replace it with the difference of its digits (larger-smaller). For each word, if it has an even number of letters, reverse it; if it has an odd number of letters, replace the middle letter with '$'.
+Step II: All the words from Step I are arranged in alphabetical order, followed by all the numbers from Step I in ascending order.
+
+The machine illustrates this with an example:
+Input: 47 quiz 82 master 36 phone
+Step I: 11 ziuq 6 m$ster 3 enohp
+Step II: enohp m$ster ziuq 3 6 11
+
+Now, apply these rules to the following input to answer the questions.
+
+Input for the questions: brave 71 game 59 tiger 94
+
+36. What is the output of Step I?
+    a) evarb 8 g$me 14 t$ger 5
+    b) evarb 8 g$me 5 t$ger 14
+    c) b$ave 8 g$me 14 t$ger 5
+    d) evarb 8 emag 14 regit 5
+
+Answer: a
+
+37. Which element is third from the left in Step II?
+    a) t$ger
+    b) g$me
+    c) 5
+    d) 8
+
+Answer: a
+
+38. What is the sum of all the numbers present in Step II?
+    a) 25
+    b) 27
+    c) 29
+    d) 23
+
+Answer: b
+
+39. Which of the following is the correct Step II?
+    a) evarb g$me t$ger 5 8 14
+    b) b$ave g$me t$ger 5 8 14
+    c) evarb g$me t$ger 14 8 5
+    d) g$me evarb t$ger 5 8 14
+
+Answer: a
+
+40. In Step I, what is the original word corresponding to 'g$me'?
+    a) brave
+    b) game
+    c) tiger
+    d) Cannot be determined
+
+Answer: b
+
+---
+
+Directions for questions 41-45: A word and number arrangement machine when given an input line of words and numbers rearranges them following a particular rule in each step. The following is an illustration of input and rearrangement.
+
+Input: 11 22 33 44 55 66 77 88
+Step I: 88 77 11 22 33 44 55 66
+Step II: 66 55 88 77 11 22 33 44
+Step III: 44 33 66 55 88 77 11 22
+Step IV: 22 11 44 33 66 55 88 77
+
+Step IV is the last step where the pattern repeats the input. As per the rules followed, answer the questions.
+
+Input for the questions: go for the win play hard now
+
+[Note: In each step, the last two elements are picked up, their order is reversed, and they are placed at the beginning of the line.]
+
+41. What will be the arrangement in Step III?
+    a) win the go for play hard now
+    b) win the hard play go for now
+    c) hard play win the go for now
+    d) the win go for play hard now
+
+Answer: c
+
+42. How many steps will be required to get the original input back?
+    a) 5
+    b) 6
+    c) 7
+    d) 8
+
+Answer: c
+
+43. In Step II, what is the position of the word 'go'?
+    a) Third from left
+    b) Fourth from left
+    c) Fifth from left
+    d) Second from right
+
+Answer: c
+
+44. Which step will have the word 'for' at the second position from the left end?
+    a) Step I
+    b) Step IV
+    c) Step V
+    d) Step VI
+
+Answer: d
+
+45. Which of the following is Step IV?
+    a) go for hard play win the now
+    b) the win hard play go for now
+    c) now the win hard play go for
+    d) for go now the win hard play
+
+Answer: b
+
+---
+
+Directions for questions 46-50: A word and number arrangement machine when given an input line of words and numbers rearranges them following a particular rule in each step. The following is an illustration of input and rearrangement.
+
+Input: go 45 92 zen 16 art
+Step I: zen go 45 92 16 art
+Step II: zen art go 45 92 16
+Step III: zen art go 45 16 92
+Step IV: zen art go 16 45 92
+
+Step IV is the last step. As per the rules followed, answer the questions.
+
+Input for the questions: 25 my 88 own 31 way
+
+[Note: First, words are arranged on the left in descending order of their value (A=1, B=2...). Then, numbers are arranged on the right in ascending order.]
+
+46. How many steps are required to complete the arrangement?
+    a) 3
+    b) 4
+    c) 5
+    d) 6
+
+Answer: c
+
+47. What is the sum of the numerical values (A=1, etc.) of the word that is arranged in Step I?
+    a) 38
+    b) 49
+    c) 52
+    d) 25
+
+Answer: c
+
+48. Which of the following is the final arrangement?
+    a) own way my 25 31 88
+    b) own way my 88 31 25
+    c) my way own 25 31 88
+    d) own my way 25 31 88
+
+Answer: a
+
+49. What is Step III of the given input?
+    a) own way my 25 88 31
+    b) own way my 25 31 88
+    c) own way my 88 25 31
+    d) own way my 31 25 88
+
+Answer: b
+
+50. In Step II, what is the element at the fourth position from the left?
+    a) 25
+    b) 88
+    c) 31
+    d) my
+
+Answer: a

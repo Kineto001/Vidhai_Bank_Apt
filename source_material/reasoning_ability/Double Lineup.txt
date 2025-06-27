@@ -1,0 +1,463 @@
+Directions for questions 1-6: Study the following information carefully and answer the questions given below.
+
+Seven employees, P, Q, R, S, T, U, and V, work in four different departments of a company — HR, IT, Finance, and Marketing. Not more than two employees work in any department. Each of them has a preference for one of two beverages — Tea or Coffee.
+
+*   Q works in the IT department and likes Tea.
+*   T works in the HR department but does not like Coffee.
+*   P and S work in the same department, but it is not Finance.
+*   U likes Coffee and works in the Finance department.
+*   V does not work in the IT or Finance department. V likes the same beverage as R.
+*   Employees who like Coffee do not work in the IT department.
+*   S and R have different beverage preferences.
+
+1.  Which department does V work in?
+    a) IT
+    b) Finance
+    c) HR
+    d) Marketing
+    Answer: c
+
+2.  What is the beverage preference of S?
+    a) Tea
+    b) Coffee
+    c) Either Tea or Coffee
+    d) Cannot be determined
+    Answer: b
+
+3.  Which of the following pairs of employees work in the IT department?
+    a) Q and V
+    b) Q and R
+    c) Q and S
+    d) Cannot be determined
+    Answer: b
+
+4.  Who among the following works in the Marketing department?
+    a) P and R
+    b) S and V
+    c) Only U
+    d) P and S
+    Answer: d
+
+5.  Which of the following groups of employees likes Tea?
+    a) S, U, P
+    b) T, Q, R, V
+    c) P, R, T
+    d) V, U, S
+    Answer: b
+
+6.  Which of the following combinations of Employee-Department-Beverage is definitely correct?
+    a) R - Finance - Tea
+    b) V - HR - Coffee
+    c) T - HR - Tea
+    d) S - Marketing - Tea
+    Answer: c
+
+Directions for questions 7-12: Study the following information carefully and answer the questions given below.
+
+Eight persons—A, B, C, D, E, F, G, and H—are working in three different companies: X, Y, and Z. At least two and not more than three persons work in any company. Each of them has a different car: Swift, Alto, Figo, Polo, Baleno, Amaze, Jazz, and i20.
+
+*   A works in company Y and has an Alto.
+*   C has a Polo car and works in company Z with only one other person, who has a Baleno.
+*   E and G work in the same company, but it is not Y. E does not have a Baleno.
+*   F works in company X and has a Jazz.
+*   The one who has a Figo works in company X.
+*   H has an i20 but does not work in company X.
+*   B does not have a Baleno. D does not work in company Y.
+*   The one who has an Amaze car works in company Y.
+
+7.  Who among the following has the Baleno?
+    a) B
+    b) D
+    c) G
+    d) H
+    Answer: b
+
+8.  Which car does E have?
+    a) Figo
+    b) Swift
+    c) Amaze
+    d) Jazz
+    Answer: a
+
+9.  Which of the following combinations represents the group working in company Y?
+    a) A, F, H
+    b) A, B, H
+    c) C, D, G
+    d) B, E, G
+    Answer: b
+
+10. Which of the following statements is definitely true?
+    a) B has a Swift car.
+    b) H works in company Z.
+    c) G has a Figo car.
+    d) D works in company X.
+    Answer: a
+
+11. Four of the following five are alike in a certain way based on their Company-Car combination and form a group. Which one does not belong to that group?
+    a) F - Jazz
+    b) E - Figo
+    c) A - Alto
+    d) C - Polo
+    Answer: c
+
+12. In which company does B work and what car does he have?
+    a) Company Y, Amaze
+    b) Company X, Swift
+    c) Company Y, Swift
+    d) Company Z, i20
+    Answer: c
+
+Directions for questions 13-18: Study the following information carefully and answer the questions given below.
+
+Seven friends, J, K, L, M, N, O, and P, have seminars in seven different cities—Delhi, Mumbai, Chennai, Kolkata, Pune, Jaipur, and Goa—on one day of the week, from Monday to Sunday.
+
+*   K has a seminar in Pune on Wednesday.
+*   O does not have a seminar in Delhi or Mumbai and has it on the day immediately after L.
+*   The one who has a seminar in Jaipur has it on Friday.
+*   L has his seminar on Tuesday, but not in Chennai.
+*   J has his seminar on Monday in Kolkata.
+*   P has a seminar in Goa on Saturday.
+*   M's seminar is not in Delhi. O's seminar is in Jaipur.
+
+13. On which day does M have the seminar?
+    a) Thursday
+    b) Sunday
+    c) Tuesday
+    d) Monday
+    Answer: b
+
+14. Where is L's seminar held?
+    a) Mumbai
+    b) Goa
+    c) Jaipur
+    d) Cannot be determined
+    Answer: a
+
+15. Who has a seminar on Friday?
+    a) L
+    b) M
+    c) N
+    d) O
+    Answer: d
+
+16. Which of the following combinations of Person-Day-City is correct?
+    a) L - Tuesday - Delhi
+    b) M - Sunday - Chennai
+    c) N - Thursday - Jaipur
+    d) O - Friday - Mumbai
+    Answer: b
+
+17. If everyone's seminar is postponed by one day, who will have a seminar in Goa?
+    a) J
+    b) K
+    c) P
+    d) N
+    Answer: c
+
+18. The person having a seminar on Thursday has it in which city?
+    a) Delhi
+    b) Mumbai
+    c) Chennai
+    d) Goa
+    Answer: a
+
+Directions for questions 19-23: Study the following information carefully and answer the questions given below.
+
+Eight people, S, T, U, V, W, X, Y, and Z, are sitting in two parallel rows containing four people each. In row 1, S, T, U, and V are seated and face South. In row 2, W, X, Y, and Z are seated and face North. Each person works for a different bank: SBI, PNB, BOB, UBI, CBI, IOB, Canara, and Dena.
+
+*   The person from BOB sits second to the right of T. The one who faces T is an immediate neighbor of Y.
+*   W sits second to the left of Y. The person from PNB faces the one from IOB.
+*   The person from SBI faces W. U is not from BOB.
+*   The person from Dena Bank sits opposite U. U sits at one of the extreme ends of the line.
+*   Only one person sits between the one from CBI and the one from PNB in row 2.
+*   V sits to the immediate right of the person from SBI.
+*   The person from Canara Bank and Dena Bank are not in the same row.
+*   Z is not from PNB. S does not face the person from CBI.
+
+19. Who among the following is from UBI?
+    a) Y
+    b) Z
+    c) W
+    d) X
+    Answer: a
+
+20. Who sits opposite the person from Canara Bank?
+    a) T
+    b) The person from PNB
+    c) V
+    d) The person from SBI
+    Answer: c
+
+21. Four of the following five are alike in a certain way. Which one does not belong to the group?
+    a) U - Dena
+    b) V - IOB
+    c) Z - Canara
+    d) S - BOB
+    Answer: d
+
+22. Which of the following statements is true regarding S?
+    a) S faces Z and is from UBI.
+    b) S sits at an extreme end and is from BOB.
+    c) S is from PNB and sits second to the left of T.
+    d) S faces X and is from IOB.
+    Answer: b
+
+23. What is the profession of the person sitting second to the right of Z?
+    a) CBI
+    b) IOB
+    c) UBI
+    d) PNB
+    Answer: d
+
+Directions for questions 24-28: Study the following information carefully and answer the questions given below.
+
+Seven lectures on different subjects—Physics, Chemistry, Maths, Biology, History, English, and Geography—are scheduled on seven days of the same week, starting from Monday. Each lecture is held in one of two halls: Hall 1 or Hall 2. Not more than four lectures are held in any hall.
+
+*   The Chemistry lecture is scheduled for Thursday but not in Hall 1.
+*   The English lecture is in Hall 1 and is scheduled immediately after the History lecture.
+*   The Physics lecture is on Tuesday.
+*   There are two lectures scheduled between the History lecture and the Physics lecture.
+*   The Geography lecture is scheduled for the last day of the week in Hall 1.
+*   The Maths lecture is not on Monday and is held in the same hall as the Physics lecture.
+*   The lecture in Hall 2 on Friday is not History.
+
+24. Which subject lecture is scheduled for Monday?
+    a) History
+    b) Maths
+    c) Biology
+    d) Physics
+    Answer: a
+
+25. In which hall and on which day is the Maths lecture held?
+    a) Hall 1, Saturday
+    b) Hall 2, Friday
+    c) Hall 1, Friday
+    d) Hall 2, Saturday
+    Answer: d
+
+26. Which of the following lectures are held in Hall 2?
+    a) Physics, Chemistry, English
+    b) History, Geography, Maths
+    c) Chemistry, Biology, Maths
+    d) Physics, Chemistry, Biology
+    Answer: c
+
+27. Which combination of Subject-Day is incorrect?
+    a) History - Monday
+    b) Physics - Tuesday
+    c) English - Wednesday
+    d) Biology - Friday
+    Answer: c
+
+28. If the halls for the lectures on Monday and Saturday are swapped, which lecture will be held in Hall 2 on Monday?
+    a) English
+    b) History
+    c) Maths
+    d) Geography
+    Answer: b
+
+Directions for questions 29-33: Study the following information carefully and answer the questions given below.
+
+Eight friends, A, B, C, D, E, F, G, and H, live on eight different floors of a building, but not necessarily in the same order. The lowermost floor is numbered 1, and the topmost floor is numbered 8. Each of them owns a car of a different brand: Maruti, Hyundai, Tata, Ford, Honda, Kia, Skoda, and Toyota.
+
+*   G lives on an even-numbered floor above floor 4 and owns a Kia.
+*   There are three floors between G and the one who owns a Ford.
+*   The one who owns a Honda lives on a floor immediately below the Ford owner's floor.
+*   B lives on an odd-numbered floor but not floor 1. B lives two floors above E.
+*   The person who owns a Hyundai lives on floor number 4.
+*   There is only one floor between the one who owns a Maruti and H. H owns a Tata.
+*   A lives immediately above the one who owns a Toyota.
+*   F does not own a Honda. The one who owns a Skoda lives on an odd-numbered floor below the one who owns a Hyundai.
+*   C lives on a floor above D.
+
+29. Who lives on the 5th floor?
+    a) B
+    b) H
+    c) The one who owns a Maruti
+    d) The one who owns a Ford
+    Answer: a
+
+30. Which car does D own?
+    a) Hyundai
+    b) Toyota
+    c) Ford
+    d) Honda
+    Answer: b
+
+31. How many floors are there between C and the one who owns a Skoda?
+    a) One
+    b) Two
+    c) Three
+    d) Four
+    Answer: d
+
+32. Which of the following statements is true?
+    a) A lives on the top floor and owns a Maruti.
+    b) D lives on the first floor.
+    c) F owns the Hyundai.
+    d) There are two floors between G and B.
+    Answer: a
+
+33. Four of the following five are alike based on their floor and car. Which one does not belong to the group?
+    a) C - Hyundai
+    b) B - Ford
+    c) G - Kia
+    d) D - Toyota
+    Answer: b
+
+Directions for questions 34-38: Study the following information carefully and answer the questions given below.
+
+Seven persons, P, Q, R, S, T, U, and V, attend a meeting in three different months—March, July, and November. They attend the meeting on one of two dates, the 14th or the 23rd of these months. At least two persons attend in each month. Each person likes a different color: Red, Blue, Green, Yellow, Black, White, and Pink.
+
+*   R attends the meeting in a month with 31 days. T attends on the same date as R.
+*   The one who likes Red attends on the 23rd of a month with 30 days. U is not that person.
+*   P attends immediately after the one who likes Blue. The one who likes Blue attends in July.
+*   S likes Black and attends on the 23rd of July.
+*   There is only one person between S and the one who likes Yellow. The one who likes Yellow does not attend in March.
+*   V likes Pink and attends on an even-numbered date.
+*   Q attends after T, but not immediately after. Q does not like Yellow.
+*   The one who likes White attends on the 23rd of March. U does not like White.
+
+34. Who likes the color Green?
+    a) R
+    b) T
+    c) U
+    d) Q
+    Answer: d
+
+35. On which date and in which month does the person who likes Yellow attend the meeting?
+    a) 14th July
+    b) 23rd November
+    c) 14th November
+    d) 23rd July
+    Answer: c
+
+36. Which of the following combinations is correct?
+    a) T - 14th March - White
+    b) R - 23rd March - Blue
+    c) U - 23rd November - Red
+    d) P - 14th July - Black
+    Answer: c
+
+37. Who attends the meeting on 14th July?
+    a) The one who likes Pink
+    b) The one who likes Blue
+    c) The one who likes White
+    d) The one who likes Black
+    Answer: b
+
+38. Four of the following five are alike in a certain way. Which one does not belong to that group?
+    a) V - Pink
+    b) T - White
+    c) S - Black
+    d) U - Red
+    Answer: b
+
+Directions for questions 39-44: Study the following information carefully and answer the questions given below.
+
+Eight players, L, M, N, O, P, Q, R, and S, belong to three different cities: Delhi, Mumbai, and Chennai. At least two players belong to each city. Each player also plays one of two games: Cricket or Hockey.
+
+*   M belongs to Mumbai and plays the same game as R.
+*   P and Q belong to the same city but not Mumbai. P and Q play different games.
+*   L and N belong to different cities. Neither L nor N belongs to Delhi.
+*   S belongs to Chennai and plays Hockey. O belongs to Delhi and plays Cricket.
+*   Exactly three players belong to Chennai. Two of the players who belong to Chennai play Hockey.
+*   L plays Cricket. R does not belong to Chennai.
+*   The players from Mumbai do not play Hockey.
+
+39. To which city does R belong?
+    a) Delhi
+    b) Mumbai
+    c) Chennai
+    d) Cannot be determined
+    Answer: a
+
+40. Which of the following groups of players belong to Chennai?
+    a) S, P, R
+    b) S, Q, L
+    c) S, P, Q
+    d) M, N, S
+    Answer: c
+
+41. Which of the following pairs of players play Hockey?
+    a) S, R
+    b) P, L
+    c) N, Q
+    d) S, Q
+    Answer: d
+
+42. Who among the following belongs to Delhi and plays Hockey?
+    a) O
+    b) R
+    c) L
+    d) No one
+    Answer: b
+
+43. Which of the following statements is definitely false?
+    a) Three players play Cricket.
+    b) N belongs to Mumbai and plays Cricket.
+    c) R belongs to Delhi and plays Hockey.
+    d) P belongs to Chennai and plays Cricket.
+    Answer: a
+
+44. Which game does P play?
+    a) Hockey
+    b) Cricket
+    c) Either Hockey or Cricket
+    d) Cannot be determined
+    Answer: b
+
+Directions for questions 45-50: Study the following information carefully and answer the questions given below.
+
+Eight friends, A, B, C, D, E, F, G, and H, are going to a vacation to one of the four destinations: Goa, Kerala, Manali, and Shimla. Exactly two friends are going to each destination. They are also packing one item each from a list of eight items: Sunscreen, Camera, Goggles, Hat, Jacket, Boots, Scarf, and Swimsuit.
+
+*   B is going to Manali and has packed a Jacket.
+*   H has packed Boots but is not going to the same destination as B.
+*   A and E are going to the same destination. E has not packed a Scarf.
+*   The two friends going to Shimla have packed a Scarf and Boots.
+*   C is going to Goa and has packed Goggles.
+*   The one who has packed a Swimsuit is also going to Goa.
+*   F has packed a Camera and is not going to Manali.
+*   G has not packed a Hat. D is not going to Kerala. A has packed Sunscreen.
+
+45. Who among the following has packed the Hat?
+    a) D
+    b) E
+    c) G
+    d) H
+    Answer: b
+
+46. Which of the following pairs of friends is going to Kerala?
+    a) A, E
+    b) F, G
+    c) D, H
+    d) C, F
+    Answer: b
+
+47. What item has D packed for the vacation?
+    a) Scarf
+    b) Swimsuit
+    c) Boots
+    d) Hat
+    Answer: b
+
+48. Which of the following combinations of Person-Destination-Item is correct?
+    a) H - Manali - Boots
+    b) G - Kerala - Sunscreen
+    c) A - Goa - Sunscreen
+    d) E - Kerala - Hat
+    Answer: d
+
+49. Who is the other person going to Manali with B?
+    a) F
+    b) G
+    c) A
+    d) E
+    Answer: a
+
+50. Four of the following five are alike in a certain way based on their packed items. Which one does not belong to the group?
+    a) C - Goggles
+    b) B - Jacket
+    c) H - Boots
+    d) D - Swimsuit
+    Answer: d
